@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T20:25:06.765754+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2025-10-14T21:26:33.810403+08:00",
+  "total_titles_processed": 1935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时07分 ~ 20时25分]"
+          "appearance_count": 18,
+          "time_info": "[11时07分 ~ 21时26分]"
         },
         {
           "title": "高盛大幅上调阿里未来三年资本开支预测至4600亿：云业务国际化被低估，AI支出转化正重塑增长！",
@@ -120,11 +120,12 @@
           "url": "https://www.cls.cn/detail/2169261",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时26分]"
         },
         {
           "title": "博通CEO：生成式AI将成为全球GDP的更大组成部分",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
+          "url": "https://wallstreetcn.com/livenews/2987569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "百度世界2025定档11月13日 将聚焦大模型、AI应用及出海",
@@ -161,6 +173,29 @@
           "time_info": "[12时17分 ~ 13时13分]"
         },
         {
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时26分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时26分]"
+        },
+        {
           "title": "人工智能初创公司Lila Sciences获得英伟达1.15亿美元新融资。",
           "url": "https://flash.jin10.com/detail/20251014180042647800",
           "source": "金十数据",
@@ -170,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        },
-        {
-          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/2987532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：人工智能的监管和伦理基础“仍待建立”。",
@@ -258,29 +282,6 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 20时25分]"
-        },
-        {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 20时25分]"
-        },
-        {
           "title": "纳微半导体盘后上涨18%，公司称支持英伟达(NVDA.O)下一代AI工厂计算平台的800 VDC电源架构。",
           "url": "https://flash.jin10.com/detail/20251014043834327800",
           "source": "金十数据",
@@ -303,6 +304,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
+          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时26分]"
         },
         {
           "title": "美国财政部：我们并没有批准10月21日由美国财长贝森特主持的人工智能私人活动的宣传方案。",
@@ -486,6 +499,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "高盛Q3薪酬支出飙升14% CEO所罗门称AI将助力降本提效",
+          "url": "https://flash.jin10.com/detail/20251014204301494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "人工智能（AI）图片生成器Black Forest Labs Inc.洽谈按32.5亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/2986987",
           "source": "华尔街见闻-快讯",
@@ -544,7 +568,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -566,8 +590,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时52分 ~ 20时25分]"
+          "appearance_count": 19,
+          "time_info": "[09时52分 ~ 21时26分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
@@ -672,6 +696,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2987563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251014040517860800",
           "source": "金十数据",
@@ -765,6 +800,28 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "高盛美股盘前跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2987553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/2987467",
           "source": "华尔街见闻-快讯",
@@ -837,7 +894,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -905,11 +962,12 @@
             20,
             17,
             11,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 20时25分]"
+          "appearance_count": 15,
+          "time_info": "[12时16分 ~ 21时26分]"
         },
         {
           "title": "vivo X300价格",
@@ -1015,7 +1073,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "目前的金价，你还敢追吗？",
@@ -1043,8 +1101,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 21时26分]"
         },
         {
           "title": "金价这么高 到底谁在买",
@@ -1055,8 +1113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 20时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 21时26分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -1104,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "业内：黄金价格仍然有上涨冲动",
+          "url": "https://www.toutiao.com/trending/7561048370240818727/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -1192,7 +1261,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         }
