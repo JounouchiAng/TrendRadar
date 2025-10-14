@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T21:26:33.810403+08:00",
-  "total_titles_processed": 1935,
+  "generated_at": "2025-10-14T22:14:07.663592+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时07分 ~ 21时26分]"
+          "appearance_count": 20,
+          "time_info": "[11时07分 ~ 22时14分]"
         },
         {
           "title": "高盛大幅上调阿里未来三年资本开支预测至4600亿：云业务国际化被低估，AI支出转化正重塑增长！",
@@ -76,6 +76,18 @@
           "time_info": "[00时33分 ~ 13时13分]"
         },
         {
+          "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
+          "url": "https://www.cls.cn/detail/2169261",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 22时14分]"
+        },
+        {
           "title": "OpenAI或将成为最大的无人公司",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -116,16 +128,27 @@
           "time_info": "[11时07分 ~ 13时13分]"
         },
         {
-          "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
-          "url": "https://www.cls.cn/detail/2169261",
-          "source": "财联社热门",
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[19时11分 ~ 22时14分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时11分 ~ 22时14分]"
         },
         {
           "title": "博通CEO：生成式AI将成为全球GDP的更大组成部分",
@@ -137,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
-          "url": "https://wallstreetcn.com/livenews/2987569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "百度世界2025定档11月13日 将聚焦大模型、AI应用及出海",
@@ -173,29 +185,6 @@
           "time_info": "[12时17分 ~ 13时13分]"
         },
         {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时26分]"
-        },
-        {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时26分]"
-        },
-        {
           "title": "人工智能初创公司Lila Sciences获得英伟达1.15亿美元新融资。",
           "url": "https://flash.jin10.com/detail/20251014180042647800",
           "source": "金十数据",
@@ -217,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
+          "url": "https://wallstreetcn.com/livenews/2987569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时14分]"
         },
         {
           "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
@@ -282,6 +283,19 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
+          "title": "iPhone Air开启无SIM卡时代",
+          "url": "https://www.douyin.com/hot/2269405",
+          "source": "抖音",
+          "ranks": [
+            14,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时14分]"
+        },
+        {
           "title": "纳微半导体盘后上涨18%，公司称支持英伟达(NVDA.O)下一代AI工厂计算平台的800 VDC电源架构。",
           "url": "https://flash.jin10.com/detail/20251014043834327800",
           "source": "金十数据",
@@ -342,18 +356,6 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
-          "title": "iPhone Air开启无SIM卡时代",
-          "url": "https://www.douyin.com/hot/2269405",
-          "source": "抖音",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时16分]"
-        },
-        {
           "title": "香港首个自主研发AI机械人平台今日亮相",
           "url": "https://wallstreetcn.com/livenews/2986899",
           "source": "华尔街见闻-快讯",
@@ -376,6 +378,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时21分]"
+        },
+        {
+          "title": "贝莱德CEO芬克：人工智能并非泡沫，但未来仍会出现失败。AI是最值得投入的资本。",
+          "url": "https://flash.jin10.com/detail/20251014215408099800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "三星季度利润创2022年以来最大，抓住全球AI繁荣机会",
@@ -420,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "美股三大股指低开，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。AMD涨超1%，英伟达跌超2%；沃尔玛涨1.8%，将与OpenAI合作，在ChatGPT平台上提供购物服务；富国银行股价上涨4.9%，创4月23日以来最大涨幅；美股稀土概念股大涨，USA Rare Earth涨超6%；美股加密货币概念股普跌，Coinbase跌超4%。纳斯达克中国金龙指数跌2.5%，阿里巴巴跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2987574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "上海：到2027年人工智能计算机、人工智能手机、人工智能新终端规模各达到千万台以上",
@@ -505,7 +529,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -568,7 +592,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -590,8 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时52分 ~ 21时26分]"
+          "appearance_count": 21,
+          "time_info": "[09时52分 ~ 22时14分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
@@ -663,6 +687,17 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
+          "title": "美股三大股指低开，金银油下跌，数字货币重挫，“所有资产都在跌”",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
           "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -696,15 +731,16 @@
           "time_info": "16时17分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2987563",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
@@ -741,6 +777,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数下挫，半导体ETF、全球科技股指数ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2987579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
           "url": "https://flash.jin10.com/detail/20251014040056817800",
           "source": "金十数据",
@@ -763,6 +810,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2987563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时14分]"
         },
         {
           "title": "半导体ETF收涨超4.4%，领跑美股行业ETF，标普科技板块涨约2.5%",
@@ -789,6 +848,18 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
+          "title": "高盛美股盘前跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2987553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时14分]"
+        },
+        {
           "title": "富国银行三季度营收214.4亿美元，预估211.6亿美元。 三季度每股收益1.66美元。 第三季净利息收入119.5亿美元，预估为120.1亿美元。 富国银行任命Charlie Scharf为董事会主席。 富国银行美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/2987475",
           "source": "华尔街见闻-快讯",
@@ -798,28 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
-        },
-        {
-          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2169365",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "高盛美股盘前跌幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/2987553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
@@ -963,11 +1012,12 @@
             17,
             11,
             14,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时16分 ~ 21时26分]"
+          "appearance_count": 17,
+          "time_info": "[12时16分 ~ 22时14分]"
         },
         {
           "title": "vivo X300价格",
@@ -1076,6 +1126,22 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D4%26filter_type%3Drealtimehot%26realpos%3D4%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D4%26display_time%3D1760426090%26pre_seqid%3D17604260904220379092395",
+          "source": "微博",
+          "ranks": [
+            4,
+            15,
+            21,
+            22,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时15分 ~ 22时14分]"
+        },
+        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -1089,22 +1155,6 @@
           "time_info": "[02时35分 ~ 07时21分]"
         },
         {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D4%26filter_type%3Drealtimehot%26realpos%3D4%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D4%26display_time%3D1760426090%26pre_seqid%3D17604260904220379092395",
-          "source": "微博",
-          "ranks": [
-            4,
-            15,
-            21,
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 21时26分]"
-        },
-        {
           "title": "金价这么高 到底谁在买",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
           "source": "百度热搜",
@@ -1113,8 +1163,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[19时11分 ~ 22时14分]"
+        },
+        {
+          "title": "业内：黄金价格仍然有上涨冲动",
+          "url": "https://www.toutiao.com/trending/7561048370240818727/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时14分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -1162,23 +1224,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
-        },
-        {
-          "title": "业内：黄金价格仍然有上涨冲动",
-          "url": "https://www.toutiao.com/trending/7561048370240818727/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "比特币回落至112000美元/枚下方，日内跌2.75%。",
@@ -1247,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时21分]"
+        },
+        {
+          "title": "加密货币持续走低，以太坊一度跌破3900美元，比特币一度跌破110000美元。",
+          "url": "https://wallstreetcn.com/livenews/2987576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
