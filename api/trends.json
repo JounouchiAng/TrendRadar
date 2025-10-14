@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T01:14:44.354890+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2025-10-15T02:18:59.290693+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -37,9 +37,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美国白宫人工智能和加密货币顾问萨克斯：Anthropic正在实施一项基于恐慌的战略，对各州监管狂潮负有责任。",
+          "url": "https://flash.jin10.com/detail/20251015013237891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国白宫人工智能（AI）和加密货币顾问Sacks：Anthropic正在实施一项基于恐慌的战略，对各州监管狂潮负有责任。",
+          "url": "https://wallstreetcn.com/livenews/2987658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "前法国财政部长Brune Le Maire将重返阿斯麦控股，担任顾问。（BNR）",
@@ -61,30 +83,55 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
           "url": "https://wallstreetcn.com/livenews/2987642",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时18分]"
+        },
+        {
+          "title": "iPhone Air开启无SIM卡时代",
+          "url": "https://www.douyin.com/hot/2269405",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 02时18分]"
+        },
+        {
+          "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到人工智能加速器组合（AI Accelerator Portfolio）。",
+          "url": "https://wallstreetcn.com/livenews/2987652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "02时18分"
         },
         {
           "title": "花旗集团CEO：宏观经济环境反映出全球经济比许多人预期的更具韧性，美国则得益于持续的消费者支出，以及对人工智能和数据中心的技术投资。",
@@ -98,21 +145,43 @@
           "time_info": "00时17分"
         },
         {
-          "title": "iPhone Air开启无SIM卡时代",
-          "url": "https://www.douyin.com/hot/2269405",
-          "source": "抖音",
+          "title": "英国央行行长贝利：我们不应断言人工智能市场定价从根本上是错误的，但需关注相关风险。",
+          "url": "https://flash.jin10.com/detail/20251015011109693800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "英国央行行长贝利：股市中存在与人工智能相关的过度定价。",
+          "url": "https://flash.jin10.com/detail/20251015011054319800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "英国央行行长贝利：人工智能是下一个通用技术。",
+          "url": "https://flash.jin10.com/detail/20251015010852046800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -122,8 +191,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
+        },
+        {
+          "title": "英国央行行长贝利：更高的不确定性与市场碎片化风险推动金价上涨。",
+          "url": "https://flash.jin10.com/detail/20251015012957081800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "金价",
@@ -131,11 +211,25 @@
           "source": "微博",
           "ranks": [
             16,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
+        },
+        {
+          "title": "金价飙升带火洗沙盘",
+          "url": "https://www.toutiao.com/trending/7561063810480475711/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "金价银价跳水",
@@ -148,24 +242,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "金价飙升带火洗沙盘",
-          "url": "https://www.toutiao.com/trending/7561063810480475711/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -175,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -186,8 +268,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251015012805608800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -198,8 +291,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时18分]"
         },
         {
           "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股盘中）",
@@ -208,7 +301,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
