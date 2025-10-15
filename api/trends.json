@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:31:57.732972+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-10-15T15:14:04.587586+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时14分]"
         },
         {
           "title": "大雁塔玄奘铜像长满青苔系AI生成",
@@ -253,6 +253,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
+          "url": "https://www.cls.cn/detail/2169746",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：如果大规模人工智能投资取得成效，生产力提升将消除增长难题。",
@@ -805,6 +816,38 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时14分]"
+        },
+        {
+          "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+          "url": "https://wallstreetcn.com/articles/3757146",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "OPPO SAMSUNG HUAWEI VIVO",
       "match_count": 2,
       "titles": [
@@ -834,27 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时31分]"
         }
       ]
     }
