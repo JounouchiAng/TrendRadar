@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T07:13:32.506239+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-10-16T08:55:33.699699+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时21分]"
+        },
+        {
+          "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
+          "url": "https://flash.jin10.com/detail/20251016084813725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美联储理事米兰：人工智能投资可能导致更高的中性利率。",
@@ -47,9 +58,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
@@ -83,9 +105,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
@@ -135,7 +168,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -149,6 +182,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时55分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -171,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
-          "url": "https://www.cls.cn/detail/2170808",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -253,13 +287,24 @@
           "time_info": "[05时12分 ~ 06时11分]"
         },
         {
+          "title": "美股收盘 热门中概股多数收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "黄金ETF收涨超1.7%，和新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/2988440",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
@@ -267,7 +312,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -288,11 +333,12 @@
           "ranks": [
             29,
             21,
-            22
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -322,6 +368,28 @@
           "time_info": "[00时15分 ~ 04时15分]"
         },
         {
+          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
+          "url": "https://wallstreetcn.com/livenews/2988528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
+          "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
+          "url": "https://flash.jin10.com/detail/20251016084128181800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
           "url": "https://wallstreetcn.com/livenews/2988417",
           "source": "华尔街见闻-快讯",
@@ -340,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -388,11 +456,12 @@
             9,
             10,
             14,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "美国司法部没收近13万枚比特币",
@@ -403,11 +472,12 @@
             20,
             16,
             13,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
         },
         {
           "title": "周三（10月15日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌1.49%，报11.2万美元，北京时间16:00-02:00持续走低。 CME以太币期货DCR主力合约跌3.79%，报3977美元，16:33刷新日高至4236.50美元，之后持续走低，01:16刷新日低至3944.50美元。",
@@ -425,7 +495,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果发布多款搭载M5芯片新品",
@@ -435,8 +505,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 08时55分]"
+        },
+        {
+          "title": "苹果公司正式推出M5芯片 首发3款新品",
+          "url": "https://www.cls.cn/detail/2170735",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     }
