@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T12:17:34.382527+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-10-17T13:14:55.160808+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时14分 ~ 12时17分]"
+          "appearance_count": 15,
+          "time_info": "[01时14分 ~ 13时14分]"
         },
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -71,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 13时14分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -84,11 +85,12 @@
           "ranks": [
             6,
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 13时14分]"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -103,27 +105,17 @@
           "time_info": "[00时46分 ~ 01时14分]"
         },
         {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
           "url": "https://www.cls.cn/detail/2172161",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 13时14分]"
         },
         {
           "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
@@ -160,27 +152,29 @@
           "time_info": "[10时22分 ~ 11时32分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
-          "url": "https://flash.jin10.com/detail/20251017113854837800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
           "url": "https://wallstreetcn.com/livenews/2989420",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时14分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时17分]"
+          "time_info": "[12时17分 ~ 13时14分]"
         },
         {
           "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
@@ -192,6 +186,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017113854837800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时14分]"
+        },
+        {
+          "title": "IMF总裁警示人工智能或扩大发展差距",
+          "url": "https://wallstreetcn.com/livenews/2989452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
@@ -211,7 +228,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -288,6 +305,17 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 13时14分]"
+        },
+        {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -314,17 +342,6 @@
           "time_info": "[02时19分 ~ 11时32分]"
         },
         {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时17分]"
-        },
-        {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -332,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 13时14分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -666,11 +683,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "周四（10月16日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌3.10%，报逼近10.8万美元，北京时间22:40之前大体持稳于11.1万美元附近，之后出现一波“跳水”行情。 CME以太币期货DCR主力合约跌3.40%，报3860美元。",
