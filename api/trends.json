@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T02:17:45.280664+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-10-18T03:12:25.107598+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -25,22 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
-        },
-        {
-          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
-          "url": "https://wallstreetcn.com/livenews/2989856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            7,
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -50,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -60,11 +51,24 @@
           "ranks": [
             24,
             18,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
+        },
+        {
+          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
+          "url": "https://wallstreetcn.com/livenews/2989856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时12分]"
         },
         {
           "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
@@ -100,6 +104,50 @@
           "time_info": "00时18分"
         },
         {
+          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
+          "url": "https://flash.jin10.com/detail/20251018022938290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
+          "url": "https://flash.jin10.com/detail/20251018022647390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
+          "url": "https://flash.jin10.com/detail/20251018022512322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "特斯拉代理顾问机构股东服务公司（ISS）建议特斯拉(TSLA.O)投资者不要支持投资XAI的提案。",
+          "url": "https://flash.jin10.com/detail/20251018022010908800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
           "title": "阅文升级三大AI能力覆盖IP全流程",
           "url": "https://wallstreetcn.com/livenews/2989797",
           "source": "华尔街见闻-快讯",
@@ -125,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -137,8 +185,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -149,8 +197,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -188,8 +236,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     }
