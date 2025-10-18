@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T04:13:40.252626+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-10-19T05:13:33.046514+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -60,11 +60,12 @@
           "ranks": [
             4,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -73,11 +74,12 @@
           "ranks": [
             9,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -86,11 +88,12 @@
           "ranks": [
             14,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -123,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 05时13分]"
         }
       ]
     },
@@ -144,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -155,8 +159,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -167,8 +171,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时13分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -195,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 05时13分]"
         },
         {
           "title": "为什么很多人都买oppo和vivo？",
@@ -225,8 +229,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时13分]"
         }
       ]
     },
@@ -240,11 +244,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 05时13分]"
         }
       ]
     }
