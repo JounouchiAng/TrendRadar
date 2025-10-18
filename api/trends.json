@@ -1,529 +1,149 @@
 {
-  "generated_at": "2025-10-18T23:12:50.365169+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2025-10-19T00:15:28.392052+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 33,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 13时12分]"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            9,
-            27,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 08时53分]"
-        },
-        {
-          "title": "国行iPhone Air上手体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            15,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 10时15分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 23时12分]"
-        },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
           "url": "https://www.cls.cn/detail/2172757",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            8,
-            6,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 23时12分]"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 23时12分]"
-        },
-        {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 23时12分]"
-        },
-        {
-          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
-          "url": "https://wallstreetcn.com/livenews/2990046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            17,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时18分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/livenews/2990011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时17分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
-          "url": "https://flash.jin10.com/detail/20251018213151998800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 23时12分]"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
-          "url": "https://wallstreetcn.com/livenews/2990078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
           "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            19,
-            28
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时17分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
           "url": "https://wallstreetcn.com/livenews/2990084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时15分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
+          "url": "https://wallstreetcn.com/livenews/2990078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
           "url": "https://wallstreetcn.com/livenews/2990073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9,
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            18,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
-          "url": "https://wallstreetcn.com/livenews/2990020",
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            17,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 18时13分]"
-        },
-        {
-          "title": "陈天桥用AIGC亲诉脑科学科普",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时18分]"
-        },
-        {
-          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251018035857235800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 08时53分]"
-        },
-        {
-          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
-          "url": "https://wallstreetcn.com/livenews/2989856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时12分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "我国生成式人工智能用户规模超5亿",
-          "url": "https://wallstreetcn.com/livenews/2989973",
+          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
+          "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 12时14分]"
-        },
-        {
-          "title": "iPhone Air全颜色开箱",
-          "url": "https://www.douyin.com/hot/2273469",
-          "source": "抖音",
-          "ranks": [
-            22,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 10时15分]"
-        },
-        {
-          "title": "iPhone Air首批售罄",
-          "url": "https://www.douyin.com/hot/2272955",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "英伟达退出 国产AI芯片要崛起了吗",
-          "url": "https://www.toutiao.com/trending/7562416129633701419/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 16时17分]"
-        },
-        {
-          "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
-          "url": "https://flash.jin10.com/detail/20251017223547959800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "据华尔街日报：高盛正在扩大基础设施融资业务，组建全新团队，专注于数据中心及其他人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251017223434821800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2989806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
-          "url": "https://flash.jin10.com/detail/20251018022938290800",
-          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
-          "url": "https://flash.jin10.com/detail/20251018022647390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
-          "url": "https://flash.jin10.com/detail/20251018022512322800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "特斯拉代理顾问机构股东服务公司（ISS）建议特斯拉(TSLA.O)投资者不要支持投资XAI的提案。",
-          "url": "https://flash.jin10.com/detail/20251018022010908800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "阅文升级三大AI能力覆盖IP全流程",
-          "url": "https://wallstreetcn.com/livenews/2989797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时52分 ~ 23时12分]"
-        },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时12分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 13时12分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -533,243 +153,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 23时12分]"
-        },
-        {
-          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004100185800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004043733800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时53分]"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时53分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时53分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 08时53分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040725341800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 08时53分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251018040554537800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时11分 ~ 08时53分]"
-        },
-        {
-          "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时13分]"
+          "time_info": "00时15分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "金价银价大跳水 国内金饰价格下调",
-          "url": "https://www.toutiao.com/trending/7562444745599880713/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 22时12分]"
-        },
         {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 23时12分]"
-        },
-        {
-          "title": "黄金价格“抛物线式”上涨",
-          "url": "https://www.toutiao.com/trending/7562476629914553883/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
-          "url": "https://wallstreetcn.com/livenews/2989997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 15时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两大领先指标示警，比特币“人心惶惶”",
-          "url": "https://wallstreetcn.com/articles/3757355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 08时53分]"
-        },
-        {
-          "title": "周五（10月17日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.07%，逼近10.7万美元，本周累计下跌8.33%，整体持续走低，从11.6万美元附近跌至10.4万美元下方。 CME以太币期货DCR主力合约跌0.44%，报3862.50美元，本周累跌4.10%。",
-          "url": "https://wallstreetcn.com/livenews/2989913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
+          "time_info": "00时15分"
         }
       ]
     },
@@ -778,32 +180,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么很多人都买 OPPO 和 vivo？",
+          "title": "为什么很多人都买oppo和vivo？",
           "url": "https://www.zhihu.com/question/40484259",
           "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 23时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星堆真神降临王者峡谷",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E6%98%9F%E5%A0%86%E7%9C%9F%E7%A5%9E%E9%99%8D%E4%B8%B4%E7%8E%8B%E8%80%85%E5%B3%A1%E8%B0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "00时15分"
         }
       ]
     }
