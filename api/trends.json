@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T07:13:07.604585+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-10-18T08:53:05.258121+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "国行iPhone Air测评",
@@ -16,11 +16,12 @@
             7,
             9,
             27,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时53分]"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -33,8 +34,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时53分]"
+        },
+        {
+          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
+          "url": "https://wallstreetcn.com/articles/3757376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 08时53分]"
         },
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
@@ -48,18 +62,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 03时12分]"
-        },
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -76,6 +78,18 @@
           "time_info": "[00时18分 ~ 06时13分]"
         },
         {
+          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
+          "url": "https://flash.jin10.com/detail/20251018035857235800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 08时53分]"
+        },
+        {
           "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
           "url": "https://wallstreetcn.com/livenews/2989856",
           "source": "华尔街见闻-快讯",
@@ -88,15 +102,26 @@
           "time_info": "[02时17分 ~ 03时12分]"
         },
         {
-          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251018035857235800",
-          "source": "金十数据",
+          "title": "iPhone Air首批售罄",
+          "url": "https://www.douyin.com/hot/2272955",
+          "source": "抖音",
           "ranks": [
-            23
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时13分]"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "iPhone Air全颜色开箱",
+          "url": "https://www.douyin.com/hot/2273469",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
@@ -190,7 +215,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -225,22 +250,46 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时53分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 08时53分]"
+        },
+        {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 07时13分]"
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -254,26 +303,15 @@
           "time_info": "04时15分"
         },
         {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7562026461385834537/",
+          "source": "今日头条",
           "ranks": [
-            4
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -287,17 +325,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
           "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251018004043733800",
           "source": "金十数据",
@@ -309,37 +336,76 @@
           "time_info": "01时12分"
         },
         {
+          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/2989930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时53分]"
+        },
+        {
+          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2989929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时53分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
+          "url": "https://wallstreetcn.com/livenews/2989928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 08时53分]"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251018040735282800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 08时53分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251018040725341800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 08时53分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
           "url": "https://flash.jin10.com/detail/20251018040554537800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时13分]"
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 08时53分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -365,11 +431,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 07时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 08时53分]"
         },
         {
           "title": "周五（10月17日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌1.07%，逼近10.7万美元，本周累计下跌8.33%，整体持续走低，从11.6万美元附近跌至10.4万美元下方。 CME以太币期货DCR主力合约跌0.44%，报3862.50美元，本周累跌4.10%。",
