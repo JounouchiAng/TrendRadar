@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T17:17:31.931741+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-10-20T18:16:27.835541+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -88,6 +88,18 @@
           "time_info": "[00时16分 ~ 08时59分]"
         },
         {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
+        },
+        {
           "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
           "url": "https://wallstreetcn.com/livenews/2990192",
           "source": "华尔街见闻-快讯",
@@ -102,17 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时12分]"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
@@ -160,26 +172,15 @@
           "time_info": "[08时59分 ~ 10时46分]"
         },
         {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
-          "url": "https://wallstreetcn.com/livenews/2990562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时16分"
         },
         {
           "title": "支付宝：本周起，首页AI健康管家AQ广告下架整改",
@@ -208,6 +209,18 @@
           "time_info": "[00时17分 ~ 03时11分]"
         },
         {
+          "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
+          "url": "https://wallstreetcn.com/livenews/2990562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
+        },
+        {
           "title": "美国女子AI生成号码中10万美元彩票",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
           "source": "百度热搜",
@@ -232,6 +245,18 @@
           "time_info": "[12时20分 ~ 13时15分]"
         },
         {
+          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
+          "url": "https://wallstreetcn.com/livenews/2990557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
+        },
+        {
           "title": "天猫用AI爆改八方来财",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A9%E7%8C%AB%E7%94%A8AI%E7%88%86%E6%94%B9%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D29%26pos%3D30%26q%3D%2523%25E5%25A4%25A9%25E7%258C%25AB%25E7%2594%25A8AI%25E7%2588%2586%25E6%2594%25B9%25E5%2585%25AB%25E6%2596%25B9%25E6%259D%25A5%25E8%25B4%25A2%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D29%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26display_time%3D1760948231%26pre_seqid%3D17609482317250273287061",
           "source": "微博",
@@ -243,15 +268,26 @@
           "time_info": "[16时18分 ~ 16时19分]"
         },
         {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
+          "title": "阿里夸克秘密开展“C计划”：涉对话式AI应用，或对标字节豆包",
+          "url": "https://wallstreetcn.com/livenews/2990582",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时17分"
+          "time_info": "18时16分"
+        },
+        {
+          "title": "如何看 Anthropic 最新发布的 Claude Skills？会替代 MCP 吗？",
+          "url": "https://www.zhihu.com/question/1962512846630941008",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
@@ -260,7 +296,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -271,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         }
@@ -303,8 +339,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时16分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -344,11 +380,12 @@
           "url": "https://wallstreetcn.com/livenews/2990560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘前跌约0.4%，亚马逊云计算服务（AWS）表示，正在调查美国东部1区多个AWS服务中出现的错误率和延迟增加问题。",
@@ -357,9 +394,86 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
+          "url": "https://wallstreetcn.com/articles/3757463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时16分]"
+        },
+        {
+          "title": "Evercore ISI：将苹果股票纳入战术性跑赢大盘名单。",
+          "url": "https://wallstreetcn.com/livenews/2990597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "商品期货收盘，沪银主力合约跌近4%，多晶硅跌超3%，玻璃、苯乙烯、纯苯跌超2%，鸡蛋、沪金、对二甲苯跌超1%。生猪、焦煤、苹果涨超2%，焦炭、集运欧线、豆一涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2990483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "平台回应骑手取走苹果手机后失联",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时16分]"
+        },
+        {
+          "title": "骑手取走苹果17Promax后失联",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D25%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%25AA%2591%25E6%2589%258B%25E5%258F%2596%25E8%25B5%25B0%25E8%258B%25B9%25E6%259E%259C17Promax%25E5%2590%258E%25E5%25A4%25B1%25E8%2581%2594%2523%26dgr%3D0%26band_rank%3D25%26flag%3D1%26pos%3D26%26stream_entry_id%3D31%26display_time%3D1760955016%26pre_seqid%3D17609550167150312270523",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。生猪涨超3%，焦煤涨超2%，焦炭、苹果、国际铜、沪铜、工业硅涨超1%。跌幅方面，沪银跌超3%，多晶硅、纯苯、苯乙烯跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251020113106783800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     },
@@ -367,6 +481,18 @@
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
       "match_count": 5,
       "titles": [
+        {
+          "title": "贸易局势、美信贷恐慌缓解，全球主要股市集体反弹，日股再创新高，现货黄金企稳，比特币涨超4%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时16分]"
+        },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
           "url": "https://wallstreetcn.com/livenews/2990221",
@@ -381,17 +507,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时11分 ~ 07时21分]"
-        },
-        {
-          "title": "贸易局势、美信贷恐慌缓解，全球主要股市集体反弹，日股再创新高，现货黄金企稳，比特币涨超4%",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时17分]"
         },
         {
           "title": "比特币突破111000美元/枚，日内涨超2%。",
@@ -428,60 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 13时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
-          "url": "https://wallstreetcn.com/articles/3757463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时17分]"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约跌近4%，多晶硅跌超3%，玻璃、苯乙烯、纯苯跌超2%，鸡蛋、沪金、对二甲苯跌超1%。生猪、焦煤、苹果涨超2%，焦炭、集运欧线、豆一涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2990483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "平台回应骑手取走苹果手机后失联",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时17分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。生猪涨超3%，焦煤涨超2%，焦炭、苹果、国际铜、沪铜、工业硅涨超1%。跌幅方面，沪银跌超3%，多晶硅、纯苯、苯乙烯跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251020113106783800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         }
       ]
     }
