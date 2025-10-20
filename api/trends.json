@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T06:13:57.794367+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-10-21T07:12:06.155852+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -26,8 +26,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -52,15 +63,17 @@
           "time_info": "01时14分"
         },
         {
-          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
-          "url": "https://wallstreetcn.com/livenews/2990843",
+          "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2990833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -87,16 +100,16 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2990833",
+          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2990843",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
@@ -104,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时12分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -160,8 +174,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "JKAI锐评王力宏单依纯爱错",
+          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            17,
+            25,
+            20,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -180,30 +222,18 @@
           "time_info": "[00时18分 ~ 06时13分]"
         },
         {
-          "title": "Blg大变天,功勋教练Bail卸任离队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
-          "source": "贴吧",
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "JKAI锐评王力宏单依纯爱错",
-          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            17,
-            25,
+            21,
             20,
-            18
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
@@ -211,24 +241,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
-        },
-        {
-          "title": "“今年双11 我的AI比我还忙”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时12分]"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云宣布加速推动企业级人工智能和工业数字化进程。搭载NVIDIA RTX Pro 6000 Blackwell GPU的Google Cloud G4虚拟机现已全面上线。",
@@ -249,22 +267,23 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
+          "url": "https://wallstreetcn.com/articles/3757463",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
           "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
           "url": "https://wallstreetcn.com/articles/3757466",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
-        },
-        {
-          "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
-          "url": "https://wallstreetcn.com/articles/3757463",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -280,8 +299,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
@@ -332,7 +351,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "媒体报道周杰伦好友蔡威泽代其投资比特币后人间蒸发，涉及金额高达上亿新台币，具体情况如何？",
@@ -342,19 +361,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "比特币跌0.4%，一度跌穿11.1万美元。 美国贸易代表办公司（USTR）提议，对尼加拉瓜加征高达100%的关税。",
-          "url": "https://wallstreetcn.com/livenews/2990849",
-          "source": "华尔街见闻-快讯",
+          "title": "“万物齐涨”，三大股指全线走高，黄金重拾涨势，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨4.36%，至11.10万美元上方，北京时间08:00-14:00持续走高，之后持续高位窄幅震荡。 CME以太币期货DCR主力合约涨4.38%，报4005美元，日内大致呈现出W形走势。",
@@ -362,18 +381,42 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 07时12分]"
+        },
+        {
+          "title": "比特币跌0.4%，一度跌穿11.1万美元。 美国贸易代表办公司（USTR）提议，对尼加拉瓜加征高达100%的关税。",
+          "url": "https://wallstreetcn.com/livenews/2990849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 07时12分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20251021060348633800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
           "url": "https://wallstreetcn.com/livenews/2990806",
