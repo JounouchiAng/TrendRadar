@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T04:16:41.852956+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-10-22T05:13:43.801649+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI时代需要什么样的程序员",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -28,8 +28,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 05时13分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -40,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "iPhone Air评测",
@@ -51,11 +66,12 @@
             13,
             16,
             28,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -69,22 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
-        },
-        {
-          "title": "如何评价「AI 就是美国的城投」的观点？",
-          "url": "https://www.zhihu.com/question/1963543399295579410",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -146,6 +148,28 @@
           "time_info": "[03时12分 ~ 04时16分]"
         },
         {
+          "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/2991416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/2991412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
           "url": "https://flash.jin10.com/detail/20251022012656788800",
           "source": "金十数据",
@@ -182,7 +206,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -192,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -202,7 +226,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -213,7 +237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -224,7 +248,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -246,9 +270,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
+          "url": "https://wallstreetcn.com/livenews/2991414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -271,6 +317,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "德州仪器三季度营收47.4亿美元，分析师预期46.5亿美元。 三季度Analog营收37.3亿美元，分析师预期36.1亿美元。 三季度资本开支12亿美元，分析师预期12.8亿美元。 三季度自由现金流（FCF）为10.7亿美元，分析师预期6.547亿美元。 预计四季度营收42.2亿-45.8亿美元，分析师预期45亿美元。 德州仪器（TXN）美股盘后跌4.88%。",
+          "url": "https://wallstreetcn.com/livenews/2991410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "奈飞三季度营收115.1亿美元，分析师预期115.2亿美元。 预计全年营收451亿美元，分析师预期450.2亿美元，公司原本预计448亿-452亿美元。 奈飞（NFLX）美股盘后跌5.95%。",
+          "url": "https://wallstreetcn.com/livenews/2991409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股盘中）",
@@ -308,8 +376,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "苹果生态真的让用户离不开吗？",
@@ -321,8 +389,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
@@ -333,8 +401,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "苹果翻大车,iOS26离谱Bug频出",
@@ -344,8 +412,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
@@ -398,7 +466,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
@@ -406,7 +474,7 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软在重返办公室现场办公方面对许多销售人员实施豁免。",
@@ -441,6 +509,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "微软CEO年薪接近1亿美元",
+          "url": "https://flash.jin10.com/detail/20251022042323412800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美国证交会文件显示：微软执行副总裁兼首席财务官Amy Hood 2025年总薪酬为2950万美元，其中包括2500万美元的股票奖励。",
+          "url": "https://flash.jin10.com/detail/20251022042206903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         }
       ]
     },
@@ -456,8 +546,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         },
         {
           "title": "比特币突破114000美元/枚，为10月14日以来首次，日内涨3.14%。",
@@ -484,8 +574,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 05时13分]"
         }
       ]
     }
