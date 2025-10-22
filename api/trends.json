@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T18:14:53.486040+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-10-22T19:12:37.173904+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时31分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时31分 ~ 19时12分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -198,6 +198,20 @@
           "time_info": "[08时59分 ~ 13时13分]"
         },
         {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时12分]"
+        },
+        {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
           "url": "https://flash.jin10.com/detail/20251022010530861800",
           "source": "金十数据",
@@ -226,7 +240,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -248,7 +262,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -333,19 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时17分]"
-        },
-        {
-          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
-          "url": "https://www.zhihu.com/question/1954568431539036226",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时14分]"
         },
         {
           "title": "英伟达最强AI芯片“美国造”背后",
@@ -457,13 +458,24 @@
           "time_info": "[11时43分 ~ 12时17分]"
         },
         {
+          "title": "曝iPhone Air暂停生产",
+          "url": "https://www.toutiao.com/trending/7563910888818970122/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "据日经新闻：苹果(AAPL.O)削减了iPhone Air的生产订单，同时增加了其他iPhone 17型号的订单量。",
           "url": "https://flash.jin10.com/detail/20251022173212812800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -578,6 +590,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会正在评估ChatGPT在欧洲的用户数量。",
+          "url": "https://flash.jin10.com/detail/20251022183455687800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "Blg大变天,功勋教练Bail卸任离队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
           "source": "贴吧",
@@ -587,23 +610,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "曝iPhone Air暂停生产",
-          "url": "https://www.toutiao.com/trending/7563910888818970122/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -613,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时59分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[08时59分 ~ 19时12分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -649,6 +661,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "Beyond Meat(BYND.O)延续涨势，美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
+          "url": "https://flash.jin10.com/detail/20251022190108707800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -821,6 +844,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "AT&T(T.N)股价美股盘前上涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251022184052154800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251022003020254800",
           "source": "金十数据",
@@ -887,11 +921,12 @@
             20,
             21,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 18时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 19时12分]"
         },
         {
           "title": "苹果股价大涨 3.94% 创历史新高，超越微软成为美国第二大市值公司，驱动因素是什么？后续走势如何？",
@@ -1081,11 +1116,12 @@
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "黄金首饰价格“坐地起飞”",
@@ -1153,8 +1189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "杨戬三星堆新皮肤爆料",
