@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:26:28.474487+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2025-10-22T21:29:16.898546+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时31分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 21时29分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -172,6 +172,22 @@
           "time_info": "[13时13分 ~ 17时17分]"
         },
         {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            12,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 21时29分]"
+        },
+        {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
           "url": "https://www.cls.cn/detail/2176315",
           "source": "财联社热门",
@@ -183,21 +199,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时59分 ~ 12时17分]"
-        },
-        {
-          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
-          "url": "https://www.zhihu.com/question/1954568431539036226",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            12,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 20时26分]"
         },
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -241,7 +242,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -290,15 +291,26 @@
           "time_info": "10时31分"
         },
         {
-          "title": "王鹤棣担任GAI演唱会嘉宾",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D6%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26band_rank%3D6%26realpos%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761134406%26pre_seqid%3D17611344065020318262155",
-          "source": "微博",
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时29分"
+        },
+        {
+          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
+          "url": "https://www.cls.cn/detail/2177003",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时29分]"
         },
         {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
@@ -310,17 +322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/2991930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
@@ -348,17 +349,6 @@
           "time_info": "[13时13分 ~ 14时26分]"
         },
         {
-          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
-          "url": "https://wallstreetcn.com/livenews/2991928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
           "url": "https://wallstreetcn.com/articles/3757536",
           "source": "华尔街见闻",
@@ -370,15 +360,16 @@
           "time_info": "08时59分"
         },
         {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
+          "title": "王鹤棣担任GAI演唱会嘉宾",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8B%85%E4%BB%BBGAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D6%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26band_rank%3D6%26realpos%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E6%258B%2585%25E4%25BB%25BBGAI%25E6%25BC%2594%25E5%2594%25B1%25E4%25BC%259A%25E5%2598%2589%25E5%25AE%25BE%2523%26flag%3D1%26display_time%3D1761134406%26pre_seqid%3D17611344065020318262155",
+          "source": "微博",
           "ranks": [
-            10
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时29分]"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -428,6 +419,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时16分]"
+        },
+        {
+          "title": "Meta Platforms将从其AI部门裁减数百个职位。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/2991930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时29分]"
+        },
+        {
+          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
+          "url": "https://wallstreetcn.com/livenews/2991928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时29分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
@@ -569,6 +584,17 @@
           "time_info": "16时21分"
         },
         {
+          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
+          "url": "https://flash.jin10.com/detail/20251022203204664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "“用AI流浪汉骗家人”走红 民警提醒",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8AI%E6%B5%81%E6%B5%AA%E6%B1%89%E9%AA%97%E5%AE%B6%E4%BA%BA%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92",
           "source": "百度热搜",
@@ -671,7 +697,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -681,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时59分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 21时29分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -728,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2991953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -791,7 +828,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -816,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "美股期指盘前集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
@@ -917,7 +965,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -947,7 +995,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -1001,11 +1049,12 @@
             23,
             25,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时16分 ~ 20时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时16分 ~ 21时29分]"
         },
         {
           "title": "苹果股价大涨 3.94% 创历史新高，超越微软成为美国第二大市值公司，驱动因素是什么？后续走势如何？",
@@ -1019,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 13时13分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们已经看到了欧盟法规对苹果用户的影响，我们敦促英国不要走同样的道路。",
+          "url": "https://flash.jin10.com/detail/20251022210251287800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
@@ -1038,9 +1098,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
+        },
+        {
+          "title": "苹果盘前跌约0.7%，据路透，苹果因App Store条款遭遇欧盟反垄断投诉。",
+          "url": "https://wallstreetcn.com/livenews/2991926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时29分]"
         },
         {
           "title": "鸿蒙6支持与苹果设备互传",
@@ -1053,17 +1125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 16时21分]"
-        },
-        {
-          "title": "苹果盘前跌约0.7%，据路透，苹果因App Store条款遭遇欧盟反垄断投诉。",
-          "url": "https://wallstreetcn.com/livenews/2991926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
         },
         {
           "title": "苹果大卖谁受益",
@@ -1241,7 +1302,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -1273,8 +1334,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 21时29分]"
         },
         {
           "title": "黄金首饰价格“坐地起飞”",
@@ -1299,11 +1360,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时29分]"
         },
         {
           "title": "杨戬三星堆新皮肤爆料",
