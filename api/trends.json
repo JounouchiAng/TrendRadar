@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T08:59:31.214795+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2025-10-22T10:31:42.446554+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI时代需要什么样的程序员",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时31分]"
         },
         {
           "title": "如何评价「AI 就是美国的城投」的观点？",
@@ -63,21 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
-        },
-        {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时31分]"
         },
         {
           "title": "iPhone Air评测",
@@ -89,11 +76,25 @@
             28,
             20,
             24,
-            26
+            26,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 10时31分]"
+        },
+        {
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时31分]"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -104,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 10时31分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -130,6 +131,29 @@
           "time_info": "01时13分"
         },
         {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时31分]"
+        },
+        {
+          "title": "OpenAI首个AI浏览器发布",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
           "url": "https://flash.jin10.com/detail/20251022064158770800",
           "source": "金十数据",
@@ -147,20 +171,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
         {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "10时31分"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -212,6 +236,17 @@
           "time_info": "[03时12分 ~ 04时16分]"
         },
         {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时31分]"
+        },
+        {
           "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/2991416",
           "source": "华尔街见闻-快讯",
@@ -236,15 +271,37 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
+          "title": "苹果国行iPhone Air正式发售",
+          "url": "https://wallstreetcn.com/livenews/2991563",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "10时31分"
+        },
+        {
+          "title": "“用AI流浪汉骗家人”走红 民警提醒",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8AI%E6%B5%81%E6%B5%AA%E6%B1%89%E9%AA%97%E5%AE%B6%E4%BA%BA%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "上海前三季度三大先导产业制造业产值同比增长8.5% 其中人工智能制造业增长12.8%",
+          "url": "https://wallstreetcn.com/livenews/2991539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
@@ -278,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -305,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 10时31分]"
         },
         {
           "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
@@ -326,9 +394,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时31分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -542,19 +610,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
-        },
-        {
-          "title": "苹果股价大涨 3.94% 创历史新高，超越微软成为美国第二大市值公司，驱动因素是什么？后续走势如何？",
-          "url": "https://www.zhihu.com/question/1963907296695399508",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时31分]"
         },
         {
           "title": "报道：苹果可折叠iPad研发遇挫，发布时间至少被推迟至2029年",
@@ -566,6 +623,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "苹果股价大涨 3.94% 创历史新高，超越微软成为美国第二大市值公司，驱动因素是什么？后续走势如何？",
+          "url": "https://www.zhihu.com/question/1963907296695399508",
+          "source": "知乎",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时31分]"
         },
         {
           "title": "苹果大卖谁受益",
@@ -736,11 +805,12 @@
           "url": "https://www.toutiao.com/trending/7563613729208667702/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时31分]"
         },
         {
           "title": "黄金首饰价格“坐地起飞”",
@@ -749,7 +819,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
