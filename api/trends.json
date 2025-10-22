@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T04:17:27.094660+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2025-10-23T05:11:08.507769+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI写文狂,原创路变凉",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -35,11 +35,24 @@
           "url": "https://wallstreetcn.com/livenews/2992071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时11分]"
+        },
+        {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 05时11分]"
         },
         {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
@@ -77,17 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时11分]"
-        },
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 04时17分]"
         },
         {
           "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
@@ -130,11 +132,12 @@
           "url": "https://wallstreetcn.com/livenews/2992057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时11分]"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -176,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -190,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "IBM(IBM.N)首席财务官：市场对人工智能的信心推动了咨询业务增长的转折点。",
+          "url": "https://flash.jin10.com/detail/20251023041431868800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
@@ -214,6 +228,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
+          "url": "https://flash.jin10.com/detail/20251023040848407800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms将从人工智能（AI）架构裁员大约600人。 新组建的TBD Lab Group并未受到影响。 Meta将继续为了推动AI业务而招聘。",
           "url": "https://wallstreetcn.com/livenews/2991983",
           "source": "华尔街见闻-快讯",
@@ -228,7 +253,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -239,8 +264,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -252,8 +277,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -268,15 +293,37 @@
           "time_info": "[00时17分 ~ 03时11分]"
         },
         {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时17分 ~ 05时11分]"
+        },
+        {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251023040545784800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
+          "url": "https://wallstreetcn.com/livenews/2992080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
@@ -285,20 +332,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
         {
-          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
+          "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/2992078",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "05时11分"
         },
         {
           "title": "美股收盘：三大股指齐跌 网易跌超4%",
@@ -307,9 +354,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "拉斯维加斯金沙三季度净营收33.3亿美元，分析师预期30.4亿美元。 三季度中国澳门净营收19.1亿美元，分析师预期18.4亿美元。 拉斯维加斯金沙（LVS）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/2992074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
@@ -371,8 +429,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时11分]"
         },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -384,8 +442,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时11分]"
         },
         {
           "title": "苹果(AAPL.O)跌势延续，现跌超2.6%。",
@@ -444,7 +502,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -474,8 +532,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时11分]"
         }
       ]
     },
@@ -491,8 +549,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 05时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（10月22日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌3.87%，至10.8万美元下方。 CME以太币期货DCR主力合约跌5.55%，报3786美元。",
+          "url": "https://wallstreetcn.com/livenews/2992081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     }
