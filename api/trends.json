@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-23T15:14:06.018945+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2025-10-23T16:19:41.839523+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 16时19分]"
+        },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
           "url": "https://www.cls.cn/detail/2177557",
@@ -22,17 +35,18 @@
           "time_info": "[08时55分 ~ 14时19分]"
         },
         {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6,
-            4
+            4,
+            5,
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 16时19分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -44,25 +58,12 @@
             13,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 15时14分]"
-        },
-        {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 15时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 16时19分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -390,6 +391,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "戚薇VOGUE出发图是AI做的",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%9A%E8%96%87VOGUE%E5%87%BA%E5%8F%91%E5%9B%BE%E6%98%AFAI%E5%81%9A%E7%9A%84&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26pos%3D23%26band_rank%3D22%26flag%3D1%26dgr%3D0%26q%3D%25E6%2588%259A%25E8%2596%2587VOGUE%25E5%2587%25BA%25E5%258F%2591%25E5%259B%25BE%25E6%2598%25AFAI%25E5%2581%259A%25E7%259A%2584%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26realpos%3D22%26display_time%3D1761207548%26pre_seqid%3D176120754829803673496136",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "IBM(IBM.N)首席财务官：市场对人工智能的信心推动了咨询业务增长的转折点。",
           "url": "https://flash.jin10.com/detail/20251023041431868800",
           "source": "金十数据",
@@ -470,7 +482,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -480,8 +492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 16时19分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -520,8 +532,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 15时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 16时19分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -602,6 +614,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2992438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
           "url": "https://wallstreetcn.com/livenews/2992080",
           "source": "华尔街见闻-快讯",
@@ -612,6 +635,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时10分]"
+        },
+        {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
@@ -696,11 +730,12 @@
           "ranks": [
             6,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 15时14分]"
+          "appearance_count": 10,
+          "time_info": "[10时23分 ~ 16时19分]"
         },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -815,6 +850,62 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "杨戬三星堆新皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E6%88%AC%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            9,
+            22,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 12时15分]"
+        },
+        {
+          "title": "存储芯片“超级周期”持续演绎：三星、SK海力士料将涨价30% 客户开启囤货模式",
+          "url": "https://www.cls.cn/detail/2178138",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "“超级周期”持续演绎 三星和SK海力士将内存价格上调30%",
+          "url": "https://wallstreetcn.com/livenews/2992319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "三星重工第三季度营收为2.635万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20251023145002769800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
       "match_count": 4,
       "titles": [
@@ -863,51 +954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "杨戬三星堆新皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%A8%E6%88%AC%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%B0%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            9,
-            22,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 12时15分]"
-        },
-        {
-          "title": "“超级周期”持续演绎 三星和SK海力士将内存价格上调30%",
-          "url": "https://wallstreetcn.com/livenews/2992319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
-          "title": "三星重工第三季度营收为2.635万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251023145002769800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         }
       ]
     },
