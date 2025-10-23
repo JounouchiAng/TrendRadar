@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:13:01.038696+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2025-10-23T20:24:38.556777+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时34分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时34分 ~ 20时24分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -31,11 +31,12 @@
             3,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时34分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时34分 ~ 20时24分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -65,11 +66,12 @@
             21,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 19时13分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 20时24分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -129,6 +131,17 @@
           "time_info": "[02时19分 ~ 05时11分]"
         },
         {
+          "title": "王自如入职雷鸟创新任AI产品顾问",
+          "url": "https://wallstreetcn.com/livenews/2992584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "Astera Labs将收购Aixscale Photonics。",
           "url": "https://wallstreetcn.com/livenews/2992071",
           "source": "华尔街见闻-快讯",
@@ -153,6 +166,19 @@
           "time_info": "08时56分"
         },
         {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时24分]"
+        },
+        {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
@@ -171,21 +197,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
-          "url": "https://www.zhihu.com/question/1964629313476358315",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
@@ -209,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "上海新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/2992546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
@@ -319,6 +322,18 @@
           "time_info": "[02时20分 ~ 03时11分]"
         },
         {
+          "title": "上海新增2款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/2992546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时24分]"
+        },
+        {
           "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
           "url": "https://wallstreetcn.com/livenews/2992057",
           "source": "华尔街见闻-快讯",
@@ -329,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时11分]"
+        },
+        {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时24分]"
         },
         {
           "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
@@ -376,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
-          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -505,7 +521,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -589,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时55分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[08时55分 ~ 20时24分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -629,8 +645,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 19时13分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 20时24分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -988,8 +1004,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 19时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 20时24分]"
         },
         {
           "title": "“超级周期”持续演绎 三星和SK海力士将内存价格上调30%",
