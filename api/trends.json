@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:16:19.530793+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-10-23T18:15:58.540135+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时34分 ~ 17时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时34分 ~ 18时15分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -29,11 +29,12 @@
             5,
             11,
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时34分 ~ 17时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时34分 ~ 18时15分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -61,11 +62,12 @@
             18,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 17时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -149,6 +151,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
@@ -159,6 +172,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
@@ -293,6 +317,18 @@
           "time_info": "[13时13分 ~ 14时19分]"
         },
         {
+          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/2992463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
+        },
+        {
           "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
           "url": "https://wallstreetcn.com/livenews/2992261",
           "source": "华尔街见闻-快讯",
@@ -371,17 +407,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "快手进军AI Coding，推出“工具+模型+平台”三位一体AI编程产品矩阵",
-          "url": "https://wallstreetcn.com/livenews/2992463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
           "url": "https://flash.jin10.com/detail/20251023031513906800",
           "source": "金十数据",
@@ -391,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "卡塔尔能源部长：积极前景源于亚洲经济增长，以及数据中心和人工智能领域强劲的电力需求。",
+          "url": "https://flash.jin10.com/detail/20251023173458691800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
@@ -505,8 +541,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时55分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时55分 ~ 18时15分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -545,8 +581,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 17时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -611,7 +647,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -759,8 +795,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时23分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 18时15分]"
         },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -903,8 +939,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "“超级周期”持续演绎 三星和SK海力士将内存价格上调30%",
