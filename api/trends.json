@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T18:15:58.540135+08:00",
-  "total_titles_processed": 1738,
+  "generated_at": "2025-10-23T19:13:01.038696+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时34分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时34分 ~ 19时13分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -30,11 +30,12 @@
             11,
             3,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时34分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时34分 ~ 19时13分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -63,11 +64,12 @@
             19,
             21,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 19时13分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -151,17 +153,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2992520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
@@ -174,15 +165,27 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
+          "title": "市场消息：英国政府与OpenAI达成协议，以扩大数据托管范围。",
+          "url": "https://flash.jin10.com/detail/20251023184120647800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
           "url": "https://www.zhihu.com/question/1964629313476358315",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
@@ -208,6 +211,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "上海新增2款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/2992546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
           "url": "https://wallstreetcn.com/livenews/2992300",
           "source": "华尔街见闻-快讯",
@@ -218,6 +232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时13分]"
+        },
+        {
+          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/2992520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
@@ -352,6 +378,17 @@
           "time_info": "[08时55分 ~ 08时56分]"
         },
         {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
           "url": "https://flash.jin10.com/detail/20251023004153523800",
           "source": "金十数据",
@@ -424,7 +461,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -460,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "阿里夸克AI眼镜24日零点开启预售 叠加平台补贴后最低3699元",
+          "url": "https://wallstreetcn.com/livenews/2992529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
@@ -541,8 +589,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时55分 ~ 18时15分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 19时13分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -581,8 +629,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 19时13分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -936,11 +984,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时13分]"
         },
         {
           "title": "“超级周期”持续演绎 三星和SK海力士将内存价格上调30%",
