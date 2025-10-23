@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T10:24:00.505387+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-10-23T11:35:00.604584+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI写文狂,原创路变凉",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 11时35分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -30,6 +31,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
+          "url": "https://www.cls.cn/detail/2177557",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 11时35分]"
+        },
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
         },
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。",
@@ -55,6 +79,17 @@
           "time_info": "[02时19分 ~ 05时11分]"
         },
         {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
           "title": "Astera Labs将收购Aixscale Photonics。",
           "url": "https://wallstreetcn.com/livenews/2992071",
           "source": "华尔街见闻-快讯",
@@ -66,18 +101,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时10分]"
-        },
-        {
-          "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
-          "url": "https://www.cls.cn/detail/2177557",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 10时24分]"
         },
         {
           "title": "经济日报：用好AI这个科研超级助手",
@@ -226,7 +249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -262,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
+          "url": "https://wallstreetcn.com/livenews/2992261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
         },
         {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
@@ -330,6 +364,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
+          "url": "https://wallstreetcn.com/livenews/2992249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "扎克伯格旗下Meta Platforms将从人工智能（AI）架构裁员大约600人。 新组建的TBD Lab Group并未受到影响。 Meta将继续为了推动AI业务而招聘。",
           "url": "https://wallstreetcn.com/livenews/2991983",
           "source": "华尔街见闻-快讯",
@@ -371,8 +416,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 11时35分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 11时35分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 11时35分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -385,29 +453,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 03时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 10时24分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 10时24分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -589,6 +634,18 @@
           "time_info": "[00时17分 ~ 08时56分]"
         },
         {
+          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
+          "url": "https://www.zhihu.com/question/1963899052065293121",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 11时35分]"
+        },
+        {
           "title": "苹果M5芯片锐评",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CM5%E8%8A%AF%E7%89%87%E9%94%90%E8%AF%84",
           "source": "bilibili 热搜",
@@ -600,17 +657,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 08时56分]"
-        },
-        {
-          "title": "55 名中国 iPhone 用户联合投诉苹果滥用市场支配地位，具体是怎么回事？苹果公司将如何回应？",
-          "url": "https://www.zhihu.com/question/1963899052065293121",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "苹果(AAPL.O)跌势延续，现跌超2.6%。",
@@ -735,11 +781,12 @@
           "url": "https://www.toutiao.com/trending/7564185395232001575/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 11时35分]"
         },
         {
           "title": "黄金价格大跳水 金价到顶了吗",
@@ -767,11 +814,12 @@
             5,
             7,
             9,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 11时35分]"
         }
       ]
     }
