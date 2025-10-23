@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:19:53.619473+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-10-23T15:14:06.018945+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -22,21 +22,6 @@
           "time_info": "[08时55分 ~ 14时19分]"
         },
         {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 14时19分]"
-        },
-        {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
           "url": "https://wallstreetcn.com/articles/3757698",
           "source": "华尔街见闻",
@@ -46,8 +31,38 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时14分]"
+        },
+        {
+          "title": "AI写文狂,原创路变凉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            13,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 15时14分]"
+        },
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 15时14分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -62,27 +77,13 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 14时19分]"
-        },
-        {
           "title": "麦肯锡：如果银行不调整自己的商业模式，以应对客户转向人工智能来优化财务状况的情况，恐将面临高达1700亿美元的利润损失。",
           "url": "https://flash.jin10.com/detail/20251023134127996800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -472,6 +473,17 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时55分 ~ 15时14分]"
+        },
+        {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -492,19 +504,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 14时19分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 14时19分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 15时14分]"
         },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -519,8 +520,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 14时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 15时14分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -698,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 14时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 15时14分]"
         },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -866,38 +867,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金价格为何突然大幅回调",
-          "url": "https://www.toutiao.com/trending/7564185395232001575/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时23分 ~ 14时19分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "杨戬三星堆新皮肤爆料",
@@ -926,6 +897,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "三星重工第三季度营收为2.635万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20251023145002769800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 14时19分]"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 05时11分]"
         }
       ]
     }
