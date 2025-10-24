@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T19:12:14.365483+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2025-10-24T20:26:34.828576+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
@@ -108,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
@@ -433,7 +433,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -520,8 +520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时11分 ~ 19时12分]"
+          "appearance_count": 19,
+          "time_info": "[07时11分 ~ 20时26分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
