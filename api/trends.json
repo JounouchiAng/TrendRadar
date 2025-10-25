@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:15:02.328892+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-10-25T13:14:16.749138+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时14分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -45,19 +45,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 13时14分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 13时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -161,7 +162,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -185,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 13时14分]"
         },
         {
           "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
@@ -198,11 +199,12 @@
             10,
             15,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时13分 ~ 13时14分]"
         },
         {
           "title": "AI续写你的名字",
@@ -222,11 +224,23 @@
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时14分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
+          "url": "https://flash.jin10.com/detail/20251025115711896800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "AI时代的国际教育选择",
@@ -290,11 +304,12 @@
             15,
             20,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 12时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时13分 ~ 13时14分]"
         },
         {
           "title": "市场消息：摩根大通集团计划在今年年底前允许机构客户使用其持有的比特币和以太坊作为贷款抵押品。",
@@ -327,11 +342,12 @@
             22,
             23,
             28,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 13时14分]"
         }
       ]
     }
