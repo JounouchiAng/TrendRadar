@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:13:36.813536+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2025-10-25T16:16:58.201184+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时16分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 08时56分]"
+        },
+        {
+          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
+          "url": "https://wallstreetcn.com/articles/3757873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 16时16分]"
         },
         {
           "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
@@ -53,19 +66,6 @@
           "time_info": "[06时13分 ~ 15时13分]"
         },
         {
-          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
-          "url": "https://wallstreetcn.com/articles/3757873",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时13分]"
-        },
-        {
           "title": "AI续写你的名字",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
           "source": "bilibili 热搜",
@@ -84,11 +84,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 16时16分]"
         },
         {
           "title": "前三季度广西工业人工智能核心产值同比增长超60%",
@@ -96,11 +97,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 16时16分]"
         },
         {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
@@ -175,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时55分 ~ 16时16分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -201,8 +203,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 16时16分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -218,8 +220,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
