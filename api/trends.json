@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T03:11:42.745428+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-10-27T04:15:19.186237+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -38,19 +39,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -60,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -69,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
@@ -97,11 +100,12 @@
           "url": "https://flash.jin10.com/detail/20251026194410570800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时15分]"
         },
         {
           "title": "比特币小幅走高，一度涨至112725美元/枚；以太坊一度涨超4000美元/枚，日内涨逾1%。",
@@ -111,8 +115,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时15分]"
         }
       ]
     }
