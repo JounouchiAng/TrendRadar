@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T16:17:36.786022+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-10-26T17:12:32.105903+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -16,11 +16,12 @@
             8,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[07时11分 ~ 17时12分]"
         },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 17时12分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -70,16 +83,15 @@
           "time_info": "[09时00分 ~ 11时39分]"
         },
         {
-          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
-          "url": "https://wallstreetcn.com/articles/3757909",
-          "source": "华尔街见闻",
+          "title": "图灵奖得主聊AI变革图景",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 16时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
@@ -125,7 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -269,11 +281,12 @@
           "ranks": [
             20,
             2,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 17时12分]"
         }
       ]
     },
