@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T22:16:49.367116+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2025-10-27T23:14:34.616398+08:00",
+  "total_titles_processed": 1915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -61,11 +61,12 @@
             24,
             9,
             12,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时50分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[10时50分 ~ 23时14分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -105,6 +106,18 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
           "url": "https://www.cls.cn/detail/2182013",
           "source": "财联社热门",
@@ -116,18 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时17分 ~ 21时29分]"
-        },
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时16分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -150,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "高通(QCOM.O)：Humain和高通将在沙特部署人工智能基础设施，用于全球推理计算。根据该计划，Humain计划从2026年开始，目标是提供200兆瓦的高通AI200和AI250机架解决方案。",
+          "url": "https://flash.jin10.com/detail/20251027223504925800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
@@ -199,6 +211,17 @@
           "time_info": "[18时17分 ~ 19时14分]"
         },
         {
+          "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
+          "url": "https://wallstreetcn.com/livenews/2994418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
           "url": "https://www.cls.cn/detail/2181052",
           "source": "财联社热门",
@@ -243,6 +266,28 @@
           "time_info": "11时50分"
         },
         {
+          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
+          "url": "https://wallstreetcn.com/livenews/2994414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
+          "url": "https://wallstreetcn.com/livenews/2994412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "MiniMax M2开源登顶 ，成本仅Claude4.5的8%",
           "url": "https://wallstreetcn.com/livenews/2994126",
           "source": "华尔街见闻-快讯",
@@ -252,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "高通推出人工智能芯片后股价大涨20%",
+          "url": "https://flash.jin10.com/detail/20251027222130928800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
@@ -297,6 +353,17 @@
           "time_info": "[17时18分 ~ 21时29分]"
         },
         {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时14分]"
+        },
+        {
           "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
           "url": "https://flash.jin10.com/detail/20251027190236928800",
           "source": "金十数据",
@@ -314,18 +381,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -339,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
-          "url": "https://wallstreetcn.com/livenews/2994397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -384,6 +429,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时13分]"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时14分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -428,7 +485,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -439,7 +496,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -468,8 +525,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时14分]"
         },
         {
           "title": "比特币突破113000美元/枚，日内涨1.22%。",
@@ -519,6 +576,18 @@
           "time_info": "15时23分"
         },
         {
+          "title": "央行：继续打击境内虚拟货币经营炒作",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E5%A2%83%E5%86%85%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E7%BB%8F%E8%90%A5%E7%82%92%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "12万枚比特币为何如此轻松被美国没收",
           "url": "https://www.toutiao.com/trending/7565370523170016774/",
           "source": "今日头条",
@@ -545,16 +614,16 @@
           "time_info": "[05时11分 ~ 07时13分]"
         },
         {
-          "title": "央行：继续打击境内虚拟货币经营炒作",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E5%A2%83%E5%86%85%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E7%BB%8F%E8%90%A5%E7%82%92%E4%BD%9C",
-          "source": "百度热搜",
+          "title": "央行：打击境内虚拟货币经营炒作",
+          "url": "https://www.douyin.com/hot/2285152",
+          "source": "抖音",
           "ranks": [
-            25,
-            16
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时16分]"
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时14分]"
         },
         {
           "title": "加密货币短线拉升，比特币短线涨幅一度扩大至约2000美元，现报115011美元/枚。",
@@ -566,17 +635,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "央行：打击境内虚拟货币经营炒作",
-          "url": "https://www.douyin.com/hot/2285152",
-          "source": "抖音",
+          "title": "据法国媒体Informe：苹果(AAPL.O)因iPhone营销问题被法国罚款4800万欧元。",
+          "url": "https://flash.jin10.com/detail/20251027224604726800",
+          "source": "金十数据",
           "ranks": [
-            18
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时14分"
+        },
+        {
+          "title": "报道：苹果因iPhone营销问题被法国罚款4800万欧元",
+          "url": "https://wallstreetcn.com/livenews/2994429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "据悉苹果地图正计划引入广告",
+          "url": "https://flash.jin10.com/detail/20251027124547447800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "经济日报：苹果市值新高离不开中国市场热销",
+          "url": "https://wallstreetcn.com/livenews/2993821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "商品期货收盘，红枣、原木主力合约跌超5%，集运欧线跌超2%，BR橡胶、沪金、玉米跌超1%。多晶硅涨超3%，鸡蛋、碳酸锂涨超2%，国际铜、铁矿石、沪铜、生猪、螺纹钢、热卷、苹果、纯碱、燃料油、沪锡涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2994070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时20分]"
         }
       ]
     },
@@ -617,46 +737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据悉苹果地图正计划引入广告",
-          "url": "https://flash.jin10.com/detail/20251027124547447800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "经济日报：苹果市值新高离不开中国市场热销",
-          "url": "https://wallstreetcn.com/livenews/2993821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "商品期货收盘，红枣、原木主力合约跌超5%，集运欧线跌超2%，BR橡胶、沪金、玉米跌超1%。多晶硅涨超3%，鸡蛋、碳酸锂涨超2%，国际铜、铁矿石、沪铜、生猪、螺纹钢、热卷、苹果、纯碱、燃料油、沪锡涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2994070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时20分]"
         }
       ]
     },
@@ -705,8 +785,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时14分]"
         }
       ]
     }
