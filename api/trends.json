@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:14:34.515075+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2025-10-27T20:26:38.170039+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时50分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[10时50分 ~ 20时26分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -104,6 +104,18 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时26分]"
+        },
+        {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
           "url": "https://flash.jin10.com/detail/20251027145436636800",
           "source": "金十数据",
@@ -115,27 +127,26 @@
           "time_info": "15时23分"
         },
         {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
           "title": "金字火腿：全资子公司金字半导体看好AI产业趋势和光通信行业的市场前景 ，认可中晟微电子（杭州）有限公司在光通信芯片领域的国产替代能力，拟以自有或自筹资金不超过人民币3亿元通过增资扩股的方式取得中晟微不超过20%的股权。",
           "url": "https://wallstreetcn.com/livenews/2994259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
@@ -279,8 +290,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时26分]"
         },
         {
           "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
@@ -289,7 +300,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -322,7 +333,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -365,7 +376,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "比特币突破113000美元/枚，日内涨1.22%。",
@@ -391,6 +402,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "Strategy(MSTR.O)在10月20日至10月26日以总价4340万美元购买了390个比特币。",
+          "url": "https://flash.jin10.com/detail/20251027200126467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "潘功胜：央行将恢复公开市场国债买卖，持续打击虚拟货币炒作",
+          "url": "https://wallstreetcn.com/articles/3757974",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "比特币突破116000美元/枚，创10月10日以来新高，日内涨1.27%。",
@@ -439,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "央行：继续打击境内虚拟货币经营炒作",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E5%A2%83%E5%86%85%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E7%BB%8F%E8%90%A5%E7%82%92%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
@@ -483,6 +527,35 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 11时50分]"
+        },
+        {
+          "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
+          "url": "https://flash.jin10.com/detail/20251027191426396800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
       "match_count": 2,
       "titles": [
@@ -512,24 +585,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格下跌是进场“捡便宜”时机吗",
-          "url": "https://www.toutiao.com/trending/7565700779416227391/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 11时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "OPPO",
       "match_count": 1,
       "titles": [
@@ -539,11 +594,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时26分]"
         }
       ]
     }
