@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T11:50:06.955070+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-10-27T12:32:10.562341+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -26,11 +27,12 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
@@ -54,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时32分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -89,11 +91,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 12时32分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027114944856800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
@@ -102,7 +116,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -113,7 +127,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -140,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 12时32分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -164,7 +179,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
