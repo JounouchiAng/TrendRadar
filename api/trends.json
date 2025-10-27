@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T21:29:48.127482+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2025-10-27T22:16:49.367116+08:00",
+  "total_titles_processed": 1831,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
             23,
             24,
             9,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时50分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[10时50分 ~ 22时16分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -125,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 22时16分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -267,7 +268,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -307,6 +308,28 @@
           "time_info": "19时14分"
         },
         {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
           "url": "https://flash.jin10.com/detail/20251027082830826800",
           "source": "金十数据",
@@ -316,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
@@ -338,28 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027210443791800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2994370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -386,6 +398,52 @@
           "time_info": "[16时20分 ~ 17时18分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时16分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时16分]"
+        },
+        {
+          "title": "美股三大股指高开",
+          "url": "https://flash.jin10.com/detail/20251027213047126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
@@ -400,8 +458,19 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "潘功胜：央行将恢复公开市场国债买卖，持续打击虚拟货币炒作",
+          "url": "https://wallstreetcn.com/articles/3757974",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 22时16分]"
+        },
         {
           "title": "比特币突破113000美元/枚，日内涨1.22%。",
           "url": "https://flash.jin10.com/detail/20251026194410570800",
@@ -426,17 +495,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "潘功胜：央行将恢复公开市场国债买卖，持续打击虚拟货币炒作",
-          "url": "https://wallstreetcn.com/articles/3757974",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时29分]"
         },
         {
           "title": "Strategy(MSTR.O)在10月20日至10月26日以总价4340万美元购买了390个比特币。",
@@ -495,8 +553,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 22时16分]"
         },
         {
           "title": "加密货币短线拉升，比特币短线涨幅一度扩大至约2000美元，现报115011美元/枚。",
@@ -508,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "央行：打击境内虚拟货币经营炒作",
+          "url": "https://www.douyin.com/hot/2285152",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
@@ -534,7 +603,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -632,11 +701,12 @@
             15,
             13,
             8,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时16分]"
         }
       ]
     }
