@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T02:20:01.135677+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-28T03:20:25.828919+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -28,41 +28,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
           "url": "https://flash.jin10.com/detail/20251028015303563800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时20分]"
         },
         {
           "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
           "url": "https://flash.jin10.com/detail/20251028013708523800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时20分]"
         },
         {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/2994482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时20分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -145,8 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -198,19 +201,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
           "url": "https://www.douyin.com/hot/2285152",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 03时20分]"
         },
         {
           "title": "央行：继续打击境内虚拟货币经营炒作",
@@ -218,11 +222,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时20分]"
         }
       ]
     },
@@ -257,8 +262,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时20分]"
         }
       ]
     }
