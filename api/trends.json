@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T14:22:01.748984+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-10-28T15:15:13.806179+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 14时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时13分 ~ 15时15分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 14时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 15时15分]"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -54,11 +54,12 @@
             9,
             11,
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 14时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 15时15分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -97,22 +98,12 @@
           "ranks": [
             17,
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 14时22分]"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "appearance_count": 11,
+          "time_info": "[10时25分 ~ 15时15分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -197,17 +188,6 @@
           "time_info": "13时14分"
         },
         {
-          "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
-          "url": "https://wallstreetcn.com/livenews/2994809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
           "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
           "url": "https://wallstreetcn.com/livenews/2994678",
           "source": "华尔街见闻-快讯",
@@ -230,6 +210,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时14分]"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时15分]"
+        },
+        {
+          "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
+          "url": "https://flash.jin10.com/detail/20251028145207778800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
@@ -300,6 +303,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时20分]"
+        },
+        {
+          "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
+          "url": "https://wallstreetcn.com/livenews/2994809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时15分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -420,7 +435,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -442,17 +457,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时14分]"
-        },
-        {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
@@ -460,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时01分 ~ 14时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 15时15分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -471,8 +475,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时01分 ~ 15时15分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时01分 ~ 14时22分]"
+          "time_info": "[00时18分 ~ 06时14分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -623,8 +638,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 14时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 15时15分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
@@ -639,6 +654,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 10时26分]"
+        },
+        {
+          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
+          "url": "https://www.zhihu.com/question/1966420653952434899",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时15分]"
         },
         {
           "title": "央行：继续打击境内虚拟货币经营炒作",
@@ -679,19 +708,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时13分]"
-        },
-        {
-          "title": "央行称将继续打击境内虚拟货币经营和炒作，并密切跟踪、动态评估境外稳定币的发展，如何解读？",
-          "url": "https://www.zhihu.com/question/1966420653952434899",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 13时14分]"
         },
         {
           "title": "以太坊失守4100美元/枚，日内跌幅0.56%。",
@@ -753,7 +769,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -793,8 +809,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 15时15分]"
         },
         {
           "title": "市场消息：英伟达CEO黄仁勋将于10月30日会见三星和现代高管。",
