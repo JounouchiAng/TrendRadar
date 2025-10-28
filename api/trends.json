@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T09:01:32.360137+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2025-10-28T10:26:12.220383+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时26分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -41,11 +41,35 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 10时26分]"
+        },
+        {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时26分]"
+        },
+        {
+          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
+          "url": "https://wallstreetcn.com/articles/3758015",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 09时01分]"
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -68,7 +92,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -86,26 +110,28 @@
           "time_info": "[05时43分 ~ 07时13分]"
         },
         {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "中信建投：持续推荐AI算力板块",
           "url": "https://wallstreetcn.com/livenews/2994618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
+          "url": "https://www.cls.cn/detail/2182582",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 10时26分]"
         },
         {
           "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -117,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
+          "url": "https://wallstreetcn.com/livenews/2994678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -149,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -190,18 +227,6 @@
           "time_info": "[02时20分 ~ 03时20分]"
         },
         {
-          "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
-          "url": "https://www.cls.cn/detail/2182582",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 09时01分]"
-        },
-        {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
           "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
@@ -224,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时14分]"
+        },
+        {
+          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
+          "url": "https://www.zhihu.com/question/1959993472921633455",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 10时26分]"
         },
         {
           "title": "路孚特宣布与Anthropic开展合作，并称这是路孚特人工智能战略中的最大里程碑。",
@@ -276,9 +312,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "【上交所理事长邱勇：支持人工智能等更多前沿科技领域适用第五套标准】10月28日，在科创板科创成长层首批新注册企业上市仪式上，上交所理事长邱勇在致辞中表示，下一步，上交所将进一步发挥科创板“试验田”作用，把好准入关，更好识别优质科创企业，支持人工智能、商业航天、低空经济等更多前沿科技领域适用第五套标准，支持具有参与全球竞争潜力的硬科技企业上市。",
+          "url": "https://wallstreetcn.com/livenews/2994650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
@@ -309,6 +356,28 @@
           "time_info": "[00时18分 ~ 06时14分]"
         },
         {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时26分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时26分]"
+        },
+        {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
@@ -318,28 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -388,6 +435,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 10时26分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -450,17 +509,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         }
       ]
     },
@@ -477,8 +525,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时26分]"
         },
         {
           "title": "央行：打击境内虚拟货币经营炒作",
@@ -487,11 +535,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 10时26分]"
         },
         {
           "title": "央行：继续打击境内虚拟货币经营炒作",
@@ -587,7 +636,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -598,7 +647,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -609,7 +658,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
