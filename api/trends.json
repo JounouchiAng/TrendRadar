@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T11:45:12.606905+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2025-10-29T12:20:31.333791+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时20分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时13分 ~ 11时45分]"
+          "appearance_count": 9,
+          "time_info": "[05时13分 ~ 12时20分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -69,6 +69,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 04时16分]"
+        },
+        {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时20分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -83,28 +95,17 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时45分]"
-        },
-        {
           "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
           "url": "https://www.cls.cn/detail/2184178",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时20分]"
         },
         {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
@@ -114,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时20分]"
         },
         {
           "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
@@ -261,6 +262,19 @@
           "time_info": "07时13分"
         },
         {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时20分]"
+        },
+        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -354,18 +368,6 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 11时45分]"
-        },
-        {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
           "url": "https://flash.jin10.com/detail/20251029050455312800",
           "source": "金十数据",
@@ -422,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-29）",
+          "url": "https://flash.jin10.com/detail/20251029115936965800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
@@ -750,8 +763,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 11时45分]"
+          "appearance_count": 8,
+          "time_info": "[06时12分 ~ 12时20分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -941,7 +954,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
