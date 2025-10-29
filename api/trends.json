@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T05:18:19.834538+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T06:15:57.307632+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 17,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -26,19 +26,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
-          "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
-          "url": "https://flash.jin10.com/detail/20251030041807561800",
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
+          "url": "https://wallstreetcn.com/livenews/2996241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
+          "url": "https://flash.jin10.com/detail/20251030054121006800",
           "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：AI模型的全球日活用户数已经超过7500万。",
+          "url": "https://wallstreetcn.com/livenews/2996240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -48,19 +70,76 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
+          "url": "https://wallstreetcn.com/livenews/2996239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
+          "url": "https://flash.jin10.com/detail/20251030053716449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
+          "url": "https://wallstreetcn.com/livenews/2996232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
+          "url": "https://flash.jin10.com/detail/20251030041807561800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
           "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -70,19 +149,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
           "title": "中方回应黄仁勋称美AI芯片需出口中国",
           "url": "https://www.toutiao.com/trending/7566339492316024361/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "AI热潮助推云业务增长 谷歌营收飙升",
+          "url": "https://flash.jin10.com/detail/20251030044830557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时15分"
+        },
+        {
+          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
+          "url": "https://wallstreetcn.com/livenews/2996222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
@@ -99,7 +201,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -117,11 +219,23 @@
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
+          "url": "https://wallstreetcn.com/livenews/2996231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时15分"
         },
         {
           "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
@@ -144,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/2996221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
@@ -182,29 +307,65 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251030055035230800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
         {
           "title": "微软(MSFT.O)CFO：本财年开局强劲，收入、营业利润和每股收益均超出预期。",
           "url": "https://flash.jin10.com/detail/20251030041746465800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         },
         {
           "title": "微软(MSFT.O)CFO：微软云持续强劲，反映出客户对我们差异化平台日益增长的需求。",
           "url": "https://flash.jin10.com/detail/20251030041721100800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "微软(MSFT.O)：第一财季Azure和其他云服务收入增长40%。",
+          "url": "https://flash.jin10.com/detail/20251030041206368800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
+        },
+        {
+          "title": "微软季度净利同比增长12% Azure云端收入增长40%",
+          "url": "https://flash.jin10.com/detail/20251030045448137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "06时15分"
         },
         {
           "title": "微软第一财季营收776.7亿美元，分析师预期755.5亿美元。 第一财季云营收491亿美元，分析师预期486亿美元。 第一财季智能云收入309亿美元，分析师预期301.8亿美元。 第一财季Azure和其他云营收（剔除汇率因素）增长39%，分析师预期增长37.1%。 第一财季资本开支（含租赁）为349亿美元，分析师预期300.6亿美元。 公司将在分析师电话会议上提供业绩指引。",
@@ -212,17 +373,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "微软(MSFT.O)：第一财季Azure和其他云服务收入增长40%。",
-          "url": "https://flash.jin10.com/detail/20251030041206368800",
-          "source": "金十数据",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -239,11 +389,12 @@
           "url": "https://www.zhihu.com/question/628909140",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         }
       ]
     },
@@ -256,11 +407,12 @@
           "url": "https://wallstreetcn.com/livenews/2996212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时15分]"
         }
       ]
     }
