@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T19:12:15.690404+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-10-30T20:24:29.991868+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -43,11 +43,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时24分]"
         },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -98,6 +99,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时18分 ~ 08时59分]"
+        },
+        {
+          "title": "Meta拟发行六部分美元债券，应对AI支出激增",
+          "url": "https://flash.jin10.com/detail/20251030201342896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -348,6 +360,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "日本央行行长植田和男：但如果人工智能的预期未能实现，可能会出现一些调整。",
           "url": "https://flash.jin10.com/detail/20251030145623991800",
           "source": "金十数据",
@@ -489,12 +512,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -506,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[07时13分 ~ 20时24分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -519,8 +553,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时59分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时59分 ~ 20时24分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -536,6 +570,17 @@
           "time_info": "[07时13分 ~ 15时13分]"
         },
         {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
           "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
@@ -546,6 +591,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时13分 ~ 16时19分]"
+        },
+        {
+          "title": "福克斯公司美股盘前上涨5%，第一季度利润和收入超出预期。",
+          "url": "https://flash.jin10.com/detail/20251030201728930800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -568,17 +624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
-          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
@@ -657,7 +702,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -714,7 +759,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -739,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "Roblox三季度营收14亿美元。 Roblox预计四季度营收13.5亿美元-14亿美元。 Roblox预计全财年预订额为65.7亿美元至66.2亿美，此前预计58.7亿美元-59.7亿美元。 Roblox美股盘前涨逾10%。",
+          "url": "https://wallstreetcn.com/livenews/2996909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
@@ -992,8 +1048,19 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "微软 office 的图标怎么变了？",
+          "url": "https://www.zhihu.com/question/1966435210687149095",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
         {
           "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
           "url": "https://flash.jin10.com/detail/20251030055035230800",
