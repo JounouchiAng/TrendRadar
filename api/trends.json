@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-30T08:59:58.708061+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2025-10-30T10:41:41.189172+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 10时41分]"
+        },
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
           "url": "https://www.cls.cn/detail/2185058",
@@ -32,27 +44,15 @@
           "time_info": "[05时18分 ~ 08时59分]"
         },
         {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 08时59分]"
-        },
-        {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
           "url": "https://www.cls.cn/detail/2185393",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时41分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
@@ -61,7 +61,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -197,6 +197,18 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时41分]"
+        },
+        {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
           "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
@@ -221,6 +233,18 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时41分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
           "url": "https://flash.jin10.com/detail/20251030055159688800",
           "source": "金十数据",
@@ -243,15 +267,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
+          "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
+          "url": "https://wallstreetcn.com/livenews/2996393",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "10时41分"
         },
         {
           "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
@@ -298,24 +322,206 @@
           "time_info": "07时13分"
         },
         {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "三星电子：第三季度芯片业务营业利润达7万亿韩元。 2026年将重点研发HBM4处理器。 受第四季度人工智能投资持续增长推动，半导体市场预计将保持强劲。 2025年第四季度，晶圆代工业务将力争持续提升盈利能力。 向所有客户销售HBM3E芯片。 在美国的泰勒晶圆工厂将于2026年开始运营。",
           "url": "https://wallstreetcn.com/livenews/2996306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "三星电子：HBM3E目前处于量产阶段，它被出售给所有相关客户。 正在向主要客户提供HBM4样品。",
+          "url": "https://wallstreetcn.com/livenews/2996331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子股价涨逾3%。",
+          "url": "https://flash.jin10.com/detail/20251030082312816800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子：将于2026年开始运营美国泰勒工厂。",
+          "url": "https://flash.jin10.com/detail/20251030081347705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子公布第三季度业绩后，股价扩大涨幅至5.1%，刷新历史高位。",
+          "url": "https://wallstreetcn.com/livenews/2996321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子：第三季度营收86万亿韩元（公司预计为86万亿韩元）；三季度营业利润12.2万亿韩元（公司预计为12.1万亿韩元），移动业务营业利润3.6万亿韩元，芯片业务营业利润7万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20251030080801790800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子：2026年存储芯片资本支出预计将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20251030100254618800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子：内存芯片价格上涨加重手机业务成本负担。",
+          "url": "https://flash.jin10.com/detail/20251030100155087800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "因客户需求上升，三星考虑扩大HBM产能。",
+          "url": "https://wallstreetcn.com/livenews/2996395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子：第三季度晶圆代工亏损大幅收窄。",
+          "url": "https://flash.jin10.com/detail/20251030100104605800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子：预计第四季度晶圆代工收益将进一步提升。",
+          "url": "https://flash.jin10.com/detail/20251030100058049800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子股价涨幅扩大至3.7%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/2996311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子：对明年下半年的地缘政治不确定性持谨慎态度。",
+          "url": "https://flash.jin10.com/detail/20251030095602089800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子：预计2026年移动和PC内存芯片将面临供应限制。",
+          "url": "https://flash.jin10.com/detail/20251030095458676800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子预计全年资本支出47.4万亿韩元，预计全年芯片业务资本支出40.9万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/2996307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "三星电子：考虑明年扩大HBM生产。",
+          "url": "https://flash.jin10.com/detail/20251030095317367800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子：2026年HBM销售额将大幅高于今年，已锁定明年HBM客户的需求。",
+          "url": "https://flash.jin10.com/detail/20251030095304646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "三星电子第三季度净利润12.01万亿韩元，预估9.29万亿韩元。 第三季度营业利润12.17万亿韩元。 第三季度销售额86.06万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/2996302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
@@ -331,11 +537,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时41分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -346,8 +553,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时41分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -373,26 +580,28 @@
           "time_info": "[05时18分 ~ 06时15分]"
         },
         {
-          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
-          "url": "https://www.toutiao.com/trending/7566623844883431451/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
           "url": "https://wallstreetcn.com/articles/3758225",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时41分]"
+        },
+        {
+          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
+          "url": "https://www.toutiao.com/trending/7566623844883431451/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 10时41分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -486,102 +695,8 @@
       ]
     },
     {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "三星电子：HBM3E目前处于量产阶段，它被出售给所有相关客户。 正在向主要客户提供HBM4样品。",
-          "url": "https://wallstreetcn.com/livenews/2996331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子股价涨逾3%。",
-          "url": "https://flash.jin10.com/detail/20251030082312816800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：将于2026年开始运营美国泰勒工厂。",
-          "url": "https://flash.jin10.com/detail/20251030081347705800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子公布第三季度业绩后，股价扩大涨幅至5.1%，刷新历史高位。",
-          "url": "https://wallstreetcn.com/livenews/2996321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：第三季度营收86万亿韩元（公司预计为86万亿韩元）；三季度营业利润12.2万亿韩元（公司预计为12.1万亿韩元），移动业务营业利润3.6万亿韩元，芯片业务营业利润7万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251030080801790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子股价涨幅扩大至3.7%，此前发布财报。",
-          "url": "https://wallstreetcn.com/livenews/2996311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子预计全年资本支出47.4万亿韩元，预计全年芯片业务资本支出40.9万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/2996307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子第三季度净利润12.01万亿韩元，预估9.29万亿韩元。 第三季度营业利润12.17万亿韩元。 第三季度销售额86.06万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/2996302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Microsoft 微软",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
@@ -644,6 +759,17 @@
           "time_info": "[05时18分 ~ 06时15分]"
         },
         {
+          "title": "微软正在调查云服务和OFFICE.COM宕机问题。",
+          "url": "https://wallstreetcn.com/livenews/2996396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
           "title": "微软第一财季营收776.7亿美元，分析师预期755.5亿美元。 第一财季云营收491亿美元，分析师预期486亿美元。 第一财季智能云收入309亿美元，分析师预期301.8亿美元。 第一财季Azure和其他云营收（剔除汇率因素）增长39%，分析师预期增长37.1%。 第一财季资本开支（含租赁）为349亿美元，分析师预期300.6亿美元。 公司将在分析师电话会议上提供业绩指引。",
           "url": "https://wallstreetcn.com/livenews/2996202",
           "source": "华尔街见闻-快讯",
@@ -664,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "微软365确认服务运行状况基本恢复。",
+          "url": "https://flash.jin10.com/detail/20251030095744791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         },
         {
           "title": "微软盘后跌5%。",
