@@ -1,1457 +1,150 @@
 {
-  "generated_at": "2025-10-30T23:14:53.132480+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2025-10-31T00:16:55.975449+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 49,
-      "titles": [
-        {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时18分 ~ 19时12分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时13分 ~ 18时14分]"
-        },
-        {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时18分 ~ 20时24分]"
-        },
-        {
-          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
-          "url": "https://www.cls.cn/detail/2185569",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时59分 ~ 16时19分]"
-        },
-        {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时13分]"
-        },
-        {
-          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
-          "url": "https://www.cls.cn/detail/2185058",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时13分]"
-        },
-        {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 08时59分]"
-        },
-        {
-          "title": "UP主自制的AI眼镜发布了",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 23时14分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落终结7连阳，AI硬件端遭重挫，锂矿股逆势爆发",
-          "url": "https://www.cls.cn/detail/2186433",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
-        },
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 23时14分]"
-        },
-        {
-          "title": "壳牌(SHEL.N)CEO：人工智能正在提升上游业务表现。",
-          "url": "https://flash.jin10.com/detail/20251030224331616800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "Meta拟发行六部分美元债券，应对AI支出激增",
-          "url": "https://flash.jin10.com/detail/20251030201342896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时13分]"
-        },
-        {
-          "title": "OpenAI回应筹备IPO",
-          "url": "https://flash.jin10.com/detail/20251030082103049800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-30）",
-          "url": "https://flash.jin10.com/detail/20251030120122104800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时13分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)：收购Marimo，以统一生成式AI开发者的工作流程。",
-          "url": "https://flash.jin10.com/detail/20251030224155150800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
-          "url": "https://wallstreetcn.com/livenews/2996241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
-          "url": "https://flash.jin10.com/detail/20251030054121006800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet CEO Pichai：AI模型的全球日活用户数已经超过7500万。",
-          "url": "https://wallstreetcn.com/livenews/2996240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "三星电子：由于第四季度人工智能投资势头持续，预计半导体市场将保持强劲。",
-          "url": "https://flash.jin10.com/detail/20251030080923325800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
-          "url": "https://wallstreetcn.com/livenews/2996239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "微软因投资OpenAI而面临31亿美元冲击。",
-          "url": "https://wallstreetcn.com/livenews/2996237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
-          "url": "https://flash.jin10.com/detail/20251030053716449800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 08时59分]"
-        },
-        {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 08时59分]"
-        },
-        {
-          "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
-          "url": "https://flash.jin10.com/detail/20251030041807561800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
-          "url": "https://wallstreetcn.com/livenews/2996232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
-          "url": "https://wallstreetcn.com/livenews/2996211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
-          "url": "https://www.zhihu.com/question/1966652250177893275",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时21分]"
-        },
-        {
-          "title": "AI热潮助推云业务增长 谷歌营收飙升",
-          "url": "https://flash.jin10.com/detail/20251030044830557800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/1963343251323969618",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时21分]"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 23时14分]"
-        },
-        {
-          "title": "黄金暴涨暴跌AI都被问冒烟了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8CAI%E9%83%BD%E8%A2%AB%E9%97%AE%E5%86%92%E7%83%9F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259A%25B4%25E6%25B6%25A8%25E6%259A%25B4%25E8%25B7%258CAI%25E9%2583%25BD%25E8%25A2%25AB%25E9%2597%25AE%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%2523%26pos%3D26%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26display_time%3D1761795343%26pre_seqid%3D1761795343004026496314",
-          "source": "微博",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时15分]"
-        },
-        {
-          "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
-          "url": "https://flash.jin10.com/detail/20251030055159688800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "Alphabet的CEO Pichai：谷歌将在2025年年底发布“显著改善的”Gemini。",
-          "url": "https://wallstreetcn.com/livenews/2996256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "日本央行行长植田和男：但如果人工智能的预期未能实现，可能会出现一些调整。",
-          "url": "https://flash.jin10.com/detail/20251030145623991800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
-          "url": "https://wallstreetcn.com/livenews/2996393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "日本央行行长植田和男：食品通胀的临时因素仍然很大。 预计大米价格增速将放缓。 如果AI预期令人失望，将会有调整。 消费者信心略有改善。 无法确定中性利率。 贸易政策、海外经济的不确定性仍在继续。 观察企业对明年工资谈判的立场。",
-          "url": "https://wallstreetcn.com/livenews/2996546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967183428639266693",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "日本央行行长植田和男：人工智能推动当前繁荣，预计生产将增加。",
-          "url": "https://flash.jin10.com/detail/20251030145453126800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
-          "url": "https://wallstreetcn.com/livenews/2996222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "谷歌首席商务官Philipp Schindler：超过20亿用户在搜索时看到人工智能（AI）提炼的概括信息。 搜索AI模型得到购物“试用”（try-on）的巩固。",
-          "url": "https://wallstreetcn.com/livenews/2996249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
-          "url": "https://flash.jin10.com/detail/20251030041058553800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席财务官（CFO）Anat Ashkenazi：谷歌云增速得到企业AI产品的支持。",
-          "url": "https://wallstreetcn.com/livenews/2996247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
-          "url": "https://wallstreetcn.com/livenews/2996996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "金十整理：英伟达市值突破5万亿美元并非终点，AI泡沫远未到破裂之时？",
-          "url": "https://flash.jin10.com/detail/20251030174803116800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。 美国经济目前表现强劲。 AI影响强劲，而关税影响显现缓慢。 自4月份以来，我们面临的下行风险有所减弱。 不就贝森特的言论发表评论。 希望再评估一下数据。",
-          "url": "https://wallstreetcn.com/livenews/2996540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "三星电子：第三季度芯片业务营业利润达7万亿韩元。 2026年将重点研发HBM4处理器。 受第四季度人工智能投资持续增长推动，半导体市场预计将保持强劲。 2025年第四季度，晶圆代工业务将力争持续提升盈利能力。 向所有客户销售HBM3E芯片。 在美国的泰勒晶圆工厂将于2026年开始运营。",
-          "url": "https://wallstreetcn.com/livenews/2996306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "央行科技司副司长周祥昆：加快落实出台“人工智能+金融”的相关政策文件",
-          "url": "https://wallstreetcn.com/livenews/2996531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 38,
+      "match_count": 5,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
           "url": "https://wallstreetcn.com/articles/3758166",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时13分 ~ 23时14分]"
-        },
-        {
-          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
-          "url": "https://wallstreetcn.com/articles/3758225",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时59分 ~ 23时14分]"
-        },
-        {
-          "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
-          "url": "https://www.cls.cn/detail/2185493",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 15时13分]"
-        },
-        {
-          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时27分]"
-        },
-        {
-          "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时19分]"
-        },
-        {
-          "title": "福克斯公司美股盘前上涨5%，第一季度利润和收入超出预期。",
-          "url": "https://flash.jin10.com/detail/20251030201728930800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
-          "url": "https://wallstreetcn.com/livenews/2996221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时14分]"
+          "time_info": "00时16分"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2186836",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "市场“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
+          "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
-        },
-        {
-          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251030214126559800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.8%，谷歌A涨约5%，Meta跌约12%",
-          "url": "https://wallstreetcn.com/livenews/2996980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
-          "url": "https://flash.jin10.com/detail/20251030160543864800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)美股盘前上涨7.3%，此前其季度业绩超预期，并上调了资本支出展望。",
-          "url": "https://flash.jin10.com/detail/20251030160443441800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "00时16分"
         },
         {
-          "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
-          "url": "https://www.toutiao.com/trending/7566623844883431451/",
-          "source": "今日头条",
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            16,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时15分]"
-        },
-        {
-          "title": "好未来第二财季净营收8.614亿美元，预估8.305亿美元。 第二财季调整后每ADS收益 0.24美元，预估0.16美元。 好未来美股盘前涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/2996704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "诺和诺德提交收购Metséra公司的提案，竞标价格为每股56.50美元现金，外加每股21.25美元的CVR（或有价值权）。Metséra美股盘前大涨超18%。",
-          "url": "https://wallstreetcn.com/livenews/2996760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "礼来美股盘前涨超6%，公司上调2025财年指引",
-          "url": "https://wallstreetcn.com/livenews/2996836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
-          "url": "https://wallstreetcn.com/livenews/2996476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时21分]"
-        },
-        {
-          "title": "美股跌幅扩大，纳指跌超1%，标普500指数跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/2996983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时14分]"
-        },
-        {
-          "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
-          "url": "https://wallstreetcn.com/livenews/2996231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2996947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时14分]"
-        },
-        {
-          "title": "美股三大股指集体低开 Meta跌逾11%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+Meta%E8%B7%8C%E9%80%BE11%25",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时14分]"
-        },
-        {
-          "title": "Metséra美股盘前大涨18.7%，诺和诺德提出以每股56.50美元收购Metséra。",
-          "url": "https://flash.jin10.com/detail/20251030175441997800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "00时16分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
           "url": "https://wallstreetcn.com/livenews/2997005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美股盘前：谷歌A涨约7%，Meta跌约7%",
-          "url": "https://wallstreetcn.com/livenews/2996606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "Merck & Co三季度销售额172.8亿美元，预估169.6亿美元。 三季度经调整后每股收益2.58美元，上年同期1.57美元。 Merck & Co预计全财年销售额645亿美元-650亿美元，此前预估643亿美元-653亿美元。 Merck & Co预计全财年经调整后每股收益8.93美元-8.98美元，此前预估8.87美元-8.97美元。 Merck & Co美股盘前涨近3%后转跌，现跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/2996828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
-          "url": "https://wallstreetcn.com/livenews/2996204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "微软美股盘后跌幅收窄至3.4%。",
-          "url": "https://wallstreetcn.com/livenews/2996252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "Roblox三季度营收14亿美元。 Roblox预计四季度营收13.5亿美元-14亿美元。 Roblox预计全财年预订额为65.7亿美元至66.2亿美，此前预计58.7亿美元-59.7亿美元。 Roblox美股盘前涨逾10%。",
-          "url": "https://wallstreetcn.com/livenews/2996909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
-          "url": "https://wallstreetcn.com/livenews/2996201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
-          "url": "https://wallstreetcn.com/livenews/2996221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美股数字货币概念股下跌，嘉楠科技跌超7%，Coinbase Global跌近4%，MARA Holdings跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/2996997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "美股低开 Meta开盘跌11%",
-          "url": "https://flash.jin10.com/detail/20251030213041785800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
-          "url": "https://flash.jin10.com/detail/20251030040729871800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251030040527140800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251030040526552800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 17,
+      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
+      "match_count": 4,
       "titles": [
         {
-          "title": "三星电子：HBM3E目前处于量产阶段，它被出售给所有相关客户。 正在向主要客户提供HBM4样品。",
-          "url": "https://wallstreetcn.com/livenews/2996331",
-          "source": "华尔街见闻-快讯",
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "00时16分"
         },
         {
-          "title": "三星电子股价涨逾3%。",
-          "url": "https://flash.jin10.com/detail/20251030082312816800",
-          "source": "金十数据",
+          "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
+          "url": "https://wallstreetcn.com/livenews/2997044",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "00时16分"
         },
         {
-          "title": "三星电子：将于2026年开始运营美国泰勒工厂。",
-          "url": "https://flash.jin10.com/detail/20251030081347705800",
-          "source": "金十数据",
+          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
+          "source": "澎湃新闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "00时16分"
         },
         {
-          "title": "三星电子公布第三季度业绩后，股价扩大涨幅至5.1%，刷新历史高位。",
-          "url": "https://wallstreetcn.com/livenews/2996321",
+          "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。 Competitive Power Ventures将修建1,350 MW二叠纪盆地天然气工厂。 Devon、Coterra、Diamondback Energy将向得克萨斯州天然气工厂供应天然气。",
+          "url": "https://wallstreetcn.com/livenews/2997025",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：第三季度营收86万亿韩元（公司预计为86万亿韩元）；三季度营业利润12.2万亿韩元（公司预计为12.1万亿韩元），移动业务营业利润3.6万亿韩元，芯片业务营业利润7万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251030080801790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：2026年存储芯片资本支出预计将大幅增长。",
-          "url": "https://flash.jin10.com/detail/20251030100254618800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子：内存芯片价格上涨加重手机业务成本负担。",
-          "url": "https://flash.jin10.com/detail/20251030100155087800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "因客户需求上升，三星考虑扩大HBM产能。",
-          "url": "https://wallstreetcn.com/livenews/2996395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子：第三季度晶圆代工亏损大幅收窄。",
-          "url": "https://flash.jin10.com/detail/20251030100104605800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子：预计第四季度晶圆代工收益将进一步提升。",
-          "url": "https://flash.jin10.com/detail/20251030100058049800",
-          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子股价涨幅扩大至3.7%，此前发布财报。",
-          "url": "https://wallstreetcn.com/livenews/2996311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：对明年下半年的地缘政治不确定性持谨慎态度。",
-          "url": "https://flash.jin10.com/detail/20251030095602089800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子：预计2026年移动和PC内存芯片将面临供应限制。",
-          "url": "https://flash.jin10.com/detail/20251030095458676800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子预计全年资本支出47.4万亿韩元，预计全年芯片业务资本支出40.9万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/2996307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "三星电子：考虑明年扩大HBM生产。",
-          "url": "https://flash.jin10.com/detail/20251030095317367800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子：2026年HBM销售额将大幅高于今年，已锁定明年HBM客户的需求。",
-          "url": "https://flash.jin10.com/detail/20251030095304646800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星电子第三季度净利润12.01万亿韩元，预估9.29万亿韩元。 第三季度营业利润12.17万亿韩元。 第三季度销售额86.06万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/2996302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
           "title": "微软 office 的图标怎么变了？",
           "url": "https://www.zhihu.com/question/1966435210687149095",
           "source": "知乎",
           "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 23时14分]"
-        },
-        {
-          "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
-          "url": "https://flash.jin10.com/detail/20251030055035230800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "微软(MSFT.O)CFO：本财年开局强劲，收入、营业利润和每股收益均超出预期。",
-          "url": "https://flash.jin10.com/detail/20251030041746465800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "微软(MSFT.O)CFO：微软云持续强劲，反映出客户对我们差异化平台日益增长的需求。",
-          "url": "https://flash.jin10.com/detail/20251030041721100800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "微软季度净利同比增长12% Azure云端收入增长40%",
-          "url": "https://flash.jin10.com/detail/20251030045448137800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "微软(MSFT.O)：第一财季Azure和其他云服务收入增长40%。",
-          "url": "https://flash.jin10.com/detail/20251030041206368800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "微软正在调查云服务和OFFICE.COM宕机问题。",
-          "url": "https://wallstreetcn.com/livenews/2996396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "微软第一财季营收776.7亿美元，分析师预期755.5亿美元。 第一财季云营收491亿美元，分析师预期486亿美元。 第一财季智能云收入309亿美元，分析师预期301.8亿美元。 第一财季Azure和其他云营收（剔除汇率因素）增长39%，分析师预期增长37.1%。 第一财季资本开支（含租赁）为349亿美元，分析师预期300.6亿美元。 公司将在分析师电话会议上提供业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/2996202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "微软预计第二财季营收将为795亿-806亿美元。 预计第二财季Azure按恒定汇率将增长37%。 预计第二财季资本开支将季环比增长。 预计2026财年资本开支增速将比2025财年更加陡峭。",
-          "url": "https://wallstreetcn.com/livenews/2996250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "微软365确认服务运行状况基本恢复。",
-          "url": "https://flash.jin10.com/detail/20251030095744791800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "微软盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/2996245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "比特币向下触及108000美元/枚，日内跌1.88%。",
-          "url": "https://flash.jin10.com/detail/20251030123306578800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "周三（10月29日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.17%，逼近11.1万美元，北京时间02:40（美联储主席鲍威尔淡化12月降息前景之后不久）刷新日低至接近10.9万美元。 CME以太币期货DCR主力合约跌1.25%，报3934.50美元，日内交投于4041.50-3838.50美元区间。",
-          "url": "https://wallstreetcn.com/livenews/2996212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时15分]"
-        },
-        {
-          "title": "比特币失守109000美元/枚，日内跌幅0.96%。",
-          "url": "https://flash.jin10.com/detail/20251030122632933800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "比特币目前跌2.6%，以太坊跌3.6%，Solana跌3.5%，狗狗币跌5.9%，XRP跌4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2996994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么我感觉现在苹果的手机广告并不比安卓少？",
-          "url": "https://www.zhihu.com/question/628909140",
-          "source": "知乎",
-          "ranks": [
-            5,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 08时59分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。焦煤涨超3%，工业硅、碳酸锂涨超2%，焦炭、丁二烯橡胶、聚氯乙烯（PVC）、聚氯乙烯（PVC）月均价期货、苹果、铁矿石涨超1%。跌幅方面，红枣跌超2%，生猪、燃料油跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251030113039385800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "富国银行上调黄金价格预期",
-          "url": "https://flash.jin10.com/detail/20251030212926775800",
-          "source": "金十数据",
+          "title": "携6.1万枚比特币出逃的钱志敏是谁",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%90%BA6.1%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E5%87%BA%E9%80%83%E7%9A%84%E9%92%B1%E5%BF%97%E6%95%8F%E6%98%AF%E8%B0%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%2590%25BA6.1%25E4%25B8%2587%25E6%259E%259A%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%2587%25BA%25E9%2580%2583%25E7%259A%2584%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E6%2598%25AF%25E8%25B0%2581%2523%26c_type%3D31%26dgr%3D0%26pos%3D6%26realpos%3D6%26band_rank%3D6%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1761840611%26pre_seqid%3D17618406111990242580108",
+          "source": "微博",
           "ranks": [
-            26
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "00时16分"
         }
       ]
     }
