@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T19:12:51.680846+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2025-10-31T20:26:39.260167+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -56,11 +56,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 19时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 20时26分]"
         },
         {
           "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
@@ -137,6 +138,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "市场消息：AI初创公司Poolside融资轮获超10亿美元认购承诺。",
           "url": "https://flash.jin10.com/detail/20251031032500123800",
           "source": "金十数据",
@@ -195,6 +207,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "小米可穿戴部创新产品业务负责人李创奇已离职，曾力推AI眼镜",
+          "url": "https://wallstreetcn.com/livenews/2997702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "OpenAI：使用GPT-5查找和修复安全漏洞的智能体Aardvark现已进入私密测试阶段（private beta）。",
           "url": "https://wallstreetcn.com/livenews/2997144",
           "source": "华尔街见闻-快讯",
@@ -241,6 +264,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时13分]"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "英伟达与韩国企业达成人工智能协议",
@@ -521,6 +555,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "Getty Images：合作涵盖在Perplexity基于人工智能的搜索与发现工具中展示来自Getty Images的图片。",
+          "url": "https://flash.jin10.com/detail/20251031200221203800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
           "url": "https://flash.jin10.com/detail/20251031141930569800",
           "source": "金十数据",
@@ -612,7 +657,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -623,11 +668,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 20时26分]"
         },
         {
           "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
@@ -649,7 +695,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -944,7 +990,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -958,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "杰富瑞：将苹果(AAPL.O)评级从跑输大盘上调至持有，将目标价从203.07美元上调至246美元。",
+          "url": "https://flash.jin10.com/detail/20251031201702402800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "苹果盘后涨超5%。",
@@ -1010,15 +1067,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "李在镕出席活动感慨苹果手机多",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E9%95%95%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E6%84%9F%E6%85%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -1029,8 +1097,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时13分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[07时13分 ~ 20时26分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -1127,6 +1195,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "艾伯维第三季度净利润157.8亿美元，预期155.9亿美元。 第三季度经调整后美股收益1.86美元。 艾伯维预计全财年经调整后每股收益10.61美元-10.65美元，此前预估10.38美元-10.58美元。 艾伯维美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/2997706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
           "url": "https://flash.jin10.com/detail/20251031044225667800",
           "source": "金十数据",
@@ -1156,7 +1235,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1203,7 +1282,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
