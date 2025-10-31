@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T02:18:58.607290+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-11-01T03:11:54.161204+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -122,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -133,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -183,8 +183,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
+        },
+        {
+          "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
@@ -193,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -226,11 +237,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时11分]"
         }
       ]
     },
@@ -246,8 +258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         }
       ]
     }
