@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T04:14:29.090977+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-11-02T05:12:15.270625+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 05时12分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -53,8 +53,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 05时12分]"
         }
       ]
     },
@@ -72,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -85,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -98,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时12分]"
         }
       ]
     },
@@ -115,8 +126,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时12分]"
         }
       ]
     }
