@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T01:10:36.031500+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2025-11-02T02:16:10.249001+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -27,8 +27,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "time_info": "[02时15分 ~ 02时16分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -36,11 +47,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
         }
       ]
     },
@@ -57,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -66,11 +78,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -81,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时16分]"
         }
       ]
     },
@@ -98,8 +111,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时16分]"
         }
       ]
     }
