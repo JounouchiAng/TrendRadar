@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T22:12:31.698190+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-11-01T23:12:24.880589+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时16分 ~ 22时12分]"
+          "appearance_count": 30,
+          "time_info": "[00时16分 ~ 23时12分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[09时00分 ~ 21时19分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时13分 ~ 23时12分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -62,20 +76,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 09时01分]"
-        },
-        {
-          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
-          "url": "https://wallstreetcn.com/articles/3758470",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 22时12分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -109,11 +109,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时12分]"
         },
         {
           "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
@@ -148,7 +149,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "中美在AI治理路径上的分歧成焦点",
+          "url": "https://www.toutiao.com/trending/7567396544937705510/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
@@ -258,8 +270,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时13分 ~ 22时12分]"
+          "appearance_count": 21,
+          "time_info": "[07时13分 ~ 23时12分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -275,8 +287,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时13分 ~ 22时12分]"
+          "appearance_count": 21,
+          "time_info": "[07时13分 ~ 23时12分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -292,6 +304,18 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时16分 ~ 15时13分]"
+        },
+        {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时12分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -344,18 +368,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时15分 ~ 09时01分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -480,11 +492,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时12分]"
         },
         {
           "title": "伯克希尔哈撒韦Q3前五大重仓股公允价值合计占比66% 持仓继续集中在美国运通、苹果等",
