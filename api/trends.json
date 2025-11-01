@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T11:40:03.947996+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-11-01T12:16:32.872177+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -27,21 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 11时40分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -53,8 +40,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 12时16分]"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时16分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -123,6 +124,17 @@
           "time_info": "[05时13分 ~ 09时01分]"
         },
         {
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 12时16分]"
+        },
+        {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
           "url": "https://wallstreetcn.com/livenews/2997896",
           "source": "华尔街见闻-快讯",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 09时01分]"
-        },
-        {
-          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
-          "url": "https://www.cls.cn/detail/2188453",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 11时40分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -209,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 11时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时16分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -251,8 +252,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 12时16分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -273,11 +274,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时16分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -307,11 +309,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时16分]"
         },
         {
           "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
@@ -385,8 +388,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 12时16分]"
         },
         {
           "title": "比特币站上110000美元/枚，日内涨0.39%。",
@@ -394,11 +397,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 12时16分]"
         },
         {
           "title": "美国联邦检察官指控比特币ATM助长加密货币诈骗。",
@@ -519,8 +523,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 12时16分]"
         },
         {
           "title": "黄仁勋约韩国财阀吃炸鸡，调侃李在镕：我用三星产品时你还小",
