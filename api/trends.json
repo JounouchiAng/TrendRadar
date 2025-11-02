@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T17:12:22.089614+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2025-11-02T18:12:33.147431+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时17分 ~ 17时12分]"
+          "appearance_count": 9,
+          "time_info": "[12时17分 ~ 18时12分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -91,6 +92,21 @@
           "time_info": "[00时14分 ~ 07时13分]"
         },
         {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 18时12分]"
+        },
+        {
           "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/2998082",
           "source": "华尔街见闻-快讯",
@@ -120,20 +136,6 @@
           "time_info": "[14时20分 ~ 17时12分]"
         },
         {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 17时12分]"
-        },
-        {
           "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
           "url": "https://flash.jin10.com/detail/20251102112751487800",
           "source": "金十数据",
@@ -148,6 +150,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时43分 ~ 16时16分]"
+        },
+        {
+          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
+          "url": "https://wallstreetcn.com/livenews/2998096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            11,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 18时12分]"
         },
         {
           "title": "广州海珠成立人工智能百人会",
@@ -165,18 +182,19 @@
           "time_info": "[13时12分 ~ 17时12分]"
         },
         {
-          "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
-          "url": "https://wallstreetcn.com/livenews/2998096",
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
             4,
-            11,
-            15
+            7,
+            14,
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 17时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 18时12分]"
         },
         {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
@@ -187,20 +205,6 @@
             5,
             16,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 17时12分]"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -291,11 +295,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时12分]"
         },
         {
           "title": "“十月连涨神话”破灭！比特币本月跌近5%，六年来首次十月收跌",
