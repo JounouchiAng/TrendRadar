@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:12:33.147431+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2025-11-02T19:10:01.073508+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,27 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 18时12分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 19时10分]"
+        },
+        {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 19时10分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -90,21 +106,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 18时12分]"
         },
         {
           "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
@@ -296,11 +297,12 @@
           "ranks": [
             1,
             9,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时16分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
           "title": "“十月连涨神话”破灭！比特币本月跌近5%，六年来首次十月收跌",
