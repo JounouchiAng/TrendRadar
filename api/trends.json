@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T20:23:03.985204+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-11-02T21:20:01.702588+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -57,11 +57,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 20时23分]"
+          "appearance_count": 12,
+          "time_info": "[14时20分 ~ 21时20分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -75,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 20时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 21时20分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -224,6 +225,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时20分 ~ 17时12分]"
+        },
+        {
+          "title": "AI医疗为何引发巨头押注",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
         },
         {
           "title": "AI革命美国企业疯狂裁员背后",
