@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T19:10:01.073508+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-11-02T20:23:03.985204+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -49,21 +49,6 @@
           "time_info": "[00时14分 ~ 15时12分]"
         },
         {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 19时10分]"
-        },
-        {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
@@ -75,8 +60,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 19时10分]"
+          "appearance_count": 10,
+          "time_info": "[14时20分 ~ 20时23分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 20时23分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
