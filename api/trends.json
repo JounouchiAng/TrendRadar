@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T08:59:59.833459+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-11-03T10:47:51.819960+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时47分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -40,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 10时47分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -116,9 +118,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "奥尔特曼称OpenAI年收入远超130亿美元",
@@ -127,7 +140,35 @@
           "ranks": [
             14
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币向下触及109000美元/枚，日内跌1.42%。以太坊失守3800美元/枚，日内跌幅2.85%。",
+          "url": "https://flash.jin10.com/detail/20251103103219815800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "以太坊失守3900美元/枚，日内跌幅0.17%。",
+          "url": "https://flash.jin10.com/detail/20251103080422782800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         }
@@ -152,23 +193,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "以太坊失守3900美元/枚，日内跌幅0.17%。",
-          "url": "https://flash.jin10.com/detail/20251103080422782800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         }
       ]
     }
