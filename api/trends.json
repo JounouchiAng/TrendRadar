@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T02:19:51.464379+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2025-11-04T03:13:10.207650+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -90,11 +90,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时13分]"
         },
         {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
@@ -136,7 +137,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -162,22 +163,24 @@
           "url": "https://flash.jin10.com/detail/20251104013142595800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251104013024718800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时13分]"
         },
         {
           "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
@@ -216,7 +219,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌超4%、以太坊跌超8%",
@@ -228,6 +231,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 02时19分]"
+        },
+        {
+          "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌近5%、以太坊跌近9%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 03时13分]"
         },
         {
           "title": "以太坊跌破3600美元/枚，日内跌近8%。",
@@ -289,8 +303,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时13分]"
         }
       ]
     },
