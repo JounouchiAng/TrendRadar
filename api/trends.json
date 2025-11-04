@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T14:21:19.967814+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-11-04T15:13:58.773564+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 15时13分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时13分 ~ 14时21分]"
+          "appearance_count": 11,
+          "time_info": "[06时13分 ~ 15时13分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -50,11 +50,24 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时16分 ~ 14时21分]"
+          "appearance_count": 15,
+          "time_info": "[04时16分 ~ 15时13分]"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时13分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -91,16 +104,33 @@
           "time_info": "[00时15分 ~ 07时14分]"
         },
         {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            11,
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时13分]"
+        },
+        {
+          "title": "AI还原福建舰电磁弹射全过程",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时13分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -115,33 +145,6 @@
           "time_info": "[04时16分 ~ 06时13分]"
         },
         {
-          "title": "AI还原福建舰电磁弹射全过程",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 14时21分]"
-        },
-        {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 14时21分]"
-        },
-        {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
           "url": "https://www.cls.cn/detail/2190043",
           "source": "财联社热门",
@@ -152,30 +155,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 14时21分]"
-        },
-        {
-          "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251104005124475800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时13分]"
         },
         {
           "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
           "url": "https://www.cls.cn/detail/2190328",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -187,8 +180,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时28分 ~ 15时13分]"
+        },
+        {
+          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
+          "url": "https://www.cls.cn/detail/2190323",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时13分]"
+        },
+        {
+          "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251104005124475800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-04）",
@@ -211,18 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
-        },
-        {
-          "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
-          "url": "https://www.cls.cn/detail/2190323",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 14时21分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
@@ -285,6 +289,18 @@
           "time_info": "[11时42分 ~ 12时16分]"
         },
         {
+          "title": "马斯克：体力劳动更难被AI取代",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时13分]"
+        },
+        {
           "title": "美联储理事库克：人工智能可能对劳动力市场产生重大负面影响。",
           "url": "https://flash.jin10.com/detail/20251104032547273800",
           "source": "金十数据",
@@ -320,15 +336,15 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "马斯克：体力劳动更难被AI取代",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "百度热搜",
+          "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
+          "url": "https://www.zhihu.com/question/1923534024288236685",
+          "source": "知乎",
           "ranks": [
-            27
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "AI识人术",
@@ -421,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时13分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -467,7 +483,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -478,7 +494,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -492,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/2999015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -539,6 +544,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时13分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2999015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时13分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
@@ -659,7 +676,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
@@ -672,8 +689,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时13分]"
         },
         {
           "title": "标普道指早盘转跌，加密货币跳水，盘中比特币跌超4%、以太坊跌超8%",
@@ -698,6 +715,18 @@
           "time_info": "[03时12分 ~ 03时13分]"
         },
         {
+          "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
+          "url": "https://wallstreetcn.com/articles/3758598",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时13分]"
+        },
+        {
           "title": "以太坊跌破3600美元/枚，日内跌近8%。",
           "url": "https://flash.jin10.com/detail/20251103233552106800",
           "source": "金十数据",
@@ -720,24 +749,13 @@
           "time_info": "00时15分"
         },
         {
-          "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
-          "url": "https://wallstreetcn.com/articles/3758598",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "比特币跌破105000美元/枚，日内跌1.51%。",
           "url": "https://flash.jin10.com/detail/20251104134512153800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -781,11 +799,12 @@
           "url": "https://wallstreetcn.com/livenews/2999010",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时13分]"
         },
         {
           "title": "比特币财库公交公司Strategy Inc.（MSTR）计划通过欧元区IPO发行STRE股票。",
@@ -799,6 +818,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "哈萨克斯坦国家石油运输公司：十月份通过巴库—第比利斯—杰伊汗（BTC）管道运输的哈萨克石油出口总量为27000吨。",
+          "url": "https://flash.jin10.com/detail/20251104143704451800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.74%，逼近10.7万美元。 CME以太币期货DCR主力合约跌7.70%，报3608.50美元，全天持续震荡下行，北京时间23:26出现一波相对显著的加速下跌行情。",
           "url": "https://wallstreetcn.com/livenews/2998776",
           "source": "华尔街见闻-快讯",
@@ -808,6 +838,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "商品期货收盘，集运欧线主力合约涨超3%，菜籽粕涨超1%。红枣跌超5%，碳酸锂跌超4%，多晶硅跌近4%，苹果、焦煤、乙二醇、焦炭、工业硅、BR橡胶跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/2999055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约大面积飘绿，红枣跌超5%，碳酸锂跌超4%，多晶硅跌超3%，苹果、焦煤、乙二醇、焦炭、BR橡胶、工业硅、菜籽、沥青跌超2%。涨幅方面，集运欧线涨超3%，菜粕涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251104150056437800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "苹果将推出网页版AppStore",
+          "url": "https://wallstreetcn.com/livenews/2999029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时13分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，菜粕涨超1%，沪锌涨近1%。跌幅方面，红枣跌超4%，碳酸锂、油菜籽跌超3%，多晶硅、BR橡胶跌超2%，乙二醇、苹果、沥青、甲醇、20号胶跌近2%。",
+          "url": "https://flash.jin10.com/detail/20251104113103449800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时16分]"
         }
       ]
     },
@@ -862,35 +944,6 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果将推出网页版AppStore",
-          "url": "https://wallstreetcn.com/livenews/2999029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，菜粕涨超1%，沪锌涨近1%。跌幅方面，红枣跌超4%，碳酸锂、油菜籽跌超3%，多晶硅、BR橡胶跌超2%，乙二醇、苹果、沥青、甲醇、20号胶跌近2%。",
-          "url": "https://flash.jin10.com/detail/20251104113103449800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -905,8 +958,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 15时13分]"
         }
       ]
     }
