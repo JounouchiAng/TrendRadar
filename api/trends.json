@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-06T05:12:41.010416+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2025-11-06T06:12:59.459165+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
           "url": "https://www.cls.cn/detail/2192067",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -25,11 +26,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -39,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -51,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -66,17 +68,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
-          "url": "https://wallstreetcn.com/livenews/3000096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -88,15 +79,16 @@
           "time_info": "01时13分"
         },
         {
-          "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
-          "url": "https://flash.jin10.com/detail/20251106043443479800",
-          "source": "金十数据",
+          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
+          "url": "https://wallstreetcn.com/livenews/3000096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
         },
         {
           "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
@@ -109,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
+          "url": "https://flash.jin10.com/detail/20251106043443479800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
         },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
@@ -147,6 +151,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1969338787738906634",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
+        },
+        {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -157,18 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时13分]"
-        },
-        {
-          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1969338787738906634",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -201,7 +205,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -212,7 +216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -223,7 +227,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -234,7 +238,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -245,9 +249,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "Snap三季度营收15.1亿美元，分析师预期14.9亿美元。 三季度日活用户数4.77亿，分析师预期4.7631亿。 三季度调整后EBITDA为1.82亿美元，分析师预期1.242亿美元。 预计四季度营收16.8亿-17.1亿美元，分析师预期16.9亿美元。 Snap与Perplexity构建合作伙伴关系，将向SnapChat提供人工智能（AI）搜索功能。 Snap美股盘后涨15.99%。",
+          "url": "https://wallstreetcn.com/livenews/3000106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -275,7 +290,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 16,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -286,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -298,8 +313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -311,8 +326,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 06时12分]"
+        },
+        {
+          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3000125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3000124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "Metsera美股盘后涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -327,6 +375,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时18分 ~ 05时12分]"
+        },
+        {
+          "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
+          "url": "https://wallstreetcn.com/livenews/3000120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
@@ -374,12 +433,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时13分]"
+        },
+        {
+          "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
+          "url": "https://wallstreetcn.com/livenews/3000117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051410709800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051116318800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 超微电脑跌11%",
+          "url": "https://flash.jin10.com/detail/20251106050116805800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "币圈再度血流成河！比特币6月以来首次跌破10万大关，以太币暴跌10%",
@@ -417,6 +520,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时12分]"
+        },
+        {
+          "title": "周三（11月5日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.07%，至10.4万美元上方，全天持续震荡上行，亚太盘初出现一波V形反转。 CME以太币期货DCR主力合约涨6.96%，报3451.00美元。",
+          "url": "https://wallstreetcn.com/livenews/3000112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "以太坊向上触及3400美元/枚，日内涨3.44%。",
