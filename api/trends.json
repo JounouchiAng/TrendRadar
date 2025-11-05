@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:12:59.459165+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-11-06T07:14:24.486008+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -260,7 +261,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -290,7 +291,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -301,8 +302,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时14分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -326,41 +327,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时14分]"
         },
         {
-          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3000125",
-          "source": "华尔街见闻-快讯",
+          "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3000124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "Metsera美股盘后涨6.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -377,15 +356,62 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
           "url": "https://wallstreetcn.com/livenews/3000120",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3000125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
+          "title": "费城金银指数收涨2.64%，报272.02点。 纽约证交所ARCA金矿开采商指数收涨2.61%，报1976.44点，北京时间22:30美股开盘之前微幅下跌、持稳于1925点附近，之后“跳空”上涨、持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3000124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
+          "title": "Metsera美股盘后涨6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时14分]"
         },
         {
           "title": "美股三大期指窄幅震荡 市场聚焦特朗普关税听证会 | 今夜看点",
@@ -423,6 +449,18 @@
           "time_info": "[02时18分 ~ 03时13分]"
         },
         {
+          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051410709800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
           "title": "美股延续涨势，纳指涨幅达1%，道指现涨0.75%，标普500指数涨0.83%。",
           "url": "https://flash.jin10.com/detail/20251106013722040800",
           "source": "金十数据",
@@ -435,35 +473,25 @@
           "time_info": "[02时18分 ~ 03时13分]"
         },
         {
+          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251106051116318800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
           "title": "美妆公司E.l.f. Beauty美股盘后下跌30%。",
           "url": "https://wallstreetcn.com/livenews/3000117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051410709800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251106051116318800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -474,7 +502,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -528,7 +556,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -560,6 +588,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高通：预计将在三星手机维持75%的（配件供应）份额。",
+          "url": "https://wallstreetcn.com/livenews/3000129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
