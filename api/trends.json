@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:16:01.394902+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2025-11-06T18:16:06.232056+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 08时58分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 18时16分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -62,30 +76,17 @@
           "time_info": "[08时57分 ~ 15时13分]"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 17时16分]"
-        },
-        {
           "title": "华为Mate 70 Air评测",
           "url": "https://www.douyin.com/hot/2296483",
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 18时16分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -129,6 +130,20 @@
           "time_info": "[08时57分 ~ 10时43分]"
         },
         {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 18时16分]"
+        },
+        {
           "title": "日本执政党：希望每年投入1万亿日元用于芯片和人工智能",
           "url": "https://flash.jin10.com/detail/20251106102034608800",
           "source": "金十数据",
@@ -162,6 +177,30 @@
           "time_info": "08时58分"
         },
         {
+          "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3000470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 18时16分]"
+        },
+        {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -173,28 +212,15 @@
           "time_info": "01时13分"
         },
         {
-          "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
-          "url": "https://wallstreetcn.com/livenews/3000470",
-          "source": "华尔街见闻-快讯",
+          "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
+          "url": "https://flash.jin10.com/detail/20251106173500148800",
+          "source": "金十数据",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时16分]"
+          "time_info": "18时16分"
         },
         {
           "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
@@ -244,24 +270,24 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 18时16分]"
+        },
+        {
           "title": "新闻女王2AI取代真人",
           "url": "https://www.douyin.com/hot/2296420",
           "source": "抖音",
           "ranks": [
             24,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时16分]"
-        },
-        {
-          "title": "黄仁勋直白表态：中国AI将击败美国",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -363,6 +389,17 @@
           "time_info": "[01时13分 ~ 02时18分]"
         },
         {
+          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
           "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
           "url": "https://flash.jin10.com/detail/20251106010654630800",
           "source": "金十数据",
@@ -373,17 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时13分]"
-        },
-        {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "新闻女王 AI盗播",
@@ -521,18 +547,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时57分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 18时16分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -620,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -765,6 +803,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "高通(QCOM.O)美股股价盘前下跌2.7%，此前该公司表示预计明年可能因三星而损失部分业务。",
+          "url": "https://flash.jin10.com/detail/20251106172212943800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
           "url": "https://flash.jin10.com/detail/20251106050116805800",
           "source": "金十数据",
@@ -874,11 +923,12 @@
           "source": "微博",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 18时16分]"
         },
         {
           "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
