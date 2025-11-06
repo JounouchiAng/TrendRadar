@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T19:12:21.461902+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2025-11-06T20:26:31.760697+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 08时58分]"
+        },
+        {
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 20时26分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -49,20 +63,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 11时44分]"
-        },
-        {
-          "title": "华为Mate 70 Air评测",
-          "url": "https://www.douyin.com/hot/2296483",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 19时12分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -178,17 +178,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
-          "url": "https://wallstreetcn.com/livenews/3000520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
           "url": "https://wallstreetcn.com/livenews/3000470",
           "source": "华尔街见闻-快讯",
@@ -199,6 +188,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "央视曝光AI假冒艺人直播",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "黄仁勋直白表态：中国AI将击败美国",
@@ -224,6 +227,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "英伟达(NVDA.O)投资的Vast Data公司与CoreWeave签署11.7亿美元人工智能合作协议。",
+          "url": "https://flash.jin10.com/detail/20251106201237676800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
           "url": "https://flash.jin10.com/detail/20251106173500148800",
           "source": "金十数据",
@@ -233,19 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
-        },
-        {
-          "title": "央视曝光AI假冒艺人直播",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
@@ -258,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
+          "url": "https://wallstreetcn.com/livenews/3000520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时26分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-06）",
@@ -277,7 +290,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -378,6 +391,18 @@
           "time_info": "[04时14分 ~ 06时12分]"
         },
         {
+          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时26分]"
+        },
+        {
           "title": "AI算力大战打到太空",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%88%98%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA",
           "source": "bilibili 热搜",
@@ -411,17 +436,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
@@ -519,7 +533,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -574,7 +588,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -585,7 +599,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -615,8 +629,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时57分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时57分 ~ 20时26分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -878,7 +892,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -984,7 +998,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果喊话iPhone13和14用户换新机",
@@ -999,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时17分 ~ 19时12分]"
+        },
+        {
+          "title": "苹果喊话iPhone13和14用户换新机",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
