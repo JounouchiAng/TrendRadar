@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T10:43:01.031107+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2025-11-06T11:44:31.784608+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -29,11 +29,12 @@
             4,
             7,
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时44分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -54,11 +55,12 @@
             24,
             22,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 10时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时44分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -66,11 +68,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时44分]"
         },
         {
           "title": "如何评价 Claude 中断对 Trae 的供应，谁的损失更大？",
@@ -90,7 +93,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -259,6 +262,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "“万维网之父”：人工智能可能会重塑互联网的金钱逻辑",
+          "url": "https://www.cls.cn/detail/2192368",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "OpenAI CFO：市场过于关注AI领域可能出现的泡沫",
           "url": "https://flash.jin10.com/detail/20251106042109787800",
           "source": "金十数据",
@@ -320,7 +334,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -331,7 +345,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -361,7 +375,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -410,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 10时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 11时44分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -421,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时44分]"
         },
         {
           "title": "美股泡沫有多大？瑞银给出七个观测指标",
@@ -433,19 +447,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时43分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时44分]"
         },
         {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
           "url": "https://www.cls.cn/detail/2192518",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 11时44分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -611,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     },
