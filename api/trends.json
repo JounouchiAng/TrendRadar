@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-11-06T21:28:38.123227+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2025-11-06T22:16:01.405501+08:00",
+  "total_titles_processed": 2046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "华为Mate 70 Air评测",
-          "url": "https://www.douyin.com/hot/2296483",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时13分 ~ 21时28分]"
-        },
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
           "url": "https://www.cls.cn/detail/2192067",
@@ -33,6 +19,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 08时58分]"
+        },
+        {
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            6,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 22时16分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -145,6 +146,18 @@
           "time_info": "[08时57分 ~ 10时43分]"
         },
         {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时16分]"
+        },
+        {
           "title": "央视曝光AI假冒艺人直播",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
           "source": "百度热搜",
@@ -199,7 +212,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -256,9 +269,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)AI组建超级智能团队，该团队将由苏莱曼领导。",
+          "url": "https://flash.jin10.com/detail/20251106221421640800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "新研究指出：AI能力或因有缺陷的测试而被夸大",
@@ -272,35 +296,13 @@
           "time_info": "18时16分"
         },
         {
-          "title": "英国央行行长贝利：看到就业低迷，公司招聘减少。 我们可能会出现人工智能泡沫。 关注对金融稳定的影响。 泡沫破裂将收紧金融环境。 我希望看到更多证据表明通胀已过峰值。",
-          "url": "https://wallstreetcn.com/livenews/3000587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "据CNBC：谷歌(GOOG.O)正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
           "url": "https://flash.jin10.com/detail/20251106211009167800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -373,6 +375,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "英国央行行长贝利：看到就业低迷，公司招聘减少。 我们可能会出现人工智能泡沫。 关注对金融稳定的影响。 泡沫破裂将收紧金融环境。 我希望看到更多证据表明通胀已过峰值。",
+          "url": "https://wallstreetcn.com/livenews/3000587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时16分]"
         },
         {
           "title": "新闻女王2AI取代真人",
@@ -528,6 +542,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "“万维网之父”：人工智能可能会重塑互联网的金钱逻辑",
           "url": "https://www.cls.cn/detail/2192368",
           "source": "财联社热门",
@@ -644,7 +669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -688,7 +713,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -699,7 +724,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -707,7 +732,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -718,8 +743,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时57分 ~ 21时28分]"
+          "appearance_count": 20,
+          "time_info": "[08时57分 ~ 22时16分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -809,6 +834,39 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2193483",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普上任一年美股跑输全球大盘",
           "url": "https://www.toutiao.com/trending/7569232858510790187/",
           "source": "今日头条",
@@ -832,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -997,6 +1066,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106220221302800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普称美股将再创新高",
           "url": "https://www.toutiao.com/trending/7569403413117537838/",
           "source": "今日头条",
@@ -1109,11 +1189,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时16分]"
         },
         {
           "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
@@ -1132,11 +1213,12 @@
           "url": "https://www.zhihu.com/question/1969525122005164073",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时16分]"
         },
         {
           "title": "看胡连馨还珠无法保持苹果肌扁平",
