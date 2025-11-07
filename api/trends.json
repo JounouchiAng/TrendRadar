@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T02:18:43.955725+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2025-11-08T03:12:25.872198+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时12分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -27,8 +27,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 03时12分]"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时12分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -72,7 +73,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -102,7 +103,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -113,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时12分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -124,14 +125,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时12分]"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持人工智能。",
+          "url": "https://flash.jin10.com/detail/20251108022405006800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "计划表显示，12月份阿塞拜疆BTC原油从杰伊汉港的出口量将为1700万桶，高于11月份的1530万桶。",
@@ -155,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时12分]"
+        },
+        {
+          "title": "以太坊突破3400美元/枚，日内涨2.57%。",
+          "url": "https://flash.jin10.com/detail/20251108021317695800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -188,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时12分]"
         }
       ]
     },
