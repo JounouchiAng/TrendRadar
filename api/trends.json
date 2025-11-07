@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:19:39.124567+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-11-07T17:14:15.362820+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 16时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 17时14分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时12分 ~ 16时19分]"
+          "appearance_count": 15,
+          "time_info": "[06时12分 ~ 17时14分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -68,8 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时28分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 17时14分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -80,8 +80,24 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 17时14分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "time_info": "[10时28分 ~ 17时14分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -100,19 +116,19 @@
           "time_info": "[00时16分 ~ 14时23分]"
         },
         {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            8,
-            9,
             10,
-            7
+            12,
+            13,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[10时28分 ~ 16时19分]"
+          "time_info": "[11时41分 ~ 17时14分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -128,20 +144,6 @@
           "time_info": "[00时16分 ~ 13时15分]"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 16时19分]"
-        },
-        {
           "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
           "url": "https://flash.jin10.com/detail/20251107000255306800",
           "source": "金十数据",
@@ -151,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
+          "url": "https://wallstreetcn.com/livenews/3001120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
@@ -180,6 +193,17 @@
           "time_info": "[08时57分 ~ 12时17分]"
         },
         {
+          "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
+          "url": "https://wallstreetcn.com/livenews/3001112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
           "url": "https://wallstreetcn.com/livenews/3000863",
           "source": "华尔街见闻-快讯",
@@ -197,7 +221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -295,6 +319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时17分]"
+        },
+        {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时14分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
@@ -405,17 +441,6 @@
           "time_info": "[11时42分 ~ 12时17分]"
         },
         {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "新兴市场教父麦朴思：人工智能股票料将回调，因为企业支出过高。",
           "url": "https://flash.jin10.com/detail/20251107121644538800",
           "source": "金十数据",
@@ -436,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
+        },
+        {
+          "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
+          "url": "https://www.cls.cn/detail/2193935",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
@@ -529,7 +565,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -539,8 +575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 17时14分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -606,6 +642,17 @@
           "time_info": "[07时12分 ~ 07时13分]"
         },
         {
+          "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251107170234164800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3000764",
           "source": "华尔街见闻-快讯",
@@ -615,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特斯拉美股盘前涨近2%，公司股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%。",
+          "url": "https://wallstreetcn.com/livenews/3001114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
