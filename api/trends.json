@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T22:12:46.759483+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-11-09T23:11:29.650220+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -73,6 +73,20 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时14分 ~ 18时13分]"
+        },
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 23时11分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -158,19 +172,6 @@
           "time_info": "[09时00分 ~ 22时12分]"
         },
         {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 22时12分]"
-        },
-        {
           "title": "AI一键格桑花儿开转场",
           "url": "https://www.douyin.com/hot/2299288",
           "source": "抖音",
@@ -185,31 +186,6 @@
           "time_info": "[09时00分 ~ 17时12分]"
         },
         {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 22时12分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时12分]"
-        },
-        {
           "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
           "url": "https://wallstreetcn.com/livenews/3001665",
           "source": "华尔街见闻-快讯",
@@ -218,11 +194,39 @@
             6,
             17,
             20,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时11分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 23时11分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时11分]"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -253,6 +257,19 @@
           "time_info": "[09时01分 ~ 13时13分]"
         },
         {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时11分]"
+        },
+        {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
           "url": "https://wallstreetcn.com/articles/3758964",
           "source": "华尔街见闻",
@@ -275,19 +292,6 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时12分]"
-        },
-        {
           "title": "研究员：AI或取代绝大部分人类工作",
           "url": "https://www.toutiao.com/trending/7570635868688354825/",
           "source": "今日头条",
@@ -305,11 +309,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时21分 ~ 22时12分]"
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 23时11分]"
         },
         {
           "title": "GAI首场体育场演唱会现场",
@@ -410,11 +415,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 23时11分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -426,6 +432,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比特币突破104000美元/枚，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20251109223544425800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国交通部长Duffy：随着感恩节临近，美国空中交通将放缓至“一个缓慢的状态”。 各大机场缺少1000-2000名空管人员。 航空出行方式仍然是安全的，空管人员超时工作。 飞行员们抱怨空管人员响应不如以往那么积极。 战争部长Hegseth称可能会（从空军）抽调一些空管人员。",
+          "url": "https://wallstreetcn.com/livenews/3001706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
+          "url": "https://flash.jin10.com/detail/20251109222710203800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
