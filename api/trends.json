@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-09T17:12:38.985156+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-09T18:13:18.745974+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时11分 ~ 17时12分]"
-        },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
           "url": "https://wallstreetcn.com/articles/3758970",
@@ -32,6 +20,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时14分 ~ 10时45分]"
+        },
+        {
+          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
+          "url": "https://www.zhihu.com/question/1970150431255684262",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[03时11分 ~ 18时13分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -69,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时14分 ~ 17时12分]"
+          "appearance_count": 25,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -137,8 +138,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 17时12分]"
+          "appearance_count": 13,
+          "time_info": "[09时00分 ~ 18时13分]"
+        },
+        {
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -155,28 +169,17 @@
           "time_info": "[09时00分 ~ 17时12分]"
         },
         {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 17时12分]"
-        },
-        {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
           "url": "https://flash.jin10.com/detail/20251109154126817800",
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 18时13分]"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
@@ -192,6 +195,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时01分 ~ 13时13分]"
+        },
+        {
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -222,9 +247,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时13分]"
         },
         {
           "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
@@ -261,6 +286,17 @@
           "time_info": "[00时14分 ~ 01时12分]"
         },
         {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "14岁男生回应作文被质疑借助AI",
           "url": "https://www.toutiao.com/trending/7570134993897422890/",
           "source": "今日头条",
@@ -270,12 +306,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
@@ -292,6 +339,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时14分 ~ 16时16分]"
+        },
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -346,11 +404,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%8B%B9%E6%9E%9C%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D8%26band_rank%3D8%26c_type%3D31%26flag%3D1%26pos%3D9%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25AF%258F%25E5%25A4%25A91%25E4%25B8%25AA%25E8%258B%25B9%25E6%259E%259C%25E8%25BA%25AB%25E4%25BD%2593%25E6%259C%2589%25E4%25BB%2580%25E4%25B9%2588%25E5%258F%2598%25E5%258C%2596%2523%26lcate%3D5001%26display_time%3D1762678060%26pre_seqid%3D176267806092301620304112&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时13分]"
         }
       ]
     },
