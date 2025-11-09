@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T21:19:16.704722+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-09T22:12:46.759483+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -154,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 21时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -167,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 22时12分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -190,11 +190,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时19分]"
+          "time_info": "[21时19分 ~ 22时12分]"
         },
         {
           "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
@@ -204,22 +217,12 @@
             4,
             6,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时19分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -272,6 +275,19 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "研究员：AI或取代绝大部分人类工作",
           "url": "https://www.toutiao.com/trending/7570635868688354825/",
           "source": "今日头条",
@@ -284,17 +300,16 @@
           "time_info": "[18时13分 ~ 19时11分]"
         },
         {
-          "title": "GAI演唱会江湖流大合唱",
-          "url": "https://www.douyin.com/hot/2300262",
-          "source": "抖音",
+          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            23,
-            21
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时19分]"
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时12分]"
         },
         {
           "title": "GAI首场体育场演唱会现场",
@@ -332,18 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时11分 ~ 20时21分]"
-        },
-        {
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31927340",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时19分]"
         },
         {
           "title": "GAI庆功宴王鹤棣送8万红包",
@@ -406,11 +409,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
