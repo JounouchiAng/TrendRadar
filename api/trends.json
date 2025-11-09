@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T12:15:44.335287+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-11-09T13:13:13.865237+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时11分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[03时11分 ~ 13时13分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 12时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 13时13分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -72,11 +72,12 @@
             20,
             15,
             22,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 12时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 13时13分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -103,11 +104,12 @@
             5,
             8,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时11分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[05时11分 ~ 13时13分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
@@ -118,8 +120,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 13时13分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -130,8 +132,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 13时13分]"
+        },
+        {
+          "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
+          "url": "https://flash.jin10.com/detail/20251109085033064800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16,
+            20,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 13时13分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -167,20 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
-          "url": "https://flash.jin10.com/detail/20251109085033064800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 12时15分]"
         },
         {
           "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
@@ -241,11 +244,12 @@
             2,
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 12时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 13时13分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -275,8 +279,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 12时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 13时13分]"
         }
       ]
     },
