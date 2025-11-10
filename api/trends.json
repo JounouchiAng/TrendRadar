@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T20:25:41.306716+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-11-10T21:34:14.033352+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 20时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 21时34分]"
         },
         {
           "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
@@ -83,8 +83,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时25分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 21时34分]"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
@@ -284,7 +284,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -421,13 +421,24 @@
           "time_info": "[17时16分 ~ 18时17分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
           "title": "钢琴奶奶给AI打分评歌",
           "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -452,12 +463,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.2%，现货黄金大涨2%，比特币拉涨4%",
@@ -514,6 +536,28 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
+          "title": "美政府关门有望结束，全球风险资产走高，纳指期货涨超1.4%，现货黄金突破4100美元/盎司，比特币拉涨3%",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
+          "title": "MicroStrategy在11月3日至11月9日期间以平均价10.26万美元购入487枚比特币，累计支出约4990万美元。",
+          "url": "https://wallstreetcn.com/livenews/3002179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "比特币升破106000美元。以太坊升破3600美元。",
           "url": "https://wallstreetcn.com/livenews/3001801",
           "source": "华尔街见闻-快讯",
@@ -523,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "Strategy(MSTR.O)以4990万美元的总价购入487枚比特币。",
+          "url": "https://flash.jin10.com/detail/20251110210349804800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
@@ -555,11 +610,12 @@
           "url": "https://wallstreetcn.com/livenews/3002142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时34分]"
         }
       ]
     },
@@ -601,11 +657,12 @@
           "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时34分]"
         },
         {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
@@ -670,8 +727,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 20时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时34分]"
         },
         {
           "title": "商品期货收盘，碳酸锂主力合约涨超7%，沪银涨超2%，沪金涨2%，苹果、氧化铝、纸浆、液化气、纯碱、工业硅、原油、多晶硅涨超1%。玻璃跌超2%，集运欧线、焦炭、沥青、鸡蛋跌超1%。",
@@ -776,11 +833,12 @@
           "url": "https://wallstreetcn.com/livenews/3002151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时34分]"
         }
       ]
     }
