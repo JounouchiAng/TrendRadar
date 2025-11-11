@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T19:12:25.619827+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2025-11-11T20:24:36.592992+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -78,8 +78,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时16分 ~ 19时12分]"
+          "appearance_count": 28,
+          "time_info": "[00时16分 ~ 20时24分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -153,11 +153,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时24分]"
         },
         {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
@@ -184,15 +185,15 @@
           "time_info": "13时14分"
         },
         {
-          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002756",
+          "title": "上海市新增2款已完成备案的生成式人工智能服务，累计已完成106款生成式人工智能服务备案。（网信上海）",
+          "url": "https://wallstreetcn.com/livenews/3002800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "20时24分"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -231,6 +232,18 @@
           "time_info": "17时15分"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
+        },
+        {
           "title": "消息人士：C3 AI在领导层变动后考虑出售事宜。",
           "url": "https://flash.jin10.com/detail/20251111044214840800",
           "source": "金十数据",
@@ -264,6 +277,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
+        },
+        {
           "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
           "url": "https://flash.jin10.com/detail/20251111004153687800",
           "source": "金十数据",
@@ -273,6 +297,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
@@ -286,15 +324,16 @@
           "time_info": "01时13分"
         },
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
+          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3002756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -319,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        },
-        {
-          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
-          "url": "https://wallstreetcn.com/articles/3759084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "曝富士康拆除iPhoneAir大部分生产线",
@@ -376,19 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时19分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
@@ -490,7 +505,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -515,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3002781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-11）",
@@ -594,6 +620,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "Meta首席AI科学家离职 公司AI战略加速重组",
+          "url": "https://flash.jin10.com/detail/20251111193748153800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "瑞银将美股标普500指数明年底目标设定为7500点，因AI驱动上涨行情。",
           "url": "https://wallstreetcn.com/livenews/3002375",
           "source": "华尔街见闻-快讯",
@@ -603,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://flash.jin10.com/detail/20251111193633322800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "软银首席财务官：无法判断我们是否处于AI泡沫之中。",
@@ -625,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "新增73款生成式人工智能服务在国家网信办完成备案",
+          "url": "https://wallstreetcn.com/livenews/3002762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "AI服务器初创公司Majestic Labs融资1亿美元。（CNBC）",
@@ -652,7 +711,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -834,6 +893,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "CoreWeave美股盘前跌超10%，公司三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引。瑞穗证券将CoreWeave目标价从150美元下调至120美元。",
+          "url": "https://wallstreetcn.com/livenews/3002786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "英伟达美股盘前跌幅扩大至1%，触及盘中低点。",
           "url": "https://wallstreetcn.com/livenews/3002712",
           "source": "华尔街见闻-快讯",
@@ -934,17 +1004,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "苹果推出新配件：1299元买“一块布”",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%85%8D%E4%BB%B6%EF%BC%9A1299%E5%85%83%E4%B9%B0%E2%80%9C%E4%B8%80%E5%9D%97%E5%B8%83%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "商品期货收盘，沪银主力合约涨超3%，沪金、菜籽油涨超2%，花生、碳酸锂、苹果、棕榈油涨超1%。焦煤、焦炭跌超3%，多晶硅跌超2%，集运欧线、玻璃、生猪跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3002585",
           "source": "华尔街见闻-快讯",
@@ -975,7 +1034,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -991,6 +1050,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时13分]"
+        },
+        {
+          "title": "苹果推出新配件：1299元买“一块布”",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%85%8D%E4%BB%B6%EF%BC%9A1299%E5%85%83%E4%B9%B0%E2%80%9C%E4%B8%80%E5%9D%97%E5%B8%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
