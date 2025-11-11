@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T04:14:59.941132+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-11-12T05:12:24.521965+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -38,8 +38,34 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
+        },
+        {
+          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20251112024020124800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 05时12分]"
+        },
+        {
+          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
+          "url": "https://wallstreetcn.com/livenews/3002943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 05时12分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -52,30 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
-          "url": "https://flash.jin10.com/detail/20251112024020124800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时14分]"
-        },
-        {
-          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
-          "url": "https://wallstreetcn.com/livenews/3002943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时14分]"
         },
         {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
@@ -175,8 +177,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时12分]"
         },
         {
           "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
@@ -288,22 +290,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 05时12分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
           "url": "https://www.cls.cn/detail/2197483",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时12分]"
         },
         {
           "title": "苹果推出新配件：1299元买“一块布”",
