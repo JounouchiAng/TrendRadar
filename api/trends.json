@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:43:05.761950+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-11-11T12:18:13.856889+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 11时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -27,11 +27,12 @@
             5,
             7,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 11时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -110,8 +111,34 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 12时18分]"
+        },
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时43分]"
+          "time_info": "[11时42分 ~ 12时18分]"
+        },
+        {
+          "title": "钢琴奶奶给AI打分评歌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 12时18分]"
         },
         {
           "title": "C3.ai(AI.N)盘中直线拉升，涨幅一度超10%。",
@@ -217,19 +244,6 @@
           "time_info": "[01时13分 ~ 02时19分]"
         },
         {
-          "title": "钢琴奶奶给AI打分评歌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 10时44分]"
-        },
-        {
           "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
           "url": "https://flash.jin10.com/detail/20251111031535141800",
           "source": "金十数据",
@@ -266,15 +280,15 @@
           "time_info": "[04时16分 ~ 05时12分]"
         },
         {
-          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
+          "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
+          "url": "https://www.zhihu.com/question/1971153219230066622",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -287,6 +301,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时19分]"
+        },
+        {
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -371,8 +396,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 11时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 12时18分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -384,8 +409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时43分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时18分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -395,8 +420,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时43分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 12时18分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -410,6 +435,18 @@
           "time_info": "[07时12分 ~ 07时13分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 12时18分]"
+        },
+        {
           "title": "CoreWeave美股盘后跌约7%。",
           "url": "https://wallstreetcn.com/livenews/3002358",
           "source": "华尔街见闻-快讯",
@@ -419,18 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 11时43分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -586,7 +611,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果界有自己的小甜心",
@@ -640,6 +665,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时58分 ~ 11时43分]"
+        },
+        {
+          "title": "苹果酸奶夹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%8B%B9%E6%9E%9C%E9%85%B8%E5%A5%B6%E5%A4%B9&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26band_rank%3D26%26stream_entry_id%3D31%26pos%3D27%26flag%3D1%26dgr%3D0%26lcate%3D5001%26realpos%3D26%26q%3D%25E8%258B%25B9%25E6%259E%259C%25E9%2585%25B8%25E5%25A5%25B6%25E5%25A4%25B9%26display_time%3D1762834597%26pre_seqid%3D176283459779801975170108&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "苹果的卫星互联网战略曝光！",
