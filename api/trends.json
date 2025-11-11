@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T06:13:48.901355+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-11-12T07:12:10.412171+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -38,19 +38,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
-          "url": "https://wallstreetcn.com/livenews/3002989",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
+          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "source": "金十数据",
           "ranks": [
-            5
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时12分"
         },
         {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
@@ -91,6 +91,18 @@
           "time_info": "[02时18分 ~ 03时10分]"
         },
         {
+          "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
+          "url": "https://wallstreetcn.com/livenews/3002989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
@@ -113,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
+          "url": "https://wallstreetcn.com/livenews/3002981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "AMD首席执行官苏姿丰：推理业务增长速度快于训练业务。人工智能加速器并未导致CPU市场放缓。",
@@ -163,15 +187,15 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
-          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
-          "url": "https://wallstreetcn.com/livenews/3002981",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
+          "url": "https://flash.jin10.com/detail/20251112054804540800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时12分"
         },
         {
           "title": "业内：AI把闪存链烧断了",
@@ -188,40 +212,78 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "AMD股价美股盘后涨4.5%。",
           "url": "https://wallstreetcn.com/livenews/3002982",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251112050821592800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050514200800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
+          "url": "https://flash.jin10.com/detail/20251112050055390800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -241,7 +303,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -255,28 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050514200800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
-          "url": "https://flash.jin10.com/detail/20251112050055390800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
@@ -315,19 +355,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时13分]"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
-          "url": "https://wallstreetcn.com/livenews/3002993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时12分]"
         },
         {
           "title": "比特币富婆钱志敏最高面临14年监禁",
@@ -338,11 +367,12 @@
             15,
             12,
             19,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
@@ -355,6 +385,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
+          "url": "https://wallstreetcn.com/livenews/3002993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "科技股估值忧虑重燃，纳指跌超0.5%，金银齐涨，比特币跌超1%",
@@ -385,6 +427,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
+          "url": "https://www.cls.cn/detail/2197483",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时12分]"
+        },
+        {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
           "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
@@ -396,18 +451,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时12分]"
-        },
-        {
-          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
-          "url": "https://www.cls.cn/detail/2197483",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时13分]"
         },
         {
           "title": "苹果推出新配件：1299元买“一块布”",
