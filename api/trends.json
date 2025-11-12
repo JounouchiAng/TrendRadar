@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T10:30:26.850507+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2025-11-12T11:41:24.529808+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 10时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 11时41分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -27,22 +28,62 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 10时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 11时41分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 10时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 11时41分]"
+        },
+        {
+          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
+          "url": "https://wallstreetcn.com/articles/3759111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时41分]"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时41分]"
+        },
+        {
+          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
+          "url": "https://www.cls.cn/detail/2197694",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时41分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -56,27 +97,50 @@
           "time_info": "08时58分"
         },
         {
-          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
-          "url": "https://wallstreetcn.com/articles/3759111",
-          "source": "华尔街见闻",
+          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20251112112600840800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时41分]"
+        },
+        {
+          "title": "美联储理事Barr：人工智能可能改变经济格局。",
+          "url": "https://wallstreetcn.com/livenews/3003138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
+          "url": "https://flash.jin10.com/detail/20251112111657771800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "11时41分"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -88,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
+          "url": "https://flash.jin10.com/detail/20251112111500000800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
@@ -140,18 +215,6 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
-          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
-          "url": "https://www.cls.cn/detail/2197694",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时30分]"
-        },
-        {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
@@ -164,16 +227,16 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
           "source": "财联社热门",
           "ranks": [
-            11,
+            13,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时30分]"
+          "time_info": "[10时30分 ~ 11时41分]"
         },
         {
           "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
@@ -259,17 +322,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
           "title": "中信建投人工智能2026年投资策略展望：国产AI芯片迎来高斜率增长期，应用商业化加速",
           "url": "https://wallstreetcn.com/livenews/3003041",
           "source": "华尔街见闻-快讯",
@@ -281,13 +333,24 @@
           "time_info": "08时58分"
         },
         {
+          "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
+          "url": "https://flash.jin10.com/detail/20251112110640547800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
           "url": "https://wallstreetcn.com/livenews/3003081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -315,11 +378,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时30分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -440,7 +504,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -506,13 +570,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "“比特币富婆”钱志敏被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7570823653735235647/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "比特币富婆钱志敏在床上被捕",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D12%26band_rank%3D11%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D11%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%25AF%258C%25E5%25A9%2586%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E5%259C%25A8%25E5%25BA%258A%25E4%25B8%258A%25E8%25A2%25AB%25E6%258D%2595%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1762914545%26pre_seqid%3D176291454562102442928&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -545,7 +620,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         }
@@ -574,11 +649,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时30分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时41分]"
         },
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -600,7 +676,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
