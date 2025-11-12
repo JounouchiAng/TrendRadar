@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:13:18.920931+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-11-12T20:25:15.563297+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时30分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时30分 ~ 20时25分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时16分 ~ 13时15分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时25分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 12时17分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 19时13分]"
         },
         {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
@@ -580,7 +580,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -638,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "工信部就《人工智能 安全治理 安全威胁情报共享技术要求》等325项行业标准、22项行业标准外文版、55项推荐性国家标准和3项推荐性国家标准外文版计划项目公开征集意见。",
+          "url": "https://wallstreetcn.com/livenews/3003388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -695,11 +706,12 @@
             20,
             24,
             15,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 20时25分]"
         },
         {
           "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
@@ -754,7 +766,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -955,8 +967,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -972,6 +984,18 @@
           "time_info": "[01时12分 ~ 08时58分]"
         },
         {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时25分]"
+        },
+        {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
           "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
@@ -983,17 +1007,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时12分]"
-        },
-        {
-          "title": "大哥路边卖苹果摆得整整齐齐",
-          "url": "https://www.toutiao.com/trending/7571416741918752810/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
         },
         {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
@@ -1024,6 +1037,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时25分]"
+        },
+        {
           "title": "报道称三星电子为晶圆代工业务设立2027年目标：重返盈利、市占达20%",
           "url": "https://wallstreetcn.com/livenews/3003055",
           "source": "华尔街见闻-快讯",
@@ -1033,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
         },
         {
           "title": "第 30 届三星杯，申真谞执黑不敌廖元赫，止步 16 强，如何评价本场比赛？",
