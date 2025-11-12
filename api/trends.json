@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:20:59.463603+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-12T15:13:58.003162+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 15时13分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -37,6 +37,31 @@
           "time_info": "[00时16分 ~ 13时15分]"
         },
         {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 15时13分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时13分]"
+        },
+        {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
           "source": "财联社热门",
@@ -51,16 +76,19 @@
           "time_info": "[08时58分 ~ 14时20分]"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13,
+            10,
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 15时13分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -74,33 +102,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时16分 ~ 12时17分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时20分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 14时20分]"
         },
         {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
@@ -124,8 +125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
@@ -162,17 +163,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
-          "url": "https://flash.jin10.com/detail/20251112140043328800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
           "url": "https://flash.jin10.com/detail/20251112111657771800",
           "source": "金十数据",
@@ -207,6 +197,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时12分]"
+        },
+        {
+          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
+          "url": "https://flash.jin10.com/detail/20251112140043328800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时13分]"
         },
         {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
@@ -258,6 +260,18 @@
           "time_info": "[11时41分 ~ 12时17分]"
         },
         {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时13分]"
+        },
+        {
           "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
           "url": "https://flash.jin10.com/detail/20251112111500000800",
           "source": "金十数据",
@@ -280,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
-          "url": "https://www.cls.cn/detail/2197833",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 14时20分]"
         },
         {
           "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
@@ -388,6 +391,28 @@
           "time_info": "07时12分"
         },
         {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "鸿海：预计第四季度人工智能服务器机架出货量将实现两位数以上的高增长。",
+          "url": "https://flash.jin10.com/detail/20251112142712726800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "中信建投人工智能2026年投资策略展望：国产AI芯片迎来高斜率增长期，应用商业化加速",
           "url": "https://wallstreetcn.com/livenews/3003041",
           "source": "华尔街见闻-快讯",
@@ -410,6 +435,17 @@
           "time_info": "13时15分"
         },
         {
+          "title": "鸿海：预计第四季度人工智能服务器收入将环比增长。",
+          "url": "https://flash.jin10.com/detail/20251112142110257800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
           "url": "https://wallstreetcn.com/livenews/3003081",
           "source": "华尔街见闻-快讯",
@@ -430,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
+          "url": "https://wallstreetcn.com/livenews/3003214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -448,8 +495,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 15时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -570,7 +617,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
@@ -606,11 +653,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时13分]"
         },
         {
           "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
@@ -681,6 +729,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "比特币洗钱案钱志敏奢靡生活披露",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "6万枚比特币洗钱案主犯在英获刑",
           "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E4%B8%BB%E7%8A%AF%E5%9C%A8%E8%8B%B1%E8%8E%B7%E5%88%91",
           "source": "百度热搜",
@@ -704,11 +763,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时13分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
