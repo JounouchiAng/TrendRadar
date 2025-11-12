@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-13T06:13:40.209051+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-11-13T07:13:40.513274+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
           "url": "https://wallstreetcn.com/articles/3759159",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -39,8 +40,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -54,6 +66,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
+          "url": "https://www.cls.cn/detail/2198606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时10分 ~ 07时13分]"
+        },
+        {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
           "url": "https://flash.jin10.com/detail/20251113004314289800",
           "source": "金十数据",
@@ -65,17 +88,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
-          "url": "https://flash.jin10.com/detail/20251113060235382800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
           "url": "https://wallstreetcn.com/articles/3759168",
           "source": "华尔街见闻",
@@ -85,17 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
-          "url": "https://www.cls.cn/detail/2198606",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 05时13分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
@@ -111,6 +112,18 @@
           "time_info": "[03时11分 ~ 05时13分]"
         },
         {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://flash.jin10.com/detail/20251113060235382800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
           "title": "圭亚那与Cerebras Systems Inc.（CBRS）围绕人工智能（AI）数据中心签署谅解备忘录。 Cerebras将在圭亚那数据中心部署CS-3 AI超算。",
           "url": "https://wallstreetcn.com/livenews/3003620",
           "source": "华尔街见闻-快讯",
@@ -121,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时13分]"
+        },
+        {
+          "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
+          "url": "https://flash.jin10.com/detail/20251113054057376800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -145,15 +170,15 @@
           "time_info": "04时15分"
         },
         {
-          "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
-          "url": "https://flash.jin10.com/detail/20251113054057376800",
-          "source": "金十数据",
+          "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
+          "url": "https://wallstreetcn.com/livenews/3003654",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时13分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计2026财年将从超大规模企业获得约30亿美元的人工智能基础设施收入。",
@@ -162,7 +187,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -173,9 +198,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://wallstreetcn.com/livenews/3003648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         },
         {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
@@ -201,22 +237,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
-        },
-        {
-          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3003643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -241,15 +267,16 @@
           "time_info": "05时13分"
         },
         {
-          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3003637",
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
@@ -258,9 +285,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "美股收盘：道指创新高 AMD涨9%",
@@ -288,19 +327,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
           "url": "https://www.zhihu.com/question/1971675577204306494",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
@@ -368,11 +408,12 @@
           "url": "https://wallstreetcn.com/livenews/3003639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
@@ -411,8 +452,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 07时13分]"
         },
         {
           "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
@@ -424,6 +465,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
         }
       ]
     },
