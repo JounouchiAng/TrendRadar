@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T11:41:24.529808+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-11-12T12:17:29.777238+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -41,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时17分]"
         },
         {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
@@ -57,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时17分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -69,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 12时17分]"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
@@ -82,8 +83,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时17分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时17分]"
+        },
+        {
+          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20251112112600840800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -97,50 +123,29 @@
           "time_info": "08时58分"
         },
         {
-          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
-          "url": "https://flash.jin10.com/detail/20251112112600840800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时41分]"
-        },
-        {
-          "title": "美联储理事Barr：人工智能可能改变经济格局。",
-          "url": "https://wallstreetcn.com/livenews/3003138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
           "url": "https://flash.jin10.com/detail/20251112111657771800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时30分 ~ 12时17分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -152,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
-          "url": "https://flash.jin10.com/detail/20251112111500000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
@@ -215,6 +209,30 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "美联储理事Barr：人工智能可能改变经济格局。",
+          "url": "https://wallstreetcn.com/livenews/3003138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
+          "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
+          "url": "https://flash.jin10.com/detail/20251112111500000800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
@@ -225,18 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 11时41分]"
         },
         {
           "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
@@ -311,6 +317,18 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
+          "url": "https://flash.jin10.com/detail/20251112110640547800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
           "url": "https://flash.jin10.com/detail/20251112054804540800",
           "source": "金十数据",
@@ -331,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
-          "url": "https://flash.jin10.com/detail/20251112110640547800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
@@ -382,8 +389,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时11分 ~ 11时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 12时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -576,9 +583,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时17分]"
         },
         {
           "title": "比特币富婆钱志敏在床上被捕",
@@ -653,8 +660,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时17分]"
         },
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
