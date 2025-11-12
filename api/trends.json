@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:15:26.110101+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2025-11-12T18:15:46.443840+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 17时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时30分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[10时30分 ~ 18时15分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -156,6 +156,18 @@
           "time_info": "[11时41分 ~ 12时17分]"
         },
         {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
           "title": "商汤在沙特共建人工智能创新中心",
           "url": "https://flash.jin10.com/detail/20251112124229582800",
           "source": "金十数据",
@@ -167,6 +179,17 @@
           "time_info": "13时15分"
         },
         {
+          "title": "英国金融行为监管局（FCA）：与新加坡金融管理局建立人工智能战略合作伙伴关系，进一步拓展国际布局。将在新加坡设立新机构。",
+          "url": "https://flash.jin10.com/detail/20251112175420485800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "OpenAI挖走英特尔印度大将",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
           "source": "bilibili 热搜",
@@ -176,17 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
@@ -218,7 +230,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -402,6 +414,18 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "上海市新增9款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3003310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：客户对人工智能的投资并未“趋于平稳”。",
           "url": "https://flash.jin10.com/detail/20251112022441940800",
           "source": "金十数据",
@@ -494,6 +518,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "Truist分析师：对特斯拉实体人工智能产品持怀疑态度",
+          "url": "https://flash.jin10.com/detail/20251112172925492800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "鸿海：我们当然会与OpenAI合作。",
           "url": "https://flash.jin10.com/detail/20251112154635082800",
           "source": "金十数据",
@@ -503,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
-        },
-        {
-          "title": "上海市新增9款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3003310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "鸿海：预计第四季度人工智能服务器机架出货量将实现两位数以上的高增长。",
@@ -602,6 +626,158 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时12分]"
+        },
+        {
+          "title": "“比特币富婆”钱志敏被捕画面曝光",
+          "url": "https://www.toutiao.com/trending/7570823653735235647/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时19分]"
+        },
+        {
+          "title": "比特币富婆钱志敏最高面临14年监禁",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15,
+            12,
+            19,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
+          "url": "https://flash.jin10.com/detail/20251112020805549800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
+          "url": "https://wallstreetcn.com/livenews/3002993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "科技股估值忧虑重燃，纳指跌超0.5%，金银齐涨，比特币跌超1%",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "比特币洗钱案钱志敏奢靡生活披露",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            24,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时15分]"
+        },
+        {
+          "title": "比特币富婆钱志敏在床上被捕",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D12%26band_rank%3D11%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D11%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%25AF%258C%25E5%25A9%2586%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E5%259C%25A8%25E5%25BA%258A%25E4%25B8%258A%25E8%25A2%25AB%25E6%258D%2595%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1762914545%26pre_seqid%3D176291454562102442928&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
+          "url": "https://flash.jin10.com/detail/20251112014043460800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "6万枚比特币洗钱案主犯钱志敏在英获刑11年零8个月",
+          "url": "https://flash.jin10.com/detail/20251112075644847800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "比特币突破105000美元/枚，日内涨1.91%。",
+          "url": "https://flash.jin10.com/detail/20251112172102319800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "6万枚比特币洗钱案主犯在英获刑",
+          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E4%B8%BB%E7%8A%AF%E5%9C%A8%E8%8B%B1%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         }
       ]
     },
@@ -741,146 +917,6 @@
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "科技股估值忧虑重燃，纳指跌幅扩大至0.85%，现货黄金一度跌破4100美元，比特币跌超1%",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 07时12分]"
-        },
-        {
-          "title": "“比特币富婆”钱志敏被捕画面曝光",
-          "url": "https://www.toutiao.com/trending/7570823653735235647/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 16时19分]"
-        },
-        {
-          "title": "比特币富婆钱志敏最高面临14年监禁",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B414%E5%B9%B4%E7%9B%91%E7%A6%81",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            15,
-            12,
-            19,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "消息人士：美国北极研究委员伊丽莎白•克拉瓦略（Elizabeth Cravalho）已离职。",
-          "url": "https://flash.jin10.com/detail/20251112020805549800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "加密货币与加密货币关联指数跌5.85%，报77.69点，跳空低开之后，全天持续震荡下行。 周二（11月11日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌3.46%，至10.3万美元下方。 CME以太币期货DCR主力合约跌4.48%，报3419美元。 北京时间05:52，现货比特币跌3.4%，报102449.62美元；以太坊跌4.54%，报3409.50美元；Solana跌7.16%，狗狗币跌4.62%，XRP跌6.85%。",
-          "url": "https://wallstreetcn.com/livenews/3002993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "科技股估值忧虑重燃，纳指跌超0.5%，金银齐涨，比特币跌超1%",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "比特币洗钱案钱志敏奢靡生活披露",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E9%92%B1%E5%BF%97%E6%95%8F%E5%A5%A2%E9%9D%A1%E7%94%9F%E6%B4%BB%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            24,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时15分]"
-        },
-        {
-          "title": "比特币富婆钱志敏在床上被捕",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D12%26band_rank%3D11%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D11%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25AF%2594%25E7%2589%25B9%25E5%25B8%2581%25E5%25AF%258C%25E5%25A9%2586%25E9%2592%25B1%25E5%25BF%2597%25E6%2595%258F%25E5%259C%25A8%25E5%25BA%258A%25E4%25B8%258A%25E8%25A2%25AB%25E6%258D%2595%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1762914545%26pre_seqid%3D176291454562102442928&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "比特币回落至103000美元/枚下方，日内跌2.86%。",
-          "url": "https://flash.jin10.com/detail/20251112014043460800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "6万枚比特币洗钱案主犯钱志敏在英获刑11年零8个月",
-          "url": "https://flash.jin10.com/detail/20251112075644847800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "6万枚比特币洗钱案主犯在英获刑",
-          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88%E4%B8%BB%E7%8A%AF%E5%9C%A8%E8%8B%B1%E8%8E%B7%E5%88%91",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果",
       "match_count": 5,
       "titles": [
@@ -896,8 +932,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 18时15分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -951,7 +987,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道称三星电子为晶圆代工业务设立2027年目标：重返盈利、市占达20%",
@@ -965,6 +1001,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "第 30 届三星杯，申真谞执黑不敌廖元赫，止步 16 强，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1971601892762153916",
           "source": "知乎",
@@ -974,6 +1021,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受美瑞贸易协议希望和黄金价格提振 瑞士法郎上涨",
+          "url": "https://flash.jin10.com/detail/20251112172706490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
