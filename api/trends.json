@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T01:14:32.731398+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-11-13T02:19:37.703947+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -59,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -98,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -109,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)推出数字身份证，这是一种在苹果钱包中创建和出示身份证的新方式。",
@@ -119,7 +119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -130,7 +130,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -141,7 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
@@ -159,8 +159,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
@@ -170,8 +170,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     },
@@ -186,7 +186,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -213,11 +213,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     },
@@ -232,7 +233,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
