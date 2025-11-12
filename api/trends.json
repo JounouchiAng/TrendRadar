@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T12:17:29.777238+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-12T13:15:13.218116+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -29,11 +29,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时15分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -49,17 +50,18 @@
           "time_info": "[00时16分 ~ 12时17分]"
         },
         {
-          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
-          "url": "https://wallstreetcn.com/articles/3759111",
-          "source": "华尔街见闻",
+          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
+          "url": "https://www.cls.cn/detail/2197694",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            7
+            13,
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时15分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -70,21 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时17分]"
-        },
-        {
-          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
-          "url": "https://www.cls.cn/detail/2197694",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 13时15分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -94,6 +83,33 @@
             11,
             10,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时15分]"
+        },
+        {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 13时15分]"
+        },
+        {
+          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
+          "url": "https://wallstreetcn.com/articles/3759111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -110,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时17分]"
+        },
+        {
+          "title": "商汤在沙特共建人工智能创新中心",
+          "url": "https://flash.jin10.com/detail/20251112124229582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -135,17 +162,15 @@
           "time_info": "[11时41分 ~ 12时17分]"
         },
         {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 12时17分]"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -281,6 +306,17 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：客户对人工智能的投资并未“趋于平稳”。",
           "url": "https://flash.jin10.com/detail/20251112022441940800",
           "source": "金十数据",
@@ -351,6 +387,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112115354459800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
           "url": "https://wallstreetcn.com/livenews/3003081",
           "source": "华尔街见闻-快讯",
@@ -389,8 +436,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -584,8 +631,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时15分]"
         },
         {
           "title": "比特币富婆钱志敏在床上被捕",
@@ -638,6 +685,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 13时15分]"
+        },
+        {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
           "url": "https://www.cls.cn/detail/2197483",
           "source": "财联社热门",
@@ -649,19 +709,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 08时58分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 12时17分]"
         },
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
