@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T03:11:16.384637+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-13T04:15:17.229212+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
@@ -54,17 +54,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
-          "url": "https://wallstreetcn.com/livenews/3003592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
           "url": "https://wallstreetcn.com/articles/3759168",
           "source": "华尔街见闻",
@@ -76,6 +65,18 @@
           "time_info": "00时17分"
         },
         {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
+          "url": "https://wallstreetcn.com/livenews/3003592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
           "url": "https://www.cls.cn/detail/2198606",
           "source": "财联社热门",
@@ -83,8 +84,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 04时15分]"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
+          "url": "https://flash.jin10.com/detail/20251113031402005800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
@@ -123,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -134,8 +146,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
@@ -184,38 +196,20 @@
       ]
     },
     {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
-          "url": "https://www.cls.cn/detail/2198461",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "比特币向下触及101000美元/枚，日内跌2.02%。",
+          "url": "https://flash.jin10.com/detail/20251113033015210800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
         {
           "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
           "url": "https://flash.jin10.com/detail/20251113001042904800",
@@ -241,6 +235,35 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
+          "url": "https://www.cls.cn/detail/2198461",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -254,8 +277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时15分]"
         }
       ]
     },
