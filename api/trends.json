@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T15:13:50.957486+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2025-11-13T16:20:02.023088+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 16时20分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -59,6 +59,19 @@
           "time_info": "[00时17分 ~ 12时19分]"
         },
         {
+          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
+          "url": "https://www.cls.cn/detail/2199055",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 16时20分]"
+        },
+        {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
           "url": "https://www.cls.cn/detail/2198606",
           "source": "财联社热门",
@@ -69,17 +82,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时10分 ~ 08时58分]"
-        },
-        {
-          "title": "AI争霸已切换至“能源战场”，大摩预测2028年美国电力缺口达20%！",
-          "url": "https://www.cls.cn/detail/2199055",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -93,6 +95,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时44分 ~ 13时14分]"
+        },
+        {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-13）",
@@ -151,6 +164,17 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "新加坡考虑明确金融机构高管对AI风险负责",
+          "url": "https://flash.jin10.com/detail/20251113160349426800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
           "url": "https://wallstreetcn.com/livenews/3003592",
           "source": "华尔街见闻-快讯",
@@ -206,7 +230,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -245,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时19分]"
+        },
+        {
+          "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
+          "url": "https://www.zhihu.com/question/1971870297541043616",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
         },
         {
           "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
@@ -410,7 +445,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -418,7 +453,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -431,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 15时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -451,11 +486,12 @@
           "url": "https://wallstreetcn.com/articles/3759220",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 16时20分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
@@ -477,9 +513,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
+          "url": "https://wallstreetcn.com/livenews/3003985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
@@ -627,8 +674,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 16时20分]"
         },
         {
           "title": "比特币向下触及101000美元/枚，日内跌2.02%。",
@@ -640,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "7万枚比特币吸金案主犯获刑，比特币藏匿和转移细节披露",
+          "url": "https://news.ifeng.com/c/8oFLSy0SeXY",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 16时20分]"
         },
         {
           "title": "比特币突破103000美元/枚，日内涨1.35%。",
@@ -664,17 +722,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "7万枚比特币吸金案主犯获刑，比特币藏匿和转移细节披露",
-          "url": "https://news.ifeng.com/c/8oFLSy0SeXY",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时13分]"
         },
         {
           "title": "以太坊失守3400美元/枚，日内跌幅0.55%。",
