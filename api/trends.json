@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T17:16:01.700344+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2025-11-13T18:15:35.436054+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -68,8 +68,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时14分 ~ 17时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时14分 ~ 18时15分]"
+        },
+        {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -82,17 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时10分 ~ 08时58分]"
-        },
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -175,6 +176,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
           "url": "https://wallstreetcn.com/livenews/3003592",
           "source": "华尔街见闻-快讯",
@@ -233,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，国际游戏业务收入大增43%，AI云推动企业服务收入双位数增长 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "AI云基础设施需求点燃投资热潮 黑石与软银在印度展开早期谈判",
+          "url": "https://flash.jin10.com/detail/20251113173441267800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
@@ -351,13 +385,24 @@
           "time_info": "04时15分"
         },
         {
+          "title": "汇丰：中国的清洁能源优势使其在AI竞赛中具有独特地位",
+          "url": "https://flash.jin10.com/detail/20251113173101658800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "腾讯控股：第三季资本开支付款200亿元 主要用于支持AI相关举措",
           "url": "https://wallstreetcn.com/livenews/3004036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -371,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，公司正准备对其旗舰AI应用进行重大改版，旨在使其功能更接近OpenAI的ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3004067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "荣耀提前出了iPhoneAir2",
@@ -445,7 +501,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -501,8 +557,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -521,11 +577,12 @@
           "url": "https://www.douyin.com/hot/2304052",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
@@ -610,7 +667,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -649,6 +706,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251113174541985800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3003643",
           "source": "华尔街见闻-快讯",
@@ -684,6 +752,17 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "京东美股盘前涨超3%，此前公布业绩数据。",
+          "url": "https://wallstreetcn.com/livenews/3004076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美股收盘：道指创新高 AMD涨9%",
           "url": "https://flash.jin10.com/detail/20251113050121041800",
           "source": "金十数据",
@@ -693,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -719,8 +809,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 17时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 18时15分]"
         },
         {
           "title": "比特币向下触及101000美元/枚，日内跌2.02%。",
@@ -782,6 +872,45 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "受政府停摆结束和降息预期提振 黄金价格突破4200美元",
+          "url": "https://flash.jin10.com/detail/20251113175418788800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "黄金价格延续涨势 升至三周高点",
+          "url": "https://www.toutiao.com/trending/7572078083620998697/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
       "match_count": 2,
       "titles": [
@@ -807,23 +936,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
         }
       ]
     },
