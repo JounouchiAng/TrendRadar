@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T05:13:06.797423+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-11-14T06:13:48.369299+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -66,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -78,8 +79,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
@@ -134,11 +135,12 @@
           "url": "https://wallstreetcn.com/livenews/3004372",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
         },
         {
           "title": "Telus首席信息官：Telus正与潜在合作伙伴就人工智能基础设施的扩展进行洽谈。",
@@ -191,7 +193,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -242,115 +244,8 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时13分]"
-        },
-        {
-          "title": "特斯拉车载系统拟支持苹果CarPlay功能",
-          "url": "https://flash.jin10.com/detail/20251114014129282800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
-          "url": "https://flash.jin10.com/detail/20251114034042642800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时13分]"
-        },
-        {
-          "title": "苹果腾讯敲定微信游戏抽成协议",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26pos%3D27%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26c_type%3D31%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26flag%3D0%26display_time%3D1763057200%26pre_seqid%3D176305720076101141889142&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3004284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
-          "url": "https://flash.jin10.com/detail/20251114002238966800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "特斯拉应用户长期要求，开发对苹果CarPlay的支持。",
-          "url": "https://flash.jin10.com/detail/20251114002216855800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
-          "url": "https://wallstreetcn.com/livenews/3004297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -363,8 +258,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时14分 ~ 06时13分]"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
+          "url": "https://wallstreetcn.com/livenews/3004400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3004398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3004394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
+          "url": "https://wallstreetcn.com/livenews/3004393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -387,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美股创一个月最大单日跌幅",
+          "url": "https://wallstreetcn.com/livenews/3004378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美股开盘下跌 连涨势头或将终结",
@@ -442,6 +392,137 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
+          "url": "https://flash.jin10.com/detail/20251114060338341800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "特斯拉车载系统拟支持苹果CarPlay功能",
+          "url": "https://flash.jin10.com/detail/20251114014129282800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
+          "url": "https://flash.jin10.com/detail/20251114034042642800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 05时13分]"
+        },
+        {
+          "title": "苹果腾讯敲定微信游戏抽成协议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26pos%3D27%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26c_type%3D31%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26flag%3D0%26display_time%3D1763057200%26pre_seqid%3D176305720076101141889142&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
+          "url": "https://flash.jin10.com/detail/20251114053244385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3004284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
+          "url": "https://flash.jin10.com/detail/20251114002238966800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "特斯拉应用户长期要求，开发对苹果CarPlay的支持。",
+          "url": "https://flash.jin10.com/detail/20251114002216855800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
+          "url": "https://wallstreetcn.com/livenews/3004297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
