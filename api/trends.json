@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T12:19:42.174431+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-11-16T13:13:03.529164+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -60,22 +60,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时13分]"
+        },
+        {
+          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
+          "url": "https://www.cls.cn/detail/2201554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时13分]"
         },
         {
           "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
           "url": "https://wallstreetcn.com/livenews/3005243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时13分]"
         },
         {
           "title": "谁最终为AI狂潮“买单”？美国险资",
@@ -84,7 +98,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -99,17 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 02时16分]"
-        },
-        {
-          "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
-          "url": "https://www.cls.cn/detail/2201554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
         }
       ]
     },
@@ -126,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -169,6 +172,20 @@
           "time_info": "[01时09分 ~ 09时01分]"
         },
         {
+          "title": "苹果 1299 元针织手机袋开售即告罄，此前被调侃为「针织长筒袜」，苹果这一跨界配件为何能让用户买单？",
+          "url": "https://www.zhihu.com/question/1972963239005483999",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 13时13分]"
+        },
+        {
           "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
           "url": "https://wallstreetcn.com/articles/3759458",
           "source": "华尔街见闻",
@@ -177,21 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 12时19分]"
-        },
-        {
-          "title": "苹果 1299 元针织手机袋开售即告罄，此前被调侃为「针织长筒袜」，苹果这一跨界配件为何能让用户买单？",
-          "url": "https://www.zhihu.com/question/1972963239005483999",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 13时13分]"
         }
       ]
     },
@@ -207,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -222,8 +226,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -233,11 +237,12 @@
             13,
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -290,11 +295,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时13分]"
         }
       ]
     },
@@ -311,8 +317,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时13分]"
         },
         {
           "title": "三星杯围棋大师赛，廖元赫击败朴廷桓，丁浩击败金志锡，两位中国 00 后选手会师决赛，如何看待此事？",
