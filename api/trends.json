@@ -1,12 +1,321 @@
 {
-  "generated_at": "2025-11-18T13:13:55.883646+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-11-18T14:20:03.401461+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时41分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时20分]"
+        },
+        {
+          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
+          "url": "https://www.zhihu.com/question/1972861967086666313",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            13,
+            12,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时13分 ~ 12时17分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时15分]"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 07时13分]"
+        },
+        {
+          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
+          "url": "https://www.zhihu.com/question/1970226468920471782",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时20分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时20分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
+          "url": "https://flash.jin10.com/detail/20251118064556616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时20分]"
+        },
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 14时20分]"
+        },
+        {
+          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
+          "url": "https://flash.jin10.com/detail/20251117231526009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
+          "url": "https://flash.jin10.com/detail/20251118120343282800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时13分]"
+        },
+        {
+          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
+          "url": "https://wallstreetcn.com/articles/3759546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
+          "url": "https://wallstreetcn.com/livenews/3006092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251118004426248800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时18分]"
+        },
+        {
+          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
+          "url": "https://flash.jin10.com/detail/20251118051844797800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3006232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时13分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
+          "url": "https://wallstreetcn.com/livenews/3006131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
+          "url": "https://wallstreetcn.com/livenews/3005945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "蚂蚁推出全模态通用AI助手“灵光”",
+          "url": "https://wallstreetcn.com/livenews/3006157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "请推荐一个人工智能学习路线图？",
+          "url": "https://www.zhihu.com/question/327809761",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：从企业间的接触中了解到，由于对政策和人工智能影响的不确定性，企业在招聘时显得犹豫不决。",
+          "url": "https://flash.jin10.com/detail/20251117230048789800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "知情人士透露，苹果明星设计师Abidur Chowdhury最近离职，加入了一家人工智能初创公司。Chowdhury曾参与开发iPhone Air。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 24,
       "titles": [
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时20分]"
+        },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2202991",
@@ -23,17 +332,27 @@
           "time_info": "[00时18分 ~ 12时17分]"
         },
         {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            3,
             1
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时13分]"
+          "time_info": "[08时57分 ~ 14时20分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时20分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -58,29 +377,6 @@
           "time_info": "[04时14分 ~ 06时13分]"
         },
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时13分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
-        },
-        {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
           "url": "https://www.cls.cn/detail/2203264",
           "source": "财联社热门",
@@ -89,8 +385,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 14时20分]"
         },
         {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
@@ -104,17 +400,6 @@
           "time_info": "[07时12分 ~ 07时13分]"
         },
         {
-          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "美股三大股指均跌超1%。",
           "url": "https://flash.jin10.com/detail/20251118032702595800",
           "source": "金十数据",
@@ -124,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
-          "url": "https://flash.jin10.com/detail/20251118122309720800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -161,6 +435,18 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3006250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时20分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
           "url": "https://wallstreetcn.com/livenews/3006074",
           "source": "华尔街见闻-快讯",
@@ -183,6 +469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
+        },
+        {
+          "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20251118122309720800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时20分]"
         },
         {
           "title": "区域银行ETF收跌超3.7%，和银行业ETF领跌美股行业ETF，标普电信板块涨超1.1%",
@@ -288,384 +586,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时41分]"
-        },
-        {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14,
-            13,
-            12,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时13分 ~ 12时17分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时13分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
-        },
-        {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
-          "url": "https://flash.jin10.com/detail/20251118064556616800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
-          "url": "https://flash.jin10.com/detail/20251118120343282800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时13分]"
-        },
-        {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
-          "url": "https://wallstreetcn.com/livenews/3006092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251118004426248800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时18分]"
-        },
-        {
-          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
-          "url": "https://flash.jin10.com/detail/20251118051844797800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3006232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时13分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
-        },
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时13分]"
-        },
-        {
-          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
-          "url": "https://wallstreetcn.com/livenews/3006131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
-          "url": "https://wallstreetcn.com/livenews/3005945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "蚂蚁推出全模态通用AI助手“灵光”",
-          "url": "https://wallstreetcn.com/livenews/3006157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "请推荐一个人工智能学习路线图？",
-          "url": "https://www.zhihu.com/question/327809761",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：从企业间的接触中了解到，由于对政策和人工智能影响的不确定性，企业在招聘时显得犹豫不决。",
-          "url": "https://flash.jin10.com/detail/20251117230048789800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "知情人士透露，苹果明星设计师Abidur Chowdhury最近离职，加入了一家人工智能初创公司。Chowdhury曾参与开发iPhone Air。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
-          "url": "https://wallstreetcn.com/articles/3759501",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 08时57分]"
-        },
-        {
-          "title": "苹果哥最后的清闲时光",
-          "url": "https://www.douyin.com/hot/2308797",
-          "source": "抖音",
-          "ranks": [
-            18,
-            22,
-            24,
-            20,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时29分]"
-        },
-        {
-          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1973030189261874735",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时12分]"
-        },
-        {
-          "title": "新一代iPhone带动苹果10月份在华手机销量激增 当月市场份额达到25%",
-          "url": "https://wallstreetcn.com/livenews/3006258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
-          "url": "https://www.zhihu.com/question/1974027806913553776",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时13分]"
-        },
-        {
-          "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3006051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
-          "url": "https://flash.jin10.com/detail/20251118002000418800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "今年一度达30%涨幅“全部抹去”，比特币陷入熊市",
@@ -688,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "币圈“极度恐慌”，市场为比特币跌向“80000美元”做准备",
+          "url": "https://wallstreetcn.com/articles/3759577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "比特币下跌0.83%，报92668.86美元，创2024年4月份以来新低。 加密货币概念股走低，Coinbase跌7%，Bitfarms跌0.5%，Strategy跌2.9%，Riot Platforms跌1.2%，MARA Holdings跌4.1%。 ProShares比特币策略ETF跌1.6%，iShares比特币信托跌1.7%。",
@@ -747,6 +680,99 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
+          "url": "https://wallstreetcn.com/articles/3759501",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时57分]"
+        },
+        {
+          "title": "苹果哥最后的清闲时光",
+          "url": "https://www.douyin.com/hot/2308797",
+          "source": "抖音",
+          "ranks": [
+            18,
+            22,
+            24,
+            20,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时29分]"
+        },
+        {
+          "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1973030189261874735",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
+          "url": "https://www.zhihu.com/question/1974027806913553776",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时17分 ~ 14时20分]"
+        },
+        {
+          "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3006051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "新一代iPhone带动苹果10月份在华手机销量激增 当月市场份额达到25%",
+          "url": "https://wallstreetcn.com/livenews/3006258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时20分]"
+        },
+        {
+          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
+          "url": "https://flash.jin10.com/detail/20251118002000418800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     },
