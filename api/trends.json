@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T02:19:59.285703+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-19T03:11:59.841307+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -39,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -50,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -61,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -72,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
@@ -83,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -98,15 +99,30 @@
           "time_info": "01时13分"
         },
         {
-          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3006673",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -133,6 +149,18 @@
           "time_info": "[01时13分 ~ 02时19分]"
         },
         {
+          "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3006673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
           "url": "https://wallstreetcn.com/livenews/3006652",
           "source": "华尔街见闻-快讯",
@@ -143,30 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时19分]"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
@@ -269,11 +273,107 @@
           "time_info": "01时13分"
         },
         {
+          "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251119015405489800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
           "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
           "url": "https://flash.jin10.com/detail/20251119000659140800",
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20251119004320995800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "据知情人士透露，英伟达和微软承诺，将参与Anthropic的下一轮融资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3006661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时11分]"
+        },
+        {
+          "title": "Anthropic获微软和英伟达150亿美元投资 将采购300亿美元微软云计算能力",
+          "url": "https://flash.jin10.com/detail/20251118233634991800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "市场消息：微软与德国思爱普Sap签署协议，将在特殊情况下支持欧洲云。",
+          "url": "https://flash.jin10.com/detail/20251119020455853800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "Anthropic、英伟达、微软构建战略合作伙伴关系。 Anthropic承诺，将（向微软）采购价值300亿美元的Azure算力。 英伟达和微软向Anthropic做出投资承诺，英伟达将投资至多100亿美元、微软将出资至多50亿美元。 Anthropic表示，亚马逊仍将是其主要的云服务供应商。",
+          "url": "https://wallstreetcn.com/livenews/3006615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3006639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -293,8 +393,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -304,8 +404,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -315,8 +415,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
@@ -347,71 +447,54 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
       ]
     },
     {
-      "keyword_group": "Microsoft 微软",
-      "match_count": 5,
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 2,
       "titles": [
         {
-          "title": "消息人士：英伟达(NVDA.O)和微软(MSFT.O)正承诺投资Anthropic的下一轮融资。此前Anthropic已获得微软和英伟达150亿美元投资。",
-          "url": "https://flash.jin10.com/detail/20251119004320995800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "据知情人士透露，英伟达和微软承诺，将参与Anthropic的下一轮融资。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3006661",
+          "title": "大摩比特币挂钩产品走红，吸引对加密资产“又爱又怕”的投资者",
+          "url": "https://wallstreetcn.com/livenews/3006694",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
-          "title": "Anthropic获微软和英伟达150亿美元投资 将采购300亿美元微软云计算能力",
-          "url": "https://flash.jin10.com/detail/20251118233634991800",
+          "title": "以太坊站上3100美元/枚，日内涨2.27%。",
+          "url": "https://flash.jin10.com/detail/20251118232016624800",
           "source": "金十数据",
           "ranks": [
-            13
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "Anthropic、英伟达、微软构建战略合作伙伴关系。 Anthropic承诺，将（向微软）采购价值300亿美元的Azure算力。 英伟达和微软向Anthropic做出投资承诺，英伟达将投资至多100亿美元、微软将出资至多50亿美元。 Anthropic表示，亚马逊仍将是其主要的云服务供应商。",
-          "url": "https://wallstreetcn.com/livenews/3006615",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金价格下跌 国内投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7574003822264061446/",
+          "source": "今日头条",
           "ranks": [
-            20
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "Anthropic的估值在微软+英伟达最新投资承诺之后为3500亿美元。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3006639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时11分"
         }
       ]
     },
@@ -428,25 +511,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "以太坊站上3100美元/枚，日内涨2.27%。",
-          "url": "https://flash.jin10.com/detail/20251118232016624800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         }
       ]
     }
