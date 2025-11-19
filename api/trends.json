@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T19:12:06.878702+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-11-19T20:25:23.397839+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 64,
+      "match_count": 70,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 20时25分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 20时25分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时29分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时29分 ~ 20时25分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -77,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 20时25分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -148,8 +148,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时29分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 20时25分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -172,8 +172,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 19时12分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 20时25分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -222,6 +222,48 @@
           "time_info": "[00时17分 ~ 17时15分]"
         },
         {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 20时25分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 20时25分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 20时25分]"
+        },
+        {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
           "url": "https://www.cls.cn/detail/2203836",
           "source": "财联社热门",
@@ -255,46 +297,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时12分]"
-        },
-        {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 19时12分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 19时12分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
@@ -354,6 +356,17 @@
           "time_info": "[08时57分 ~ 10时29分]"
         },
         {
+          "title": "资产管理巨头Brookfield计划启动1000亿美元人工智能基础设施项目。",
+          "url": "https://wallstreetcn.com/livenews/3007213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国白宫：美国与沙特阿拉伯签署了一份具有里程碑意义的人工智能谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20251119063037342800",
           "source": "金十数据",
@@ -363,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
+          "url": "https://flash.jin10.com/detail/20251119200941299800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -640,6 +664,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "截至11月19日，上海市新增3款已完成登记的生成式人工智能服务，累计已完成130款生成式人工智能服务登记。（网信上海）",
+          "url": "https://wallstreetcn.com/livenews/3007203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
           "url": "https://flash.jin10.com/detail/20251119055753200800",
           "source": "金十数据",
@@ -684,6 +719,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "OpenAI与Target公司宣布合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
           "url": "https://flash.jin10.com/detail/20251119002630860800",
           "source": "金十数据",
@@ -715,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "夸克AI眼镜与支付宝合作再升级 新增骨传导拾音、准心等能力",
+          "url": "https://wallstreetcn.com/livenews/3007192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "AI 为什么会先淘汰写字楼里的人？",
@@ -770,6 +827,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "人工智能在无人驾驶领域渗透应用",
+          "url": "https://www.toutiao.com/trending/7574332043530698771/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "脉脉：中国AI工程师与美国同行的薪资差距缩短至2倍",
@@ -851,7 +919,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1187,8 +1255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 20时25分]"
         },
         {
           "title": "大摩比特币挂钩产品走红，吸引对加密资产“又爱又怕”的投资者",
