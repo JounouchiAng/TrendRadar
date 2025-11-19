@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-19T14:19:31.861791+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-19T15:13:58.015906+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时13分 ~ 15时13分]"
+        },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
           "url": "https://www.cls.cn/detail/2204220",
@@ -21,21 +36,6 @@
           "time_info": "[00时17分 ~ 10时29分]"
         },
         {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 14时19分]"
-        },
-        {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
           "url": "https://www.cls.cn/detail/2203967",
           "source": "财联社热门",
@@ -45,6 +45,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 15时13分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -71,16 +83,17 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
           "ranks": [
-            7,
+            10,
+            5,
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时57分 ~ 14时19分]"
+          "time_info": "[10时29分 ~ 15时13分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -110,6 +123,32 @@
           "time_info": "[08时57分 ~ 13时14分]"
         },
         {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 15时13分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时13分]"
+        },
+        {
           "title": "Plain Jane Remix编舞跳起来",
           "url": "https://www.douyin.com/hot/2310465",
           "source": "抖音",
@@ -125,46 +164,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 14时19分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 14时19分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时19分]"
-        },
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 14时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 15时13分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -175,8 +176,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时13分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            12,
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 15时13分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -188,21 +205,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            12,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 14时19分]"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
@@ -227,6 +229,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
+          "url": "https://www.cls.cn/detail/2204415",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时13分]"
         },
         {
           "title": "特朗普：希望建立人工智能的统一联邦监管标准",
@@ -283,18 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
-          "url": "https://www.cls.cn/detail/2204415",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时19分]"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -368,6 +370,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3006673",
           "source": "华尔街见闻-快讯",
@@ -379,6 +392,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时15分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时13分]"
         },
         {
           "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
@@ -441,18 +466,6 @@
           "time_info": "[13时14分 ~ 14时19分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时19分]"
-        },
-        {
           "title": "华为明年初或发布AI Data Platform产品",
           "url": "https://wallstreetcn.com/livenews/3006902",
           "source": "华尔街见闻-快讯",
@@ -490,6 +503,18 @@
           "time_info": "[13时14分 ~ 14时19分]"
         },
         {
+          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
+          "url": "https://www.cls.cn/detail/2204388",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 15时13分]"
+        },
+        {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006649",
           "source": "华尔街见闻-快讯",
@@ -514,15 +539,15 @@
           "time_info": "[11时41分 ~ 12时17分]"
         },
         {
-          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
-          "url": "https://www.cls.cn/detail/2204388",
-          "source": "财联社热门",
+          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
+          "url": "https://wallstreetcn.com/livenews/3006981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "15时13分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -608,7 +633,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -630,7 +655,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1011,6 +1036,56 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三星电子股价跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3006814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "京东方和三星显示就OLED知识产权诉讼达成和解，将撤回所有诉讼",
+          "url": "https://wallstreetcn.com/livenews/3006997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "三星公布首批2纳米芯片性能数据，加速追赶台积电",
+          "url": "https://wallstreetcn.com/livenews/3006977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "三星公布首批2纳米芯片性能数据，加速追赶台积电",
+          "url": "https://flash.jin10.com/detail/20251119135142288800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
       "match_count": 4,
       "titles": [
@@ -1022,8 +1097,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 15时13分]"
         },
         {
           "title": "大摩比特币挂钩产品走红，吸引对加密资产“又爱又怕”的投资者",
@@ -1062,6 +1137,35 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多家黄金珠宝品牌单克足金饰品价格重回1290元上方",
+          "url": "https://wallstreetcn.com/livenews/3006991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "黄金价格下跌 国内投资者怎么办",
+          "url": "https://www.toutiao.com/trending/7574003822264061446/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果",
       "match_count": 2,
       "titles": [
@@ -1090,41 +1194,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 11时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格下跌 国内投资者怎么办",
-          "url": "https://www.toutiao.com/trending/7574003822264061446/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三星电子股价跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3006814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         }
       ]
     }
