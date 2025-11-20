@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:12:45.636421+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-11-20T08:56:57.637703+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -38,11 +38,24 @@
             6,
             4,
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时56分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时56分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -57,16 +70,17 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            13,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[02时18分 ~ 08时56分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -77,31 +91,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时12分]"
-        },
-        {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时18分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时56分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
           "url": "https://wallstreetcn.com/articles/3759684",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 07时12分]"
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 08时56分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -123,7 +126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -156,7 +159,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -191,7 +194,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -202,9 +205,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "与爱泼斯坦关系密切，美前财长萨默斯辞去OpenAI董事等职务",
+          "url": "https://flash.jin10.com/detail/20251120082746009800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
@@ -224,9 +238,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国批准向沙特和阿联酋人工智能公司出口芯片",
+          "url": "https://flash.jin10.com/detail/20251120081708296800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：客户的财务问题是他们自己的事。 每个国家将为自己的（AI）基础设施提供融资。",
@@ -235,9 +260,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美媒：白宫正采取行动 阻止限制AI芯片出口的法案",
@@ -280,7 +316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -335,6 +371,17 @@
           "time_info": "[04时13分 ~ 06时13分]"
         },
         {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
           "url": "https://flash.jin10.com/detail/20251120044512589800",
           "source": "金十数据",
@@ -352,7 +399,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -447,9 +494,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：对投资OpenAI 采取审慎态度。",
+          "url": "https://wallstreetcn.com/livenews/3007502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架。",
@@ -469,7 +527,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -513,7 +571,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -527,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
+          "url": "https://www.zhihu.com/question/1971586666897563752",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "据AXIOS：美国企业将与白宫官员就人工智能出口问题会面。",
@@ -546,7 +615,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -557,7 +626,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -568,7 +637,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -590,7 +659,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -612,7 +681,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -626,6 +695,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美媒：特朗普考虑最早于周五签署有关人工智能的行政令",
+          "url": "https://flash.jin10.com/detail/20251120073946574800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3007479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
@@ -642,7 +733,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -667,8 +758,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 08时56分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -683,6 +787,17 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
           "url": "https://wallstreetcn.com/livenews/3007430",
           "source": "华尔街见闻-快讯",
@@ -694,16 +809,15 @@
           "time_info": "06时13分"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
+          "title": "美股期货涨幅扩大，标普500指数期货现涨1.2%，纳斯达克100指数期货涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3007513",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -813,9 +927,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美股三大指数收涨 英伟达财报超预期",
+          "url": "https://www.toutiao.com/trending/7574038650388860470/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
@@ -883,26 +1008,8 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
-          "url": "https://wallstreetcn.com/articles/3759713",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时18分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "我国再次成功发射一箭三星",
@@ -912,8 +1019,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 08时56分]"
+        },
+        {
+          "title": "三星电子股价涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251120080318758800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时18分 ~ 08时56分]"
         }
       ]
     },
