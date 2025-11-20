@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T10:27:20.115257+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2025-11-20T11:39:56.231630+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -39,11 +39,12 @@
             4,
             5,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时39分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -70,6 +71,19 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
+          "url": "https://wallstreetcn.com/articles/3759684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时13分 ~ 11时39分]"
+        },
+        {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
           "url": "https://www.cls.cn/detail/2205150",
           "source": "财联社热门",
@@ -83,30 +97,56 @@
           "time_info": "[02时18分 ~ 08时56分]"
         },
         {
-          "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
-          "url": "https://wallstreetcn.com/articles/3759684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时13分 ~ 10时27分]"
-        },
-        {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
           "source": "贴吧",
           "ranks": [
             11,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时39分]"
+        },
+        {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时39分]"
+        },
+        {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时39分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时39分]"
         },
         {
           "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
@@ -166,16 +206,16 @@
           "time_info": "07时12分"
         },
         {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "time_info": "[10时27分 ~ 11时39分]"
         },
         {
           "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
@@ -235,18 +275,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
-        },
-        {
           "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
           "url": "https://flash.jin10.com/detail/20251120004114960800",
           "source": "金十数据",
@@ -267,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "美国批准向沙特和阿联酋人工智能公司出口芯片",
@@ -323,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时13分]"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
@@ -575,7 +581,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -589,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "企业不再避讳：AI开始抢走工作岗位，成裁员潮关键因素",
+          "url": "https://www.cls.cn/detail/2205492",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "xAI：Grok还将集成到沙特AI初创公司Humain的代理平台Humain One中。",
@@ -630,7 +647,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -674,7 +691,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -712,6 +729,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
+          "url": "https://flash.jin10.com/detail/20251120104126755800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "普华永道全球主席：人工智能面临的关键挑战是衡量投资回报。",
+          "url": "https://wallstreetcn.com/livenews/3007594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
           "title": "英伟达AI营收、展望均超预期 黄仁勋直言卖爆了",
           "url": "https://flash.jin10.com/detail/20251120055408118800",
           "source": "金十数据",
@@ -721,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
+          "url": "https://flash.jin10.com/detail/20251120103853378800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "报道：xAI与沙特Humain联手建500兆瓦AI数据中心",
@@ -740,7 +790,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -776,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "澳洲联储助理主席Hunter：如果经济增长在一段可持续的时期内高于趋势水平，那将产生通胀压力。 人工智能一两年内可能不会对劳动力产生太大影响。",
+          "url": "https://wallstreetcn.com/livenews/3007585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
@@ -825,11 +886,12 @@
             13,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时39分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -838,11 +900,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时13分 ~ 10时27分]"
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 11时39分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -852,8 +915,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时39分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -1082,7 +1145,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -1090,18 +1153,30 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我国再次成功发射一箭三星",
           "url": "https://www.douyin.com/hot/2311719",
           "source": "抖音",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 10时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 11时39分]"
+        },
+        {
+          "title": "三星电子涨幅扩大至5.5%。",
+          "url": "https://flash.jin10.com/detail/20251120111035095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "三星电子股价涨超4%。",
@@ -1130,8 +1205,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时18分 ~ 10时27分]"
+          "appearance_count": 12,
+          "time_info": "[02时18分 ~ 11时39分]"
         }
       ]
     },
