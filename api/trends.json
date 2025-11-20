@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T13:14:32.034089+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-11-20T14:19:04.722095+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时19分]"
         },
         {
           "title": "财晓得｜AI正在如何改写教育类APP版图？",
@@ -97,21 +97,6 @@
           "time_info": "[02时18分 ~ 08时56分]"
         },
         {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时14分]"
-        },
-        {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
           "url": "https://www.cls.cn/detail/2205653",
           "source": "财联社热门",
@@ -121,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
@@ -135,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
@@ -148,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 14时19分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -160,8 +145,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 14时19分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时19分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-20）",
@@ -310,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "美国批准向沙特和阿联酋人工智能公司出口芯片",
@@ -475,6 +486,18 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
           "title": "企业不再避讳：AI开始抢走工作岗位，成裁员潮关键因素",
           "url": "https://www.cls.cn/detail/2205492",
           "source": "财联社热门",
@@ -546,6 +569,17 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：未来三年内，将在沙特和美国部署英伟达(NVDA.O)人工智能基础设施，配备多达60万个英伟达GPU。将使用英伟达的NeMo-Tron开源技术来训练Humain Chat。",
           "url": "https://flash.jin10.com/detail/20251120020056406800",
           "source": "金十数据",
@@ -591,17 +625,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时12分]"
-        },
-        {
-          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
-          "url": "https://www.cls.cn/detail/2205868",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         },
         {
           "title": "据华尔街日报：美国批准向中东出售人工智能芯片的交易，政府官员表示，商务部计划批准向阿联酋和沙特出口7万枚先进人工智能芯片。官员表示，出口协议包括批准英伟达的GB300或等效芯片。",
@@ -930,6 +953,31 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时13分 ~ 14时19分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 14时19分]"
+        },
+        {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2205477",
           "source": "财联社热门",
@@ -943,31 +991,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时18分 ~ 11时39分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时13分 ~ 13时14分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -1258,8 +1281,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时18分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[02时18分 ~ 14时19分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
