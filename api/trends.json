@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T19:11:36.450578+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-11-21T20:23:46.113752+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[11时39分 ~ 20时23分]"
         },
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -129,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时23分]"
         },
         {
           "title": "鸿海董事长：我们一周能生产1000个AI机柜，明年会更多。 电动车已接近委外代工的临界点。 我们正在研发量子计算。",
@@ -372,6 +372,19 @@
           "time_info": "[13时14分 ~ 14时20分]"
         },
         {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时23分]"
+        },
+        {
           "title": "鸿海董事长刘扬伟：未提及与OpenAI成立合资企业或产量承诺，并不意味着未来不会发生。",
           "url": "https://flash.jin10.com/detail/20251121133919252800",
           "source": "金十数据",
@@ -384,6 +397,18 @@
           "time_info": "[14时20分 ~ 15时14分]"
         },
         {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
           "url": "https://flash.jin10.com/detail/20251121020447251800",
           "source": "金十数据",
@@ -394,18 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
-        },
-        {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "英伟达黄胜斌：我们正与鸿海合作将AI带进工厂和生产线。",
@@ -467,17 +480,6 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "美国计算机软件公司Intuit CEO：客户数据隐私与安全原则在与ChatGPT集成后“保持不变”；公司计划利用客户数据训练自己的大型语言模型。",
           "url": "https://flash.jin10.com/detail/20251121055554104800",
           "source": "金十数据",
@@ -533,13 +535,35 @@
           "time_info": "15时14分"
         },
         {
+          "title": "【摩尔线程：AI计算加速芯片的市场需求呈爆炸式增长，GPU依然是主导芯片】摩尔线程创始人、董事长、总经理张建中在摩尔线程首次公开发行股票并在科创板上市网上投资者交流会上表示，随着中国AI下游应用市场的迅速扩张，AI计算加速芯片的市场需求呈现爆炸式增长，吸引各类芯片制造商的加入。张建中表示，目前，GPU依然是AI市场的主导芯片。不过，以ASIC和FPGA为代表的其他类型芯片也已实现商业化，并在市场中占据一定比例。张建中表示，未来，随着中国GPU企业在技术上的不断突破，AI计算加速芯片的市场规模预计将实现快速增长。(澎湃新闻)",
+          "url": "https://wallstreetcn.com/livenews/3008679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国国税局正在该机构的多个部门推广Salesforce(CRM.N)的人工智能体Agentforce。",
           "url": "https://flash.jin10.com/detail/20251121182347367800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -658,8 +682,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 19时11分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 20时23分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -697,8 +721,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时27分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时27分 ~ 20时23分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -725,8 +749,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时27分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时27分 ~ 20时23分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -765,8 +789,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 20时23分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
@@ -782,6 +806,18 @@
           "time_info": "[00时16分 ~ 03时11分]"
         },
         {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时23分]"
+        },
+        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
@@ -794,18 +830,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时13分 ~ 17时14分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -1082,7 +1106,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "英伟达财报提振效果昙花一现，标普500指数转跌，美债上扬，比特币跌破9万关口",
@@ -1124,9 +1148,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "再现“股金币”三杀！全球股市重挫，币圈流血不止，比特币跌破8.2万美元，金银走低，现货白银跌超3.7%",
+          "url": "https://wallstreetcn.com/articles/3759842",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "避险情绪持续发酵，日韩股市大跌，韩股跌超4%，加密货币重挫，比特币24小时跌超9%",
