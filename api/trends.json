@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:19:05.572797+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2025-11-22T03:11:41.968242+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -61,30 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
-        },
-        {
-          "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3008845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
-          "url": "https://flash.jin10.com/detail/20251122020035429800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -94,8 +72,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "胡彦斌 不是AI的",
@@ -105,8 +83,43 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
+        },
+        {
+          "title": "Meta进军电力交易以支持AI扩张，应对供电挑战",
+          "url": "https://wallstreetcn.com/livenews/3008857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3008845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时11分]"
         },
         {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -156,6 +169,18 @@
           "time_info": "[00时16分 ~ 01时11分]"
         },
         {
+          "title": "谷歌推出BigQuery AI",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时11分]"
+        },
+        {
           "title": "诺基亚计划在美国进行40亿美元AI投资",
           "url": "https://wallstreetcn.com/livenews/3008795",
           "source": "华尔街见闻-快讯",
@@ -166,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时11分]"
-        },
-        {
-          "title": "谷歌推出BigQuery AI",
-          "url": "https://wallstreetcn.com/livenews/3008826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
         },
         {
           "title": "市场消息：花旗警告称，由于人工智能乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -196,7 +210,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -207,7 +221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -225,8 +239,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -236,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -247,8 +261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -258,8 +272,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -269,8 +283,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -281,8 +295,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -292,8 +306,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
@@ -326,7 +340,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -337,7 +351,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -348,7 +362,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
