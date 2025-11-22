@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T00:14:06.625285+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T01:10:46.798728+08:00",
+  "total_titles_processed": 337,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -47,20 +47,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时10分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -69,9 +70,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时10分]"
         }
       ]
     },
@@ -84,11 +85,12 @@
           "url": "https://www.cls.cn/detail/2207916",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -98,8 +100,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 01时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝苹果将推出多款廉价产品",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E5%A4%9A%E6%AC%BE%E5%BB%89%E4%BB%B7%E4%BA%A7%E5%93%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时10分"
         }
       ]
     }
