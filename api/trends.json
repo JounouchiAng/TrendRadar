@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T03:09:54.562189+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2025-11-23T04:13:37.740471+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时13分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -59,11 +59,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -73,8 +74,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 04时13分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -102,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -113,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 04时13分]"
         }
       ]
     },
