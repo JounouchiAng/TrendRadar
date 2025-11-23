@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T22:11:18.521859+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-11-23T23:11:59.593124+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时12分 ~ 22时11分]"
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 23时11分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -95,6 +95,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 18时12分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时12分 ~ 23时11分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -125,18 +139,16 @@
           "time_info": "[11时21分 ~ 16时16分]"
         },
         {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时12分 ~ 22时11分]"
+          "appearance_count": 6,
+          "time_info": "[20时20分 ~ 23时11分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -166,18 +178,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时27分 ~ 16时16分]"
-        },
-        {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时20分 ~ 22时11分]"
         },
         {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
@@ -228,11 +228,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时11分]"
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时11分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 23时11分]"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -244,18 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 22时11分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -309,8 +310,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 22时11分]"
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 23时11分]"
+        },
+        {
+          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
+          "url": "https://wallstreetcn.com/articles/3759953",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时10分 ~ 23时11分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%；以太坊向上触及2800美元/枚，日内涨1.11%。",
@@ -328,19 +342,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时21分 ~ 19时10分]"
-        },
-        {
-          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
-          "url": "https://wallstreetcn.com/articles/3759953",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时10分 ~ 22时11分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
