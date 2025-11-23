@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T16:16:17.360759+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-11-23T17:12:41.406232+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -62,8 +62,23 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 17时12分]"
+        },
+        {
+          "title": "第一批AI公司，已经开始破产了",
+          "url": "https://wallstreetcn.com/articles/3759937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 17时12分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -77,22 +92,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时16分]"
-        },
-        {
-          "title": "第一批AI公司，已经开始破产了",
-          "url": "https://wallstreetcn.com/articles/3759937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -141,24 +142,12 @@
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
-          "url": "https://flash.jin10.com/detail/20251123140222907800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            17
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -167,9 +156,34 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
+        },
+        {
+          "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
+          "url": "https://flash.jin10.com/detail/20251123140222907800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 17时12分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "17时12分"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -201,7 +215,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -223,19 +237,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 17时12分]"
         },
         {
           "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
           "url": "https://wallstreetcn.com/articles/3759947",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
         },
         {
           "title": "比特币突破86000美元/枚，日内涨1.63%。",
@@ -295,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "“疫苗之王”科兴或从美股退市",
