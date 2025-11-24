@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T09:01:18.388319+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-11-24T10:54:57.782040+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
         },
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -50,11 +50,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -86,11 +87,23 @@
           "url": "https://www.cls.cn/detail/2208386",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时54分]"
+        },
+        {
+          "title": "需要AI给答案",
+          "url": "https://wallstreetcn.com/articles/3759957",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "10时54分"
         },
         {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
@@ -110,9 +123,49 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
+          "url": "https://wallstreetcn.com/articles/3759953",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
+        },
+        {
+          "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
+          "url": "https://wallstreetcn.com/articles/3759947",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 10时54分]"
+        },
+        {
+          "title": "比特币站上88000美元/枚，日内涨1.35%。",
+          "url": "https://flash.jin10.com/detail/20251124101839321800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -127,7 +180,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -138,37 +191,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：一切都达到“流动性峰值”，美联储将被迫“投降”，比特币率先嗅探救市信号",
-          "url": "https://wallstreetcn.com/articles/3759953",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
-        },
-        {
-          "title": "反弹难掩颓势，比特币创Terra崩盘后最大月跌幅，“极度恐慌”暗示跌势未止？",
-          "url": "https://wallstreetcn.com/articles/3759947",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时01分]"
         }
       ]
     },
@@ -181,11 +206,29 @@
           "url": "https://www.zhihu.com/question/1974221875245782073",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：DRAM价格上涨将推动三星业绩强劲增长",
+          "url": "https://flash.jin10.com/detail/20251124101807683800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "10时54分"
         }
       ]
     }
