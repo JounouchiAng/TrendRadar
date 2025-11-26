@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T06:13:03.302827+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-11-27T07:12:37.014073+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -69,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -120,8 +120,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -148,8 +148,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -159,8 +159,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
+          "url": "https://flash.jin10.com/detail/20251127064701943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -202,7 +213,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -226,52 +237,103 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨4.98%，报316.85点，全天持续走高。 纽约证交所ARCA金矿开采商指数收涨4.39%，报2274.52点；北京时间22:30美股开盘之前持平于2180点附近，之后“跳空高开”并持续走高。",
           "url": "https://wallstreetcn.com/livenews/3011070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "半导体ETF收涨超2.2%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3011068",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
           "url": "https://wallstreetcn.com/livenews/3011063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
         },
         {
           "title": "周三（11月26日），降息赢家指数涨0.76%，报99.70点，美股开盘后，涨势持续至北京时间01:30，04:17过后快速回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3011062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050533474800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251127050529434800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 人造肉概念股大涨",
+          "url": "https://flash.jin10.com/detail/20251127050057766800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "Tilray Brands Inc.美股盘后跌20%，该公司宣布按1-10反向拆股。",
+          "url": "https://wallstreetcn.com/livenews/3011079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时12分"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -285,26 +347,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251127050533474800",
-          "source": "金十数据",
+          "title": "周三（11月26日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨3.29%，报90295.00美元，北京时间00:00-02:00出现一波显著上涨的行情。 CME以太币期货DCR主力合约涨3.50%，报3031.50美元。 美股加密货币与加密货币关联指数涨4.95%，报68.01点。 最近24小时，MarketVector数字资产100小盘指数涨3.18%，暂报18855.77点。",
+          "url": "https://wallstreetcn.com/livenews/3011073",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251127050529434800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "07时12分"
         },
         {
           "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览（美股盘中）",
@@ -316,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 人造肉概念股大涨",
-          "url": "https://flash.jin10.com/detail/20251127050057766800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "金十图示：2025年11月26日（周三）热门中概股行情一览（美股盘中）",
