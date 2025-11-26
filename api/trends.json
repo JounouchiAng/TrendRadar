@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-26T16:18:42.337248+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-11-26T17:15:44.456309+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时57分 ~ 17时15分]"
+        },
         {
           "title": "阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小",
           "url": "https://wallstreetcn.com/articles/3760106",
@@ -17,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 16时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -46,18 +58,6 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 16时18分]"
-        },
-        {
           "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
           "url": "https://www.cls.cn/detail/2210415",
           "source": "财联社热门",
@@ -80,6 +80,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 17时15分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -132,22 +144,12 @@
             9,
             11,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 16时18分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -187,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 17时15分]"
         },
         {
           "title": "日本电磁炮试射炸毁舰船？系AI合成",
@@ -199,8 +201,37 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 17时15分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 17时15分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12,
+            19,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 17时15分]"
         },
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，是真的吗？你能否接受教材用 AI 生成的图片？",
@@ -259,17 +290,27 @@
           "time_info": "10时43分"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
+          "title": "欧洲央行：市场情绪可能因经济增长和人工智能而发生剧烈转变。",
+          "url": "https://flash.jin10.com/detail/20251126170324024800",
+          "source": "金十数据",
           "ranks": [
-            11,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
             10,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 16时18分]"
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时15分]"
         },
         {
           "title": "惠普(HPQ.N)首席执行官：惠普预计将在明年四月的投资者日上公布有关人工智能计划的更多细节。",
@@ -283,18 +324,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
+          "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3010785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            12,
-            19,
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 16时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-26）",
@@ -375,20 +413,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
         {
-          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
-          "url": "https://wallstreetcn.com/articles/3760129",
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时15分"
         },
         {
           "title": "英伟达(NVDA.O)：我们的GPU比谷歌的AI芯片领先一代。",
@@ -427,6 +465,18 @@
           "time_info": "[04时15分 ~ 06时13分]"
         },
         {
+          "title": "UP超治愈演唱AI音乐无岸",
+          "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 17时15分]"
+        },
+        {
           "title": "戴尔上调全年AI服务器发货预期",
           "url": "https://wallstreetcn.com/livenews/3010403",
           "source": "华尔街见闻-快讯",
@@ -462,17 +512,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "UP超治愈演唱AI音乐无岸",
-          "url": "https://search.bilibili.com/all?keyword=UP%E8%B6%85%E6%B2%BB%E6%84%88%E6%BC%94%E5%94%B1AI%E9%9F%B3%E4%B9%90%E6%97%A0%E5%B2%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "麦肯锡削减约200个技术岗位 “AI替代”势不可挡",
           "url": "https://wallstreetcn.com/livenews/3010703",
           "source": "华尔街见闻-快讯",
@@ -490,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -550,6 +589,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "两大AI巨头走势分化 Alphabet市值逼近4万亿撩拨投资者神经",
+          "url": "https://flash.jin10.com/detail/20251126164223772800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "惠普(HPQ.N)计划在全球范围内裁减4000至6000名员工，以推动全公司范围内采用人工智能。",
           "url": "https://flash.jin10.com/detail/20251126051604849800",
           "source": "金十数据",
@@ -567,7 +617,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -575,7 +625,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -626,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "理想汽车美股盘前跌超4%，公司对第四季度营收指引低于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3010788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "金十图示：2025年11月25日（周二）热门中概股行情一览（美股收盘）",
@@ -781,7 +842,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "早盘收盘，国内期货主力合约涨跌不一，碳酸锂、多晶硅涨超3%，花生涨超2%，沪银、苹果、玻璃涨近2%。跌幅方面，集运欧线跌超6%，焦炭、焦煤跌超2%。",
@@ -832,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "挑战苹果夹万物",
+          "url": "https://www.douyin.com/hot/2318198",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "20岁小苹果身高已超1米7",
