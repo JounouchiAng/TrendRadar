@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T13:14:34.441706+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2025-11-27T14:21:24.652921+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -135,11 +135,12 @@
             19,
             9,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -170,8 +171,22 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时21分]"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时21分]"
         },
         {
           "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
@@ -185,28 +200,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "time_info": "14时21分"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -240,7 +242,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -255,6 +257,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时14分]"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时21分]"
+        },
+        {
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时21分]"
         },
         {
           "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
@@ -290,6 +316,17 @@
           "time_info": "11时41分"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "多家手机厂商取消Air机型",
           "url": "https://wallstreetcn.com/livenews/3011172",
           "source": "华尔街见闻-快讯",
@@ -310,23 +347,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "多家手机厂商取消Air机型",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -348,8 +374,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时21分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -364,18 +403,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时16分 ~ 12时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "（美股）费城金银指数收涨4.98%，报316.85点，全天持续走高。 纽约证交所ARCA金矿开采商指数收涨4.39%，报2274.52点；北京时间22:30美股开盘之前持平于2180点附近，之后“跳空高开”并持续走高。",
@@ -515,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美股、美债今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251127134546651800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -530,11 +568,12 @@
             17,
             10,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "根据新的法律，苹果公司在印度反垄断案件中可能面临高达380亿美元的罚款。",
@@ -585,7 +624,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -595,8 +634,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时21分]"
+        },
+        {
+          "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
+          "url": "https://wallstreetcn.com/articles/3760217",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "标普：下调Tether的稳定币USDT评级至“偏弱”稳定，因其对比特币等高风险资产有敞口，且信息披露有限。",
