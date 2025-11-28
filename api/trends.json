@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T14:20:44.809216+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-28T15:14:40.262426+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 15时14分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -57,8 +57,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 15时14分]"
+        },
+        {
+          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
+          "url": "https://www.cls.cn/detail/2213363",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 15时14分]"
+        },
+        {
+          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
+          "url": "https://wallstreetcn.com/articles/3760277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 15时14分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -87,31 +112,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 05时12分]"
-        },
-        {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时20分]"
-        },
-        {
-          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
-          "url": "https://wallstreetcn.com/articles/3760277",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -191,28 +191,6 @@
           "time_info": "[11时41分 ~ 12时17分]"
         },
         {
-          "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
-          "url": "https://wallstreetcn.com/livenews/3011921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
-          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3011904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
           "url": "https://wallstreetcn.com/livenews/3011848",
           "source": "华尔街见闻-快讯",
@@ -269,7 +247,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -286,6 +264,18 @@
           "time_info": "[10时27分 ~ 11时41分]"
         },
         {
+          "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
+          "url": "https://wallstreetcn.com/livenews/3011921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时14分]"
+        },
+        {
           "title": "据英国金融时报：多家银行正商谈再向甲骨文(ORCL.N)和数据中心建设商VANTAGE提供380亿美元贷款，以资助其为OpenAI建设更多数据中心。",
           "url": "https://flash.jin10.com/detail/20251128130252675800",
           "source": "金十数据",
@@ -296,6 +286,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时20分]"
+        },
+        {
+          "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3011904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时14分]"
         },
         {
           "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
@@ -332,6 +334,50 @@
           "time_info": "10时27分"
         },
         {
+          "title": "野村证券：将利用OpenAI的战略和技术支持开发新服务。",
+          "url": "https://flash.jin10.com/detail/20251128145150536800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "惠誉评级：2026年亚太科技行业将面临消费需求疲软，但人工智能将带来顺风。",
+          "url": "https://flash.jin10.com/detail/20251128144849477800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "野村证券：启动与OpenAI的战略合作。",
+          "url": "https://flash.jin10.com/detail/20251128144813905800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-28）",
           "url": "https://flash.jin10.com/detail/20251128120110920800",
           "source": "金十数据",
@@ -346,8 +392,20 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "苹果或面临380亿美元罚款",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时14分]"
+        },
         {
           "title": "葛荟婕回应大女儿小苹果恋爱",
           "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
@@ -372,15 +430,15 @@
           "time_info": "12时17分"
         },
         {
-          "title": "苹果或面临380亿美元罚款",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
+          "title": "苹果手机被偷一周收到骗子来电",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "15时14分"
         }
       ]
     },
@@ -442,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 15时14分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
