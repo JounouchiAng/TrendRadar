@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T18:14:51.544932+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-11-28T19:11:39.250303+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 19时11分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -109,11 +109,12 @@
             7,
             8,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 19时11分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -170,6 +171,30 @@
           "time_info": "[01时11分 ~ 10时27分]"
         },
         {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
+        },
+        {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 19时11分]"
+        },
+        {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
           "url": "https://flash.jin10.com/detail/20251128095923576800",
           "source": "金十数据",
@@ -191,29 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时17分]"
-        },
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "夸克AI眼镜持续霸榜第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 18时14分]"
         },
         {
           "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
@@ -264,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "雷军称所有产业都值得AI再做一遍",
@@ -346,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 17时14分]"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
@@ -473,11 +476,12 @@
             26,
             28,
             27,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 19时11分]"
         },
         {
           "title": "葛荟婕回应大女儿小苹果恋爱",
@@ -573,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 19时11分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
@@ -583,7 +587,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -594,7 +598,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -616,7 +620,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -678,7 +682,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
