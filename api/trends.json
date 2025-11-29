@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T10:27:25.364050+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-11-29T11:41:26.778859+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "ranks": [
             21,
             22,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 10时27分]"
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 11时41分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -69,8 +70,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 10时27分]"
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 11时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
@@ -88,6 +89,20 @@
           "time_info": "[03时10分 ~ 07时12分]"
         },
         {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时41分]"
+        },
+        {
           "title": "半导体ETF+能源业ETF收涨1.3%，领跑美股行业ETF，11月网络股ETF、科技行业ETF跌超4.8%",
           "url": "https://wallstreetcn.com/livenews/3012370",
           "source": "华尔街见闻-快讯",
@@ -101,19 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 07时12分]"
-        },
-        {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时27分]"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -186,8 +188,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时41分]"
         },
         {
           "title": "美股三大指数收涨 英特尔暴涨10%",
@@ -198,8 +200,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时41分]"
         },
         {
           "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
@@ -236,33 +238,47 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时41分]"
         },
         {
           "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
           "url": "https://wallstreetcn.com/livenews/3012414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时41分]"
         },
         {
           "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
           "url": "https://wallstreetcn.com/articles/3760347",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时41分]"
+        },
+        {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时41分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -275,17 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 02时18分]"
-        },
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
@@ -302,7 +307,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英特尔(INTC.O)涨超10%，郭明錤称英特尔预计最快在2027年开始出货苹果最低阶M处理器。",
@@ -340,6 +345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 02时18分]"
+        },
+        {
+          "title": "库克宣布苹果向香港捐款",
+          "url": "https://www.douyin.com/hot/2320403",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         }
       ]
     },
@@ -355,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时56分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 11时41分]"
         },
         {
           "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
