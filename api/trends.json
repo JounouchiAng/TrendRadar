@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:22:40.414137+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-11-30T21:21:35.403061+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时20分 ~ 20时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时20分 ~ 21时21分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时20分 ~ 18时13分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时15分 ~ 21时21分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -65,21 +78,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 20时22分]"
-        },
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时15分 ~ 20时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 21时21分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -105,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时15分 ~ 20时22分]"
+          "appearance_count": 8,
+          "time_info": "[16时15分 ~ 21时21分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -153,9 +153,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时21分]"
         },
         {
           "title": "杨旭文红毯造型被识别AI",
@@ -211,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 20时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 21时21分]"
         },
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -221,22 +221,24 @@
           "ranks": [
             11,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 21时21分]"
         },
         {
           "title": "央行召开打击虚拟货币交易炒作工作协调机制会议，首次定调稳定币为非法金融！对此你怎么看？",
           "url": "https://www.zhihu.com/question/1978464912339649964",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时21分]"
         }
       ]
     },
