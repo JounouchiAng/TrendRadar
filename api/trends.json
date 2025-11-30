@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T15:12:23.312734+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-11-30T16:16:06.932663+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -18,8 +18,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时16分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 16时16分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -38,21 +51,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 15时12分]"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -76,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -93,6 +93,17 @@
           "time_info": "[00时14分 ~ 06时12分]"
         },
         {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
+        },
+        {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
           "url": "https://www.toutiao.com/trending/7578124515407970367/",
           "source": "今日头条",
@@ -103,6 +114,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时04分 ~ 11时21分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 16时16分]"
         },
         {
           "title": "杨旭文红毯造型被识别AI",
@@ -158,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 15时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 16时16分]"
         }
       ]
     },
@@ -176,11 +198,12 @@
             5,
             4,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 15时12分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 16时16分]"
         },
         {
           "title": "苹果10月全球份额飙至24.2%",
@@ -192,6 +215,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "挪威基金投票反对微软首席执行官纳德拉连任董事会主席。",
+          "url": "https://flash.jin10.com/detail/20251130154908328800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "挪威基金将投票反对微软首席执行官的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251130154750129800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
