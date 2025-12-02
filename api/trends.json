@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T12:23:48.664906+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-02T13:14:27.720415+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -61,17 +61,6 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "网警侦破AI换脸侵入计算机案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
-        },
-        {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
           "url": "https://www.cls.cn/detail/2216587",
           "source": "财联社热门",
@@ -80,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "网警破获通过AI换脸非法侵入系统案",
@@ -91,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -102,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
@@ -113,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -124,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -134,6 +123,17 @@
           "ranks": [
             8,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
+        },
+        {
+          "title": "网警侦破AI换脸侵入计算机案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -148,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时47分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时14分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -181,6 +181,28 @@
           "time_info": "[03时16分 ~ 06时11分]"
         },
         {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
+          "url": "https://flash.jin10.com/detail/20251202115850736800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "中信建投：关注字节Force大会和AI产业链",
           "url": "https://wallstreetcn.com/livenews/3013308",
           "source": "华尔街见闻-快讯",
@@ -201,6 +223,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
+          "url": "https://www.cls.cn/detail/2216521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时14分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -240,18 +275,6 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
-          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
-          "url": "https://www.cls.cn/detail/2216521",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时23分]"
-        },
-        {
           "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
           "url": "https://flash.jin10.com/detail/20251202032928692800",
           "source": "金十数据",
@@ -288,6 +311,31 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时14分]"
+        },
+        {
+          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
+          "url": "https://wallstreetcn.com/livenews/3013427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时14分]"
+        },
+        {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
           "url": "https://wallstreetcn.com/livenews/3013130",
           "source": "华尔街见闻-快讯",
@@ -298,18 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时15分]"
-        },
-        {
-          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
-          "url": "https://wallstreetcn.com/livenews/3013427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时23分]"
         },
         {
           "title": "顾客买鞋子仅退款发AI图",
@@ -324,17 +360,6 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
           "url": "https://flash.jin10.com/detail/20251202040715444800",
           "source": "金十数据",
@@ -344,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
@@ -388,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "中信证券推演：将OpenAI陷入经营危机、AI产业投资节奏放缓视为基准情形",
@@ -450,8 +497,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 13时14分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -596,7 +643,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三星首款三折叠手机发布",
@@ -606,8 +653,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时14分]"
+        },
+        {
+          "title": "罗永浩谈三星三折叠",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%B0%88%E4%B8%89%E6%98%9F%E4%B8%89%E6%8A%98%E5%8F%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -626,8 +684,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 13时14分]"
         }
       ]
     }
