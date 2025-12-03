@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T21:31:32.171286+08:00",
-  "total_titles_processed": 1913,
+  "generated_at": "2025-12-03T22:15:20.711209+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时58分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[08时58分 ~ 22时15分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -97,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 21时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 22时15分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -340,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "诺比侃人工智能科技（成都）股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3014487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -609,7 +620,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -738,7 +749,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -749,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时58分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[08时58分 ~ 22时15分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -813,13 +824,46 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203214621066800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3014495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "小非农超预期降温，美股期货上扬，美元短线跳水，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "市场静待美国数据，美股期货上扬，伦铜涨破纪录，白银新高回落，离岸人民币创14个月来高点",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -931,7 +975,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -975,7 +1019,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
@@ -1008,8 +1052,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 22时15分]"
         },
         {
           "title": "比特币涨穿90000美元，涨幅超过6%",
