@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T01:13:25.639016+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-12-06T02:17:19.371539+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3016064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时17分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
@@ -50,12 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3016071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -66,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
@@ -78,8 +90,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251206013133471800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -92,41 +115,76 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时13分]"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251206013131784800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "网络状况监测网站DownDetector：用户报告显示微软Teams出现问题。",
           "url": "https://flash.jin10.com/detail/20251206001647054800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 02时17分]"
+        },
+        {
+          "title": "微软(MSFT.O)年度股东大会上，微软股东投票批准公司所有提案，包括选举12名董事及2026年股票计划。微软股东投票反对全部6项股东提案，其中包括一项要求公司提交人权尽职调查报告的提案。",
+          "url": "https://flash.jin10.com/detail/20251206010413507800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时17分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "比特币恐将面临2014年以来首次与股票年度走势分离",
+          "url": "https://wallstreetcn.com/livenews/3016078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
         {
           "title": "警方公告190万枚虚拟货币失主认领",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E5%85%AC%E5%91%8A190%E4%B8%87%E6%9E%9A%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E5%A4%B1%E4%B8%BB%E8%AE%A4%E9%A2%86",
           "source": "百度热搜",
           "ranks": [
             30,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 02时17分]"
         }
       ]
     }
