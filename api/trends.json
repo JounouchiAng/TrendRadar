@@ -1,8 +1,107 @@
 {
-  "generated_at": "2025-12-06T03:11:28.496510+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2025-12-06T04:15:10.459185+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时15分]"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时15分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3016105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时11分]"
+        },
+        {
+          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
+          "url": "https://wallstreetcn.com/livenews/3016097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3016071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时15分]"
+        },
+        {
+          "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
+          "url": "https://wallstreetcn.com/livenews/3016035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
+          "url": "https://flash.jin10.com/detail/20251206030123657800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 7,
@@ -16,8 +115,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时15分]"
+        },
+        {
+          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时15分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
@@ -30,17 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时17分]"
-        },
-        {
-          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
         },
         {
           "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
@@ -67,6 +166,18 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "美股开盘：百度涨超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
           "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251206013131784800",
           "source": "金十数据",
@@ -77,81 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时11分]"
-        },
-        {
-          "title": "美股开盘：百度涨超4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时11分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时11分]"
-        },
-        {
-          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时11分]"
-        },
-        {
-          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3016071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时11分]"
-        },
-        {
-          "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
-          "url": "https://wallstreetcn.com/livenews/3016035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -197,11 +233,12 @@
             30,
             29,
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时15分]"
         },
         {
           "title": "比特币恐将面临2014年以来首次与股票年度走势分离",
@@ -209,11 +246,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 04时15分]"
         }
       ]
     }
