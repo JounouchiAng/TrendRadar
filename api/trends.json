@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:18:21.476901+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-12-06T15:12:20.598054+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 15时12分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时12分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 15时12分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -80,11 +80,40 @@
             6,
             8,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时12分]"
+        },
+        {
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            20,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -147,20 +176,6 @@
           "time_info": "[04时15分 ~ 05时12分]"
         },
         {
-          "title": "ChatGPT产品负责人回应广告传闻",
-          "url": "https://flash.jin10.com/detail/20251206101132584800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时18分]"
-        },
-        {
           "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
           "source": "澎湃新闻",
@@ -170,18 +185,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 12时15分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 14时18分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -269,8 +272,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 15时12分]"
+        },
+        {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 15时12分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -283,19 +300,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 07时13分]"
-        },
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 14时18分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
