@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T17:13:03.491116+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2025-12-07T18:12:18.381938+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 17时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -68,11 +68,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 17时13分]"
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 18时12分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -97,11 +98,12 @@
             18,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 18时12分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
@@ -279,8 +281,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时13分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 18时12分]"
         }
       ]
     },
