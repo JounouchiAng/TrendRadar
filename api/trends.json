@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-09T01:15:00.043812+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-12-09T02:20:31.769986+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
           "url": "https://www.zhihu.com/question/1981321831689511959",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
@@ -52,12 +53,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时15分]"
+        },
+        {
+          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
+          "url": "https://wallstreetcn.com/livenews/3017099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
+          "url": "https://wallstreetcn.com/livenews/3017096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "据CNBC：桥水基金创始人瑞·达利欧表示，中东正迅速崛起为世界上最强大的人工智能中心之一，他将该地区的崛起与硅谷对所有科技领域的吸引力进行了比较。",
+          "url": "https://flash.jin10.com/detail/20251209010947789800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -65,11 +99,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -80,8 +115,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251209013218398800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251209013045087800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
@@ -118,7 +175,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -141,7 +198,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -158,7 +215,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -167,11 +224,12 @@
           "url": "https://wallstreetcn.com/livenews/3017088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时20分]"
         }
       ]
     }
