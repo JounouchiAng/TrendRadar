@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T02:20:31.769986+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-12-09T03:11:33.765767+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
@@ -59,22 +59,46 @@
           "url": "https://wallstreetcn.com/livenews/3017099",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时11分]"
         },
         {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时11分]"
+        },
+        {
+          "title": "谷歌：首款人工智能眼镜将于2026年问世",
+          "url": "https://flash.jin10.com/detail/20251209023449862800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "03时11分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
+          "url": "https://flash.jin10.com/detail/20251209021608071800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "据CNBC：桥水基金创始人瑞·达利欧表示，中东正迅速崛起为世界上最强大的人工智能中心之一，他将该地区的崛起与硅谷对所有科技领域的吸引力进行了比较。",
@@ -83,9 +107,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在谷歌实验室的实验性人工智能应用Doppl中推出可购物的时尚发现信息流。",
+          "url": "https://flash.jin10.com/detail/20251209020747486800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         }
       ]
     },
@@ -103,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -115,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股盘中）",
@@ -125,7 +160,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -136,7 +171,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -225,11 +260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时11分]"
         }
       ]
     }
