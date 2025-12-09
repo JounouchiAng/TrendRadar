@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:26:43.836171+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2025-12-09T21:31:37.367259+08:00",
+  "total_titles_processed": 1994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -95,6 +95,50 @@
           "time_info": "[08时59分 ~ 15时17分]"
         },
         {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 21时31分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时31分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时31分]"
+        },
+        {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
           "url": "https://www.cls.cn/detail/2223387",
           "source": "财联社热门",
@@ -109,48 +153,6 @@
           "time_info": "[08时59分 ~ 15时17分]"
         },
         {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 20时26分]"
-        },
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时26分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时26分]"
-        },
-        {
           "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
           "url": "https://news.ifeng.com/c/8owfgsEZQEu",
           "source": "凤凰网",
@@ -158,8 +160,22 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时31分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 21时31分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -175,20 +191,6 @@
           "time_info": "[08时59分 ~ 15时17分]"
         },
         {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 20时26分]"
-        },
-        {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
@@ -198,11 +200,12 @@
             18,
             16,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 21时31分]"
         },
         {
           "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
@@ -213,8 +216,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时31分]"
+        },
+        {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
@@ -226,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "微软：将在未来四年内向印度的人工智能和云计算领域投资175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
@@ -259,6 +284,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 21时31分]"
         },
         {
           "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
@@ -402,19 +441,6 @@
           "time_info": "[02时20分 ~ 04时15分]"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 20时26分]"
-        },
-        {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
@@ -425,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 03时11分]"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时31分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -527,15 +565,15 @@
           "time_info": "15时17分"
         },
         {
-          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
-          "url": "https://www.zhihu.com/question/1981675433712976771",
-          "source": "知乎",
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时31分"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -547,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "摩根大通：预计2026年新兴市场股票表现将优于发达市场。 认为中国人工智能股票比美国同业的价格更优惠。",
+          "url": "https://wallstreetcn.com/livenews/3017702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -577,7 +626,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -629,8 +678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时59分 ~ 20时26分]"
+          "appearance_count": 14,
+          "time_info": "[08时59分 ~ 21时31分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -967,7 +1016,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         }
@@ -1016,6 +1065,23 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星堆不同祭祀坑文物能拼接吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%8D%E5%90%8C%E7%A5%AD%E7%A5%80%E5%9D%91%E6%96%87%E7%89%A9%E8%83%BD%E6%8B%BC%E6%8E%A5%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "VIVO",
       "match_count": 1,
       "titles": [
@@ -1026,11 +1092,12 @@
           "ranks": [
             3,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 20时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时16分 ~ 21时31分]"
         }
       ]
     },
