@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T22:15:46.748837+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2025-12-09T23:16:28.699470+08:00",
+  "total_titles_processed": 2157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -65,6 +65,34 @@
           "time_info": "[08时59分 ~ 15时17分]"
         },
         {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 23时16分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 23时16分]"
+        },
+        {
           "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
           "url": "https://www.cls.cn/detail/2223769",
           "source": "财联社热门",
@@ -92,36 +120,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时14分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[13时14分 ~ 23时16分]"
         },
         {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7,
-            4
+            11,
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 22时15分]"
-        },
-        {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://www.cls.cn/detail/2223956",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 23时16分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -151,18 +165,21 @@
           "time_info": "[16时19分 ~ 22时15分]"
         },
         {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            8,
-            9,
-            7
+            20,
+            19,
+            18,
+            16,
+            15,
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 23时16分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -179,23 +196,6 @@
           "time_info": "[08时59分 ~ 15时17分]"
         },
         {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            16,
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时15分]"
-        },
-        {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
           "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
@@ -207,6 +207,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时59分 ~ 15时17分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 23时16分]"
         },
         {
           "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
@@ -221,19 +236,15 @@
           "time_info": "[18时16分 ~ 21时31分]"
         },
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
+          "title": "美国白宫国家经济委员会主任哈塞特在华尔街日报CEO委员会峰会上表示：人工智能（AI）对生产力的作用比电脑更大。",
+          "url": "https://wallstreetcn.com/livenews/3017766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
-            14,
-            9,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 22时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "微软宣布未来四年将在印度投入175亿美元发展人工智能",
@@ -242,7 +253,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -264,7 +275,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -278,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：人工智能最终会成为一件好东西，就像电脑一样。",
+          "url": "https://flash.jin10.com/detail/20251209225105125800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
@@ -300,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：不预期人工智能会导致大规模失业。",
+          "url": "https://flash.jin10.com/detail/20251209225038607800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
@@ -467,6 +500,18 @@
           "time_info": "[02时20分 ~ 04时15分]"
         },
         {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时16分]"
+        },
+        {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
@@ -501,18 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时22分]"
-        },
-        {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时15分]"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -598,7 +631,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -634,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "存储AI初创公司Fal按45亿美元估值融资，由Sequoia（红杉资本）领投。",
+          "url": "https://wallstreetcn.com/livenews/3017744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
@@ -705,7 +749,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -717,8 +761,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时59分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 23时16分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -763,26 +807,27 @@
           "time_info": "[00时17分 ~ 13时14分]"
         },
         {
-          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3017732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF跌约0.7%，网络股指数ETF跌约0.5%，全球科技股指数ETF跌次%，银行业ETF、能源业ETF涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3017763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时16分"
         },
         {
           "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
@@ -831,6 +876,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3017732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
@@ -917,6 +974,17 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "英伟达美股盘前涨幅收窄至1%。",
           "url": "https://wallstreetcn.com/livenews/3017613",
           "source": "华尔街见闻-快讯",
@@ -934,7 +1002,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -994,6 +1062,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3017743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
           "url": "https://wallstreetcn.com/livenews/3017046",
           "source": "华尔街见闻-快讯",
@@ -1025,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251209223706675800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
@@ -1165,11 +1255,12 @@
             3,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时16分 ~ 22时15分]"
+          "appearance_count": 10,
+          "time_info": "[15时16分 ~ 23时16分]"
         }
       ]
     },
