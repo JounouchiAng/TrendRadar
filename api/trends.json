@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:53:21.371031+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-12-10T12:27:45.905011+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -20,19 +20,6 @@
           "time_info": "[00时17分 ~ 11时53分]"
         },
         {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时05分]"
-        },
-        {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
           "source": "澎湃新闻",
@@ -42,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时27分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -56,6 +43,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 12时27分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -71,6 +72,18 @@
           "time_info": "[00时17分 ~ 09时05分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时05分 ~ 12时27分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -83,17 +96,6 @@
           "time_info": "[01时15分 ~ 06时21分]"
         },
         {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时53分]"
-        },
-        {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
           "url": "https://www.cls.cn/detail/2224818",
           "source": "财联社热门",
@@ -101,8 +103,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 12时27分]"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            19,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 12时27分]"
         },
         {
           "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
@@ -136,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210115902763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
@@ -173,18 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时12分]"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时53分]"
         },
         {
           "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
@@ -354,8 +368,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 12时27分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时53分]"
+          "time_info": "[09时05分 ~ 12时27分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -367,17 +392,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 04时25分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时05分 ~ 11时53分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -517,22 +531,24 @@
           "url": "https://flash.jin10.com/detail/20251210113655618800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时27分]"
         },
         {
           "title": "微软365：正在调查一项影响澳大利亚用户访问多项微软365服务的问题。",
           "url": "https://flash.jin10.com/detail/20251210113508586800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时27分]"
         },
         {
           "title": "微软(MSFT.O)：在美国扩展五个现有的数据中心区域。",
@@ -644,11 +660,12 @@
           "ranks": [
             10,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时27分]"
         }
       ]
     }
