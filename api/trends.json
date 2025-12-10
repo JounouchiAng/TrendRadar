@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:05:23.335102+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2025-12-10T10:52:49.622519+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -83,6 +83,17 @@
           "time_info": "[01时15分 ~ 06时21分]"
         },
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 10时52分]"
+        },
+        {
           "title": "瞄准中国科技股，全球资金寻找AI“新战场”",
           "url": "https://wallstreetcn.com/livenews/3017925",
           "source": "华尔街见闻-快讯",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
@@ -252,9 +263,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "摩根大通消费者与社区银行业务首席执行官：借助人工智能，年度生产率增幅从3%提升至6%。",
@@ -332,6 +354,30 @@
           "time_info": "[01时15分 ~ 04时25分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时52分]"
+        },
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 10时52分]"
+        },
+        {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
@@ -341,29 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 09时05分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时05分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -497,11 +520,12 @@
             17,
             21,
             16,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时52分]"
         },
         {
           "title": "三星SDI子公司与美国客户签署13.6亿美元磷酸铁锂电池协议",
@@ -510,7 +534,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -521,7 +545,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         }
@@ -594,11 +618,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347831&amp;topic_name=%E9%BB%91%E7%B2%89%E7%96%AF%E7%8B%82%E9%80%80%E8%B4%A7%E5%BC%80%E5%9B%A2%E5%88%B6%E8%A3%81vivo",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时52分]"
         }
       ]
     }
