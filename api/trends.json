@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:34:02.983123+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2025-12-11T22:17:42.916271+08:00",
+  "total_titles_processed": 2144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时19分 ~ 21时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 22时17分]"
         },
         {
           "title": "网警：男子AI生成车展低俗视频被拘",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 22时17分]"
         },
         {
           "title": "男子AI生成车展低俗视频被拘",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 22时17分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 21时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 22时17分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -71,18 +71,6 @@
           "time_info": "[09时01分 ~ 16时20分]"
         },
         {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时11分]"
-        },
-        {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
           "source": "知乎",
@@ -93,8 +81,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 22时17分]"
+        },
+        {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时19分 ~ 21时34分]"
+          "time_info": "[00时19分 ~ 07时11分]"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -152,6 +152,29 @@
           "time_info": "19时13分"
         },
         {
+          "title": "动画老牌GAINAX正式破产领盒饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时17分]"
+        },
+        {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "AIDC储能2030年出货量或达今年20倍",
           "url": "https://wallstreetcn.com/livenews/3018700",
           "source": "华尔街见闻-快讯",
@@ -163,6 +186,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "迪士尼：将成为OpenAI的客户，利用其API构建产品、工具和体验服务，包括用于Disney+的项目，并为员工部署ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251211220301017800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3018762",
           "source": "华尔街见闻-快讯",
@@ -172,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "夸克AI眼镜核心供应商已新增产线",
@@ -253,17 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时22分]"
-        },
-        {
-          "title": "动画老牌GAINAX正式破产领盒饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -385,6 +419,17 @@
           "time_info": "20时27分"
         },
         {
+          "title": "华特迪士尼公司与OpenAI达成具有里程碑意义的协议，迪士尼将对OpenAI进行10亿美元股权投资。",
+          "url": "https://flash.jin10.com/detail/20251211220041315800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "全国首个应对疟疾、结核病及病毒等全球健康疾病挑战的AI制药平台正式发布",
           "url": "https://wallstreetcn.com/livenews/3019132",
           "source": "华尔街见闻-快讯",
@@ -451,6 +496,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "橡树资本联合创始人霍华德·马克斯：股票可能是人工智能投资的更优选。",
+          "url": "https://flash.jin10.com/detail/20251211215021713800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
           "url": "https://flash.jin10.com/detail/20251211012928783800",
           "source": "金十数据",
@@ -482,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国38万亿美元债务终极解法是AI吗",
+          "url": "https://www.toutiao.com/trending/7582549459209293355/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "Adobe(ADBE.O)首席财务官：客户互动正随着AI应用的普及而日益增强。企业客户正推动增长",
@@ -520,7 +587,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -530,8 +597,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 21时34分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 22时17分]"
         },
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -576,7 +643,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -699,6 +766,17 @@
           "time_info": "[11时54分 ~ 12时29分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3019275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251211013428018800",
           "source": "金十数据",
@@ -801,7 +879,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
@@ -901,6 +979,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时14分]"
+        },
+        {
+          "title": "苹果原装取卡针被传由铂金制成，回收价超 300 元，官方称是一种非晶态合金，这种金属有哪些特点？",
+          "url": "https://www.zhihu.com/question/1981776734798963285",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "据Punchbowl：苹果(AAPL.O)CEO库克力推苹果的年龄分级方法，称其有助于保护儿童。",
