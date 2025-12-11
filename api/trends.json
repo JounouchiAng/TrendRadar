@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T15:19:30.377525+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-12-11T16:20:20.585909+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -20,8 +20,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时20分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时20分]"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时20分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -36,30 +61,6 @@
           "time_info": "[00时19分 ~ 07时11分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时19分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时19分]"
-        },
-        {
           "title": "男子AI生成车展低俗视频被拘",
           "url": "https://www.douyin.com/hot/2333057",
           "source": "抖音",
@@ -67,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 16时20分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -78,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 15时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 16时20分]"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -104,6 +105,17 @@
           "time_info": "[09时01分 ~ 12时29分]"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 16时20分]"
+        },
+        {
           "title": "网警：男子AI生成车展低俗视频被拘",
           "url": "https://www.toutiao.com/trending/7582391057200074250/",
           "source": "今日头条",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时01分 ~ 10时55分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时19分]"
         },
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -177,7 +178,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -230,6 +231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时22分]"
+        },
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时20分]"
         },
         {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
@@ -289,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "美国能源部拨款超3.2亿美元，加大对人工智能科学投资",
@@ -368,13 +370,24 @@
           "time_info": "02时21分"
         },
         {
+          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
+          "url": "https://www.zhihu.com/question/1974921641634064010",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "投行Baird：将甲骨文(ORCL.N)目标价从315美元下调至300美元。",
           "url": "https://flash.jin10.com/detail/20251211144209926800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -441,6 +454,17 @@
           "time_info": "[00时19分 ~ 07时11分]"
         },
         {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 16时20分]"
+        },
+        {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
           "url": "https://www.cls.cn/detail/2225967",
           "source": "财联社热门",
@@ -451,17 +475,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时11分 ~ 15时19分]"
-        },
-        {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 15时19分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -663,7 +676,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
@@ -749,6 +762,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时14分]"
+        },
+        {
+          "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
+          "url": "https://www.cls.cn/detail/2226248",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "据Punchbowl：苹果(AAPL.O)CEO库克力推苹果的年龄分级方法，称其有助于保护儿童。",
