@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:14:36.231094+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-14T14:19:36.665836+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -85,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 13时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -101,8 +102,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时11分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[01时11分 ~ 14时19分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -129,6 +130,19 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时19分]"
+        },
+        {
           "title": "广东省人工智能与机器人企业超3700家",
           "url": "https://wallstreetcn.com/livenews/3020236",
           "source": "华尔街见闻-快讯",
@@ -140,30 +154,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "华尔街日报：OpenAI将取消员工股权归属期",
-          "url": "https://flash.jin10.com/detail/20251214105538781800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时14分]"
-        },
-        {
-          "title": "广东人工智能核心产业规模达2200亿元",
-          "url": "https://wallstreetcn.com/livenews/3020340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时14分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -178,6 +168,19 @@
           "time_info": "[11时22分 ~ 12时31分]"
         },
         {
+          "title": "广东人工智能核心产业规模达2200亿元",
+          "url": "https://wallstreetcn.com/livenews/3020340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时19分]"
+        },
+        {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3020234",
           "source": "华尔街见闻-快讯",
@@ -188,6 +191,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 14时19分]"
+        },
+        {
+          "title": "广东人工智能和机器人产业核心指标位列全国第一",
+          "url": "https://wallstreetcn.com/livenews/3020326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时19分]"
         },
         {
           "title": "2025年人工智能核心产业规模有望破万亿元",
@@ -211,30 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 11时23分]"
-        },
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "广东人工智能和机器人产业核心指标位列全国第一",
-          "url": "https://wallstreetcn.com/livenews/3020326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时14分]"
         },
         {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
