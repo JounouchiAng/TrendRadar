@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:18:10.195422+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2025-12-16T16:20:08.418311+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 16时20分]"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时55分 ~ 16时20分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -46,20 +61,6 @@
           "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
-          "url": "https://www.zhihu.com/question/1982854147905691963",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时55分 ~ 15时18分]"
-        },
-        {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
           "url": "https://wallstreetcn.com/articles/3761466",
           "source": "华尔街见闻",
@@ -69,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 16时20分]"
         },
         {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
@@ -482,8 +483,30 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "苹果安卓实现互通",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%AE%89%E5%8D%93%E5%AE%9E%E7%8E%B0%E4%BA%92%E9%80%9A&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
+        {
+          "title": "梁振英直斥《苹果日报》是香港之耻，黎智英遗害一整代香港青年",
+          "url": "https://news.ifeng.com/c/8p8HEeRLRqB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 16时20分]"
+        },
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
           "url": "https://wallstreetcn.com/livenews/3021168",
