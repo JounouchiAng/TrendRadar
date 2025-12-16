@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T16:20:08.418311+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2025-12-16T17:19:33.974181+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时55分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时55分 ~ 17时19分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -41,11 +41,25 @@
             11,
             8,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时55分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 17时19分]"
+        },
+        {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 17时19分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -59,19 +73,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时13分]"
-        },
-        {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 16时20分]"
         },
         {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "经合组织：人工智能投资将持续增长并提振世界经济",
+          "url": "https://flash.jin10.com/detail/20251216171115377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
@@ -493,8 +505,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
           "title": "梁振英直斥《苹果日报》是香港之耻，黎智英遗害一整代香港青年",
@@ -504,8 +516,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时19分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
