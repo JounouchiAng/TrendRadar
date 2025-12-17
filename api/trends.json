@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:15:38.580747+08:00",
-  "total_titles_processed": 2103,
+  "generated_at": "2025-12-17T23:15:59.494202+08:00",
+  "total_titles_processed": 2191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -268,6 +268,18 @@
           "time_info": "[10时46分 ~ 11时51分]"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
           "url": "https://flash.jin10.com/detail/20251217115517049800",
           "source": "金十数据",
@@ -303,6 +315,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时16分]"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时15分]"
         },
         {
           "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
@@ -363,17 +386,6 @@
           "time_info": "[00时18分 ~ 01时18分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时15分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
           "url": "https://wallstreetcn.com/livenews/3021803",
           "source": "华尔街见闻-快讯",
@@ -386,15 +398,15 @@
           "time_info": "[00时18分 ~ 01时18分]"
         },
         {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
+          "title": "外媒：OpenAI、Anthropic讨论与生物技术及其他公司的数据交易",
+          "url": "https://flash.jin10.com/detail/20251217223645174800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时15分"
         },
         {
           "title": "国资委张玉卓：推动形成更加符合人工智能发展需要的数字基础设施体系",
@@ -414,7 +426,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -450,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://wallstreetcn.com/livenews/3022466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
@@ -540,6 +563,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
           "url": "https://flash.jin10.com/detail/20251217002108283800",
           "source": "金十数据",
@@ -598,7 +632,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -643,9 +677,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -659,6 +704,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时13分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251217223652356800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "英伟达美股盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3022475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股收盘）",
@@ -710,6 +777,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美股开盘，道指开涨0.12%，标普500指数涨0.03%，纳指涨0.07%。奈飞(NFLX.O)开涨1.66%，此前华纳兄弟探索公司(WBD.O)董事会拒绝了派拉蒙影业的敌意收购要约，并继续推荐与奈飞进行交易；甲骨文(ORCL.N)开跌3.02%，有报道称，其100亿美元密歇根数据中心项目陷入僵局，但公司随后回应相关股权交易仍按计划推进。",
+          "url": "https://flash.jin10.com/detail/20251217223042134800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251217013833784800",
           "source": "金十数据",
@@ -719,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3022461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
@@ -793,8 +882,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时46分 ~ 22时15分]"
+          "appearance_count": 20,
+          "time_info": "[10时46分 ~ 23时15分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
