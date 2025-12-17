@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T19:14:11.745374+08:00",
-  "total_titles_processed": 1809,
+  "generated_at": "2025-12-17T20:27:02.826160+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时46分 ~ 15时17分]"
+        },
+        {
+          "title": "Hut 8盘前大涨，与Anthropic达成70亿美元人工智能基础设施交易",
+          "url": "https://wallstreetcn.com/livenews/3022402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -127,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
+          "url": "https://wallstreetcn.com/livenews/3022400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
@@ -220,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时13分]"
+        },
+        {
+          "title": "我会努力跑在AI的前面",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%B7%91%E5%9C%A8AI%E7%9A%84%E5%89%8D%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "消息称OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。OpenAI还与亚马逊讨论了商业合作事宜。（The Information）",
@@ -329,24 +363,13 @@
           "time_info": "[00时18分 ~ 01时18分]"
         },
         {
-          "title": "我会努力跑在AI的前面",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E4%BC%9A%E5%8A%AA%E5%8A%9B%E8%B7%91%E5%9C%A8AI%E7%9A%84%E5%89%8D%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
           "title": "国资委张玉卓：推动形成更加符合人工智能发展需要的数字基础设施体系",
           "url": "https://wallstreetcn.com/livenews/3022352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -390,7 +413,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -470,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "OpenAI科学家姚顺雨任腾讯首席AI科学家。",
+          "url": "https://wallstreetcn.com/livenews/3022385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "据日经新闻：日本先进半导体制造企业Rapidus已开发出可降低人工智能应用芯片生产成本的技术。",
@@ -655,21 +689,8 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
-          "url": "https://wallstreetcn.com/articles/3761511",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时46分 ~ 19时14分]"
-        },
         {
           "title": "“果链”大事件！苹果首次考虑在印度封装iPhone芯片 已开始展开谈判",
           "url": "https://www.cls.cn/detail/2231960",
@@ -680,8 +701,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时19分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 20时27分]"
+        },
+        {
+          "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
+          "url": "https://wallstreetcn.com/articles/3761511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时46分 ~ 20时27分]"
         },
         {
           "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
@@ -728,6 +762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "曝苹果A20Pro首发台积电2nm",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9CA20Pro%E9%A6%96%E5%8F%91%E5%8F%B0%E7%A7%AF%E7%94%B52nm%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "苹果公司计划扩大智能手机生产线。 苹果到2027年秋季或将推出7款全新iPhone机型（现阶段为5款）。（The Information）",
