@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T12:26:48.307105+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-17T13:16:43.597824+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 13时16分]"
         },
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -65,6 +65,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "凯投宏观：如果AI热潮继续消退，中国股市可能比美国股市表现更好",
+          "url": "https://flash.jin10.com/detail/20251217124326326800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
+          "url": "https://flash.jin10.com/detail/20251217120220101800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时16分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -91,17 +114,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
-          "url": "https://flash.jin10.com/detail/20251217120220101800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
           "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
           "url": "https://flash.jin10.com/detail/20251217000241230800",
           "source": "金十数据",
@@ -124,6 +136,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -133,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
-          "url": "https://flash.jin10.com/detail/20251217115517049800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         },
         {
           "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
@@ -181,6 +193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 11时51分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
+          "url": "https://flash.jin10.com/detail/20251217115517049800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时16分]"
         },
         {
           "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
@@ -243,6 +267,17 @@
           "time_info": "[00时18分 ~ 01时18分]"
         },
         {
+          "title": "虞书欣ThaiMu",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "成都35所中小学试点AI批改作业",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
           "source": "百度热搜",
@@ -293,7 +328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -391,8 +426,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 12时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 13时16分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -522,11 +557,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 13时16分]"
+        },
+        {
+          "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2231596",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 13时16分]"
         },
         {
           "title": "印度经济时报：苹果与印度芯片制造商洽谈iPhone部件组装和封装事宜",
@@ -549,19 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "美政府进一步限制外国公民入境 苹果据称拟扩大iPhone产品线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2231596",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 12时26分]"
         },
         {
           "title": "据The Information：苹果(AAPL.O)计划在2027年秋季前将其iPhone产品线从五款扩展到七款。",
