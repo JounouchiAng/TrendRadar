@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:25:16.355677+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2025-12-19T21:28:51.269561+08:00",
+  "total_titles_processed": 2141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -550,6 +550,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
           "url": "https://flash.jin10.com/detail/20251219031425775800",
           "source": "金十数据",
@@ -608,7 +619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -620,8 +631,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时54分 ~ 20时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时54分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -812,6 +823,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "拼多多美股盘前大涨，一度涨逾8%。今日召开年度股东大会，宣布实行联席董事长制度，任命赵佳臻为联席董事长，与陈磊共同担任联席董事长兼联席CEO。",
+          "url": "https://wallstreetcn.com/livenews/3023976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251219013118998800",
           "source": "金十数据",
@@ -854,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前上涨7.1%。",
+          "url": "https://flash.jin10.com/detail/20251219205601503800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
@@ -932,11 +965,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时28分]"
         },
         {
           "title": "中国的“苹果税”会降吗",
