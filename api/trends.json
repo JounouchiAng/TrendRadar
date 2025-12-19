@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T02:19:42.405988+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-12-20T03:12:27.143328+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -15,19 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 02时19分]"
-        },
-        {
-          "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
-          "url": "https://flash.jin10.com/detail/20251220020815230800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 03时12分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -38,8 +27,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)已为留任的人工智能研究员上调薪酬。",
+          "url": "https://flash.jin10.com/detail/20251220025354643800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
+          "url": "https://flash.jin10.com/detail/20251220020815230800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时12分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -76,11 +88,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -90,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -112,7 +125,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -123,7 +136,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -139,11 +152,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时12分]"
         },
         {
           "title": "比特币涨超3%，刷新日高至88467美元上方。",
@@ -169,11 +183,12 @@
           "ranks": [
             19,
             11,
-            27
+            27,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 03时12分]"
         }
       ]
     }
