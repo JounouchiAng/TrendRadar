@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T14:21:22.367046+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2025-12-19T15:16:38.271488+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -291,6 +291,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
           "url": "https://flash.jin10.com/detail/20251219031932942800",
           "source": "金十数据",
@@ -311,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
+          "url": "https://www.cls.cn/detail/2234132",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-19）",
@@ -374,7 +396,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -385,7 +407,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -396,7 +418,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -473,6 +495,19 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 15时16分]"
+        },
+        {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2234084",
           "source": "财联社热门",
@@ -496,19 +531,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时20分 ~ 06时13分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 14时21分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
