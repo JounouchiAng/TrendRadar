@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:22:27.838481+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-20T22:12:20.347723+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时12分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时12分]"
         },
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -60,8 +60,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时16分 ~ 22时12分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时16分 ~ 21时22分]"
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -94,19 +107,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时13分 ~ 20时23分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时13分 ~ 21时22分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
@@ -156,17 +156,43 @@
           "time_info": "[13时13分 ~ 18时13分]"
         },
         {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时12分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3024278",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             5,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时12分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -199,18 +225,6 @@
           "time_info": "[16时16分 ~ 20时23分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时22分]"
-        },
-        {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
           "url": "https://wallstreetcn.com/livenews/3024236",
           "source": "华尔街见闻-快讯",
@@ -237,18 +251,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时13分 ~ 12时19分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时22分]"
         },
         {
           "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
@@ -278,6 +280,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时13分 ~ 21时22分]"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时12分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
@@ -310,17 +326,31 @@
           "time_info": "[17时13分 ~ 21时22分]"
         },
         {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7,
-            12
+            15,
+            16,
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -335,20 +365,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时57分 ~ 12时19分]"
-        },
-        {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时22分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
@@ -401,17 +417,6 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -448,6 +453,18 @@
           "time_info": "[17时13分 ~ 21时22分]"
         },
         {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时12分]"
+        },
+        {
           "title": "联合国贸发会议：2033年人工智能将成最具主导性前沿技术",
           "url": "https://flash.jin10.com/detail/20251219233253828800",
           "source": "金十数据",
@@ -457,17 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "AI大神：AI大模型正演变成新型智能",
@@ -495,8 +501,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 22时12分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -522,8 +528,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 22时12分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -546,8 +552,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 22时12分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -574,11 +580,12 @@
             4,
             13,
             14,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -692,6 +699,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
+          "url": "https://www.zhihu.com/question/1985109237156815522",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            20,
+            13,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时12分]"
+        },
+        {
           "title": "三角洲行动 苹果源记",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
           "source": "bilibili 热搜",
@@ -704,27 +728,12 @@
             25,
             23,
             22,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时20分]"
-        },
-        {
-          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
-          "url": "https://www.zhihu.com/question/1985109237156815522",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            20,
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时12分 ~ 21时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 22时12分]"
         },
         {
           "title": "坚持吃苹果一个月的身体变化",
@@ -755,8 +764,19 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "比特币短线从88300美元附近跳水，逼近87800美元。",
+          "url": "https://wallstreetcn.com/livenews/3024303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
           "url": "https://wallstreetcn.com/livenews/3024093",
