@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T19:12:56.460829+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-22T20:27:08.292335+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -131,6 +131,19 @@
           "time_info": "[01时11分 ~ 18时15分]"
         },
         {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 20时27分]"
+        },
+        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
           "source": "凤凰网",
@@ -167,17 +180,33 @@
           "time_info": "[02时18分 ~ 07时12分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            7,
-            6
+            28,
+            24,
+            13,
+            29,
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 20时27分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
@@ -191,42 +220,16 @@
           "time_info": "15时18分"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
           "ranks": [
-            28,
-            24,
-            13,
-            29,
-            30
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 19时12分]"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时12分]"
-        },
-        {
-          "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
-          "url": "https://wallstreetcn.com/livenews/3024907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时27分]"
         },
         {
           "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
@@ -288,6 +291,18 @@
           "time_info": "[12时33分 ~ 13时19分]"
         },
         {
+          "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
+          "url": "https://wallstreetcn.com/livenews/3024907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时27分]"
+        },
+        {
           "title": "夸克AI眼镜G1开启预售，最低1999元",
           "url": "https://wallstreetcn.com/livenews/3024838",
           "source": "华尔街见闻-快讯",
@@ -310,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 11时26分]"
-        },
-        {
-          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
-          "url": "https://www.zhihu.com/question/1972372550760784385",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -362,7 +366,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -392,7 +396,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -427,11 +431,12 @@
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时27分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -445,6 +450,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "华尔街普遍看好2026年美股前景 这或许是个隐忧",
+          "url": "https://wallstreetcn.com/livenews/3024941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
           "url": "https://wallstreetcn.com/livenews/3024841",
           "source": "华尔街见闻-快讯",
@@ -455,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时15分]"
+        },
+        {
+          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3024927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -469,7 +496,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
