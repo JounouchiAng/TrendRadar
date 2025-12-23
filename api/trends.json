@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T11:57:59.048414+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-12-23T12:35:10.988708+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -40,11 +40,12 @@
             5,
             9,
             4,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时35分]"
         },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
@@ -57,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 12时35分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -79,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -90,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -101,8 +102,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
+        },
+        {
+          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
+          "url": "https://www.cls.cn/detail/2236998",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时35分]"
         },
         {
           "title": "利用AI造谣中国女篮两男子刑拘",
@@ -116,17 +130,15 @@
           "time_info": "[09时01分 ~ 10时56分]"
         },
         {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
-          "source": "财联社热门",
+          "title": "曝英伟达计划春节前对华交付AI芯片",
+          "url": "https://www.toutiao.com/trending/7586876449718685210/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -153,6 +165,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时14分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223120023669800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
@@ -464,6 +487,45 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果将大幅增加三星DRAM采购比例",
+          "url": "https://flash.jin10.com/detail/20251223103913852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "苹果实况图总定格尴尬瞬间？客服回应",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%9E%E5%86%B5%E5%9B%BE%E6%80%BB%E5%AE%9A%E6%A0%BC%E5%B0%B4%E5%B0%AC%E7%9E%AC%E9%97%B4%EF%BC%9F%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "苹果公司被罚约9860万欧元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A%E7%BA%A69860%E4%B8%87%E6%AC%A7%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
       "match_count": 3,
       "titles": [
@@ -473,11 +535,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时35分]"
         },
         {
           "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
@@ -498,37 +561,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果将大幅增加三星DRAM采购比例",
-          "url": "https://flash.jin10.com/detail/20251223103913852800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "苹果公司被罚约9860万欧元",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A%E7%BA%A69860%E4%B8%87%E6%AC%A7%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         }
       ]
     },
