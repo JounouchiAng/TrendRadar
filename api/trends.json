@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T13:18:13.172997+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-23T14:21:52.372841+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -42,8 +42,41 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 14时21分]"
+        },
+        {
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时13分 ~ 13时18分]"
+          "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 14时21分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -59,52 +92,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 13时18分]"
-        },
-        {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时18分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时18分]"
-        },
-        {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时18分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
@@ -114,6 +103,17 @@
             10,
             9,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 14时21分]"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时14分]"
+        },
+        {
+          "title": "春晚AI冠名落定：火山引擎将登台、豆包也会参与",
+          "url": "https://wallstreetcn.com/livenews/3025400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
@@ -278,6 +289,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "千问发布 2025 十大 AI 提示词，股票意外排名第一，普通人如何用 AI 做好投资？",
+          "url": "https://www.zhihu.com/question/1986558985109792573",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美国总统特朗普：海军和我将主导这些舰艇的设计，人工智能将在这些舰艇中发挥重要作用。",
           "url": "https://flash.jin10.com/detail/20251223062159477800",
           "source": "金十数据",
@@ -287,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美国企业今年发行了价值1.7万亿美元的投资级债券，这一数字接近历史最高水平。此次发债潮主要是为了筹集资金用于AI基础设施建设，但也引发了人们对债务过剩的担忧。",
+          "url": "https://flash.jin10.com/detail/20251223130540405800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "报道：英伟达 、SK海力士与群联电子共同开发AI固态硬盘",
@@ -539,11 +572,12 @@
             7,
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 14时21分]"
         },
         {
           "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
