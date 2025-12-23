@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T12:35:10.988708+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-12-23T13:18:13.172997+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -32,22 +32,6 @@
           "time_info": "[00时16分 ~ 10时56分]"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            5,
-            9,
-            4,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时35分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
           "url": "https://www.cls.cn/detail/2237037",
           "source": "财联社热门",
@@ -58,8 +42,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 13时18分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            5,
+            9,
+            4,
+            12,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 13时18分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -69,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -80,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时18分]"
         },
         {
           "title": "用AI造谣中国女篮两男子被刑拘",
@@ -91,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时18分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -102,8 +103,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时18分]"
         },
         {
           "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
@@ -115,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 12时35分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 13时18分]"
         },
         {
           "title": "利用AI造谣中国女篮两男子刑拘",
@@ -165,17 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时14分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223120023669800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
@@ -227,6 +217,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时14分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223120023669800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时18分]"
         },
         {
           "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
@@ -536,11 +538,12 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 13时18分]"
         },
         {
           "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
