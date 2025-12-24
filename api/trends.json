@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T10:53:14.756019+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2025-12-24T11:54:58.596940+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 10时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时54分]"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -39,11 +39,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 10时53分]"
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 11时54分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -212,7 +213,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -270,7 +271,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
