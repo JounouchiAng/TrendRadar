@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T01:11:36.772601+08:00",
-  "total_titles_processed": 346,
+  "generated_at": "2025-12-28T02:18:36.299949+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3027570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -37,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -48,19 +49,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
           "url": "https://wallstreetcn.com/livenews/3027558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         }
       ]
     },
@@ -74,11 +76,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         }
       ]
     },
@@ -94,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时18分]"
         }
       ]
     }
