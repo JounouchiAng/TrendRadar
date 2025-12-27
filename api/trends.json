@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:14:17.784574+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-27T18:13:34.150565+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 18时13分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 18时13分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -38,11 +38,12 @@
             12,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 18时13分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -52,11 +53,12 @@
             11,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -219,8 +221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -238,11 +240,12 @@
             18,
             26,
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -272,11 +275,12 @@
             15,
             18,
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时51分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时51分 ~ 18时13分]"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -284,11 +288,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -349,11 +354,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "普京：将应用人工智能技术巩固俄武器装备优势",
@@ -433,11 +439,12 @@
             18,
             20,
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 18时13分]"
         }
       ]
     },
