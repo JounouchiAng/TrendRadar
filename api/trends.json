@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:14:52.792848+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-12-27T14:20:24.119104+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 13时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -218,8 +218,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -235,11 +235,12 @@
             10,
             9,
             18,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -265,11 +266,12 @@
             4,
             9,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 14时20分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -393,8 +395,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         }
       ]
     },
