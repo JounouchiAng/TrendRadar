@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T03:10:33.780696+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-12-29T04:14:51.786576+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -86,11 +87,12 @@
           "url": "https://flash.jin10.com/detail/20251228222030090800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时14分]"
         }
       ]
     },
@@ -105,11 +107,12 @@
           "ranks": [
             20,
             19,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时14分]"
         }
       ]
     }
