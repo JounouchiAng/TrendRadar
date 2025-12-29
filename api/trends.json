@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-12-29T09:06:32.522099+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-29T11:42:31.393611+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
       "match_count": 9,
       "titles": [
-        {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 09时06分]"
-        },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
           "url": "https://wallstreetcn.com/articles/3762196",
@@ -31,6 +17,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            4,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 11时42分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -52,7 +53,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -70,6 +71,17 @@
           "time_info": "[00时15分 ~ 04时14分]"
         },
         {
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时42分]"
+        },
+        {
           "title": "广州在全国率先设立区级人工智能发展局",
           "url": "https://flash.jin10.com/detail/20251228194152132800",
           "source": "金十数据",
@@ -79,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
-          "title": "ChatGPT帮他杀死83岁母亲？",
-          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -109,7 +110,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
@@ -142,6 +143,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251229104659948800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
