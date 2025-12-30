@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T21:32:04.492360+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2025-12-30T22:14:42.298723+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 22时14分]"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -77,8 +78,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 22时14分]"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时14分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -92,22 +107,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 21时32分]"
-        },
-        {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[14时21分 ~ 22时14分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -185,6 +186,19 @@
           "time_info": "[12时01分 ~ 13时18分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时14分]"
+        },
+        {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
           "source": "华尔街见闻",
@@ -196,19 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 12时41分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时32分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -439,7 +440,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -449,8 +450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 22时14分]"
         },
         {
           "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
@@ -554,6 +555,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "静待美联储会议纪要，美股指期货持平，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3028816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
