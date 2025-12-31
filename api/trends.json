@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T20:26:09.095577+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-12-31T21:28:10.074859+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -78,11 +78,12 @@
             14,
             13,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时20分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时20分 ~ 21时28分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -117,11 +118,26 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时26分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 21时28分]"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 21时28分]"
         },
         {
           "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
@@ -133,19 +149,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时32分 ~ 13时24分]"
-        },
-        {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -192,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
+          "url": "https://wallstreetcn.com/articles/3762335",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
@@ -552,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时26分]"
+          "appearance_count": 17,
+          "time_info": "[09时02分 ~ 21时28分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -735,28 +749,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            18,
-            24,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP主复刻嘎嘣脆苹果糖",
@@ -775,6 +769,37 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "筷子兄弟合体演唱《小苹果》",
+          "url": "https://www.baidu.com/s?wd=%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F%E5%90%88%E4%BD%93%E6%BC%94%E5%94%B1%E3%80%8A%E5%B0%8F%E8%8B%B9%E6%9E%9C%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 21时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            18,
+            24,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 15时17分]"
         }
       ]
     },
