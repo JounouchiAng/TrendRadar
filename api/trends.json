@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T06:14:00.827165+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-01T07:13:07.487540+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -27,41 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
-          "url": "https://wallstreetcn.com/livenews/3029487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050540160800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050538351800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -90,15 +57,63 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
+          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
+          "url": "https://wallstreetcn.com/livenews/3029487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260101050540160800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260101050538351800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
           "title": "美股2025年收官：三大股指均连续三年创新高",
           "url": "https://flash.jin10.com/detail/20260101050341420800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
+          "url": "https://wallstreetcn.com/livenews/3029494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "07时13分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
@@ -115,7 +130,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -125,8 +140,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
@@ -136,8 +151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -148,8 +163,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时13分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -177,6 +192,17 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 07时13分]"
+        },
+        {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
           "url": "https://wallstreetcn.com/livenews/3029406",
           "source": "华尔街见闻-快讯",
@@ -198,11 +224,12 @@
           "url": "https://wallstreetcn.com/livenews/3029491",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时13分]"
         },
         {
           "title": "比特币跌穿87600美元刷新日低，日内稍早持续震荡上行，北京时间22:09还曾涨至89081.91美元刷新日高，之后相对显著地持续下挫。 彭博数据显示，狗狗币短线跳水，日内整体跌超5.13%，刷新日低至0.1164美元。",
