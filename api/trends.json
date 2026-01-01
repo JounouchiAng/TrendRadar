@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:19:53.261118+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-01-02T03:11:45.354256+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -37,11 +37,12 @@
           "ranks": [
             5,
             14,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -50,24 +51,12 @@
           "ranks": [
             6,
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -77,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -88,8 +77,22 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
+        },
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -98,11 +101,12 @@
           "ranks": [
             11,
             15,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         }
       ]
     },
@@ -118,8 +122,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         }
       ]
     }
