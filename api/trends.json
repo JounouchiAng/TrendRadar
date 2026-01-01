@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-01T21:29:54.811084+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-01-01T22:13:21.556405+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
       "match_count": 18,
       "titles": [
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 22时13分]"
+        },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
@@ -45,20 +59,6 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 21时29分]"
-        },
-        {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
           "url": "https://www.cls.cn/detail/2245960",
           "source": "财联社热门",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 22时13分]"
         },
         {
           "title": "AI魔改翻车!广电出手救名著",
@@ -110,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时43分 ~ 21时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时43分 ~ 22时13分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -121,8 +121,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时43分 ~ 21时29分]"
+          "appearance_count": 14,
+          "time_info": "[11时43分 ~ 22时13分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -143,11 +143,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 22时13分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -261,8 +262,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 21时29分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 22时13分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
