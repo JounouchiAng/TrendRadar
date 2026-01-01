@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:17:50.934216+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-01-01T16:19:25.951370+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,37 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时19分]"
+        },
+        {
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时17分]"
+          "time_info": "[11时43分 ~ 16时19分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时19分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -56,33 +85,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时08分 ~ 15时17分]"
-        },
-        {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时17分]"
-        },
-        {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时17分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -104,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时19分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -115,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时19分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -127,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -229,8 +231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时19分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
