@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:26:15.965833+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-01-01T21:29:54.811084+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 21时29分]"
         },
         {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
@@ -110,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 20时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 21时29分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -121,8 +121,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 20时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 21时29分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -142,11 +142,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 20时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 21时29分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -260,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 21时29分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -449,11 +450,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348627&amp;topic_name=%E4%B8%89%E6%98%9F%E5%8D%95%E5%AD%A3%E7%88%86%E8%B5%9A%E7%A2%BE%E5%8E%8B%E5%8D%8E%E4%B8%BA300%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时29分]"
         }
       ]
     }
