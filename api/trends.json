@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:14:02.295824+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-01-03T16:17:45.974598+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 16时17分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -27,11 +27,24 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时19分 ~ 15时14分]"
+          "appearance_count": 18,
+          "time_info": "[02时19分 ~ 16时17分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 16时17分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -57,20 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时14分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -96,11 +97,12 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 15时14分]"
+          "appearance_count": 10,
+          "time_info": "[06时13分 ~ 16时17分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -305,7 +307,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -347,23 +349,6 @@
           "time_info": "[00时16分 ~ 15时14分]"
         },
         {
-          "title": "AI如何让闪迪成为股王",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            16,
-            26,
-            19,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时12分 ~ 15时14分]"
-        },
-        {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
           "url": "https://wallstreetcn.com/livenews/3029953",
           "source": "华尔街见闻-快讯",
@@ -375,11 +360,30 @@
             10,
             11,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 16时17分]"
+        },
+        {
+          "title": "AI如何让闪迪成为股王",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%AE%A9%E9%97%AA%E8%BF%AA%E6%88%90%E4%B8%BA%E8%82%A1%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            16,
+            26,
+            19,
+            17,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时12分 ~ 16时17分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -400,11 +404,12 @@
           "ranks": [
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -417,6 +422,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "“高考AI押题命中率98%”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 16时17分]"
         },
         {
           "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
@@ -446,15 +462,16 @@
           "time_info": "[02时19分 ~ 08时58分]"
         },
         {
-          "title": "“高考AI押题命中率98%”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时17分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -501,28 +518,6 @@
           "time_info": "[08时58分 ~ 14时20分]"
         },
         {
-          "title": "市场消息：委内瑞拉北部重要港口La Guaira冒起浓烟。",
-          "url": "https://flash.jin10.com/detail/20260103145744108800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        },
-        {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
           "url": "https://wallstreetcn.com/livenews/3029874",
           "source": "华尔街见闻-快讯",
@@ -534,6 +529,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时19分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "市场消息：委内瑞拉北部重要港口La Guaira冒起浓烟。",
+          "url": "https://flash.jin10.com/detail/20260103145744108800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时17分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
