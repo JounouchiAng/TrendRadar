@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:14:14.784592+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-01-03T18:14:01.483971+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时58分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 18时14分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时19分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[02时19分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时49分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[10时49分 ~ 18时14分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -154,6 +154,17 @@
           "time_info": "[06时13分 ~ 14时20分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 18时14分]"
+        },
+        {
           "title": "半导体概念股美股新年首日普遍收涨",
           "url": "https://wallstreetcn.com/livenews/3029957",
           "source": "华尔街见闻-快讯",
@@ -195,17 +206,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时58分 ~ 13时15分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
@@ -319,7 +319,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -399,6 +399,19 @@
           "time_info": "[01时12分 ~ 16时17分]"
         },
         {
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时13分 ~ 18时14分]"
+        },
+        {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
           "url": "https://www.cls.cn/detail/2246252",
           "source": "财联社热门",
@@ -418,11 +431,12 @@
             24,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -460,17 +474,17 @@
           "time_info": "[00时16分 ~ 08时58分]"
         },
         {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            6
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -486,18 +500,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时14分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -580,6 +582,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时12分 ~ 03时10分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
