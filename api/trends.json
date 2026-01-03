@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T21:25:02.905000+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-01-03T22:12:49.815537+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时58分 ~ 21时25分]"
+          "appearance_count": 20,
+          "time_info": "[08时58分 ~ 22时12分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时49分 ~ 21时25分]"
+          "appearance_count": 19,
+          "time_info": "[10时49分 ~ 22时12分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -84,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时16分 ~ 21时25分]"
+          "appearance_count": 29,
+          "time_info": "[00时16分 ~ 22时12分]"
         },
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -94,11 +94,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时13分 ~ 21时25分]"
+          "appearance_count": 9,
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -349,8 +350,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时13分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 22时12分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -388,8 +389,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 22时12分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -430,6 +431,20 @@
           "time_info": "[01时12分 ~ 16时17分]"
         },
         {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
           "url": "https://www.cls.cn/detail/2246252",
           "source": "财联社热门",
@@ -467,20 +482,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 21时25分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
