@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:42:54.037726+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-01-04T13:20:50.304933+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时20分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时20分]"
         },
         {
           "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
@@ -100,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时20分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
@@ -130,11 +131,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：国务卿卢比奥和“战争部长”Hegseth将参与经营委内瑞拉政权的团队。 美国不会仅仅掳走总统马杜罗就离开（撒手不管）。",
@@ -212,8 +214,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时20分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -241,11 +243,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时20分]"
         },
         {
           "title": "网友称苹果手机电池健康度用到 0%，客服回应现实中没见过，什么情况下会到 0%？你手机最低到过多少？",
@@ -255,8 +258,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时20分]"
         }
       ]
     }
