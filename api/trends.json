@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T20:24:17.628158+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-01-04T21:26:15.976077+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -151,6 +151,20 @@
           "time_info": "[18时13分 ~ 20时24分]"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            13,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时26分]"
+        },
+        {
           "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
           "url": "https://wallstreetcn.com/livenews/3030206",
           "source": "华尔街见闻-快讯",
@@ -165,16 +179,15 @@
           "time_info": "[11时44分 ~ 14时20分]"
         },
         {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
           "ranks": [
-            24,
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
+          "time_info": "[21时25分 ~ 21时26分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
@@ -229,8 +242,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时44分 ~ 20时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时44分 ~ 21时26分]"
         },
         {
           "title": "美国总统特朗普：国务卿卢比奥和“战争部长”Hegseth将参与经营委内瑞拉政权的团队。 美国不会仅仅掳走总统马杜罗就离开（撒手不管）。",
@@ -373,6 +386,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时13分 ~ 19时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星继承之战又有变数吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E6%98%9F%E7%BB%A7%E6%89%BF%E4%B9%8B%E6%88%98%E5%8F%88%E6%9C%89%E5%8F%98%E6%95%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
         }
       ]
     }
