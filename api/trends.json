@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T19:13:37.993000+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-01-05T20:28:41.584803+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 20时28分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -140,17 +140,6 @@
           "time_info": "[15时22分 ~ 15时23分]"
         },
         {
-          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
-          "url": "https://wallstreetcn.com/livenews/3030823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
           "url": "https://wallstreetcn.com/livenews/3030574",
           "source": "华尔街见闻-快讯",
@@ -176,13 +165,35 @@
           "time_info": "[13时31分 ~ 14时27分]"
         },
         {
+          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
+          "url": "https://flash.jin10.com/detail/20260105200457445800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
           "url": "https://wallstreetcn.com/livenews/3030815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -197,6 +208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时27分]"
+        },
+        {
+          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
+          "url": "https://wallstreetcn.com/livenews/3030823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时28分]"
         },
         {
           "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。",
@@ -259,6 +282,17 @@
           "time_info": "[12时51分 ~ 13时31分]"
         },
         {
+          "title": "豆包相关负责人否认“豆包AI眼镜”即将出货",
+          "url": "https://wallstreetcn.com/livenews/3030851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "当AI遇上3D泰坦尼克号动画",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
           "source": "bilibili 热搜",
@@ -314,6 +348,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
+          "url": "https://flash.jin10.com/detail/20260105200103118800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105115209696800",
           "source": "金十数据",
@@ -345,6 +390,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "2026存储涨价第一枪！三星、海力士DRAM报价又涨70%",
+          "url": "https://www.cls.cn/detail/2248254",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "韩国首尔综合股价指数上涨3.2%，至纪录高位4,447.52点；三星电子大涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3030586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时27分]"
+        },
+        {
+          "title": "三星和SK海力士寻求将服务器DRAM价格最高上涨70%。（韩国经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3030762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "韩媒：三星海力士拟提价70% 开启绝对卖方时代",
+          "url": "https://flash.jin10.com/detail/20260105173038547800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "受三星、SK海力士上涨提振，韩国首尔综指上涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3030400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "三星电子股价上涨超4%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3030395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -433,11 +551,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时28分]"
         },
         {
           "title": "午盘收盘，国内期货主力合约涨跌不一，钯涨超8%，碳酸锂涨超7%，铂涨超6%，铝合金、苹果涨超4%，沪铝、沥青、国际铜涨超3%，沪铜、沪锡、多晶硅、沪锌涨超2%。跌幅方面，烧碱、SC原油、焦煤跌超3%，纯碱、焦炭、乙二醇、低硫燃料油跌超2%。",
@@ -472,68 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国首尔综合股价指数上涨3.2%，至纪录高位4,447.52点；三星电子大涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3030586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时27分]"
-        },
-        {
-          "title": "三星和SK海力士寻求将服务器DRAM价格最高上涨70%。（韩国经济日报）",
-          "url": "https://wallstreetcn.com/livenews/3030762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "韩媒：三星海力士拟提价70% 开启绝对卖方时代",
-          "url": "https://flash.jin10.com/detail/20260105173038547800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "受三星、SK海力士上涨提振，韩国首尔综指上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3030400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "三星电子股价上涨超4%，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3030395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         }
       ]
     },
