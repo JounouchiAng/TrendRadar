@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T16:22:03.221237+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-01-05T17:24:32.656248+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 17时24分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 17时24分]"
         },
         {
           "title": "年度抽象AI作品Top10",
@@ -83,8 +83,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 17时24分]"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时22分 ~ 16时22分]"
+          "time_info": "[12时50分 ~ 17时24分]"
         },
         {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
@@ -98,17 +109,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时07分 ~ 13时31分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 14时27分]"
         },
         {
           "title": "从AI新能源与游戏看中国式现代化",
@@ -221,6 +221,17 @@
           "time_info": "[12时51分 ~ 13时31分]"
         },
         {
+          "title": "当AI遇上3D泰坦尼克号动画",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "人工智能投资助推亚洲新兴股市创2021年初以来新高",
           "url": "https://flash.jin10.com/detail/20260105133147761800",
           "source": "金十数据",
@@ -241,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "荣耀回应“安卓做不出比苹果更好的Air”",
+          "url": "https://wallstreetcn.com/livenews/3030728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
@@ -265,6 +287,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
+          "url": "https://wallstreetcn.com/livenews/3030711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "人工智能AI大模型公司MiniMax据悉计划将IPO价格定在指导价区间高端，并提前结束认购。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3030486",
           "source": "华尔街见闻-快讯",
@@ -279,7 +312,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“i茅台”APP冲上苹果应用商店购物榜第一名。",
@@ -317,6 +350,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
+          "url": "https://www.zhihu.com/question/1991189102696091881",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "苹果主力合约日内大涨4.00%，现报9529.00元/吨。",
           "url": "https://flash.jin10.com/detail/20260105144510260800",
           "source": "金十数据",
@@ -326,6 +370,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260105171032331800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
+          "url": "https://flash.jin10.com/detail/20260105170758179800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3030750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
+          "url": "https://flash.jin10.com/detail/20260105170146355800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
