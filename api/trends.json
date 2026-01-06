@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:15:46.727846+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-01-06T19:13:29.634295+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,20 @@
           "time_info": "[00时19分 ~ 17时19分]"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时23分 ~ 19时13分]"
+        },
+        {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
           "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
@@ -48,20 +62,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时13分 ~ 16时20分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 18时15分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -107,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 19时13分]"
         },
         {
           "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
@@ -128,7 +128,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -588,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[07时13分 ~ 19时13分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -943,6 +943,46 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
+          "url": "https://wallstreetcn.com/livenews/3031019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时22分]"
+        },
+        {
+          "title": "据CoinShares：全球加密货币交易所交易产品（ETPs）在2025年累计获得472亿美元资金流入，略微低于2024年所创历史最高纪录。 其中，比特币ETPs流入269亿美元，降幅35%。 而以太坊、XRP、Solana相关的ETPs合计流入超过200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "中国央行：强化虚拟货币监管，持续打击相关违法犯罪活动",
+          "url": "https://wallstreetcn.com/livenews/3031598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Microsoft 微软",
       "match_count": 2,
       "titles": [
@@ -969,35 +1009,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.30%，暂报4152.79点，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨0.13%，报3917.91点，也呈现出W形走势。 MarketVector数字资产100指数涨2.20%，报19397.47点，北京时间08:00和22:36先后出现一波上涨行情。 目前，Solana涨1%，狗狗币涨0.2%，XRP涨4.8%。 比特币涨2.68%，暂报93706美元；以太坊涨1.37%，报3181.60美元。",
-          "url": "https://wallstreetcn.com/livenews/3031019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时22分]"
-        },
-        {
-          "title": "据CoinShares：全球加密货币交易所交易产品（ETPs）在2025年累计获得472亿美元资金流入，略微低于2024年所创历史最高纪录。 其中，比特币ETPs流入269亿美元，降幅35%。 而以太坊、XRP、Solana相关的ETPs合计流入超过200亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3031203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         }
       ]
     }
