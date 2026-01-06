@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:20:38.216098+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-01-07T03:11:11.104376+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
@@ -148,7 +148,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -189,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -201,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -213,19 +213,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
         },
         {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
           "url": "https://wallstreetcn.com/livenews/3031829",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股盘中）",
@@ -234,7 +235,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -245,7 +246,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -260,11 +261,12 @@
           "url": "https://wallstreetcn.com/livenews/3031822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 03时11分]"
         },
         {
           "title": "微软携手美国大型电网运营商，试图推动美国中西部电力系统现代化",
@@ -284,6 +286,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
+          "url": "https://www.cls.cn/detail/2249336",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时11分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
           "url": "https://wallstreetcn.com/livenews/3031812",
           "source": "华尔街见闻-快讯",
@@ -294,18 +308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时20分]"
-        },
-        {
-          "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
-          "url": "https://www.cls.cn/detail/2249336",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时20分]"
         }
       ]
     },
