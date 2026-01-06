@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T12:33:40.324382+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-06T13:19:05.880270+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时19分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -63,11 +63,12 @@
             28,
             19,
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时19分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -76,22 +77,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时33分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
-          "url": "https://flash.jin10.com/detail/20260106115423474800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时19分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -102,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 13时19分]"
         },
         {
           "title": "开业月余，三家股份行AIC密集投向“硬科技”",
@@ -115,6 +106,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时19分]"
         },
         {
           "title": "智谱AI在厦门投资成立新公司",
@@ -163,6 +166,18 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106115423474800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
           "url": "https://flash.jin10.com/detail/20260106055021121800",
           "source": "金十数据",
@@ -198,16 +213,27 @@
           "time_info": "[03时16分 ~ 05时14分]"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
+            11,
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时33分]"
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时19分]"
+        },
+        {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -222,6 +248,17 @@
           "time_info": "[03时16分 ~ 04时16分]"
         },
         {
+          "title": "AMD在CES展示多款企业级及消费级AI芯片",
+          "url": "https://flash.jin10.com/detail/20260106121524156800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
           "url": "https://wallstreetcn.com/livenews/3031139",
           "source": "华尔街见闻-快讯",
@@ -231,17 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "抖音：2025年AI兴趣用户增长翻倍",
-          "url": "https://wallstreetcn.com/livenews/3031344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -349,7 +375,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -415,7 +441,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -426,7 +452,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -469,8 +495,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 13时19分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -481,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时19分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -494,8 +520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时19分]"
         },
         {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
@@ -658,6 +684,20 @@
           "time_info": "05时14分"
         },
         {
+          "title": "筷子兄弟线下版小苹果2.0",
+          "url": "https://www.douyin.com/hot/2358511",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时19分]"
+        },
+        {
           "title": "苹果马年微信红包封面来了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -668,19 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时33分]"
-        },
-        {
-          "title": "筷子兄弟线下版小苹果2.0",
-          "url": "https://www.douyin.com/hot/2358511",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时33分]"
         },
         {
           "title": "苹果发布马年手机壳 售价449元",
@@ -701,7 +728,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
@@ -739,6 +766,19 @@
           "time_info": "[00时19分 ~ 09时02分]"
         },
         {
+          "title": "三星、海力士存储芯片或涨价70%",
+          "url": "https://www.toutiao.com/trending/7591707872086474794/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 13时19分]"
+        },
+        {
           "title": "三星掌门人李在镕在北京买LABUBU",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0LABUBU%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -748,18 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "三星、海力士存储芯片或涨价70%",
-          "url": "https://www.toutiao.com/trending/7591707872086474794/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
         },
         {
           "title": "三星掌门人李在镕在北京买labubu",
