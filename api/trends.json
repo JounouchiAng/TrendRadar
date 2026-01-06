@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:15:55.139893+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2026-01-06T23:15:31.165455+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -47,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时23分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时23分 ~ 23时15分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -112,6 +112,17 @@
           "time_info": "[15时20分 ~ 19时13分]"
         },
         {
+          "title": "中国人工智能技术正这样走向世界",
+          "url": "https://www.toutiao.com/trending/7592248398812728859/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
           "url": "https://flash.jin10.com/detail/20260106155623997800",
           "source": "金十数据",
@@ -168,17 +179,6 @@
           "time_info": "16时20分"
         },
         {
-          "title": "中国人工智能技术正这样走向世界",
-          "url": "https://www.toutiao.com/trending/7592248398812728859/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "从外设到AI生态：雷蛇私有化后发力 拟投入6亿美元重塑品牌",
           "url": "https://flash.jin10.com/detail/20260106210418581800",
           "source": "金十数据",
@@ -199,6 +199,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时32分 ~ 23时15分]"
         },
         {
           "title": "智谱AI在厦门投资成立新公司",
@@ -329,18 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时15分]"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时15分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -532,6 +532,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "AIG跌6%，创4月份以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3031743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
           "url": "https://wallstreetcn.com/livenews/3031028",
           "source": "华尔街见闻-快讯",
@@ -571,7 +582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -607,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
@@ -645,7 +667,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -656,8 +678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 22时15分]"
+          "appearance_count": 19,
+          "time_info": "[07时13分 ~ 23时15分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -698,15 +720,15 @@
           "time_info": "[00时19分 ~ 13时19分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
+          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
@@ -767,6 +789,18 @@
           "time_info": "[05时14分 ~ 06时14分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时15分]"
+        },
+        {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
           "url": "https://wallstreetcn.com/livenews/3030982",
           "source": "华尔街见闻-快讯",
@@ -788,6 +822,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时15分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -814,15 +859,15 @@
           "time_info": "[02时22分 ~ 03时16分]"
         },
         {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时15分"
         },
         {
           "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
@@ -845,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260106223855995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
@@ -876,11 +932,12 @@
             21,
             26,
             25,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时02分 ~ 23时15分]"
         },
         {
           "title": "商品期货开盘，碳酸锂主力合约涨超4%，沪银、钯、沪铝、铂、沪铜、铝合金、国际铜、苹果涨超2%。焦煤跌超2%。",
