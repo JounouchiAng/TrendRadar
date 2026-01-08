@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T13:19:02.442250+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-01-08T14:22:02.984207+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时22分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -303,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -317,8 +317,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 14时22分]"
         },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -469,7 +469,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛(GS.N)宣布，将苹果信用卡项目过渡至摩根大通(JPM.N)，预计过渡将在大约24个月内完成。",
@@ -505,6 +505,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "摩根大通达成一份协议，将接盘苹果信用卡业务。（华尔街日报）",
@@ -612,8 +623,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 14时22分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
