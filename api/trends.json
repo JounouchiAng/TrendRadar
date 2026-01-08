@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:02:36.206059+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-01-08T11:23:49.198231+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 11时23分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -46,6 +46,17 @@
           "time_info": "[00时19分 ~ 09时02分]"
         },
         {
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 11时23分]"
+        },
+        {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
           "url": "https://www.cls.cn/detail/2250745",
           "source": "财联社热门",
@@ -56,17 +67,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时14分]"
-        },
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 09时02分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -90,6 +90,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "智谱预计全球AI公司将陷入价格战",
+          "url": "https://wallstreetcn.com/livenews/3032893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -164,6 +186,18 @@
           "time_info": "[04时16分 ~ 05时13分]"
         },
         {
+          "title": "马斯克：中国AI算力领先世界",
+          "url": "https://www.toutiao.com/trending/7592779381248888362/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
           "url": "https://flash.jin10.com/detail/20260108030510490800",
           "source": "金十数据",
@@ -182,9 +216,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "AI大模型上市第一股",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "三星公布创纪录利润 AI推动存储市场增长",
@@ -193,7 +238,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -209,22 +254,33 @@
           "time_info": "05时13分"
         },
         {
-          "title": "马斯克：中国AI算力领先世界",
-          "url": "https://www.toutiao.com/trending/7592779381248888362/",
-          "source": "今日头条",
+          "title": "中芯国际在陆港两地上涨 摩根士丹利称其为中国AI本地化的关键支持者",
+          "url": "https://wallstreetcn.com/livenews/3032851",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时23分]"
+        },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
           "url": "https://wallstreetcn.com/articles/3762734",
@@ -238,15 +294,17 @@
           "time_info": "[05时13分 ~ 06时14分]"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 11时23分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -258,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2251045",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股盘中）",
@@ -282,18 +351,6 @@
           "time_info": "02时21分"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时02分]"
-        },
-        {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
           "url": "https://wallstreetcn.com/livenews/3032715",
           "source": "华尔街见闻-快讯",
@@ -304,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -467,8 +535,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时13分 ~ 09时02分]"
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 11时23分]"
         },
         {
           "title": "三星电子：第四季度营收或达93万亿韩元；第四季度营业利润或达20万亿韩元。",
@@ -500,7 +568,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
