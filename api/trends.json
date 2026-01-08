@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T22:18:50.324168+08:00",
-  "total_titles_processed": 2083,
+  "generated_at": "2026-01-08T23:18:06.415454+08:00",
+  "total_titles_processed": 2184,
   "failed_sources": [],
   "trends": [
     {
@@ -90,11 +90,12 @@
             12,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时18分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -126,7 +127,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -426,7 +427,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -467,7 +468,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -478,8 +479,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时02分 ~ 22时18分]"
+          "appearance_count": 19,
+          "time_info": "[09时02分 ~ 23时18分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -494,6 +495,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时14分 ~ 15时19分]"
+        },
+        {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时18分]"
         },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -525,22 +540,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时18分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -560,7 +562,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -604,7 +606,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -665,6 +667,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "纳斯达克金龙中国指数转涨。 热门中概股小马智行美股盘初跌2.69%，百度跌2%，文远知行跌1.1%，拼多多、网易、京东、蔚来、理想至少跌0.47%，阿里涨0.4%，百胜中国涨0.5%，新东方、房多多、小鹏至多涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3033398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "金十图示：2026年01月07日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260108050612314800",
           "source": "金十数据",
@@ -674,6 +687,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20260108223709435800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌0.63%，全球科技股指数ETF跌0.61%，网络股指数ETF跌0.59%，半导体ETF跌0.44%，银行业ETF涨0.53%，区域银行ETF涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3033397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
@@ -723,7 +758,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "三九天喝苹果水",
@@ -734,11 +769,12 @@
             6,
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时18分]"
         },
         {
           "title": "高盛(GS.N)宣布，将苹果信用卡项目过渡至摩根大通(JPM.N)，预计过渡将在大约24个月内完成。",
@@ -796,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
+          "url": "https://flash.jin10.com/detail/20260108224229611800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
@@ -902,7 +949,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
