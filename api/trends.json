@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:19:09.902920+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-01-08T16:20:27.354136+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 16时20分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -242,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -286,7 +286,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -327,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 16时20分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -647,8 +647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 16时20分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
