@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T20:27:21.455368+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2026-01-09T21:33:57.237597+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -34,6 +34,21 @@
           "time_info": "[13时19分 ~ 19时13分]"
         },
         {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 21时33分]"
+        },
+        {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
@@ -46,19 +61,29 @@
           "time_info": "[01时21分 ~ 09时02分]"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            6,
             7,
-            8
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时33分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时33分]"
         },
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -77,27 +102,15 @@
           "time_info": "[09时02分 ~ 15时20分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时27分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时27分]"
+          "time_info": "[19时13分 ~ 21时33分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -107,22 +120,12 @@
             12,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 20时27分]"
-        },
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 21时33分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -181,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "DeepSeek将在未来几周推出新一代旗舰AI模型，具备强大的编程能力。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3034166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
@@ -342,6 +356,28 @@
           "time_info": "17时20分"
         },
         {
+          "title": "DeepSeek将发布具备强劲编程能力的下一代旗舰AI模型",
+          "url": "https://flash.jin10.com/detail/20260109211825941800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据The Information：DeepSeek将于2月发布下一代旗舰AI模型。",
+          "url": "https://flash.jin10.com/detail/20260109211554693800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "微软报告：DeepSeek人工智能在发展中国家崭露头角",
           "url": "https://wallstreetcn.com/livenews/3033475",
           "source": "华尔街见闻-快讯",
@@ -397,6 +433,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
           "url": "https://wallstreetcn.com/livenews/3033699",
           "source": "华尔街见闻-快讯",
@@ -406,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "两部门公布2025年人工智能医疗器械创新任务揭榜挂帅入围名单",
@@ -428,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "海思科：与AirNexis签署HSK39004项目授权许可协议，授予AirNexis在除中国大陆、香港特别行政区、澳门特别行政区及台湾地区以外的全球范围内开发、生产和商业化HSK39004的独家权利。AirNexis将向海思科支付1.08亿美元首付款（含4,000万美元现金及等值约6,800万美元的AirNexis公司19.9%股权）及最高9.55亿美元的额外里程碑付款、特许权使用费。",
+          "url": "https://wallstreetcn.com/livenews/3034133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
@@ -443,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时02分 ~ 20时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时02分 ~ 21时33分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -455,8 +524,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 20时27分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 21时33分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
