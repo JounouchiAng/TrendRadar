@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T00:15:23.390371+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:12:07.417131+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -26,30 +26,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
           "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -59,8 +61,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
+          "url": "https://www.cls.cn/detail/2253876",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     },
@@ -73,11 +86,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         }
       ]
     }
