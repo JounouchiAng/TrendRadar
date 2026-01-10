@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T22:12:53.118616+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-01-10T23:12:56.706550+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -72,8 +72,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时53分 ~ 22时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时53分 ~ 23时12分]"
         },
         {
           "title": "2026人工智能十大趋势",
@@ -157,6 +157,19 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时12分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
           "url": "https://flash.jin10.com/detail/20260110094533475800",
           "source": "金十数据",
@@ -198,19 +211,6 @@
           "time_info": "[03时15分 ~ 04时16分]"
         },
         {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时12分]"
-        },
-        {
           "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
           "url": "https://flash.jin10.com/detail/20260110014650010800",
           "source": "金十数据",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
+          "url": "https://flash.jin10.com/detail/20260110221457641800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "重庆启动人工智能湾区建设",
@@ -272,6 +283,28 @@
           "time_info": "[03时15分 ~ 04时16分]"
         },
         {
+          "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
+          "url": "https://wallstreetcn.com/livenews/3034560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "AI怕你在婚礼上冷",
           "url": "https://www.douyin.com/hot/2363223",
           "source": "抖音",
@@ -282,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 18时14分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -356,7 +378,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         }
@@ -374,11 +396,12 @@
             10,
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时01分 ~ 22时12分]"
+          "appearance_count": 17,
+          "time_info": "[09时01分 ~ 23时12分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -479,7 +502,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
@@ -580,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "生苹果和熟苹果哪个更有营养",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%8B%B9%E6%9E%9C%E5%92%8C%E7%86%9F%E8%8B%B9%E6%9E%9C%E5%93%AA%E4%B8%AA%E6%9B%B4%E6%9C%89%E8%90%A5%E5%85%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
