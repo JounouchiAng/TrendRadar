@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T21:25:22.116243+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-01-10T22:12:53.118616+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -72,8 +72,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时53分 ~ 21时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时53分 ~ 22时12分]"
         },
         {
           "title": "2026人工智能十大趋势",
@@ -172,6 +172,20 @@
           "time_info": "[10时53分 ~ 14时19分]"
         },
         {
+          "title": "重庆人工智能湾区建设启动",
+          "url": "https://wallstreetcn.com/livenews/3034535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
+        },
+        {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
           "url": "https://wallstreetcn.com/livenews/3034365",
           "source": "华尔街见闻-快讯",
@@ -184,17 +198,17 @@
           "time_info": "[03时15分 ~ 04时16分]"
         },
         {
-          "title": "重庆人工智能湾区建设启动",
-          "url": "https://wallstreetcn.com/livenews/3034535",
-          "source": "华尔街见闻-快讯",
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            10,
-            17
+            14,
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时25分]"
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时12分]"
         },
         {
           "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
@@ -219,17 +233,18 @@
           "time_info": "03时15分"
         },
         {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
+          "title": "重庆启动人工智能湾区建设",
+          "url": "https://flash.jin10.com/detail/20260110183401930800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            17,
-            16
+            3,
+            13,
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -243,19 +258,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 10时53分]"
-        },
-        {
-          "title": "重庆启动人工智能湾区建设",
-          "url": "https://flash.jin10.com/detail/20260110183401930800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时25分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -280,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 18时14分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -335,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "国产AI大模型公司集中上市",
+          "url": "https://www.douyin.com/hot/2362832",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -353,8 +377,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 22时12分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -494,11 +518,12 @@
           "source": "微博",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "苹果收涨，结束此前连续七个交易日下跌的趋势。",
