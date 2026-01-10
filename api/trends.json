@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:19:53.364204+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-01-10T15:13:48.251280+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时13分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -51,11 +52,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 14时19分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 15时13分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -79,8 +81,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 15时13分]"
+        },
+        {
+          "title": "2026人工智能十大趋势",
+          "url": "https://www.douyin.com/hot/2362706",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时53分 ~ 14时19分]"
+          "time_info": "[11时54分 ~ 15时13分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -126,17 +139,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 09时01分]"
-        },
-        {
-          "title": "2026人工智能十大趋势",
-          "url": "https://www.douyin.com/hot/2362706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时19分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -324,8 +326,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时01分 ~ 15时13分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -500,11 +502,12 @@
           "ranks": [
             4,
             5,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时13分]"
         }
       ]
     },
