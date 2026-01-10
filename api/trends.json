@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T15:13:48.251280+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-01-10T16:17:40.009422+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时13分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 16时17分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -56,8 +56,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 16时17分]"
+        },
+        {
+          "title": "2026人工智能十大趋势",
+          "url": "https://www.douyin.com/hot/2362706",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 16时17分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -78,22 +89,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 15时13分]"
-        },
-        {
-          "title": "2026人工智能十大趋势",
-          "url": "https://www.douyin.com/hot/2362706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 15时13分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 16时17分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -289,6 +290,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 16时17分]"
+        },
+        {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
@@ -315,19 +329,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 06时14分]"
-        },
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 15时13分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
