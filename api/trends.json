@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-01-11T20:24:36.614926+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-01-11T21:26:02.325892+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
       "match_count": 28,
       "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 21时26分]"
+        },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
@@ -22,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时11分 ~ 20时24分]"
+          "appearance_count": 23,
+          "time_info": "[01时11分 ~ 21时26分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -37,24 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 20时24分]"
-        },
-        {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时19分 ~ 20时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 21时26分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -105,8 +105,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 20时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 21时26分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            10,
+            8,
+            18,
+            25,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 21时26分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -119,6 +136,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时13分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时26分]"
         },
         {
           "title": "南大人工智能学科排名全球第一",
@@ -163,34 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            10,
-            8,
-            18,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 20时24分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -241,11 +242,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时26分]"
         },
         {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -271,6 +273,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 09时08分]"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时26分]"
         },
         {
           "title": "疑似马斯克AI账号登顶LOL韩服",
@@ -319,16 +334,16 @@
           "time_info": "[16时17分 ~ 17时14分]"
         },
         {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
+          "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
+          "url": "https://wallstreetcn.com/livenews/3034711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时24分]"
+          "time_info": "[20时24分 ~ 21时26分]"
         },
         {
           "title": "UP主韩服排位遇疑似马斯克AI账号",
@@ -340,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
-          "url": "https://wallstreetcn.com/livenews/3034711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "摄影比赛主办方回应AI照片获奖",
@@ -377,6 +381,46 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果脆片",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%84%86%E7%89%87&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
+          "url": "https://wallstreetcn.com/livenews/3034732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
+          "url": "https://wallstreetcn.com/livenews/3034579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 09时08分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -398,40 +442,12 @@
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果脆片",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%84%86%E7%89%87&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
-          "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
-          "url": "https://wallstreetcn.com/livenews/3034579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时26分]"
         }
       ]
     }
