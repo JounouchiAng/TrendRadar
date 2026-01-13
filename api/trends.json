@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T08:59:29.991214+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-13T10:56:12.239776+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时56分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -32,18 +32,6 @@
           "time_info": "[00时18分 ~ 08时59分]"
         },
         {
-          "title": "张文宏：拒绝把AI引入医院病历系统",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
-        },
-        {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
@@ -52,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时56分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -78,6 +66,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "张文宏：拒绝把AI引入医院病历系统",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时56分]"
         },
         {
           "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
@@ -105,6 +106,22 @@
           "time_info": "[00时18分 ~ 08时59分]"
         },
         {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15,
+            18,
+            21,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时56分]"
+        },
+        {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
@@ -114,21 +131,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 08时59分]"
-        },
-        {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            18,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时12分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -143,8 +145,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时56分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -152,11 +154,24 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时56分]"
+        },
+        {
+          "title": "张文宏称拒绝把AI引入医院病历系统",
+          "url": "https://www.toutiao.com/trending/7594611746107854346/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时56分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -183,15 +198,27 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
-          "title": "张文宏称拒绝把AI引入医院病历系统",
-          "url": "https://www.toutiao.com/trending/7594611746107854346/",
-          "source": "今日头条",
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时56分]"
+        },
+        {
+          "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
+          "url": "https://wallstreetcn.com/livenews/3035759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "10时56分"
         },
         {
           "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
@@ -203,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         },
         {
           "title": "催化事件不断，AI应用从“可用”迈向“好用”",
@@ -315,9 +331,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时56分]"
+        },
+        {
+          "title": "如何看待最新 2025-2026 年 csrankings 人工智能排名南京大学位居全国第 1 名？",
+          "url": "https://www.zhihu.com/question/1991915523580135211",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -450,6 +477,30 @@
           "time_info": "[00时18分 ~ 08时59分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时56分]"
+        },
+        {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -461,38 +512,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "中金：如果美国通胀与流动性冲击导致中美股票、黄金、美债等资产回调，建议逢低增配",
           "url": "https://wallstreetcn.com/livenews/3035668",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时59分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -512,7 +540,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -613,7 +641,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -646,7 +674,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -665,8 +693,20 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时56分]"
+        },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
           "url": "https://flash.jin10.com/detail/20260113001246569800",
@@ -692,17 +732,6 @@
           "time_info": "[00时19分 ~ 01时17分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
           "title": "苹果2025年全球智能手机市场份额夺冠",
           "url": "https://www.toutiao.com/trending/7594051556518101038/",
           "source": "今日头条",
@@ -713,6 +742,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "曝苹果买OPPO折叠屏拆机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B9%E6%9E%9C%E4%B9%B0OPPO%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%8B%86%E6%9C%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
@@ -740,8 +780,19 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "三星高管表示内存芯片的供应短缺，预计将推高整个电子行业商品的价格，如何看待？会带来什么连锁反应？",
+          "url": "https://www.zhihu.com/question/1992294788825903968",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
+        },
         {
           "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
           "url": "https://wallstreetcn.com/livenews/3035444",
