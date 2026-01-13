@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T19:14:20.582469+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-01-13T20:29:00.190826+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -140,6 +140,33 @@
           "time_info": "[12时01分 ~ 16时20分]"
         },
         {
+          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
+          "url": "https://www.cls.cn/detail/2256114",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时29分]"
+        },
+        {
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时29分]"
+        },
+        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -155,8 +182,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 19时14分]"
+          "appearance_count": 28,
+          "time_info": "[00时18分 ~ 20时29分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -180,17 +207,6 @@
           "time_info": "[00时18分 ~ 17时21分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时59分]"
-        },
-        {
           "title": "UP主分析AI将如何影响电竞行业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -202,11 +218,23 @@
             11,
             17,
             23,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时41分 ~ 20时29分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 08时59分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -293,19 +321,6 @@
           "time_info": "[15时19分 ~ 18时16分]"
         },
         {
-          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
-          "url": "https://www.cls.cn/detail/2256114",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时14分]"
-        },
-        {
           "title": "张文宏称拒绝将AI引入医院病历系统",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -319,18 +334,6 @@
           "time_info": "[15时19分 ~ 18时16分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时14分]"
-        },
-        {
           "title": "如何看待马斯克AI预言",
           "url": "https://www.douyin.com/hot/2366116",
           "source": "抖音",
@@ -342,6 +345,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时41分 ~ 15时20分]"
+        },
+        {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时29分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -380,27 +395,40 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时29分]"
+        },
+        {
+          "title": "事关AI应用、GEO概念，上市公司密集回应",
+          "url": "https://www.cls.cn/detail/2256448",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
           "title": "EDG官宣Maokai回归",
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "技术拆解疑似马斯克AI账号",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
@@ -423,6 +451,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
@@ -484,17 +525,6 @@
           "time_info": "[13时19分 ~ 14时22分]"
         },
         {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
           "url": "https://flash.jin10.com/detail/20260113044010049800",
           "source": "金十数据",
@@ -539,6 +569,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时16分]"
+        },
+        {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -589,6 +633,17 @@
           "time_info": "[16时20分 ~ 17时21分]"
         },
         {
+          "title": "一图看懂 | AI应用概念股持续活跃 核心赛道与代表企业全梳理",
+          "url": "https://www.cls.cn/detail/2256150",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
           "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
           "url": "https://www.cls.cn/detail/2255684",
           "source": "财联社热门",
@@ -598,18 +653,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
-          "url": "https://www.cls.cn/detail/2256259",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
@@ -623,18 +666,6 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
           "title": "如何看待最新 2025-2026 年 csrankings 人工智能排名南京大学位居全国第 1 名？",
           "url": "https://www.zhihu.com/question/1991915523580135211",
           "source": "知乎",
@@ -644,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 10时56分]"
+        },
+        {
+          "title": "评论员谈张文宏的AI技术边界忧思",
+          "url": "https://www.toutiao.com/trending/7594714282483256842/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "苹果官宣iPhone将搭载最强AI",
@@ -720,7 +762,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -742,7 +784,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -753,7 +795,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -802,6 +844,28 @@
           "time_info": "06时13分"
         },
         {
+          "title": "1688平台发布2025产业带报告：2028年起产业带将开启“AI原生”时代",
+          "url": "https://wallstreetcn.com/livenews/3036110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "日均30万商家使用1688平台AI产品与技术 1688向商家推出“三保”服务",
+          "url": "https://wallstreetcn.com/livenews/3036109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
           "url": "https://wallstreetcn.com/livenews/3035425",
           "source": "华尔街见闻-快讯",
@@ -838,7 +902,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -860,8 +924,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时59分 ~ 19时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时59分 ~ 20时29分]"
         },
         {
           "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
@@ -1005,6 +1069,17 @@
           "time_info": "[17时21分 ~ 18时16分]"
         },
         {
+          "title": "摩根大通：第四季度调整后营收为467.7亿美元，市场预期为463.5亿美元； 第四季度FICC销售与交易收入为53.8亿美元，同比增长7.5%，市场预期为52.7亿美元； 第四季度股票销售与交易收入为28.6亿美元，同比增长40%，市场预期为27亿美元； 第四季度管理净利息收入为251.1亿美元，同比增长7%，市场预期为249.9亿美元； 第四季度每股收益（EPS）为4.63美元； 第四季度贷款总额为1.49万亿美元，同比增长11%，市场预期为1.45万亿美元。 摩根大通美股盘前上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260113050522045800",
           "source": "金十数据",
@@ -1047,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "达美航空：第四财季调整后EPS为1.55美元，市场预期为1.53美元。 第四财季每股收益（EPS）为1.86美元。 第四财季调整后净利润为10.2亿美元，市场预期为9.976亿美元。 预计第一财季调整后EPS为0.50至0.90美元，市场预期为0.71美元。 预计第一财季调整后营业利润率为4.5%至6%。 预计2026年调整后每股收益（EPS）为6.50至7.50美元，市场预期为7.20美元。 预计2026年调整后自由现金流为30亿至40亿美元，市场预期为37.6亿美元。 达美航空将购买多达60架波音787飞机。 达美航空美股盘前下跌4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3036113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股盘中）",
@@ -1132,8 +1218,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时59分 ~ 19时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时59分 ~ 20时29分]"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
@@ -1279,7 +1365,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
