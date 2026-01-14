@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:24:56.586138+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-01-14T15:20:08.268815+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 14时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 15时20分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -62,6 +62,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 12时40分]"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 15时20分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -102,11 +117,12 @@
             16,
             25,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 14时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -122,8 +138,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -140,20 +156,6 @@
           "time_info": "[00时21分 ~ 06时15分]"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时24分]"
-        },
-        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
@@ -164,8 +166,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时29分 ~ 15时20分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -247,18 +262,6 @@
           "time_info": "[11时30分 ~ 12时40分]"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时24分]"
-        },
-        {
           "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
           "url": "https://wallstreetcn.com/livenews/3036640",
           "source": "华尔街见闻-快讯",
@@ -281,6 +284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时22分]"
+        },
+        {
+          "title": "新型人工智能模型可通过睡眠数据预测疾病",
+          "url": "https://wallstreetcn.com/livenews/3036745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -327,6 +341,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "182个！2025年人工智能医疗器械创新任务揭榜挂帅入围单位名单公布",
+          "url": "https://wallstreetcn.com/livenews/3036731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "银河证券：生成式搜索兴起，AI应用催化密集",
           "url": "https://wallstreetcn.com/livenews/3036486",
           "source": "华尔街见闻-快讯",
@@ -347,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：美联储的最新动向令人担忧。 欧洲央行目前的处境仍然良好。 欧洲央行正在履行其通胀目标。 不确定性和非线性冲击的风险依然很高。 人工智能投资有望带来强劲的生产率提升。",
+          "url": "https://wallstreetcn.com/livenews/3036727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "创业板指涨2%。沪指涨近1%。商业航天反弹，AI应用、AI医疗等板块涨幅居前。沪深京三市上涨个股近4500只。",
@@ -399,6 +435,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时04分 ~ 15时20分]"
+        },
+        {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -421,17 +468,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时13分 ~ 14时24分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时04分 ~ 14时24分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -563,11 +599,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 14时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -617,7 +654,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -628,7 +665,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         }
