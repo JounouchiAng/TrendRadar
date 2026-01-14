@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T13:19:01.218909+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-01-14T14:24:56.586138+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时14分]"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 14时24分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -51,19 +64,6 @@
           "time_info": "[00时21分 ~ 12时40分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 13时19分]"
-        },
-        {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
@@ -74,6 +74,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 04时16分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 14时24分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -92,8 +105,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时24分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -111,19 +124,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 13时19分]"
-        },
-        {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -146,11 +146,12 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 14时24分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -159,11 +160,12 @@
           "ranks": [
             18,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 14时24分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -249,11 +251,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时24分]"
         },
         {
           "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
@@ -416,8 +419,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时19分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 14时24分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时04分 ~ 14时24分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -433,17 +447,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时15分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时04分 ~ 13时19分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -563,8 +566,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时24分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -600,6 +603,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
