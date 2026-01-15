@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:18:08.525621+08:00",
-  "total_titles_processed": 2138,
+  "generated_at": "2026-01-15T23:17:42.899556+08:00",
+  "total_titles_processed": 2235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -133,6 +133,19 @@
           "time_info": "[16时20分 ~ 22时18分]"
         },
         {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时17分]"
+        },
+        {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -144,11 +157,27 @@
             16,
             9,
             23,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时06分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[12时06分 ~ 23时17分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时17分]"
         },
         {
           "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
@@ -180,35 +209,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 22时18分]"
-        },
-        {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时18分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 23时17分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -246,8 +248,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 21时35分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 23时17分]"
+        },
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时17分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -260,17 +273,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 07时12分]"
-        },
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时18分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -295,6 +297,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时27分 ~ 23时17分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -325,7 +340,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -339,6 +354,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频第二批处置结果",
+          "url": "https://wallstreetcn.com/livenews/3038102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "贝莱德CEO芬克：我根本不认为存在人工智能泡沫。",
+          "url": "https://flash.jin10.com/detail/20260115224818076800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
@@ -365,16 +402,16 @@
           "time_info": "[12时06分 ~ 13时20分]"
         },
         {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
           "ranks": [
-            11,
+            13,
             12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时27分 ~ 22时18分]"
+          "time_info": "[21时35分 ~ 23时17分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -423,18 +460,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时20分]"
-        },
-        {
-          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
-          "url": "https://www.cls.cn/detail/2259073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时18分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -638,6 +663,28 @@
           "time_info": "02时22分"
         },
         {
+          "title": "贝莱德CEO芬克：如果你相信人工智能的力量，那么降息是有充分理由的。",
+          "url": "https://flash.jin10.com/detail/20260115224027217800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "贝莱德集团CEO Larry Fink：美国未来数年的增速将超过趋势。 我认为并不存在人工智能（AI）泡沫。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3038085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "市场消息：美国加州总检察长对马斯克旗下xAI和Grok启动调查。",
           "url": "https://flash.jin10.com/detail/20260115013111465800",
           "source": "金十数据",
@@ -773,7 +820,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -783,8 +830,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时01分 ~ 23时17分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -857,15 +904,37 @@
           "time_info": "07时12分"
         },
         {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-15）",
           "url": "https://flash.jin10.com/detail/20260115215848815800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
@@ -958,9 +1027,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美股集体高开 半导体板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -985,6 +1065,17 @@
           "time_info": "19时14分"
         },
         {
+          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3038083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013047739800",
           "source": "金十数据",
@@ -994,6 +1085,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260115223844779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨3.26%，科技行业ETF、全球科技股指数ETF至少涨1.57%，网络股指数ETF涨0.67%，能源业ETF跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3038075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
@@ -1010,7 +1134,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "死了么 App 突然遭下架，苹果和安卓应用商店均无法搜索到，具体是怎么回事？",
@@ -1034,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 13时20分]"
+        },
+        {
+          "title": "苹果折叠屏机模上手",
+          "url": "https://www.toutiao.com/trending/7595528135144115738/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
