@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T15:19:09.887082+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-01-16T16:19:46.014231+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[00时24分 ~ 07时14分]"
         },
         {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 16时19分]"
+        },
+        {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
           "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
@@ -64,20 +78,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时24分 ~ 13时19分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 15时19分]"
         },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
@@ -152,8 +152,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时19分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -179,8 +179,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时19分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -191,8 +191,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时19分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -286,6 +286,18 @@
           "time_info": "14时22分"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时19分]"
+        },
+        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -348,26 +360,16 @@
           "time_info": "[07时14分 ~ 09时03分]"
         },
         {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
-        },
-        {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
           "url": "https://www.cls.cn/detail/2259812",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时19分]"
         },
         {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
@@ -466,7 +468,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -499,7 +501,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -532,7 +534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -599,6 +601,18 @@
           "time_info": "[00时24分 ~ 07时14分]"
         },
         {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 16时19分]"
+        },
+        {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
@@ -609,17 +623,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 06时15分]"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 15时19分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -797,11 +800,12 @@
           "url": "https://www.cls.cn/detail/2260018",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时19分]"
         },
         {
           "title": "午盘收盘，国内期货主力合约跌多涨少。多晶硅、菜油涨超2%，玻璃涨超1%；跌幅方面，碳酸锂、集运欧线跌超8%，沪锡跌超6%，沪镍、丁二烯橡胶、燃料油、烧碱、SC原油跌超3%，苹果、液化石油气（LPG）、沪铜跌超2%。",
@@ -810,7 +814,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -965,7 +969,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
