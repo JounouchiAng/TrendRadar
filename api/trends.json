@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:33:25.237017+08:00",
-  "total_titles_processed": 1941,
+  "generated_at": "2026-01-16T22:17:15.932534+08:00",
+  "total_titles_processed": 2011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[13时19分 ~ 22时17分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -212,6 +212,31 @@
           "time_info": "[00时24分 ~ 06时15分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时17分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时17分]"
+        },
+        {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
           "url": "https://www.cls.cn/detail/2259623",
           "source": "财联社热门",
@@ -225,17 +250,17 @@
           "time_info": "[09时03分 ~ 12时33分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            8
+            13,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时15分 ~ 21时33分]"
+          "time_info": "[19时13分 ~ 22时17分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -247,18 +272,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时23分 ~ 12时33分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时33分]"
         },
         {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
@@ -285,6 +298,17 @@
           "time_info": "[15时18分 ~ 18时16分]"
         },
         {
+          "title": "博主：AI应用将成2026年投资新风口",
+          "url": "https://www.toutiao.com/trending/7595899025040084543/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
@@ -306,19 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时33分]"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -414,6 +425,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时03分]"
+        },
+        {
+          "title": "天理会不会是旅行者兄妹飞船的 ai？",
+          "url": "https://www.zhihu.com/question/1994797924039800329",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时17分]"
         },
         {
           "title": "马斯克儿子的妈妈起诉马斯克AI公司",
@@ -528,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
-        },
-        {
-          "title": "天理会不会是旅行者兄妹飞船的 ai？",
-          "url": "https://www.zhihu.com/question/1994797924039800329",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
@@ -679,7 +691,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -709,7 +721,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -720,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时03分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[09时03分 ~ 22时17分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -770,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
