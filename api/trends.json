@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T05:12:16.368842+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-18T06:13:02.810952+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时13分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -27,11 +27,12 @@
           "ranks": [
             14,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[03时10分 ~ 06时13分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -42,8 +43,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时13分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -53,8 +54,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时13分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -64,8 +65,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时13分]"
         }
       ]
     },
@@ -81,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时13分]"
         }
       ]
     }
