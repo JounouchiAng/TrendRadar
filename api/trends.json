@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T13:18:36.244485+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-01-18T14:20:47.172448+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时10分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[03时10分 ~ 14时20分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -44,11 +44,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时20分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -73,6 +74,19 @@
           "time_info": "[00时14分 ~ 07时13分]"
         },
         {
+          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
+          "url": "https://wallstreetcn.com/livenews/3039173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 14时20分]"
+        },
+        {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
           "url": "https://wallstreetcn.com/livenews/3039127",
           "source": "华尔街见闻-快讯",
@@ -85,16 +99,17 @@
           "time_info": "[00时14分 ~ 06时13分]"
         },
         {
-          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
-          "url": "https://wallstreetcn.com/livenews/3039173",
-          "source": "华尔街见闻-快讯",
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
+            9,
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时18分]"
+          "time_info": "[12时36分 ~ 14时20分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -107,18 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时07分 ~ 11时31分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时18分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -165,15 +168,27 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
           "url": "https://www.zhihu.com/question/1994072855072235778",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时20分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -184,8 +199,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时20分]"
         },
         {
           "title": "奇瑞超35款车型将搭载全新AI产品",
@@ -211,11 +226,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 14时20分]"
         },
         {
           "title": "周末在家煮碗苹果水",
@@ -245,6 +261,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时14分 ~ 09时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SK海力士、三星加速HBF商业化进程 “HBM之父”：最快明年用于英伟达产品",
+          "url": "https://www.cls.cn/detail/2261261",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     }
