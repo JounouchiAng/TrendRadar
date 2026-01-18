@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:11:05.924691+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-19T04:15:18.058448+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 04时15分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 04时15分]"
         }
       ]
     },
@@ -105,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         }
       ]
     }
