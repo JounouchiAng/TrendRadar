@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T04:16:29.797791+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-01-20T05:13:33.042363+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -35,22 +35,24 @@
           "url": "https://wallstreetcn.com/livenews/3039909",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
         },
         {
           "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
           "url": "https://wallstreetcn.com/livenews/3039907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时13分]"
         },
         {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
@@ -137,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -148,8 +150,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         },
         {
           "title": "糖霜苹果",
@@ -160,8 +162,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         },
         {
           "title": "苹果将改为一年两次发布新品",
@@ -169,11 +171,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时13分]"
         }
       ]
     },
@@ -190,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -220,11 +223,12 @@
             5,
             8,
             4,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时13分]"
         }
       ]
     },
@@ -240,8 +244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时13分]"
         }
       ]
     }
