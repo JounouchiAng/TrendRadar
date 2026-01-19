@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:22:24.108974+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-01-19T17:27:32.794459+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时27分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -51,11 +51,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 17时27分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -113,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "AI算力竞赛的关键是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
@@ -234,6 +246,28 @@
           "time_info": "[12时44分 ~ 12时45分]"
         },
         {
+          "title": "美光科技称AI热潮驱动“前所未见”的内存短缺",
+          "url": "https://wallstreetcn.com/livenews/3039654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
           "url": "https://flash.jin10.com/detail/20260119075109965800",
           "source": "金十数据",
@@ -262,7 +296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -292,7 +326,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -313,9 +347,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
@@ -344,7 +389,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -353,9 +398,32 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时27分]"
+        },
+        {
+          "title": "糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "17时27分"
+        },
+        {
+          "title": "沈逸回应糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%80%B8%E5%9B%9E%E5%BA%94%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时27分]"
         },
         {
           "title": "Counterpoint：苹果公司第四季度iPhone在中国的出货量同比增长28%。",
@@ -380,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 16时22分]"
-        },
-        {
-          "title": "沈逸回应糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%80%B8%E5%9B%9E%E5%BA%94%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     },
