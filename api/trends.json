@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:24:21.973151+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-20T15:22:14.442701+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
@@ -29,8 +29,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时02分 ~ 15时22分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 15时22分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -45,27 +57,17 @@
           "time_info": "[00时19分 ~ 03时14分]"
         },
         {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时24分]"
-        },
-        {
           "title": "医生给1岁娃开小众药被AI提醒慎用",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时22分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -78,6 +80,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 14时24分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：地缘政治冲突自2024年10月以来首次成为最大的尾部风险，人工智能泡沫位居第二。",
+          "url": "https://flash.jin10.com/detail/20260120151947887800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "阿布扎比人工智能公司G42：推出“数字使馆”框架以及Greenshield，一个新的主权运营模式。",
@@ -134,7 +147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -233,6 +246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "贺峻霖力证不是AI",
@@ -335,11 +359,12 @@
           "ranks": [
             1,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 14时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 15时22分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -409,6 +434,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 15时22分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -418,17 +454,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时13分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时24分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -453,11 +478,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 14时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 15时22分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
