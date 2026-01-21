@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T21:40:08.475640+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2026-01-21T22:22:47.602635+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -32,11 +32,12 @@
             8,
             10,
             16,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时38分 ~ 21时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 22时22分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -63,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时22分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 22时22分]"
         },
         {
           "title": "俄罗斯积雪9层楼高视频系AI生成",
@@ -125,6 +126,19 @@
           "time_info": "18时19分"
         },
         {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时22分]"
+        },
+        {
           "title": "Meta CTO：新AI团队已交付首批人工智能模型",
           "url": "https://flash.jin10.com/detail/20260121175112329800",
           "source": "金十数据",
@@ -134,18 +148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时40分]"
         },
         {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
@@ -225,17 +227,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
-          "url": "https://wallstreetcn.com/livenews/3041298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "摩根大通CEO戴蒙：人工智能发展速度对社会来说可能太快了。 我认为我们需要一个更强大的北约。 世界也需要一个更强大的欧洲。 这并非跨大西洋联盟首次出现危机。",
           "url": "https://wallstreetcn.com/livenews/3041287",
           "source": "华尔街见闻-快讯",
@@ -282,6 +273,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 13时23分]"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时22分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -358,7 +361,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -438,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
@@ -578,7 +592,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -663,7 +677,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -673,8 +687,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时14分 ~ 21时40分]"
+          "appearance_count": 16,
+          "time_info": "[07时14分 ~ 22时22分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -737,6 +751,20 @@
           "time_info": "[09时04分 ~ 14时24分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 22时22分]"
+        },
+        {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
           "url": "https://www.cls.cn/detail/2264507",
           "source": "财联社热门",
@@ -751,18 +779,15 @@
           "time_info": "[12时38分 ~ 16时21分]"
         },
         {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3041329",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            7,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 21时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "分析师：美股若因格陵兰岛问题下跌3%至5%，会令我感到惊讶",
@@ -910,7 +935,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1087,8 +1112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 21时40分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 22时22分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
