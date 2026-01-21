@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T07:14:47.342524+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-01-21T09:04:48.791536+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 09时04分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -48,20 +48,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 09时04分]"
         },
         {
           "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
           "url": "https://www.cls.cn/detail/2264307",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 09时04分]"
+        },
+        {
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "09时04分"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -345,18 +357,19 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 09时04分]"
         },
         {
           "title": "法国巴黎法院判决：苹果公司可以保留ATT功能。",
@@ -369,6 +382,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时24分]"
+        },
+        {
+          "title": "状态页面显示故障，苹果(AAPL.O)应用商店、Apple TV和 iTunes商店部分用户遭遇服务中断。",
+          "url": "https://flash.jin10.com/detail/20260121080654170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
