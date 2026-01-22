@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T21:41:06.658021+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-01-22T23:22:27.563432+08:00",
+  "total_titles_processed": 2120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -88,6 +88,18 @@
           "time_info": "[09时04分 ~ 15时21分]"
         },
         {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 23时22分]"
+        },
+        {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -116,11 +128,12 @@
             26,
             25,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 23时22分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -137,16 +150,17 @@
           "time_info": "[00时28分 ~ 09时04分]"
         },
         {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            5,
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时22分]"
         },
         {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
@@ -160,19 +174,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时22分 ~ 18时19分]"
-        },
-        {
-          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
-          "url": "https://www.cls.cn/detail/2266641",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时41分]"
         },
         {
           "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
@@ -581,7 +582,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -592,7 +593,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -606,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "黄仁勋：AI发展将带来大规模基建投资潮",
@@ -721,7 +733,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -731,8 +743,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时04分 ~ 23时22分]"
         },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -767,8 +779,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时31分 ~ 21时41分]"
+          "appearance_count": 14,
+          "time_info": "[11时31分 ~ 23时22分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -800,7 +812,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1081,6 +1093,28 @@
           "time_info": "20时31分"
         },
         {
+          "title": "行业ETF美股盘初普遍走高，网络股指数ETF涨1.8%，全球航空业ETF、半导体ETF、全球科技股指数ETF、科技行业ETF至少涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3042144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260122223721441800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美股三大指数涨幅扩大，纳指涨超1%，道指、标普500指数涨近1%。特朗普此前表示，股市将会翻倍。",
           "url": "https://flash.jin10.com/detail/20260121233511554800",
           "source": "金十数据",
@@ -1098,7 +1132,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -1117,11 +1151,12 @@
             20,
             21,
             17,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 23时22分]"
         },
         {
           "title": "苹果涨幅迅速扩大至1.5%。",
