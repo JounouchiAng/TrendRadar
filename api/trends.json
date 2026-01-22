@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:19:55.224384+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-01-22T19:17:47.262029+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -162,6 +162,20 @@
           "time_info": "[09时04分 ~ 13时22分]"
         },
         {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时17分]"
+        },
+        {
           "title": "xAI工程师因泄密被马斯克解雇",
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
@@ -187,18 +201,16 @@
           "time_info": "[09时04分 ~ 13时22分]"
         },
         {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12,
-            4,
-            5
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 19时17分]"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -210,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -257,6 +280,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "白宫“人工智能沙皇”萨克斯：我们必须意识到其中一些负面影响，且不能假装让孩子们永远不使用人工智能是件好事。",
           "url": "https://flash.jin10.com/detail/20260122000429989800",
           "source": "金十数据",
@@ -266,17 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时26分]"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：在谈论用人工智能保护儿童时，我们必须谨慎一些。",
@@ -644,7 +667,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -673,8 +696,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 19时17分]"
         },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -701,6 +724,18 @@
           "time_info": "[00时28分 ~ 06时17分]"
         },
         {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时31分 ~ 19时17分]"
+        },
+        {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
           "url": "https://www.cls.cn/detail/2265761",
           "source": "财联社热门",
@@ -711,18 +746,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时17分 ~ 15时21分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 18时19分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -801,7 +824,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1024,11 +1047,12 @@
           "ranks": [
             18,
             20,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时17分]"
         },
         {
           "title": "苹果涨幅迅速扩大至1.5%。",
@@ -1135,8 +1159,19 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "花旗：将微软(MSFT.O)目标价从690美元下调至660美元。",
+          "url": "https://flash.jin10.com/detail/20260122191035451800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
         {
           "title": "文件显示，沃尔玛百货(WMT.N)、微软(MSFT.O)和老虎环球在印度数字支付和金融服务公司PhonePe的印度IPO中出售股份。",
           "url": "https://flash.jin10.com/detail/20260122065137880800",
