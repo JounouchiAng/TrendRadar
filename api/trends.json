@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:14:58.524319+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-01-23T20:29:09.556223+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时04分 ~ 20时29分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时29分]"
         },
         {
           "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
@@ -78,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 20时29分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -89,11 +89,25 @@
             10,
             13,
             20,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 20时29分]"
+        },
+        {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时19分 ~ 19时14分]"
+          "time_info": "[16时19分 ~ 20时29分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 19时14分]"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -305,6 +307,17 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时29分]"
+        },
+        {
           "title": "国家知识产权局：完善人工智能等新领域新业态知识产权保护制度",
           "url": "https://wallstreetcn.com/livenews/3042541",
           "source": "华尔街见闻-快讯",
@@ -369,7 +382,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -429,24 +442,13 @@
           "time_info": "03时19分"
         },
         {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "影视飓风说荣耀Air是独一档",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%AF%B4%E8%8D%A3%E8%80%80Air%E6%98%AF%E7%8B%AC%E4%B8%80%E6%A1%A3%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -520,7 +522,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -613,7 +615,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -673,6 +675,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260123024054852800",
           "source": "金十数据",
@@ -697,6 +710,17 @@
           "time_info": "[03时19分 ~ 04时17分]"
         },
         {
+          "title": "AMD美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3042920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
           "url": "https://flash.jin10.com/detail/20260123062128122800",
           "source": "金十数据",
@@ -719,6 +743,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美银：特朗普关税威胁下美股资金流出170亿美元 欧洲、日本获强势流入",
+          "url": "https://wallstreetcn.com/livenews/3042905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "在银价创下历史新高之际，美股银矿股盘前普涨，赫克拉矿业上涨1.2%，库尔矿业上涨0.7%，西尔弗科普金属上涨0.7%，恩迪沃银业上涨1.5%，ABRDN实物白银股票ETF上涨2.1%，Global X白银矿业ETF上涨1%，iShares白银信托上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260123172804674800",
           "source": "金十数据",
@@ -728,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "英特尔股价美股盘后跌9%。",
@@ -784,6 +830,18 @@
           "time_info": "[00时24分 ~ 09时04分]"
         },
         {
+          "title": "苹果用户的天塌了",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 20时29分]"
+        },
+        {
           "title": "苹果扩大硬件主管职权，释放CEO候选人信号",
           "url": "https://wallstreetcn.com/livenews/3042267",
           "source": "华尔街见闻-快讯",
@@ -795,18 +853,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时16分]"
-        },
-        {
-          "title": "苹果用户的天塌了",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 19时14分]"
         },
         {
           "title": "苹果硬件主管特纳斯接管核心设计团队 或成库克头号接班人",
@@ -898,8 +944,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时27分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时27分 ~ 20时29分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
