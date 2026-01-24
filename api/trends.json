@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:26:55.974819+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-01-24T22:13:25.925195+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时57分 ~ 21时26分]"
+          "appearance_count": 16,
+          "time_info": "[11时57分 ~ 22时13分]"
         },
         {
           "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
@@ -94,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 21时26分]"
+          "appearance_count": 10,
+          "time_info": "[15时14分 ~ 22时13分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -108,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时13分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时13分 ~ 22时13分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -120,11 +120,24 @@
             4,
             9,
             14,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 21时26分]"
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 22时13分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -155,18 +168,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时32分 ~ 16时17分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时11分 ~ 21时26分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -207,6 +208,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时14分 ~ 21时26分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -349,6 +361,18 @@
           "time_info": "[18时14分 ~ 19时12分]"
         },
         {
+          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
+          "url": "https://flash.jin10.com/detail/20260124201216318800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 22时13分]"
+        },
+        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -382,17 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 17时13分]"
-        },
-        {
-          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
-          "url": "https://flash.jin10.com/detail/20260124201216318800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -452,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时01分 ~ 21时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时01分 ~ 22时13分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -467,8 +480,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时14分 ~ 21时26分]"
+          "appearance_count": 19,
+          "time_info": "[07时14分 ~ 22时13分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
