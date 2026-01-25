@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:21:09.980792+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-01-25T15:16:24.089972+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 15时16分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -74,6 +74,20 @@
           "time_info": "[00时15分 ~ 09时09分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时16分]"
+        },
+        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
           "source": "百度热搜",
@@ -91,19 +105,6 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时21分]"
-        },
-        {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
           "url": "https://www.cls.cn/detail/2268582",
           "source": "财联社热门",
@@ -112,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 15时16分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -143,6 +144,46 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时16分]"
+        },
+        {
+          "title": "北京市将加强全学段人工智能赋能教育",
+          "url": "https://wallstreetcn.com/livenews/3043344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 15时16分]"
+        },
+        {
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 15时16分]"
+        },
+        {
           "title": "AI为何会一本正经“胡说八道”",
           "url": "https://www.toutiao.com/trending/7599102960605954086/",
           "source": "今日头条",
@@ -152,43 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "北京市将加强全学段人工智能赋能教育",
-          "url": "https://wallstreetcn.com/livenews/3043344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 14时21分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 14时21分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
@@ -256,8 +260,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 15时16分]"
         }
       ]
     },
@@ -276,8 +280,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 15时16分]"
         },
         {
           "title": "韩媒：三星电子将一季度NAND价格上调100%",
@@ -285,11 +289,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 15时16分]"
         },
         {
           "title": "韩媒：三星电子将一季度NAND价格上调100%",
@@ -297,11 +302,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 15时16分]"
         }
       ]
     },
