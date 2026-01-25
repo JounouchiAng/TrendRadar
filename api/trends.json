@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:16:24.089972+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-01-25T16:18:02.516039+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -61,6 +61,33 @@
           "time_info": "[00时15分 ~ 09时09分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时18分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 16时18分]"
+        },
+        {
           "title": "中国和东盟专家探讨人工智能发展与治理",
           "url": "https://wallstreetcn.com/livenews/3043302",
           "source": "华尔街见闻-快讯",
@@ -72,20 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 09时09分]"
-        },
-        {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时16分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -105,16 +118,17 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时16分]"
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -144,18 +158,6 @@
           "time_info": "[00时15分 ~ 06时13分]"
         },
         {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时16分]"
-        },
-        {
           "title": "北京市将加强全学段人工智能赋能教育",
           "url": "https://wallstreetcn.com/livenews/3043344",
           "source": "华尔街见闻-快讯",
@@ -163,11 +165,12 @@
             6,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 16时18分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -177,11 +180,12 @@
             7,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 16时18分]"
         },
         {
           "title": "AI为何会一本正经“胡说八道”",
@@ -260,8 +264,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 16时18分]"
         }
       ]
     },
@@ -277,11 +281,12 @@
             7,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时18分]"
         },
         {
           "title": "韩媒：三星电子将一季度NAND价格上调100%",
@@ -290,11 +295,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 16时18分]"
         },
         {
           "title": "韩媒：三星电子将一季度NAND价格上调100%",
@@ -303,18 +309,30 @@
           "ranks": [
             1,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时45分 ~ 16时18分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3043358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
         {
           "title": "白银价格跟随黄金狂飙",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
