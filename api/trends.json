@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:19:17.351612+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-01-26T19:15:51.233381+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
             12,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时15分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -71,11 +72,12 @@
             4,
             12,
             11,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时15分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -122,6 +124,21 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时15分]"
+        },
+        {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
           "url": "https://www.cls.cn/detail/2268686",
           "source": "财联社热门",
@@ -133,20 +150,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时08分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 18时19分]"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -313,7 +316,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -328,6 +331,17 @@
           "time_info": "[11时50分 ~ 15时21分]"
         },
         {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时15分]"
+        },
+        {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
@@ -340,17 +354,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时19分]"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
@@ -373,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "冬季风暴导致航班取消，航空公司美股盘前下跌。美国航空下跌1.2%，达美航空下跌1.2%，捷蓝航空下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260126183253949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
@@ -409,6 +423,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 18时19分]"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -429,8 +465,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 19时15分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -441,11 +477,12 @@
             13,
             17,
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 19时15分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -466,7 +503,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
