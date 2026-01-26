@@ -1,11 +1,176 @@
 {
-  "generated_at": "2026-01-27T06:15:12.527635+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-01-27T07:15:08.876151+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时15分]"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
+        },
+        {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
+          "url": "https://wallstreetcn.com/livenews/3044129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时18分]"
+        },
+        {
+          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3044195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
+          "url": "https://wallstreetcn.com/livenews/3044203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
+          "url": "https://wallstreetcn.com/livenews/3044197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3044219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050540534800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050519889800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 苹果涨近3%",
+          "url": "https://flash.jin10.com/detail/20260127050110831800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -15,8 +180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -26,8 +191,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -37,8 +202,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -49,8 +214,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -58,11 +223,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "Claude Skill 的思路并不复杂，为什么又是再次被 Claude 优先提出？",
@@ -72,11 +238,23 @@
             12,
             10,
             19,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 07时15分]"
+        },
+        {
+          "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3044230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "微软推出最新人工智能芯片，以减少对英伟达的依赖",
@@ -151,125 +329,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
-          "url": "https://wallstreetcn.com/livenews/3044207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
-          "url": "https://wallstreetcn.com/livenews/3044203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
-          "url": "https://wallstreetcn.com/livenews/3044129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时18分]"
-        },
-        {
-          "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3044195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果收涨将近3%，Meta涨2%，特斯拉跌约3.1%",
-          "url": "https://wallstreetcn.com/livenews/3044197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050540534800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260127050519889800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 苹果涨近3%",
-          "url": "https://flash.jin10.com/detail/20260127050110831800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果",
       "match_count": 3,
       "titles": [
@@ -285,8 +344,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
@@ -324,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时15分]"
         },
         {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
