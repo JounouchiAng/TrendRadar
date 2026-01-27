@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:22:05.982278+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-01-27T16:21:30.216892+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时21分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时21分]"
         },
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时21分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时21分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -147,6 +147,19 @@
           "time_info": "[09时06分 ~ 12时41分]"
         },
         {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时21分]"
+        },
+        {
           "title": "OpenAI首席信息安全官宣布将离职",
           "url": "https://flash.jin10.com/detail/20260127140630592800",
           "source": "金十数据",
@@ -167,18 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
-          "url": "https://www.zhihu.com/question/1997009213193413444",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时22分]"
         },
         {
           "title": "Anthropic：受英国科学、创新和技术部委托，为gov.uk网站构建并试点专用人工智能助手。",
@@ -286,6 +287,19 @@
           "time_info": "[11时41分 ~ 13时21分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 16时21分]"
+        },
+        {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
           "url": "https://www.zhihu.com/question/1998931277835941056",
           "source": "知乎",
@@ -296,18 +310,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时40分 ~ 14时23分]"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 15时22分]"
         },
         {
           "title": "外网AI视频假如中国替代了美国",
@@ -416,7 +418,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -443,6 +445,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "降价2000元iPhoneAir疑为库存机",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%8D%E4%BB%B72000%E5%85%83iPhoneAir%E7%96%91%E4%B8%BA%E5%BA%93%E5%AD%98%E6%9C%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "中国造出全球80%的AI眼镜",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%8380%25%E7%9A%84AI%E7%9C%BC%E9%95%9C",
           "source": "百度热搜",
@@ -464,11 +477,12 @@
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时14分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时14分 ~ 16时21分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
