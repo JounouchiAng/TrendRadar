@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:41:04.787994+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-01-27T22:23:18.930646+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时41分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时41分 ~ 22时23分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时41分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时41分 ~ 22时23分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -84,6 +84,19 @@
           "time_info": "[00时23分 ~ 15时22分]"
         },
         {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 22时23分]"
+        },
+        {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
           "url": "https://www.cls.cn/detail/2270597",
           "source": "财联社热门",
@@ -95,19 +108,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时41分 ~ 16时21分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 21时41分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -174,6 +174,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时21分 ~ 16时21分]"
+        },
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时23分]"
+        },
+        {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时23分]"
         },
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -268,28 +292,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
           "title": "微软推出最新人工智能芯片，以减少对英伟达的依赖",
           "url": "https://flash.jin10.com/detail/20260127001205542800",
           "source": "金十数据",
@@ -325,6 +327,18 @@
           "time_info": "[18时19分 ~ 20时31分]"
         },
         {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时23分]"
+        },
+        {
           "title": "英国金融行为监管局（FCA）：此次审查涵盖其人工智能讨论文件（AI Discussion Paper）、AI 冲刺计划（AI Sprint）、AI 实验室（包括 AI 实时测试）以及英伟达支持的超级沙盒（Supercharged Sandbox）。",
           "url": "https://flash.jin10.com/detail/20260127183428395800",
           "source": "金十数据",
@@ -345,6 +359,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时23分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -417,18 +443,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 21时41分]"
-        },
-        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -464,17 +478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时31分 ~ 21时41分]"
-        },
-        {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "外网AI视频假如中国替代了美国",
@@ -674,12 +677,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "据纽约时报：OpenAI创始人奥尔特曼表示，美国移民和海关执法局的情况太过分了。",
+          "url": "https://flash.jin10.com/detail/20260127215123302800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -690,8 +704,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时14分 ~ 21时41分]"
+          "appearance_count": 20,
+          "time_info": "[07时14分 ~ 22时23分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -750,6 +764,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-27）",
+          "url": "https://flash.jin10.com/detail/20260127220608508800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美国航空集团(AAL.O)美股盘前涨2.8%，此前该公司预计2026年利润将高于预期。",
@@ -836,6 +872,30 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
+          "url": "https://wallstreetcn.com/livenews/3044789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时23分]"
+        },
+        {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时23分]"
+        },
+        {
           "title": "美股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7599348623989850153/",
           "source": "今日头条",
@@ -902,17 +962,6 @@
           "time_info": "06时15分"
         },
         {
-          "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
-          "url": "https://wallstreetcn.com/livenews/3044789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "金十图示：2026年01月26日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260127050519889800",
           "source": "金十数据",
@@ -922,17 +971,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3044785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         },
         {
           "title": "美股期货走高，纳斯达克100指数期货涨0.5%，标普500指数期货涨0.2%。",
@@ -985,7 +1023,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1092,8 +1130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时23分]"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
@@ -1121,8 +1159,19 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "三星三折叠手机Galaxy Z TriFold美国售价2,899美元，将于1月30日上市",
+          "url": "https://wallstreetcn.com/livenews/3044816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
         {
           "title": "三星电子股价上涨3%。",
           "url": "https://flash.jin10.com/detail/20260127105814307800",
