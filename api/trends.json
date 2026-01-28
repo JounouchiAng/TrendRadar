@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:19:00.195467+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-29T07:19:36.724823+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -68,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -79,8 +80,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
+          "url": "https://flash.jin10.com/detail/20260129065025610800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -94,6 +106,17 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
+          "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
+          "url": "https://wallstreetcn.com/livenews/3045880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "英国寻求利用人工智能提升生产力 以弥补失业损失",
           "url": "https://flash.jin10.com/detail/20260129014249845800",
           "source": "金十数据",
@@ -103,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "三星电子：预计第一季人工智能对芯片的需求强劲。",
+          "url": "https://flash.jin10.com/detail/20260129064155586800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -122,7 +156,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -133,9 +167,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "从技术突破到价值落地，智能体开启AI进化新格局",
+          "url": "https://wallstreetcn.com/livenews/3045866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
@@ -166,9 +211,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：公司正在对人工智能芯片进行“大规模投资”。",
+          "url": "https://flash.jin10.com/detail/20260129063537110800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -177,15 +233,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
+          "url": "https://wallstreetcn.com/livenews/3045861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -197,8 +264,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -209,8 +276,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特斯拉美股盘后快速回吐涨幅，该公司称2026年资本开支将超200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
@@ -219,7 +308,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -241,7 +330,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -275,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -302,13 +391,24 @@
           "time_info": "02时27分"
         },
         {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
           "url": "https://wallstreetcn.com/livenews/3045829",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -319,7 +419,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -337,8 +437,113 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "三星电子：2025年资本支出为52.7万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260129065020404800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：将回购价值3.6万亿韩元的公司股份。",
+          "url": "https://flash.jin10.com/detail/20260129064722618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星四季度储芯片业务收入创历史新高，利润创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3045873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：目标在2026年实现晶圆代工收入两位数增长。",
+          "url": "https://flash.jin10.com/detail/20260129063842210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：第四季度营收93.8万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260129063827848800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：HBM4芯片将于第一季度出货。",
+          "url": "https://flash.jin10.com/detail/20260129063803710800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：第四季度芯片业务营业利润16.4万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260129063756014800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子第四季度净利润19.3万亿韩元，路孚特预估为17.4万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260129063722511800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "三星电子：将发放每股566韩元的年终股息。",
+          "url": "https://flash.jin10.com/detail/20260129063321591800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Microsoft 微软",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软云业务增长放缓 盘后一度下跌8%",
@@ -347,7 +552,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -361,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "微软：企业（客户）采购1500万份Copilot许可。",
+          "url": "https://wallstreetcn.com/livenews/3045881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -406,8 +622,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时19分]"
         }
       ]
     },
