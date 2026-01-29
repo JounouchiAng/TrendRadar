@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T04:21:04.478824+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-01-30T05:19:52.089537+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -75,8 +75,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -92,6 +125,19 @@
           "time_info": "[01时31分 ~ 03时29分]"
         },
         {
+          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
+          "url": "https://wallstreetcn.com/livenews/3046652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时19分]"
+        },
+        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
@@ -104,16 +150,30 @@
           "time_info": "[03时29分 ~ 04时21分]"
         },
         {
-          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
-          "url": "https://wallstreetcn.com/livenews/3046652",
-          "source": "华尔街见闻-快讯",
+          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
+          "url": "https://flash.jin10.com/detail/20260130024543915800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            15
+            12,
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时19分]"
+        },
+        {
+          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260130023851550800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时19分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -128,30 +188,6 @@
           "time_info": "[02时33分 ~ 03时29分]"
         },
         {
-          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
-          "url": "https://flash.jin10.com/detail/20260130024543915800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时21分]"
-        },
-        {
-          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
-          "url": "https://flash.jin10.com/detail/20260130023851550800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时21分]"
-        },
-        {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3046630",
           "source": "华尔街见闻-快讯",
@@ -162,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时29分]"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
@@ -184,12 +231,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "报道：SpaceX在潜在上市前与xAI讨论合并",
+          "url": "https://wallstreetcn.com/livenews/3046654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -199,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -211,8 +269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -224,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -264,18 +333,41 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "“若GPU管够，增速早超40%！”微软电话会回应市场担忧：我们缺产能，不缺订单",
           "url": "https://wallstreetcn.com/articles/3764421",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
+        },
+        {
+          "title": "Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌2%，可选消费板块跌0.6%，能源板块涨1.1%，电信板块涨3%。 纳斯达克100指数初步收跌0.5%，成分股中，Atlassian、微软、Strategy初步收跌约10%，表现最差，新思科技跌6%，铿腾电子跌5.7%，阿斯麦ADR涨2%，Meta涨10.8%。 Salesforce初步收跌6.3%，波音跌3%，和微软领跌道指成分股，摩根大通则涨1.6%，霍尼韦尔涨4.9%，IBM涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3046681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "标普跌超1%，纳指跌超2%，微软重挫超11%",
@@ -313,8 +405,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时19分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -339,11 +431,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[03时28分 ~ 05时19分]"
         }
       ]
     }
