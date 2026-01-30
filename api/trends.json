@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T09:14:05.117542+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-01-30T12:02:09.802547+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "苹果",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "苹果(AAPL.O)第一财季服务业务净销售额为300.1亿美元，低于市场预期的300.7亿美元。",
@@ -444,39 +455,14 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "够飒!AI女团跨界维修通马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时14分]"
-        },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时19分]"
-        },
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            7,
             4,
             3
           ],
@@ -493,11 +479,38 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时02分]"
+        },
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 07时19分]"
+        },
+        {
+          "title": "够飒!AI女团跨界维修通马桶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时02分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -525,6 +538,41 @@
           "time_info": "[00时33分 ~ 07时19分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时02分]"
+        },
+        {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时02分]"
+        },
+        {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时02分]"
+        },
+        {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -534,17 +582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
@@ -567,28 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
-          "url": "https://wallstreetcn.com/articles/3764501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
@@ -724,6 +739,17 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3046630",
           "source": "华尔街见闻-快讯",
@@ -797,7 +823,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
         },
@@ -891,11 +917,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时02分]"
         },
         {
           "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
@@ -906,8 +933,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 09时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 12时02分]"
         },
         {
           "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
@@ -1025,11 +1052,12 @@
           "url": "https://www.toutiao.com/trending/7600922243052391982/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时02分]"
         },
         {
           "title": "Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
@@ -1058,11 +1086,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%913570%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时02分]"
         },
         {
           "title": "标普跌超1%，纳指跌超2%，微软重挫超11%",
@@ -1090,7 +1119,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -1101,8 +1130,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 09时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时02分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -1114,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "黄金价格暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
