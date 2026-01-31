@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T18:16:16.926888+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-01-31T19:14:42.661160+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -34,8 +34,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 19时14分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -46,11 +46,12 @@
             27,
             29,
             28,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 19时14分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -59,11 +60,12 @@
           "ranks": [
             11,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 19时14分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -128,11 +130,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时14分]"
+        },
+        {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -140,11 +154,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -232,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 19时14分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -253,11 +268,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时09分 ~ 19时14分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -370,7 +386,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果靠降价一天狂赚32亿",
@@ -419,12 +435,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时20分]"
+        },
+        {
+          "title": "员工公司年会中10万又抽到苹果手机",
+          "url": "https://www.baidu.com/s?wd=%E5%91%98%E5%B7%A5%E5%85%AC%E5%8F%B8%E5%B9%B4%E4%BC%9A%E4%B8%AD10%E4%B8%87%E5%8F%88%E6%8A%BD%E5%88%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
@@ -437,6 +464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 13时01分]"
+        },
+        {
+          "title": "马光远：黄金价格进入算命阶段",
+          "url": "https://www.toutiao.com/trending/7601147470961184275/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "黄金价格单日巨震超400美元，回调开始了吗？如何应对？",
