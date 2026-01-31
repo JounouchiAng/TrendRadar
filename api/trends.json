@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T20:28:23.988237+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-01-31T21:37:00.716114+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时27分 ~ 20时28分]"
+          "appearance_count": 11,
+          "time_info": "[14时27分 ~ 21时37分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -64,8 +64,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 20时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 21时37分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -125,16 +125,15 @@
           "time_info": "[13时01分 ~ 16时19分]"
         },
         {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
-          "source": "金十数据",
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
           "ranks": [
-            2,
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时28分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -151,6 +150,19 @@
           "time_info": "[17时20分 ~ 20时28分]"
         },
         {
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时37分]"
+        },
+        {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
           "url": "https://flash.jin10.com/detail/20260131161725853800",
           "source": "金十数据",
@@ -165,15 +177,59 @@
           "time_info": "[17时20分 ~ 20时28分]"
         },
         {
-          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
-          "url": "https://wallstreetcn.com/livenews/3047685",
+          "title": "AI助手OpenClaw爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E5%8A%A9%E6%89%8BOpenClaw%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时28分"
+          "time_info": "21时37分"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -212,6 +268,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 18时16分]"
+        },
+        {
+          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
+          "url": "https://wallstreetcn.com/livenews/3047685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 21时37分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -261,8 +329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 21时37分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -283,11 +351,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 21时37分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -400,7 +469,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果靠降价一天狂赚32亿",
@@ -449,6 +518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时19分 ~ 17时20分]"
+        },
+        {
+          "title": "网友分享解腻凉菜“黄瓜拌苹果”",
+          "url": "https://www.toutiao.com/trending/7601350014673731625/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "员工公司年会中10万又抽到苹果手机",
