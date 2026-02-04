@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:57:32.696928+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2026-02-04T22:38:48.416987+08:00",
+  "total_titles_processed": 2067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时12分 ~ 21时57分]"
+          "appearance_count": 14,
+          "time_info": "[09时12分 ~ 22时38分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 21时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 22时38分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -93,6 +93,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时21分 ~ 15时39分]"
+        },
+        {
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时38分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -157,17 +171,16 @@
           "time_info": "[09时12分 ~ 15时39分]"
         },
         {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            8
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时35分 ~ 21时57分]"
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时38分]"
         },
         {
           "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
@@ -180,18 +193,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时35分 ~ 21时57分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时57分]"
         },
         {
           "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
@@ -297,17 +298,6 @@
           "time_info": "12时05分"
         },
         {
-          "title": "Resolve AI在新一轮融资中估值达10亿美元",
-          "url": "https://flash.jin10.com/detail/20260204214728784800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -350,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "国民党代表团参访清华大学，了解大陆AI技术",
+          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
@@ -478,17 +479,6 @@
           "time_info": "[04时27分 ~ 05时26分]"
         },
         {
-          "title": "国民党代表团参访清华大学，了解大陆AI技术",
-          "url": "https://news.ifeng.com/c/8qTccGGdcdv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
@@ -520,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "王小川：焦虑本身不是AI带来的，反而是给我们带来希望",
+          "url": "https://wallstreetcn.com/livenews/3049942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -556,6 +557,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时27分]"
+        },
+        {
+          "title": "Resolve AI在新一轮融资中估值达10亿美元",
+          "url": "https://flash.jin10.com/detail/20260204214728784800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
         },
         {
           "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
@@ -777,6 +790,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "亚马逊讨论接入OpenAI技术的特殊渠道。 亚马逊可能会在自家Alexa采用定制的OpenAI模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3049936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
           "url": "https://flash.jin10.com/detail/20260204062113821800",
           "source": "金十数据",
@@ -799,6 +823,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "语音AI初创公司ElevenLabs融资5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3049934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "市场消息：达索系统与英伟达(NVDA.O)将携手打造跨行业人工智能架构。",
           "url": "https://flash.jin10.com/detail/20260204001237926800",
           "source": "金十数据",
@@ -819,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "亚马逊在美推出AI版数字助理Alexa",
+          "url": "https://flash.jin10.com/detail/20260204221420202800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "“人工智能+电影虚拟拍摄融合创新实验室”揭牌",
@@ -978,7 +1024,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -989,8 +1035,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[07时21分 ~ 22时38分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1024,8 +1070,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 21时57分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 22时38分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1065,6 +1111,51 @@
           "time_info": "[03时40分 ~ 05时26分]"
         },
         {
+          "title": "美股黄金股上涨，纽蒙特矿业(NEM.N)涨2.3%，巴里克黄金(GOLD.N)涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260204223418245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "区域银行ETF涨2.47%，银行业ETF涨1.91%，能源业ETF涨1.34%，领跑美股行业ETF，半导体ETF跌1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3049948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.17%，标普500指数涨0.1%，纳指跌0.16%。AMD(AMD.O)大跌11%，公司预计第一季度营收将小幅下滑。超微电脑(SMCI.O)大涨10%，公司上调年度营收预期。",
+          "url": "https://flash.jin10.com/detail/20260204223022747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3049320",
           "source": "华尔街见闻-快讯",
@@ -1087,17 +1178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
@@ -1167,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3049937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
@@ -1345,11 +1436,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时27分 ~ 21时57分]"
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时38分]"
         },
         {
           "title": "存储“超级周期”再添注脚：三星+SK海力士>腾讯+阿里",
@@ -1372,6 +1464,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
+          "url": "https://flash.jin10.com/detail/20260204221245663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
