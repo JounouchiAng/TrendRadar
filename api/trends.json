@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T15:33:56.834428+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-02-08T16:23:05.093045+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 16时23分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -44,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 15时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 16时23分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -96,11 +96,24 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时23分]"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -117,16 +130,16 @@
           "time_info": "[00时19分 ~ 07时20分]"
         },
         {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            10
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时33分]"
+          "time_info": "[15时33分 ~ 16时23分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -141,6 +154,17 @@
           "time_info": "[05时17分 ~ 07时20分]"
         },
         {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
           "url": "https://flash.jin10.com/detail/20260208081050471800",
           "source": "金十数据",
@@ -152,6 +176,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 14时42分]"
+        },
+        {
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -176,28 +213,16 @@
           "time_info": "14时42分"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "“AI.com”域名卖出7000万美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22,
-            28
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时23分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -211,15 +236,15 @@
           "time_info": "[07时20分 ~ 09时47分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
+          "title": "吃上AI主理人的席了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8AAI%E4%B8%BB%E7%90%86%E4%BA%BA%E7%9A%84%E5%B8%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时33分]"
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "沈月说身边人都在用千问AI点奶茶",
@@ -250,6 +275,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 16时23分]"
+        },
+        {
           "title": "央行等八部门联合发文，严禁虚拟货币业务活动，明确境内主体所控制境外主体不得在境外发行代币，如何解读？",
           "url": "https://www.zhihu.com/question/2003395274219942243",
           "source": "知乎",
@@ -261,15 +297,15 @@
           "time_info": "[00时19分 ~ 07时20分]"
         },
         {
-          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
-          "url": "https://www.cls.cn/detail/2283800",
-          "source": "财联社热门",
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时23分]"
         },
         {
           "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
@@ -279,11 +315,12 @@
             5,
             13,
             17,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "韩员工手滑发62万枚比特币",
@@ -310,17 +347,6 @@
           "time_info": "12时27分"
         },
         {
-          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
-          "url": "https://wallstreetcn.com/articles/3765240",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时33分]"
-        },
-        {
           "title": "韩员工错发超400亿美元比特币",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%91%98%E5%B7%A5%E9%94%99%E5%8F%91%E8%B6%85400%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
           "source": "百度热搜",
@@ -330,6 +356,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "韩国加密货币交易所 Bithumb 误发 62 万枚比特币，如何评价这一乌龙事件？为何会造成比特币价格闪崩？",
+          "url": "https://www.zhihu.com/question/2003781811025700367",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时23分]"
         },
         {
           "title": "华尔街分析师称比特币或跌至零美元",
@@ -342,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时57分]"
-        },
-        {
-          "title": "韩国加密货币交易所 Bithumb 误发 62 万枚比特币，如何评价这一乌龙事件？为何会造成比特币价格闪崩？",
-          "url": "https://www.zhihu.com/question/2003781811025700367",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         }
       ]
     },
@@ -380,8 +407,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 16时23分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
