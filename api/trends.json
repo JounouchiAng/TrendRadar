@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T13:57:26.347522+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-02-08T14:42:38.088576+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
@@ -28,24 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 13时57分]"
-        },
-        {
-          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
-          "url": "https://wallstreetcn.com/livenews/3051748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            5,
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 14时42分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -60,8 +44,25 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 14时42分]"
+        },
+        {
+          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
+          "url": "https://wallstreetcn.com/livenews/3051748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            5,
+            13,
+            21,
+            25,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时19分 ~ 13时57分]"
+          "time_info": "[01时20分 ~ 14时42分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -81,11 +82,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 14时42分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -107,11 +109,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时42分]"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 14时42分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -126,15 +141,17 @@
           "time_info": "[05时17分 ~ 07时20分]"
         },
         {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
           "ranks": [
-            4
+            8,
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 14时42分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -148,17 +165,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
-          "source": "金十数据",
+          "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
+          "url": "https://wallstreetcn.com/articles/3765225",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            18,
-            19
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 13时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -170,6 +185,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时47分]"
+        },
+        {
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时42分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "沈月说身边人都在用千问AI点奶茶",
@@ -192,23 +230,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "“AI.com”域名卖出7000万美元",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         }
       ]
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "央行等八部门联合发文，严禁虚拟货币业务活动，明确境内主体所控制境外主体不得在境外发行代币，如何解读？",
@@ -229,8 +256,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 14时42分]"
         },
         {
           "title": "韩员工手滑发62万枚比特币",
@@ -238,11 +265,12 @@
           "source": "微博",
           "ranks": [
             5,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时42分]"
         },
         {
           "title": "韩员工错发超400亿美元比特币",
@@ -256,6 +284,20 @@
           "time_info": "12时27分"
         },
         {
+          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
+          "url": "https://wallstreetcn.com/livenews/3051758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 14时42分]"
+        },
+        {
           "title": "韩员工错发超400亿美元比特币",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%91%98%E5%B7%A5%E9%94%99%E5%8F%91%E8%B6%85400%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
           "source": "百度热搜",
@@ -267,17 +309,15 @@
           "time_info": "12时27分"
         },
         {
-          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
-          "url": "https://wallstreetcn.com/livenews/3051758",
-          "source": "华尔街见闻-快讯",
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            13,
-            17
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 13时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "华尔街分析师称比特币或跌至零美元",
@@ -317,8 +357,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 14时42分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -342,11 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3765230",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时42分]"
         }
       ]
     }
