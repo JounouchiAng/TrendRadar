@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:10:00.326489+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-02-09T23:45:57.209007+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 22时10分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 23时45分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时03分 ~ 22时10分]"
+          "appearance_count": 12,
+          "time_info": "[14时03分 ~ 23时45分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时51分 ~ 22时10分]"
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 23时45分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -84,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时17分 ~ 22时10分]"
+          "appearance_count": 13,
+          "time_info": "[12时17分 ~ 23时45分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -176,6 +176,19 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时45分]"
+        },
+        {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
           "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
@@ -188,19 +201,6 @@
           "time_info": "[00时20分 ~ 09时18分]"
         },
         {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时10分]"
-        },
-        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -208,11 +208,12 @@
             5,
             2,
             1,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时10分]"
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时45分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -260,6 +261,32 @@
           "time_info": "[00时20分 ~ 09时18分]"
         },
         {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时45分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时45分]"
+        },
+        {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
           "url": "https://www.cls.cn/detail/2284501",
           "source": "财联社热门",
@@ -271,30 +298,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时54分 ~ 20时45分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时10分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时10分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -314,7 +317,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -493,7 +496,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -520,13 +523,24 @@
           "time_info": "17时54分"
         },
         {
+          "title": "不要对AI说谢谢",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗媒体发AI视频模拟打击美军舰队",
           "url": "https://wallstreetcn.com/livenews/3052357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -559,9 +573,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
+        },
+        {
+          "title": "中科曙光：拟发行可转债募资不超80亿元，用于面向人工智能的先进算力集群系统等项目",
+          "url": "https://wallstreetcn.com/livenews/3052400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
@@ -581,7 +606,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -592,7 +617,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -611,7 +636,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -629,6 +654,17 @@
           "time_info": "[01时19分 ~ 07时22分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时45分]"
+        },
+        {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
@@ -639,17 +675,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时48分 ~ 20时45分]"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2285010",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时10分]"
         },
         {
           "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -663,13 +688,24 @@
           "time_info": "[22时09分 ~ 22时10分]"
         },
         {
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "周一美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3052372",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -717,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3052393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
@@ -736,11 +783,12 @@
             6,
             7,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时03分 ~ 22时10分]"
+          "appearance_count": 12,
+          "time_info": "[14时03分 ~ 23时45分]"
         },
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -762,11 +810,12 @@
             23,
             19,
             17,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时48分 ~ 22时10分]"
+          "appearance_count": 7,
+          "time_info": "[18时48分 ~ 23时45分]"
         },
         {
           "title": "知名科技记者古尔曼：料新款iPhone 17e搭载A19芯片和MagSafe充电功能，还将采用苹果最新的自研蜂窝网络和无线芯片。苹果计划将售价维持在599美元不变。",
