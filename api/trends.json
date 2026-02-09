@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T12:17:57.141220+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-02-09T14:03:29.889283+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -157,19 +157,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时03分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
-          "url": "https://flash.jin10.com/detail/20260209120019975800",
-          "source": "金十数据",
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 14时03分]"
+        },
+        {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 14时03分]"
+        },
+        {
+          "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
+          "url": "https://wallstreetcn.com/livenews/3052101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "14时03分"
+        },
+        {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 14时03分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -183,26 +219,15 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 12时17分]"
-        },
-        {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "14时03分"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -238,15 +263,16 @@
           "time_info": "09时18分"
         },
         {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209120019975800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 14时03分]"
         },
         {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
@@ -255,7 +281,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -292,12 +318,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
+          "url": "https://flash.jin10.com/detail/20260209131648292800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
+          "url": "https://wallstreetcn.com/livenews/3052078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -340,12 +388,23 @@
         },
         {
           "title": "苹果最便宜新机要来了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "苹果最便宜新机要来了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         }
