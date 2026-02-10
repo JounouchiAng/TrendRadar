@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T03:56:27.861820+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-02-11T04:36:46.418977+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -36,11 +36,24 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
+        },
+        {
+          "title": "AI制图骗局",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -54,15 +67,41 @@
           "time_info": "02时07分"
         },
         {
-          "title": "AI制图骗局",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3053191",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 04时36分]"
+        },
+        {
+          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
+          "url": "https://wallstreetcn.com/livenews/3053187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 04时36分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 04时36分]"
         },
         {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
@@ -76,42 +115,6 @@
           "time_info": "02时07分"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 03时56分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3053191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 03时56分]"
-        },
-        {
-          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
-          "url": "https://wallstreetcn.com/livenews/3053187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 03时56分]"
-        },
-        {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
@@ -120,8 +123,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -131,8 +134,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -141,9 +144,32 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
+        },
+        {
+          "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
+          "url": "https://flash.jin10.com/detail/20260211024215900800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "04时36分"
         },
         {
           "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
@@ -168,24 +194,13 @@
           "time_info": "01时01分"
         },
         {
-          "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
-          "url": "https://flash.jin10.com/detail/20260211024215900800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
           "url": "https://flash.jin10.com/detail/20260211024100542800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -214,8 +229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -226,8 +241,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -239,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股盘中）",
@@ -269,37 +284,39 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "斯泰兰蒂斯拟退出与三星的美国电池合资项目",
-          "url": "https://flash.jin10.com/detail/20260211031356899800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
           "title": "随着电动汽车亏损越来越大，斯泰兰蒂斯集团Stellantis寻求推出与Samsung SDI的合资公司。",
           "url": "https://wallstreetcn.com/livenews/3053217",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
+        },
+        {
+          "title": "斯泰兰蒂斯拟退出与三星的美国电池合资项目",
+          "url": "https://flash.jin10.com/detail/20260211031356899800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
         },
         {
           "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
           "url": "https://flash.jin10.com/detail/20260211030806295800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时36分]"
         }
       ]
     },
@@ -354,8 +371,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 04时36分]"
         }
       ]
     }
