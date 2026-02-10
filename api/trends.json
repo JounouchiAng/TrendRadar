@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:36:46.418977+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-02-11T05:36:08.209496+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -40,8 +40,44 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 05时36分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
+        },
+        {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         },
         {
           "title": "AI制图骗局",
@@ -49,11 +85,12 @@
           "source": "微博",
           "ranks": [
             4,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时36分]"
+          "appearance_count": 4,
+          "time_info": "[03时56分 ~ 05时36分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -91,19 +128,6 @@
           "time_info": "[02时07分 ~ 04时36分]"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时06分 ~ 04时36分]"
-        },
-        {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
           "url": "https://flash.jin10.com/detail/20260211013915640800",
           "source": "金十数据",
@@ -115,27 +139,15 @@
           "time_info": "02时07分"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
           "ranks": [
-            15,
-            16
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
-        },
-        {
-          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 05时36分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -161,15 +173,15 @@
           "time_info": "[03时56分 ~ 04时36分]"
         },
         {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
           "ranks": [
-            20
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时36分"
         },
         {
           "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
@@ -219,7 +231,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -229,8 +241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -241,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -252,8 +264,52 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050700949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050519369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
+          "url": "https://flash.jin10.com/detail/20260211050115262800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
+          "url": "https://wallstreetcn.com/livenews/3053236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -281,7 +337,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "随着电动汽车亏损越来越大，斯泰兰蒂斯集团Stellantis寻求推出与Samsung SDI的合资公司。",
@@ -300,11 +356,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 05时36分]"
         },
         {
           "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
@@ -312,11 +369,23 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 04时36分]"
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 05时36分]"
+        },
+        {
+          "title": "随着电动汽车亏损加剧，欧洲车企Stellantis寻求退出与三星的合资项目",
+          "url": "https://wallstreetcn.com/livenews/3053217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
@@ -371,8 +440,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时36分]"
         }
       ]
     }
