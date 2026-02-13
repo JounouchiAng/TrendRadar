@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T09:21:06.856592+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-13T12:12:46.723320+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -114,6 +114,29 @@
           "time_info": "[00时47分 ~ 09时21分]"
         },
         {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时12分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时12分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -140,27 +163,53 @@
           "time_info": "[00时47分 ~ 05时26分]"
         },
         {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            2
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时21分]"
+          "time_info": "[09时20分 ~ 12时12分]"
         },
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时12分]"
+        },
+        {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时12分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时12分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -183,28 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
-          "url": "https://www.cls.cn/detail/2289007",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -231,17 +258,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
           "url": "https://flash.jin10.com/detail/20260213065702198800",
           "source": "金十数据",
@@ -253,16 +269,15 @@
           "time_info": "07时21分"
         },
         {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 09时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -276,13 +291,24 @@
           "time_info": "00时47分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213113926677800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美联储理事米兰：预计关税每年将带来近4000亿美元的收入。 预计潜在GDP增速将提升0.75个百分点。 政策调整和人工智能将拉动GDP增长。",
           "url": "https://wallstreetcn.com/livenews/3054810",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -464,6 +490,17 @@
           "time_info": "[02时49分 ~ 02时50分]"
         },
         {
+          "title": "微软喊话要实现AI“自给自足” 预言白领工作18个月内实现自动化",
+          "url": "https://www.cls.cn/detail/2288970",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
           "url": "https://wallstreetcn.com/livenews/3054665",
           "source": "华尔街见闻-快讯",
@@ -530,6 +567,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "AI泔水泛滥的背后成因",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%94%E6%B0%B4%E6%B3%9B%E6%BB%A5%E7%9A%84%E8%83%8C%E5%90%8E%E6%88%90%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "港股AI应用概念股局部强势，海致科技集团上市首日一度涨超260%，智谱涨超20%，MINIMAX-WP涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3054861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "加央行副行长敦促中小企业投资人工智能",
           "url": "https://flash.jin10.com/detail/20260213025219525800",
           "source": "金十数据",
@@ -555,7 +614,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -590,8 +649,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时12分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -601,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 12时12分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -802,6 +861,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "美股跳水 黄金白银大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美股延续跌势，纳指跌超1.5%，标普500指数跌超1%，道指下跌0.7%。",
           "url": "https://flash.jin10.com/detail/20260213001937238800",
           "source": "金十数据",
@@ -819,7 +889,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -886,6 +956,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行上调黄金价格预测，目前预计金价将在2026年第二季度达到5,800美元/盎司（此前预测为5,400美元/盎司）。 澳新银行表示，预计白银表现将逊于黄金，导致金银比回升至70倍。 澳新银行称，预计未来几年白银市场将供应不足，但2026年的供应缺口可能会缩小。",
+          "url": "https://wallstreetcn.com/livenews/3054896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
