@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T14:49:38.835854+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-02-13T15:44:41.898385+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -88,8 +88,32 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 15时44分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时21分 ~ 14时49分]"
+          "time_info": "[09时20分 ~ 15时44分]"
+        },
+        {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时44分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -101,17 +125,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时45分 ~ 06时23分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时49分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时47分 ~ 09时21分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时49分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -176,6 +176,18 @@
           "time_info": "[07时21分 ~ 14时49分]"
         },
         {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 15时44分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -186,6 +198,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 05时26分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时44分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -200,30 +225,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 05时26分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时54分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 14时49分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -272,15 +273,15 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
-          "url": "https://wallstreetcn.com/livenews/3054952",
-          "source": "华尔街见闻-快讯",
+          "title": "AI让你奔赴对MV的所有想象",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%AE%A9%E4%BD%A0%E5%A5%94%E8%B5%B4%E5%AF%B9MV%E7%9A%84%E6%89%80%E6%9C%89%E6%83%B3%E8%B1%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时44分"
         },
         {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
@@ -327,6 +328,18 @@
           "time_info": "09时21分"
         },
         {
+          "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
+          "url": "https://wallstreetcn.com/livenews/3054952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时44分]"
+        },
+        {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3054731",
           "source": "华尔街见闻-快讯",
@@ -350,6 +363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
@@ -482,6 +506,18 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时44分]"
+        },
+        {
           "title": "我的冬奥AI形象",
           "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%86%AC%E5%A5%A5AI%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -524,6 +560,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
+          "url": "https://www.cls.cn/detail/2289134",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
@@ -570,17 +628,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
           "url": "https://flash.jin10.com/detail/20260213002134729800",
           "source": "金十数据",
@@ -601,6 +648,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "OpenAI指责DeepSeek“抄袭”背后",
+          "url": "https://www.toutiao.com/trending/7606207773960834579/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "港股AI应用概念股局部强势，海致科技集团上市首日一度涨超260%，智谱涨超20%，MINIMAX-WP涨超13%。",
@@ -639,7 +708,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -663,19 +732,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时44分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
           "url": "https://wallstreetcn.com/articles/3765629",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 15时44分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -687,6 +757,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时52分 ~ 02时50分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时44分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -723,15 +805,16 @@
           "time_info": "07时21分"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时49分]"
+          "time_info": "[14时49分 ~ 15时44分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -756,17 +839,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时23分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         },
         {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
@@ -908,6 +980,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "美股跳水 黄金白银大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -944,7 +1027,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果市值一夜蒸发近1.4万亿元",
@@ -971,6 +1054,19 @@
           "time_info": "[02时50分 ~ 04时25分]"
         },
         {
+          "title": "史上第二惨 苹果市值一夜蒸发逾万亿",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E6%83%A8+%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E9%80%BE%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时44分]"
+        },
+        {
           "title": "苹果混合头显Vision Pro在上市两年后终于迎来YouTube官方应用",
           "url": "https://wallstreetcn.com/livenews/3054687",
           "source": "华尔街见闻-快讯",
@@ -983,16 +1079,15 @@
           "time_info": "[03时45分 ~ 04时25分]"
         },
         {
-          "title": "史上第二惨 苹果市值一夜蒸发逾万亿",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E6%83%A8+%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E9%80%BE%E4%B8%87%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "午盘收盘，国内期货主力合约跌多涨少。集运欧线涨超3%，碳酸锂、烧碱、豆一、鸡蛋涨超2%，苹果涨超1%；跌幅方面，沪锡跌超7%，沪银跌超5%，SC原油跌超4%，铂、沪镍、低硫燃料油（LU）、钯跌超3%，丙烯、燃料油、国际铜、沥青、铁矿石、甲醇跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260213150112333800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            24
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）主席Andrew N. Ferguson给苹果公司CEO库克发信。 该官员警告称，如果苹果错误地展示新闻服务Apple News、或违反其服务条款，该公司可能就违反FTC法令。",
@@ -1041,7 +1136,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
