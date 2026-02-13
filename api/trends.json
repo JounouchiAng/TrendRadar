@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:12:46.723320+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-02-13T13:54:29.520065+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -122,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时54分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -133,8 +133,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
+        },
+        {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
+        },
+        {
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -163,41 +188,18 @@
           "time_info": "[00时47分 ~ 05时26分]"
         },
         {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
-        },
-        {
-          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
-          "url": "https://www.cls.cn/detail/2289007",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
-        },
-        {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
           "url": "https://www.cls.cn/detail/2288921",
           "source": "财联社热门",
           "ranks": [
             13,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 13时54分]"
         },
         {
           "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
@@ -208,8 +210,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -258,6 +260,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时54分]"
+        },
+        {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
           "url": "https://flash.jin10.com/detail/20260213065702198800",
           "source": "金十数据",
@@ -267,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -297,7 +299,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -496,7 +498,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -573,7 +575,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -584,7 +586,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -614,7 +616,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -631,17 +633,6 @@
           "time_info": "[00时47分 ~ 09时21分]"
         },
         {
-          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 02时50分]"
-        },
-        {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
           "url": "https://www.cls.cn/detail/2289071",
           "source": "财联社热门",
@@ -649,8 +640,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -660,8 +651,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时54分]"
+        },
+        {
+          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时12分]"
+          "time_info": "[01时52分 ~ 02时50分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -696,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -867,7 +880,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -897,7 +910,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果市值一夜蒸发近1.4万亿元",
@@ -947,6 +960,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "史上第二惨 苹果市值一夜蒸发逾万亿",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C%E6%83%A8+%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E9%80%BE%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "苹果(AAPL.O)股价跌幅扩大至逾5%。",
           "url": "https://flash.jin10.com/detail/20260213021804108800",
           "source": "金十数据",
@@ -961,18 +985,30 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳新银行上调黄金价格预测，目前预计金价将在2026年第二季度达到5,800美元/盎司（此前预测为5,400美元/盎司）。 澳新银行表示，预计白银表现将逊于黄金，导致金银比回升至70倍。 澳新银行称，预计未来几年白银市场将供应不足，但2026年的供应缺口可能会缩小。",
           "url": "https://wallstreetcn.com/livenews/3054896",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时54分]"
+        },
+        {
+          "title": "澳新银行：上调黄金价格预测，预计黄金将在2026年第二季度触及5800美元/盎司（此前为5400美元/盎司）。",
+          "url": "https://flash.jin10.com/detail/20260213120307520800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时54分"
         }
       ]
     },
