@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T22:03:03.601020+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-02-18T23:43:09.812233+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时46分 ~ 22时03分]"
+          "appearance_count": 28,
+          "time_info": "[00时46分 ~ 23时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时18分 ~ 22时03分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 23时43分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时46分 ~ 22时03分]"
+          "appearance_count": 28,
+          "time_info": "[00时46分 ~ 23时43分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -66,8 +66,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 22时03分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时43分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时45分 ~ 23时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -80,40 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时46分 ~ 22时03分]"
-        },
-        {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时45分 ~ 22时03分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时46分 ~ 22时03分]"
+          "appearance_count": 28,
+          "time_info": "[00时46分 ~ 23时43分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -128,6 +111,25 @@
           "time_info": "[00时46分 ~ 06时22分]"
         },
         {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5,
+            6,
+            9,
+            10,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[00时46分 ~ 23时43分]"
+        },
+        {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
@@ -136,8 +138,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时05分 ~ 22时03分]"
+          "appearance_count": 9,
+          "time_info": "[18时05分 ~ 23时43分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -162,6 +164,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时21分 ~ 18时05分]"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 23时43分]"
         },
         {
           "title": "AI眼中的二十四节气",
@@ -200,17 +213,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时13分 ~ 14时52分]"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时03分]"
         },
         {
           "title": "化妆师回应王菲春晚妆造：问就是AI",
@@ -324,7 +326,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -944,7 +946,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1084,19 +1086,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 22时03分]"
-        },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
@@ -1107,6 +1098,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 05时27分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时43分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -1120,15 +1123,48 @@
           "time_info": "[18时05分 ~ 18时37分]"
         },
         {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "Analog Devices第一财季营收31.6亿美元，预估31.2亿美元。 第一财季每股收益1.69美元，预估1.61美元。 Analog Devices美股盘前涨近4%。",
@@ -1178,6 +1214,17 @@
           "time_info": "[05时27分 ~ 06时22分]"
         },
         {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -1223,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时05分 ~ 18时37分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股盘中）",
@@ -1280,6 +1338,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3056131",
           "source": "华尔街见闻-快讯",
@@ -1300,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260218223642456800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -1328,8 +1408,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 22时03分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 23时43分]"
         },
         {
           "title": "苹果春季发布会落地上海",
@@ -1352,11 +1432,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时36分 ~ 22时03分]"
+          "appearance_count": 8,
+          "time_info": "[18时36分 ~ 23时43分]"
         },
         {
           "title": "标普500指数初步大致收平，房地产、金融板块涨1%，科技板块涨0.4%，原材料、能源、日用消费品板块至多跌1.6%。 纳斯达克100指数初步收跌0.2%，成分股中，财季Intuit初步收跌5.5%，铿腾电子跌5.3%，亿滋国际、飞塔信息、Orly、卡夫亨氏、沃尔玛、Applovin至多跌4.5%，博通则涨2.3%，苹果涨2.9%，核电股CEG涨4.6%，CCEP涨4.9%，ALNY涨5.6%。 耐克初步收涨2.3%，美国运通涨1.6%，Visa涨1.6%，摩根大通涨1.3%，高盛涨1.2%，与苹果领跑道指成分股，微软、IBM、家得宝、3M、Salesforce、沃尔玛则至多跌3.9%。",
