@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:21:30.900645+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-02-18T09:19:09.050556+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -63,11 +63,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -90,8 +91,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -135,9 +147,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "Anthropic推出Claude Sonnet 4.6模型。",
@@ -220,6 +243,17 @@
           "time_info": "[02时10分 ~ 04时28分]"
         },
         {
+          "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
+          "url": "https://flash.jin10.com/detail/20260218083422399800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3056118",
           "source": "华尔街见闻-快讯",
@@ -266,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "英伟达：与包括Peak XV、Elevation Capital、Accel India等在内的风险投资公司合作，以识别并资助人工智能初创企业。",
+          "url": "https://flash.jin10.com/detail/20260218083229233800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -315,6 +360,17 @@
           "time_info": "[02时44分 ~ 04时28分]"
         },
         {
+          "title": "英伟达：构建主权人工智能系统的开发者今天即可访问英伟达NemoTron和Nemo。",
+          "url": "https://flash.jin10.com/detail/20260218083054230800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
           "url": "https://flash.jin10.com/detail/20260218021512170800",
           "source": "金十数据",
@@ -353,6 +409,17 @@
           "time_info": "[02时10分 ~ 02时44分]"
         },
         {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时19分]"
+        },
+        {
           "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
           "url": "https://wallstreetcn.com/livenews/3056079",
           "source": "华尔街见闻-快讯",
@@ -376,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时42分]"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "美联储戴利：新毕业生缺乏工作的原因部分是周期性的，部分是因为雇主对人工智能将如何影响他们的业务感到不确定。",
@@ -414,15 +492,26 @@
           "time_info": "[02时10分 ~ 02时44分]"
         },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
           "ranks": [
-            12
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
+          "url": "https://flash.jin10.com/detail/20260218083047394800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "09时19分"
         },
         {
           "title": "美联储理事巴尔：应做好准备，应对人工智能对劳动力市场的颠覆。",
@@ -582,7 +671,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -644,6 +733,17 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "美股三大指数均小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3056137",
           "source": "华尔街见闻-快讯",
@@ -676,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -745,11 +856,12 @@
           "ranks": [
             15,
             13,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时19分]"
         },
         {
           "title": "标普500指数初步大致收平，房地产、金融板块涨1%，科技板块涨0.4%，原材料、能源、日用消费品板块至多跌1.6%。 纳斯达克100指数初步收跌0.2%，成分股中，财季Intuit初步收跌5.5%，铿腾电子跌5.3%，亿滋国际、飞塔信息、Orly、卡夫亨氏、沃尔玛、Applovin至多跌4.5%，博通则涨2.3%，苹果涨2.9%，核电股CEG涨4.6%，CCEP涨4.9%，ALNY涨5.6%。 耐克初步收涨2.3%，美国运通涨1.6%，Visa涨1.6%，摩根大通涨1.3%，高盛涨1.2%，与苹果领跑道指成分股，微软、IBM、家得宝、3M、Salesforce、沃尔玛则至多跌3.9%。",
@@ -769,7 +881,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -778,11 +890,12 @@
           "url": "https://wallstreetcn.com/livenews/3056159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时19分]"
         },
         {
           "title": "13F报告显示，Berkshire Asset Management LLC.四季度末重仓摩根大通、微软、艾伯维、苹果、思科、美国银行。",
