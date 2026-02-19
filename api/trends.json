@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:03:52.085334+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-02-19T23:40:17.800271+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 22时03分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 23时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -69,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -87,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 22时03分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 23时40分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -132,8 +132,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -152,8 +152,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -165,6 +165,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 03时42分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时40分]"
+        },
+        {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时40分]"
         },
         {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
@@ -196,18 +219,6 @@
           "time_info": "[02时40分 ~ 06时24分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时03分]"
-        },
-        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://flash.jin10.com/detail/20260219022513866800",
           "source": "金十数据",
@@ -230,17 +241,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "日盟警告:字节AI别来沾边",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
           "url": "https://www.toutiao.com/trending/7608301157190156351/",
           "source": "今日头条",
@@ -253,6 +253,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时53分 ~ 16时34分]"
+        },
+        {
+          "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
+          "url": "https://wallstreetcn.com/livenews/3056681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -287,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2002102277314454310",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
         },
         {
           "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
@@ -451,7 +451,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -505,6 +505,18 @@
           "time_info": "[05时28分 ~ 06时24分]"
         },
         {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时40分]"
+        },
+        {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
@@ -541,6 +553,19 @@
           "time_info": "[01时48分 ~ 02时40分]"
         },
         {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 23时40分]"
+        },
+        {
           "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260219131203549800",
           "source": "金十数据",
@@ -551,18 +576,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时50分]"
-        },
-        {
-          "title": "美国两大人工智能巨头CEO拒绝牵手",
-          "url": "https://www.toutiao.com/trending/7608479654936674347/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 22时03分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
@@ -628,7 +641,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -639,7 +652,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -675,6 +688,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3056665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "印度AI峰会2月18日要点总结",
@@ -768,7 +803,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -780,8 +815,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时24分 ~ 22时03分]"
+          "appearance_count": 18,
+          "time_info": "[06时24分 ~ 23时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -792,23 +827,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -823,6 +843,22 @@
           "time_info": "[00时54分 ~ 05时28分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
+        },
+        {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
@@ -832,8 +868,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时43分 ~ 22时03分]"
+          "appearance_count": 10,
+          "time_info": "[15时43分 ~ 23时40分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
@@ -842,11 +878,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时40分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -981,6 +1018,28 @@
           "time_info": "[05时28分 ~ 06时24分]"
         },
         {
+          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3056663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
+          "url": "https://wallstreetcn.com/livenews/3056662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
           "url": "https://flash.jin10.com/detail/20260218231319433800",
           "source": "金十数据",
@@ -1001,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -1028,7 +1098,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
@@ -1039,8 +1109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 22时03分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 23时40分]"
         },
         {
           "title": "科技股担忧暂缓，日韩股市上涨，韩股创新高，三星电子涨5%，日元走弱至154，地缘局势升温推高金银油价",
@@ -1063,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        },
+        {
+          "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
+          "url": "https://www.cls.cn/detail/2291781",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
@@ -1139,8 +1220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 22时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 23时40分]"
         },
         {
           "title": "巴菲特交棒前最后一次调仓披露：减持苹果、亚马逊，新建仓纽约时报",
