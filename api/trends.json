@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:44:05.682575+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-02-19T16:34:17.656851+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -52,11 +52,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -84,6 +85,17 @@
           "time_info": "[02时40分 ~ 09时18分]"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时34分]"
+        },
+        {
           "title": "终末地建模,AI偷偷加料",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
@@ -91,11 +103,12 @@
             2,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 16时34分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -107,22 +120,12 @@
             12,
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -134,11 +137,12 @@
             18,
             22,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -172,11 +176,12 @@
           "ranks": [
             1,
             5,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时34分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -207,11 +212,12 @@
           "ranks": [
             7,
             13,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 16时34分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -237,6 +243,20 @@
           "time_info": "06时24分"
         },
         {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时34分]"
+        },
+        {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
           "url": "https://flash.jin10.com/detail/20260219114656970800",
           "source": "金十数据",
@@ -246,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
@@ -342,19 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时44分]"
         },
         {
           "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
@@ -559,7 +577,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -584,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "印度总理莫迪：AI深度伪造和虚假内容正在破坏开放的社会。水印和明确的来源标准变得越来越必要。我们还必须更加关注儿童的安全。",
+          "url": "https://flash.jin10.com/detail/20260219152952241800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -599,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时24分 ~ 15时44分]"
+          "appearance_count": 11,
+          "time_info": "[06时24分 ~ 16时34分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -611,8 +640,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -633,11 +662,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -714,11 +744,12 @@
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时34分]"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -863,11 +894,12 @@
             11,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 16时34分]"
         },
         {
           "title": "巴菲特交棒前最后一次调仓披露：减持苹果、亚马逊，新建仓纽约时报",
