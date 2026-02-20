@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T03:32:20.858777+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-02-21T04:21:56.457314+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -27,19 +27,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
           "url": "https://wallstreetcn.com/articles/3765898",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -61,11 +62,12 @@
             22,
             14,
             28,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -76,8 +78,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -88,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
@@ -100,8 +102,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -112,8 +114,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -124,8 +126,21 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -137,18 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时32分]"
         },
         {
           "title": "Anthropic：现已推出有限研究预览版的CLAUDE CODE安全功能，这是一项内置于网页版CLAUDE CODE中的全新能力。",
@@ -208,8 +211,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -219,8 +222,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -231,8 +234,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
@@ -246,27 +261,15 @@
           "time_info": "[00时28分 ~ 02时35分]"
         },
         {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
-        },
-        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时21分]"
         },
         {
           "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
@@ -327,8 +330,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时21分]"
         }
       ]
     }
