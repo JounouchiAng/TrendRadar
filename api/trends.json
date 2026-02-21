@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T00:19:17.099457+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-22T01:18:49.320979+08:00",
+  "total_titles_processed": 339,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -98,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         }
       ]
     },
@@ -115,19 +115,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         },
         {
           "title": "苹果官宣春季发布会 3 月 4 日落地上海，系首次在中国举办，对此你有哪些期待？",
           "url": "https://www.zhihu.com/question/2007050103865762395",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         }
       ]
     },
@@ -143,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时18分]"
         }
       ]
     }
