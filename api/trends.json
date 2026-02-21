@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T07:21:56.852229+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-02-21T09:12:04.534017+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -43,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -69,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -91,6 +91,23 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            13,
+            16,
+            14,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 09时12分]"
+        },
+        {
           "title": "西方跳脚:东大AI惹怒上帝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
@@ -99,8 +116,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -111,24 +128,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            13,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -155,38 +156,29 @@
           "time_info": "[00时28分 ~ 06时16分]"
         },
         {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
           "url": "https://wallstreetcn.com/articles/3765904",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 09时12分]"
+        },
+        {
+          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3057138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时21分]"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "[07时21分 ~ 09时12分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -218,11 +210,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时12分]"
+        },
+        {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 09时12分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -230,11 +235,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时12分]"
         },
         {
           "title": "Anthropic：现已推出有限研究预览版的CLAUDE CODE安全功能，这是一项内置于网页版CLAUDE CODE中的全新能力。",
@@ -295,7 +301,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -305,8 +311,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -318,8 +324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -369,26 +375,16 @@
           "time_info": "[00时28分 ~ 02时35分]"
         },
         {
-          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3057137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时12分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -399,8 +395,42 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 09时12分]"
+        },
+        {
+          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3057137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 09时12分]"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3057139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -408,11 +438,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时16分 ~ 09时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时21分]"
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
@@ -473,8 +515,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时12分]"
         }
       ]
     },
