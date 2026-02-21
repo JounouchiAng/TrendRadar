@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:06:19.709886+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-02-21T14:32:09.181123+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -43,8 +43,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
+        },
+        {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时16分 ~ 14时32分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -57,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -70,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -116,11 +130,12 @@
             21,
             23,
             25,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -133,21 +148,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
-        },
-        {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时16分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -181,11 +183,27 @@
             1,
             7,
             18,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 14时32分]"
+        },
+        {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            22,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 14时32分]"
         },
         {
           "title": "OpenAI：预计到2030年营收将超过2800亿美元",
@@ -193,11 +211,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时32分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -212,20 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时16分 ~ 11时59分]"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 13时06分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -323,7 +328,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -331,11 +336,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -371,8 +377,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 13时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 14时32分]"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 14时32分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -410,19 +429,6 @@
           "time_info": "[00时28分 ~ 02时35分]"
         },
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 13时06分]"
-        },
-        {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
           "url": "https://wallstreetcn.com/articles/3765893",
           "source": "华尔街见闻",
@@ -442,11 +448,23 @@
             2,
             8,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 14时32分]"
+        },
+        {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -469,11 +487,12 @@
           "ranks": [
             6,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 14时32分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨",
@@ -500,6 +519,34 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果涨幅扩大至1.6%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3057026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "苹果史上首款折叠屏手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
@@ -517,23 +564,6 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果涨幅扩大至1.6%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3057026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "SAMSUNG 三星",
       "match_count": 1,
       "titles": [
@@ -543,11 +573,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 14时32分]"
         }
       ]
     },
