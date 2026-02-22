@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T22:19:30.588868+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-02-22T23:17:30.625379+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 22时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 23时17分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 22时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 23时17分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 23时17分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -73,8 +73,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时31分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[15时31分 ~ 23时17分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 23时17分]"
         },
         {
           "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
@@ -97,8 +110,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时09分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[12时09分 ~ 23时17分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -113,19 +126,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时19分 ~ 17时23分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 22时19分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -143,8 +143,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时17分 ~ 23时17分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -156,8 +156,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时22分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时22分 ~ 23时17分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -184,6 +184,19 @@
           "time_info": "12时09分"
         },
         {
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时17分]"
+        },
+        {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
           "url": "https://wallstreetcn.com/livenews/3057217",
           "source": "华尔街见闻-快讯",
@@ -196,18 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时31分]"
-        },
-        {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -270,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时19分 ~ 22时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 23时17分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -285,8 +286,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[14时36分 ~ 23时17分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
