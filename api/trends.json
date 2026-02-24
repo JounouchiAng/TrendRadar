@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:34:59.097368+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-02-24T20:42:42.026212+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 20时42分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 20时42分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -67,11 +67,12 @@
             10,
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时18分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[06时18分 ~ 20时42分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -95,11 +96,12 @@
             10,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 20时42分]"
         },
         {
           "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
@@ -112,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时49分 ~ 19时34分]"
+          "appearance_count": 9,
+          "time_info": "[14时49分 ~ 20时42分]"
         },
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -126,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 20时42分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -167,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 19时34分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时42分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -243,6 +245,17 @@
           "time_info": "[12时11分 ~ 16时36分]"
         },
         {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
           "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
@@ -265,6 +278,18 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时42分]"
+        },
+        {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
           "url": "https://flash.jin10.com/detail/20260224015302070800",
           "source": "金十数据",
@@ -277,15 +302,26 @@
           "time_info": "[01时56分 ~ 03时54分]"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "20时42分"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时42分]"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -331,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -403,18 +450,6 @@
           "time_info": "[15时44分 ~ 17时42分]"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时34分]"
-        },
-        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -440,17 +475,6 @@
           "time_info": "[12时11分 ~ 13时54分]"
         },
         {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
           "url": "https://wallstreetcn.com/livenews/3057967",
           "source": "华尔街见闻-快讯",
@@ -472,6 +496,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "AMD宣布与Meta扩大战略合作 将向Meta部署6吉瓦定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260224200932075800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时42分]"
         },
         {
           "title": "新加坡电信与英伟达将在新加坡推出应用人工智能中心，与英伟达合作设计数据中心，以兼容新款英伟达GPU。",
@@ -496,6 +543,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时28分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 20时42分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -534,15 +593,15 @@
           "time_info": "[06时18分 ~ 06时33分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "AMD(AMD.O)美股盘前涨幅扩大至15%，此前与META达成AI设备和股份交易协议。",
+          "url": "https://flash.jin10.com/detail/20260224200638377800",
+          "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -584,7 +643,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -611,6 +670,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "AMD(AMD.O)盘前大涨10.9%，此前该公司同意五年内向Meta公司出售价值高达600亿美元的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260224200259353800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
           "url": "https://wallstreetcn.com/livenews/3057618",
           "source": "华尔街见闻-快讯",
@@ -620,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
+          "url": "https://flash.jin10.com/detail/20260224200244367800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
@@ -639,7 +720,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -650,7 +731,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -661,7 +742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -691,7 +772,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -730,6 +811,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 04时36分]"
+        },
+        {
+          "title": "META美股盘前走低，现跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3058129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -828,6 +920,18 @@
           "time_info": "[06时18分 ~ 06时33分]"
         },
         {
+          "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时42分]"
+        },
+        {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015335314800",
           "source": "金十数据",
@@ -850,17 +954,6 @@
           "time_info": "17时42分"
         },
         {
-          "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "美股延续跌势，纳指下跌1.01%。",
           "url": "https://flash.jin10.com/detail/20260223235258833800",
           "source": "金十数据",
@@ -875,18 +968,19 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果公司加速推进美国本土制造，Mac mini生产线将于今年晚些时候投产",
           "url": "https://wallstreetcn.com/livenews/3058096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时42分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约多数上涨。沪银涨近12%，集运欧线涨超9%，碳酸锂涨超7%，低硫燃料油（LU）、SC原油涨超6%，铂、钯、橡胶、丁二烯橡胶、20号胶（NR）、苯乙烯（EB）、PX涨超4%。跌幅方面，生猪、烧碱跌超2%，焦炭、苹果、铁矿石、焦煤跌超1%。",
@@ -900,13 +994,24 @@
           "time_info": "12时11分"
         },
         {
+          "title": "苹果今年将采购超1亿片台积电亚利桑那工厂生产的先进芯片",
+          "url": "https://flash.jin10.com/detail/20260224195046736800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "苹果(AAPL.O)：Mac Mini产品将在休斯顿的一处新工厂生产。",
           "url": "https://flash.jin10.com/detail/20260224190545864800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -917,7 +1022,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -928,7 +1033,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
@@ -991,8 +1096,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 20时42分]"
         },
         {
           "title": "微软(MSFT.O)：正在调查一个问题，美国用户在尝试访问需要多因素认证（MFA）的服务时，可能会遇到504网关超时错误。",
