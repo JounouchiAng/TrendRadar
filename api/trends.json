@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-25T19:34:56.015620+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-02-25T20:54:07.549326+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 20时54分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
@@ -53,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时49分 ~ 19时34分]"
+          "appearance_count": 17,
+          "time_info": "[02时49分 ~ 20时54分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 06时26分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 19时34分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -91,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时52分 ~ 19时34分]"
+          "appearance_count": 19,
+          "time_info": "[01时52分 ~ 20时54分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -105,6 +105,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时23分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 20时54分]"
         },
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -152,20 +166,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时23分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 19时34分]"
         },
         {
           "title": "如何看待 2026 年 2 月 24 日 Anthropic 公司声称中国实验室对 Claude 模型大规模蒸馏并点名？",
@@ -331,6 +331,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
           "url": "https://www.cls.cn/detail/2294269",
           "source": "财联社热门",
@@ -446,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
@@ -765,6 +787,17 @@
           "time_info": "[00时39分 ~ 00时57分]"
         },
         {
+          "title": "一份末日式的AI报告搅动美国股市",
+          "url": "https://www.toutiao.com/trending/7610728625494560310/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
           "url": "https://wallstreetcn.com/livenews/3058226",
           "source": "华尔街见闻-快讯",
@@ -925,7 +958,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -955,7 +988,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -1015,17 +1048,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时44分 ~ 19时18分]"
-        },
-        {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1136,6 +1158,18 @@
           "time_info": "[05时26分 ~ 06时26分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时54分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
           "url": "https://wallstreetcn.com/livenews/3058355",
           "source": "华尔街见闻-快讯",
@@ -1178,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
@@ -1185,6 +1230,20 @@
       "keyword_group": "苹果",
       "match_count": 7,
       "titles": [
+        {
+          "title": "网友称苹果手机凌晨自动拨打电话",
+          "url": "https://www.toutiao.com/trending/7610695760497688619/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            18,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 20时54分]"
+        },
         {
           "title": "网友称苹果手机深夜自动外拨电话",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E5%A4%96%E6%8B%A8%E7%94%B5%E8%AF%9D",
@@ -1211,19 +1270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时53分]"
-        },
-        {
-          "title": "网友称苹果手机凌晨自动拨打电话",
-          "url": "https://www.toutiao.com/trending/7610695760497688619/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 19时34分]"
         },
         {
           "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
