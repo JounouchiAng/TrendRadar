@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:49:37.969458+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-02-26T15:45:41.353765+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时44分 ~ 13时53分]"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 15时45分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -44,20 +58,6 @@
           "time_info": "[01时44分 ~ 07时22分]"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 14时49分]"
-        },
-        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
@@ -73,19 +73,6 @@
           "time_info": "[01时44分 ~ 09时14分]"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 09时14分]"
-        },
-        {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
           "url": "https://www.zhihu.com/question/2010042276697565176",
           "source": "知乎",
@@ -95,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -108,8 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -120,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -130,11 +117,25 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时44分 ~ 09时14分]"
         },
         {
           "title": "市场消息：白宫计划于3月初召集包括微软(MSFT.O)、Anthropic和Meta Platforms(META.O)在内的主要数据中心和人工智能企业，以正式敲定一项旨在保护消费者免受电力成本上升影响的承诺。",
@@ -236,6 +237,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 15时45分]"
+        },
+        {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3059000",
           "source": "华尔街见闻-快讯",
@@ -268,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
-          "url": "https://www.zhihu.com/question/2009656278029456894",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 14时49分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -482,8 +483,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 14时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 15时45分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -503,11 +504,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 14时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 15时45分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -569,7 +571,7 @@
     },
     {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美用技术霸权收割全球虚拟货币资产",
@@ -579,8 +581,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "美用技术霸权收割全球虚拟货币资产",
@@ -590,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "报告揭美收割全球虚拟货币资产",
@@ -601,8 +603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时45分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产 两大知名案件获利近200亿美元",
@@ -614,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "最高法：下一步将打击重点聚焦于利用虚拟货币、地下钱庄进行“洗钱”等关联犯罪",
@@ -630,7 +643,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果公司为什么会放弃造车?",
@@ -653,7 +666,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -662,11 +675,23 @@
           "url": "https://www.cls.cn/detail/2295271",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时45分]"
+        },
+        {
+          "title": "消息人士：苹果拟年中在印度推出Apple Pay",
+          "url": "https://flash.jin10.com/detail/20260226143331055800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时45分"
         }
       ]
     },
@@ -674,6 +699,18 @@
       "keyword_group": "SAMSUNG 三星",
       "match_count": 2,
       "titles": [
+        {
+          "title": "三星发布会现场直击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时45分]"
+        },
         {
           "title": "三星电子股价涨幅扩大至6%。",
           "url": "https://flash.jin10.com/detail/20260226083543543800",
@@ -684,17 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
-        },
-        {
-          "title": "三星发布会现场直击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
         }
       ]
     },
@@ -709,11 +735,12 @@
           "ranks": [
             11,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 14时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 15时45分]"
         }
       ]
     },
