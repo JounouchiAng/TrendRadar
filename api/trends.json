@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:40:37.101981+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-02-26T18:37:39.078854+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -20,6 +20,48 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时44分 ~ 13时53分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -54,48 +96,6 @@
             5,
             6,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
-        },
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
-        },
-        {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4,
-            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -163,6 +163,17 @@
           "time_info": "[01时44分 ~ 01时58分]"
         },
         {
+          "title": "拉加德：欧洲央行将“密切关注”AI导致的裁员迹象",
+          "url": "https://flash.jin10.com/detail/20260226182240673800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
           "url": "https://wallstreetcn.com/livenews/3059072",
           "source": "华尔街见闻-快讯",
@@ -172,6 +183,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时37分]"
         },
         {
           "title": "香港数字办与广西数据局签署备忘录 促进两地人工智能领域合作",
@@ -274,17 +297,6 @@
           "time_info": "[01时44分 ~ 03时03分]"
         },
         {
-          "title": "百度四季度AI业务收入占比43% 超预期",
-          "url": "https://wallstreetcn.com/livenews/3059468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3059064",
           "source": "华尔街见闻-快讯",
@@ -307,17 +319,6 @@
           "time_info": "06时23分"
         },
         {
-          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
-          "url": "https://www.cls.cn/detail/2295732",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -331,6 +332,18 @@
           "time_info": "[13时52分 ~ 16时36分]"
         },
         {
+          "title": "百度四季度AI业务收入占比43% 超预期",
+          "url": "https://wallstreetcn.com/livenews/3059468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时37分]"
+        },
+        {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
@@ -338,8 +351,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时37分]"
         },
         {
           "title": "Anthropic：收购Vercept，以推进Claude的计算机使用能力。Vercept将于未来几周内停止其对外提供的产品，并加入Anthropic，共同推动计算机应用的前沿发展。",
@@ -403,7 +416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -417,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "据AXIOS网站：美国参议员将于周四重新提出一项法案，旨在巩固美国在人工智能领域的领先地位。",
+          "url": "https://flash.jin10.com/detail/20260226180559394800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
@@ -439,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "瑞银集团瑞士区主管：生成式人工智能及其他新技术将比关税更具颠覆性影响。",
+          "url": "https://flash.jin10.com/detail/20260226180400947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "英伟达(NVDA.O) CFO：第四季度数据中心收入受加速计算与人工智能推动。",
@@ -485,6 +520,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "AI 代替程序员已经代替到什么程度了？",
+          "url": "https://www.zhihu.com/question/1943057024997913208",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "据AXIOS：美国国防部已采取初步行动，威胁要将人工智能初创公司Anthropic列入黑名单。",
           "url": "https://flash.jin10.com/detail/20260226063756839800",
           "source": "金十数据",
@@ -502,7 +548,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -557,7 +603,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
@@ -565,7 +611,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -576,8 +622,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 17时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 18时37分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -628,6 +674,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "爱奇艺(IQ.O)美股盘前涨5%，此前公布的财报显示第四季度营收有所增长。",
+          "url": "https://flash.jin10.com/detail/20260226180836459800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
           "url": "https://wallstreetcn.com/livenews/3059059",
           "source": "华尔街见闻-快讯",
@@ -645,9 +702,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
+        },
+        {
+          "title": "唯品会第四财季调整后每ADS收益5.66元人民币，上年同期5.70元人民币，市场预估5.43元人民币。 第四财季活跃用户数4,530万，同比下降0.9%，市场预估4,608万。 第四财季净营收324.7亿元人民币，同比下降2.3%，市场预估334.9亿元人民币。 预计第一财季净营收263亿元人民币至276亿元人民币，市场预估268.3亿元人民币。 唯品会美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3059496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
@@ -698,11 +766,25 @@
           "url": "https://wallstreetcn.com/articles/3766227",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时37分]"
+        },
+        {
+          "title": "存储全面进入卖方市场：三星100%“试探性涨幅”获苹果照单全收 原计划涨幅60%",
+          "url": "https://www.cls.cn/detail/2295807",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时37分]"
         },
         {
           "title": "苹果公司正与银行洽谈，计划在印度推出支付服务。（彭博）",
@@ -714,18 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
-        },
-        {
-          "title": "存储全面进入卖方市场：三星100%“试探性涨幅”获苹果照单全收 原计划涨幅60%",
-          "url": "https://www.cls.cn/detail/2295807",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时40分]"
         },
         {
           "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
@@ -765,8 +835,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
         },
         {
           "title": "美用技术霸权收割全球虚拟货币资产",
@@ -776,8 +846,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
         },
         {
           "title": "报告揭美收割全球虚拟货币资产",
@@ -787,8 +857,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时37分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -796,11 +866,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 18时37分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产 两大知名案件获利近200亿美元",
