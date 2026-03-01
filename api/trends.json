@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T09:23:06.243363+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-03-01T12:15:05.850996+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时15分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -42,11 +43,12 @@
             19,
             10,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 12时15分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 09时23分]"
+        },
+        {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
@@ -86,6 +99,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时14分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -218,7 +253,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -232,6 +267,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "三星电子计划到2030年在全球范围内实现人工智能自主工厂。",
+          "url": "https://flash.jin10.com/detail/20260301110500105800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "美国在空袭伊朗时使用Anthropic人工智能工具",
+          "url": "https://flash.jin10.com/detail/20260301110122674800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -288,8 +345,36 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "环球下周看点：中东战火走向何处 美国非农数据、苹果新品亮相",
+          "url": "https://www.cls.cn/detail/2298674",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
+          "url": "https://www.zhihu.com/question/2009233303836829261",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小盘数字货币周六跌超4.3%，2月份累跌14%，Solana已累跌超21%，比特币已累跌超22%",
@@ -303,6 +388,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 05时14分]"
+        },
+        {
+          "title": "伊朗媒体确认哈梅内伊遇害后，比特币、以太坊等数字币涨幅进一步扩大",
+          "url": "https://wallstreetcn.com/livenews/3061049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }
