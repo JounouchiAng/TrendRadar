@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:22:02.661059+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-03-01T18:17:14.213742+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 18时17分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 18时17分]"
         },
         {
           "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
@@ -122,11 +122,12 @@
           "ranks": [
             2,
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 18时17分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -411,8 +412,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 18时17分]"
         },
         {
           "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
@@ -475,6 +476,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星海力士将大幅提高DRAM价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E6%98%9F%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B0%86%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98DRAM%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         }
       ]
     }
