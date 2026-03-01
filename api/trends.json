@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T19:13:53.836656+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-03-01T20:30:05.551684+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 19时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 20时30分]"
         },
         {
           "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
@@ -413,8 +413,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 20时30分]"
         },
         {
           "title": "作业帮 iOS 版应用被曝存在假卸载按钮设计，违反了苹果的哪些规定？这种「卸载挽留」算欺诈吗？",
@@ -493,8 +493,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时30分]"
         }
       ]
     }
