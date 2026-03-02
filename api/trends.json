@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T16:34:48.274686+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-03-02T17:39:09.963399+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -38,6 +38,17 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
+        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -52,15 +63,26 @@
           "time_info": "[04时17分 ~ 07时16分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "flydubai（迪拜航空）暂停所有迪拜航班，直至当地时间周二下午3点。（彭博）",
@@ -69,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -84,6 +106,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 12时06分]"
+        },
+        {
+          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
+          "url": "https://www.zhihu.com/question/2011307404294365414",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
+        {
+          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
+          "url": "https://www.zhihu.com/question/2011022777268856579",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
@@ -103,7 +148,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -128,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
-          "url": "https://www.zhihu.com/question/2011307404294365414",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "刘美含吐槽5家AI答案不一样",
@@ -199,8 +233,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -235,17 +280,6 @@
           "time_info": "14时45分"
         },
         {
-          "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
           "url": "https://wallstreetcn.com/livenews/3061313",
           "source": "华尔街见闻-快讯",
@@ -274,7 +308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -285,9 +319,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "美国与伊朗冲突爆发后，美股邮轮运营商股价盘前走低。嘉年华公司下跌6.9%，皇家加勒比邮轮下跌5.9%，挪威邮轮下跌5.8%。",
+          "url": "https://flash.jin10.com/detail/20260302172340379800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
+          "url": "https://wallstreetcn.com/livenews/3061741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     },
@@ -309,6 +365,18 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
+          "title": "苹果或变成最有“性价比”的手机",
+          "url": "https://www.toutiao.com/trending/7612550416043085348/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时39分]"
+        },
+        {
           "title": "春天要多吃苹果 教你5个新吃法",
           "url": "https://www.toutiao.com/trending/7612106844139683876/",
           "source": "今日头条",
@@ -318,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
-        },
-        {
-          "title": "苹果或变成最有“性价比”的手机",
-          "url": "https://www.toutiao.com/trending/7612550416043085348/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         }
       ]
     },
