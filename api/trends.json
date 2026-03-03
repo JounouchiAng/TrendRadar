@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:34:04.780944+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-03-03T18:32:31.059180+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -22,6 +22,19 @@
           "time_info": "[00时33分 ~ 13时43分]"
         },
         {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 18时32分]"
+        },
+        {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
           "url": "https://www.cls.cn/detail/2300009",
           "source": "财联社热门",
@@ -33,19 +46,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 09时17分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 17时34分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -65,11 +65,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 18时32分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -103,6 +104,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时25分 ~ 14时39分]"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时32分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -209,18 +222,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 09时17分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时34分]"
         },
         {
           "title": "据伊朗媒体Daily Iran News：美国正在将增援部队调往指定位置。共有十五架KC-135R/T空中加油机正前往中央司令部，其中四架飞越欧洲，十一架飞越北美。三架已达到空中加油高度，表明准备进行长期作战活动。",
@@ -532,6 +533,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "人大代表：年轻人不要和AI比效率",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%A6%81%E5%92%8CAI%E6%AF%94%E6%95%88%E7%8E%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
           "url": "https://wallstreetcn.com/livenews/3062029",
           "source": "华尔街见闻-快讯",
@@ -623,8 +635,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 18时32分]"
         },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -808,7 +820,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -830,7 +842,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
@@ -929,11 +941,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
