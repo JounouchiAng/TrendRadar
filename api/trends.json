@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T12:02:35.184954+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-03-06T13:40:03.046905+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -41,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 13时40分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -50,11 +50,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 13时40分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -77,11 +78,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 12时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时19分 ~ 13时40分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
@@ -90,7 +92,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -131,6 +133,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时40分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
           "url": "https://wallstreetcn.com/livenews/3064630",
           "source": "华尔街见闻-快讯",
@@ -167,6 +181,28 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
+          "title": "两会你我他聊AI发电",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E4%BC%9A%E4%BD%A0%E6%88%91%E4%BB%96%E8%81%8AAI%E5%8F%91%E7%94%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 13时40分]"
+        },
+        {
           "title": "美国商务部：新出台的人工智能出口规则不会复制拜登政府的人工智能扩散规则，其过于严苛且难以遵循。",
           "url": "https://flash.jin10.com/detail/20260306053453441800",
           "source": "金十数据",
@@ -184,7 +220,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -198,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
@@ -228,18 +275,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -255,6 +291,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "债务交易平台运营方MarketAxess表示，约25%的固定收益交易员预计，未来12至18个月内，其所在公司将大幅扩大人工智能的使用。",
+          "url": "https://wallstreetcn.com/livenews/3064865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
           "url": "https://flash.jin10.com/detail/20260306031802688800",
           "source": "金十数据",
@@ -264,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -277,11 +335,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 13时40分]"
         },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -295,17 +354,6 @@
           "time_info": "[01时55分 ~ 06时22分]"
         },
         {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 06时22分]"
-        },
-        {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
@@ -313,8 +361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时40分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -325,8 +373,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 13时40分]"
+        },
+        {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时55分 ~ 06时22分]"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -464,8 +523,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 12时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 13时40分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，烧碱、纯苯、苯乙烯（EB）触及涨停，合成橡胶、菜粕、沥青、低硫燃料油（LU）涨超3%，聚氯乙烯（PVC）、豆粕涨近3%，丙烯、乙二醇（EG）、碳酸锂、豆二、聚丙烯（PP）涨超2%。跌幅方面，集运欧线跌超5%，多晶硅跌超3%，SC原油、苹果跌近2%。",
@@ -474,7 +533,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -535,11 +594,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E8%BD%AF%E5%85%AC%E5%BC%80%E4%B8%8B%E4%B8%80%E4%BB%A3Xbox%E4%B8%BB%E6%9C%BA%E4%BB%A3%E5%8F%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时40分]"
         }
       ]
     }
