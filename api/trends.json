@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T20:35:10.070455+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-03-06T21:48:34.380068+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时19分 ~ 20时35分]"
+          "appearance_count": 17,
+          "time_info": "[09时19分 ~ 21时48分]"
         },
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 21时48分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -84,6 +84,19 @@
           "time_info": "[01时55分 ~ 13时40分]"
         },
         {
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 21时48分]"
+        },
+        {
           "title": "全国首例AI幻觉侵权纠纷案判了",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8BAI%E5%B9%BB%E8%A7%89%E4%BE%B5%E6%9D%83%E7%BA%A0%E7%BA%B7%E6%A1%88%E5%88%A4%E4%BA%86",
           "source": "bilibili 热搜",
@@ -94,6 +107,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时28分 ~ 18时27分]"
+        },
+        {
+          "title": "破5亿播放AI短剧成本仅3000",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            30,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 21时48分]"
         },
         {
           "title": "AI相关产业规模将超10万亿元",
@@ -122,16 +150,16 @@
           "time_info": "[01时55分 ~ 09时19分]"
         },
         {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时48分]"
         },
         {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
@@ -147,53 +175,28 @@
           "time_info": "[12时02分 ~ 17时31分]"
         },
         {
-          "title": "破5亿播放AI短剧成本仅3000",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            30,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 20时35分]"
-        },
-        {
-          "title": "真实锐评TES打野Naiyou被调查",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时35分]"
-        },
-        {
           "title": "TES上报Naiyou不正当行为",
           "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 21时48分]"
         },
         {
-          "title": "国产AI短剧《霍去病》火到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
+          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
+          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
+          "source": "知乎",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 21时48分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-06）",
@@ -218,15 +221,16 @@
           "time_info": "16时28分"
         },
         {
-          "title": "为什么现在买个家电满屏都是「AI」、「懂你」？",
-          "url": "https://www.zhihu.com/parker/campaign/2011131622125228105?zh_hide_nav_bar=true",
-          "source": "知乎",
+          "title": "国产AI短剧《霍去病》火到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9C%8D%E5%8E%BB%E7%97%85%E3%80%8B%E7%81%AB%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
           "ranks": [
-            10
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 20时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 21时48分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -297,8 +301,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时48分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -561,7 +565,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -585,8 +589,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时44分 ~ 20时35分]"
+          "appearance_count": 19,
+          "time_info": "[07时44分 ~ 21时48分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -622,6 +626,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时55分 ~ 06时22分]"
+        },
+        {
+          "title": "【美国2月非农就业报告公布后，美国10年期国债收益率短线下挫，现货黄金短线拉升】美元指数短线走低约20点，现报99.1。美股期货短线走低，纳斯达克100指数期货跌近1%。美国10年期国债收益率短线下挫，现报4.164%。现货黄金短线拉升约40美元，现报5118.35美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "卡塔尔警告海湾国家停产，美股期指跌幅扩大，WTI原油近两年来首破86美元，现货黄金短线下挫",
+          "url": "https://wallstreetcn.com/articles/3766902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
@@ -770,11 +796,12 @@
             16,
             23,
             17,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时55分 ~ 20时35分]"
+          "appearance_count": 21,
+          "time_info": "[01时55分 ~ 21时48分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，烧碱、纯苯、苯乙烯（EB）触及涨停，合成橡胶、菜粕、沥青、低硫燃料油（LU）涨超3%，聚氯乙烯（PVC）、豆粕涨近3%，丙烯、乙二醇（EG）、碳酸锂、豆二、聚丙烯（PP）涨超2%。跌幅方面，集运欧线跌超5%，多晶硅跌超3%，SC原油、苹果跌近2%。",
@@ -851,6 +878,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时02分 ~ 18时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币跌至70000美元下方，24小时跌幅超4%。",
+          "url": "https://wallstreetcn.com/livenews/3065271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     }
