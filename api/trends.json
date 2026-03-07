@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T05:14:18.819308+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-03-08T06:15:27.185485+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 06时15分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -42,8 +42,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -52,11 +52,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -68,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         },
         {
           "title": "林俊旸离职风波暴露了大厂与技术负责人的哪些分歧？你认为该如何化解「既要、又要、还要」的 AI 管理难题？",
@@ -79,11 +80,12 @@
             11,
             9,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 06时15分]"
         },
         {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
@@ -192,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时15分]"
         }
       ]
     },
