@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T12:56:21.790464+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-03-07T13:33:34.699245+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时33分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -41,11 +41,12 @@
             3,
             4,
             9,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时33分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -69,11 +70,12 @@
             16,
             17,
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时33分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -83,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时33分]"
         },
         {
           "title": "Naiyou Jiaqi",
@@ -109,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时33分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -118,11 +120,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时33分]"
         },
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -145,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时33分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -158,6 +161,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时22分]"
+        },
+        {
+          "title": "AI短剧霍去病持续刷屏",
+          "url": "https://www.douyin.com/hot/2421579",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 13时33分]"
         },
         {
           "title": "亚马逊：客户可以继续使用Anthropic的Claude。",
@@ -184,17 +200,16 @@
           "time_info": "[07时20分 ~ 09时10分]"
         },
         {
-          "title": "AI短剧霍去病持续刷屏",
-          "url": "https://www.douyin.com/hot/2421579",
-          "source": "抖音",
+          "title": "AI眼镜助失明姑娘独立出行",
+          "url": "https://www.toutiao.com/trending/7614054710404317238/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            28,
-            26
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 12时56分]"
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 13时33分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
@@ -218,17 +233,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 11时53分]"
-        },
-        {
-          "title": "AI眼镜助失明姑娘独立出行",
-          "url": "https://www.toutiao.com/trending/7614054710404317238/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -283,11 +287,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时33分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -419,8 +424,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时33分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -522,8 +527,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时33分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -545,11 +550,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时33分]"
         }
       ]
     },
