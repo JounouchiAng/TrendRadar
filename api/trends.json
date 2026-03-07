@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T14:29:09.396126+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-03-07T15:23:13.644240+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -27,11 +27,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 15时23分]"
+        },
+        {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 15时23分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -49,6 +62,18 @@
           "time_info": "[00时31分 ~ 13时33分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 15时23分]"
+        },
+        {
           "title": "破5亿播放AI短剧成本仅3000",
           "url": "https://www.baidu.com/s?wd=%E7%A0%B45%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E6%88%90%E6%9C%AC%E4%BB%853000",
           "source": "百度热搜",
@@ -61,29 +86,18 @@
           "time_info": "[00时31分 ~ 09时10分]"
         },
         {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时29分]"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
           "ranks": [
             6,
             7,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 15时23分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 13时33分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 14时29分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -309,6 +311,28 @@
           "time_info": "[00时31分 ~ 01时29分]"
         },
         {
+          "title": "AI时代人的创作还有意义吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%88%9B%E4%BD%9C%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "委员谈OpenClaw“养龙虾”火出AI圈",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
           "title": "据英国金融时报：美国在Anthropic事件引发争议之际，出台严格的人工智能新指南。",
           "url": "https://flash.jin10.com/detail/20260307080922168800",
           "source": "金十数据",
@@ -426,8 +450,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时29分]"
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 15时23分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -530,8 +554,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 15时23分]"
         },
         {
           "title": "苹果新品短的发布会",
@@ -541,11 +565,12 @@
             12,
             19,
             22,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时52分 ~ 15时23分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -566,22 +591,24 @@
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E9%9D%A2%E7%94%A8%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%98%AF%E8%8B%B9%E6%9E%9C%E4%BA%8C%E5%8D%81%E5%87%A0%E4%BA%86&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 15时23分]"
         },
         {
           "title": "如何看待苹果发布的 Macbook Neo，将会对 win 阵营轻薄本产生什么影响？",
           "url": "https://www.zhihu.com/question/2012667003220017786",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 15时23分]"
         }
       ]
     },
