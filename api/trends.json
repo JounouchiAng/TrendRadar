@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:20:25.228017+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-03-10T09:10:16.607960+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -26,11 +26,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时10分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -40,11 +41,12 @@
             2,
             3,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时10分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -59,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时10分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -89,6 +91,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时20分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "清华经管院长谈AI“龙虾”",
+          "url": "https://www.douyin.com/hot/2424946",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -163,6 +187,17 @@
           "time_info": "[05时25分 ~ 06时21分]"
         },
         {
+          "title": "男子让AI实时看监控帮自己“摸鱼”",
+          "url": "https://www.toutiao.com/trending/7615053570488172585/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
           "url": "https://wallstreetcn.com/livenews/3066617",
           "source": "华尔街见闻-快讯",
@@ -188,7 +223,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -202,6 +237,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时10分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -235,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
@@ -341,6 +377,17 @@
           "time_info": "[05时25分 ~ 06时21分]"
         },
         {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
@@ -350,6 +397,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国首尔综指日内涨6%，三星电子涨近10%，SK海力士涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3066845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "大和资本：将三星电子目标价由23万韩元上调至24.5万韩元。",
+          "url": "https://flash.jin10.com/detail/20260310082401009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "三星电子股价上涨7.5%。",
+          "url": "https://flash.jin10.com/detail/20260310080824153800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
