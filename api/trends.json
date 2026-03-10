@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T15:35:26.562255+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-03-10T16:32:01.050213+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -49,6 +49,18 @@
           "time_info": "[00时49分 ~ 09时10分]"
         },
         {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 16时32分]"
+        },
+        {
           "title": "小片片解读AI神作牌子",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
           "source": "bilibili 热搜",
@@ -75,18 +87,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 04时24分]"
-        },
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 15时35分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
+          "url": "https://wallstreetcn.com/livenews/3067156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -209,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时21分]"
+        },
+        {
+          "title": "AI龙虾为何那么“生猛”",
+          "url": "https://www.douyin.com/hot/2425335",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
@@ -335,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 15时35分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 16时32分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -575,11 +597,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%B8%B2%E6%9F%93%E5%9B%BE%E6%9B%9D%E5%85%89%EF%BC%9A%E4%B8%8D%E5%AF%B9%E7%A7%B0%E8%AE%BE%E8%AE%A1",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时32分]"
         }
       ]
     },
@@ -595,11 +618,12 @@
             5,
             8,
             18,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 16时32分]"
         },
         {
           "title": "OPPO宣布老机型调价",
@@ -608,7 +632,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
         }
