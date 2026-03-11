@@ -1,15 +1,26 @@
 {
-  "generated_at": "2026-03-11T22:02:24.842168+08:00",
-  "total_titles_processed": 1960,
-  "failed_sources": [
-    "toutiao",
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-03-11T22:48:12.976888+08:00",
+  "total_titles_processed": 2052,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 22时48分]"
+        },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
           "url": "https://wallstreetcn.com/articles/3767089",
@@ -24,6 +35,19 @@
           "time_info": "[00时47分 ~ 07时19分]"
         },
         {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时38分 ~ 22时48分]"
+        },
+        {
           "title": "两会现场 我问了AI这样一个问题",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
@@ -35,18 +59,17 @@
           "time_info": "[00时47分 ~ 12时02分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            6,
-            4
+            7,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时02分]"
+          "time_info": "[17时34分 ~ 22时48分]"
         },
         {
           "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
@@ -75,21 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 22时02分]"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 22时00分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 22时48分]"
         },
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -106,19 +116,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时42分 ~ 18时32分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时34分 ~ 22时02分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -148,8 +145,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时47分 ~ 22时02分]"
+          "appearance_count": 28,
+          "time_info": "[00时47分 ~ 22时48分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -165,8 +162,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时47分 ~ 22时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时47分 ~ 22时48分]"
         },
         {
           "title": "AI龙虾爆火,大神在线答疑",
@@ -177,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 22时48分]"
         },
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -189,8 +186,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 22时48分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -205,6 +202,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时40分 ~ 06时20分]"
+        },
+        {
+          "title": "一只龙虾如何搅动整个AI圈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -332,6 +340,19 @@
           "time_info": "[17时34分 ~ 22时00分]"
         },
         {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 22时48分]"
+        },
+        {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
           "url": "https://wallstreetcn.com/livenews/3067827",
           "source": "华尔街见闻-快讯",
@@ -448,6 +469,18 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
           "title": "AI短剧侵权肖战最高可判10年",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -457,18 +490,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时19分 ~ 09时11分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时02分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -495,15 +516,15 @@
           "time_info": "[04时24分 ~ 05时23分]"
         },
         {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时02分]"
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
@@ -649,6 +670,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "Meta计划部署四款新型自研芯片，来应对AI需求",
+          "url": "https://wallstreetcn.com/livenews/3068157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "东方汇理投资首席投资官：建议以人工智能和政策为导向，在亚洲进行投资。人工智能正在给某些行业施加压力，但不太可能将其彻底淘汰。",
           "url": "https://flash.jin10.com/detail/20260311110821431800",
           "source": "金十数据",
@@ -685,7 +717,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -695,8 +727,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 22时00分]"
+          "appearance_count": 16,
+          "time_info": "[09时10分 ~ 22时48分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -724,6 +756,18 @@
           "time_info": "[07时19分 ~ 14时40分]"
         },
         {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时00分 ~ 22时48分]"
+        },
+        {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -741,7 +785,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -752,20 +796,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
         {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
+          "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时02分]"
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
@@ -785,7 +829,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -807,7 +851,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -971,6 +1015,28 @@
           "time_info": "20时38分"
         },
         {
+          "title": "特斯拉美股股价创两周新高，现涨2.6%；特斯拉上海超级工厂2月交付5.86万台，同比增长91%。",
+          "url": "https://wallstreetcn.com/livenews/3068150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美股盘初，中概股阿特斯太阳能涨超4.9%，理想涨4.6%，小鹏涨2.8%，大全新能源涨2.3%，文远知行涨1.9%，比亚迪、贝壳、晶科能源涨超1%，蔚来涨0.8%。 小米、美团、拼多多、Boss直聘、奇富科技、唯品会、B站至多跌1.9%，华住、小马智行、腾讯音乐至多跌2.7%，世纪互联跌3%，万国数据跌4.1%，金山云跌4.5%，腾讯跌4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3068149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
           "url": "https://flash.jin10.com/detail/20260311012919237800",
           "source": "金十数据",
@@ -988,7 +1054,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
@@ -1040,6 +1106,19 @@
           "time_info": "19时27分"
         },
         {
+          "title": "深度解读苹果新芯片",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 22时48分]"
+        },
+        {
           "title": "苹果春季新品上手评测",
           "url": "https://www.douyin.com/hot/2426227",
           "source": "抖音",
@@ -1063,18 +1142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时10分 ~ 13时42分]"
-        },
-        {
-          "title": "深度解读苹果新芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 22时02分]"
         },
         {
           "title": "郑商所调整苹果期货部分合约交易保证金标准和涨跌停板幅度",
