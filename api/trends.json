@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:38:32.152378+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2026-03-12T21:58:23.445159+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时42分 ~ 20时38分]"
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 21时58分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -53,11 +53,12 @@
             7,
             9,
             10,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 20时38分]"
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 21时58分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -117,8 +118,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时41分 ~ 20时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 21时58分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -350,8 +351,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时58分]"
         },
         {
           "title": "AI龙虾安全风险真的那么可怕吗",
@@ -471,9 +472,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+          "url": "https://wallstreetcn.com/livenews/3068940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
@@ -523,7 +535,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -534,8 +546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 20时38分]"
+          "appearance_count": 15,
+          "time_info": "[07时18分 ~ 21时58分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -585,6 +597,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时18分 ~ 15时40分]"
+        },
+        {
+          "title": "美股三大股指低开，道指跌0.99%，标普500指数跌0.79%，纳指跌0.89%。理想汽车跌3%，公司Q4营收同比下滑35%；科技股普跌，英伟达、AMD跌超1%，美光科技跌超2%；摩根士丹利下跌4.9%，创2月27日以来最大跌幅，消息称摩根士丹利限制私人信用基金的赎回；标普1500化肥指数上涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3068966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "美股低开低走 三大股指悉数跌超1%",
+          "url": "https://flash.jin10.com/detail/20260312214704058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
@@ -647,6 +681,17 @@
           "time_info": "[05时25分 ~ 06时20分]"
         },
         {
+          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260312214154348800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "高盛高管认为美股存在“极端”上涨的潜力",
           "url": "https://wallstreetcn.com/livenews/3068272",
           "source": "华尔街见闻-快讯",
@@ -702,6 +747,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "美股三大股指大幅低开",
+          "url": "https://flash.jin10.com/detail/20260312213028803800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "本田汽车美股盘前跌超8%，因重新考虑其电车战略而计提高达约157亿美元的费用。",
           "url": "https://wallstreetcn.com/livenews/3068725",
           "source": "华尔街见闻-快讯",
@@ -744,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3068936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
@@ -924,7 +991,7 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软：发布代理端到端现代化解决方案。",
@@ -948,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时26分]"
+        },
+        {
+          "title": "微软在Copilot聊天机器人中推出健康助手。",
+          "url": "https://wallstreetcn.com/livenews/3068949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "微软正洽谈租赁得克萨斯州大型数据中心，此前甲骨文放弃了该项目。",
