@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T00:52:08.765784+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:43:09.488712+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "Meta在Facebook Marketplace推出新款AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3069055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时43分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -37,30 +26,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时43分]"
         },
         {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时43分]"
+        },
+        {
+          "title": "Meta在Facebook Marketplace推出新款AI工具。",
+          "url": "https://wallstreetcn.com/livenews/3069055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3069051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
@@ -69,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
@@ -80,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
@@ -91,7 +94,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         },
@@ -102,7 +105,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         }
@@ -110,7 +113,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -120,8 +123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时43分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -131,8 +134,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时43分]"
+        },
+        {
+          "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260313005601624800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     },
@@ -147,9 +161,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3069075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
