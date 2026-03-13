@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:20:08.895055+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-03-13T09:14:45.796964+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 09时14分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -27,11 +27,12 @@
             22,
             18,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 09时14分]"
         },
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -59,6 +60,17 @@
           "time_info": "[02时40分 ~ 03时37分]"
         },
         {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
           "url": "https://flash.jin10.com/detail/20260313020547080800",
           "source": "金十数据",
@@ -68,6 +80,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
+          "url": "https://www.cls.cn/detail/2311468",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "今年加快研究人工智能立法",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
@@ -91,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
+          "url": "https://wallstreetcn.com/articles/3767302",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -158,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -174,6 +219,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
+          "url": "https://wallstreetcn.com/livenews/3069234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
           "url": "https://flash.jin10.com/detail/20260312235514093800",
           "source": "金十数据",
@@ -183,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "马斯克：AI奇点后“钱将不再重要”",
+          "url": "https://www.toutiao.com/trending/7615104402223038506/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
@@ -254,7 +321,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -281,6 +348,19 @@
           "time_info": "[00时51分 ~ 07时20分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 09时14分]"
+        },
+        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -292,16 +372,15 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -402,6 +481,17 @@
           "time_info": "[04时58分 ~ 05时25分]"
         },
         {
+          "title": "美股期货小幅反弹，标普500指数期货涨0.4%，纳指期货涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3069235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
           "url": "https://flash.jin10.com/detail/20260313005601624800",
           "source": "金十数据",
@@ -415,8 +505,47 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "苹果公司宣布降低中国App Store佣金。",
+          "url": "https://flash.jin10.com/detail/20260313090203603800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "苹果公司宣布降低中国App Store佣金率",
+          "url": "https://wallstreetcn.com/livenews/3069254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "苹果税下调",
+          "url": "https://www.toutiao.com/trending/7616211864494129206/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据韩国媒体报道：三星与英伟达加速研发下一代NAND闪存。",
@@ -425,7 +554,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -440,6 +569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时20分]"
+        },
+        {
+          "title": "三星电子股价下跌3.9%。",
+          "url": "https://flash.jin10.com/detail/20260313080510368800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
