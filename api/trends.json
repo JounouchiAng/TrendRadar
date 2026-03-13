@@ -1,1166 +1,122 @@
 {
-  "generated_at": "2026-03-13T23:35:53.249244+08:00",
-  "total_titles_processed": 2117,
+  "generated_at": "2026-03-14T00:32:05.290449+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 53,
+      "match_count": 4,
       "titles": [
         {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            20,
-            4,
-            2,
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 22时37分]"
-        },
-        {
-          "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
-          "url": "https://www.cls.cn/detail/2311468",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 16时32分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "naiyou单曲无关风月",
           "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            15,
-            18,
-            16,
-            17,
-            14,
-            30,
-            20,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 23时35分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 09时14分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            22,
-            18,
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 09时14分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 03时37分]"
-        },
-        {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 17时32分]"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 16时32分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时54分 ~ 23时35分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 18时27分]"
-        },
-        {
-          "title": "Anthropic推出Claude Partners Network，并对其投资1亿美元。 承诺通过1亿美元初始投资来支持公司的合作伙伴们。 预计将继续投资Claude Partners Network。",
-          "url": "https://wallstreetcn.com/livenews/3069106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时37分]"
-        },
-        {
-          "title": "揭秘龙虾AI智能体",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E9%BE%99%E8%99%BEAI%E6%99%BA%E8%83%BD%E4%BD%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
-          "url": "https://flash.jin10.com/detail/20260313143214386800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
-          "url": "https://wallstreetcn.com/articles/3767368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
-        },
-        {
-          "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
-          "url": "https://flash.jin10.com/detail/20260313020547080800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "GitHub Copilot 、 Cursor 、 CodeX 与 Claude Code，我究竟要为谁付费？",
-          "url": "https://www.zhihu.com/question/1963698332040929828",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
-          "url": "https://wallstreetcn.com/livenews/3069178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "信件显示，亚马逊Prime Air对无人机在空域活动表示担忧，并退出行业协会。",
-          "url": "https://flash.jin10.com/detail/20260313015702860800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "爱奇艺龚宇：AI科技创新带来影视行业的春天",
-          "url": "https://wallstreetcn.com/livenews/3069898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "马斯克最新访谈：“擎天柱3”要来了，AI“自我改进”已经发生，AI奇点后“钱将不再重要”",
-          "url": "https://wallstreetcn.com/articles/3767302",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
-          "url": "https://wallstreetcn.com/livenews/3069840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "今年加快研究人工智能立法",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 12时04分]"
-        },
-        {
-          "title": "Meta在Facebook Marketplace推出新款AI工具。",
-          "url": "https://wallstreetcn.com/livenews/3069055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时43分]"
-        },
-        {
-          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时55分]"
-        },
-        {
-          "title": "不想看AI演戏",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时32分]"
-        },
-        {
-          "title": "中腰部演员将被AI替代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%85%B0%E9%83%A8%E6%BC%94%E5%91%98%E5%B0%86%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时40分]"
-        },
-        {
-          "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3069051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时43分]"
-        },
-        {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时37分]"
-        },
-        {
-          "title": "周四（3月12日），存储芯片与硬件供应链指数跌4.03%，报104.12点，跳空低开之后，整体低位震荡。 北美科技软件股指数ETF收跌0.87%。 信息科技指数跌2.70%，人工智能（AI）赢家指数跌2.55%，AI软件先驱指数跌1.00%。",
-          "url": "https://wallstreetcn.com/livenews/3069155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时17分]"
-        },
-        {
-          "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
-          "url": "https://wallstreetcn.com/livenews/3069485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "欧盟理事会就简化人工智能领域规则达成一致立场。",
-          "url": "https://wallstreetcn.com/livenews/3069736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "MetaPlatforms(META.O)：在Facebook Marketplace上推出全新Meta公司人工智能功能。",
-          "url": "https://flash.jin10.com/detail/20260313000215736800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "市场消息：亚马逊将使用人工智能公司Cerebras的巨型芯片来帮助运行AI模型。",
-          "url": "https://flash.jin10.com/detail/20260313230351040800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "Coherent增强面向AI网络的多轨传输平台",
-          "url": "https://wallstreetcn.com/livenews/3069181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
-          "url": "https://wallstreetcn.com/livenews/3069668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "据Business Insider：xAI负责编码代理及其视频和图像生成工具的Guodong Zhang已告知他人，他计划在未来几天内离职。",
-          "url": "https://flash.jin10.com/detail/20260313000006823800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "软银股价一度下跌5.8%，此前Jefferies因OpenAI投资风险上升而将软银评级从“持有”下调至“弱于大盘”。",
-          "url": "https://wallstreetcn.com/livenews/3069234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "IDC武连峰：SaaS正在经历“AI进化”",
-          "url": "https://wallstreetcn.com/livenews/3069330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "马斯克：Digital Optimus将适用于所有配备AI4的汽车。",
-          "url": "https://flash.jin10.com/detail/20260312235514093800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "马斯克：AI奇点后“钱将不再重要”",
-          "url": "https://www.toutiao.com/trending/7615104402223038506/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3069122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
-          "url": "https://flash.jin10.com/detail/20260313023700863800",
-          "source": "金十数据",
-          "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
-          "url": "https://flash.jin10.com/detail/20260313034321354800",
+          "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
+          "url": "https://flash.jin10.com/detail/20260313233908274800",
           "source": "金十数据",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
-          "url": "https://wallstreetcn.com/livenews/3069370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
-          "url": "https://flash.jin10.com/detail/20260312235230253800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
-          "url": "https://flash.jin10.com/detail/20260313033613430800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "人民锐评：不会用AI就是“新寒门”？莫将AI变成新的“起跑线焦虑”",
-          "url": "https://wallstreetcn.com/livenews/3069582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "京东发布AI家装品牌京东家装",
-          "url": "https://wallstreetcn.com/livenews/3069721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
-          "url": "https://flash.jin10.com/detail/20260313023234906800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "人工智能药物研发公司Earendil Labs据悉考虑在香港IPO。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3069358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "市场消息：美国民主党参议员就数据中心问题对8家人工智能公司展开调查。",
-          "url": "https://flash.jin10.com/detail/20260313224743853800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "00时32分"
         },
         {
-          "title": "王兴：物理世界数字化将是AI非常重要的底座",
-          "url": "https://wallstreetcn.com/livenews/3069517",
+          "title": "马斯克下令，在xAI实施新一轮裁员。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3069912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美团王莆中：将坚持加大投入AI 帮每个商家都用上自己的AI助理",
-          "url": "https://wallstreetcn.com/livenews/3069814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 06时17分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时04分 ~ 23时35分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时17分 ~ 16时32分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        },
-        {
-          "title": "为何油价大涨美股大跌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
-          "url": "https://wallstreetcn.com/livenews/3069153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时17分]"
-        },
-        {
-          "title": "美股小盘股指期货周四跌超1.9%",
-          "url": "https://wallstreetcn.com/livenews/3069164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时20分]"
-        },
-        {
-          "title": "摩根大通：散户投资者对美股首次显露出购买疲劳迹象",
-          "url": "https://wallstreetcn.com/livenews/3069876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时35分]"
-        },
-        {
-          "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3069142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时25分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.28%，报405.84点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.91%，报2859.82点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌3.84%。",
-          "url": "https://wallstreetcn.com/livenews/3069162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时17分]"
-        },
-        {
-          "title": "纽约期金跌超2%，美股盘后失守5060美元",
-          "url": "https://wallstreetcn.com/livenews/3069160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时17分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040653218800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时25分]"
-        },
-        {
-          "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260313040535187800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时25分]"
-        },
-        {
-          "title": "美股收盘：纳指跌1.7% 芯片股走弱",
-          "url": "https://flash.jin10.com/detail/20260313040117943800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时25分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260313214149488800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股期货走高，纳指期货涨0.41%，道指期货涨0.41%，标普500指数期货涨0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3069738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "Adobe美股盘前下跌9%，公司上季营收超预期创纪录，但指引平平，任期最久CEO将卸任。",
-          "url": "https://wallstreetcn.com/livenews/3069535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美股高开低走，标普500指数现跌0.15%，纳指现跌0.4%，道指微涨0.07%。",
-          "url": "https://flash.jin10.com/detail/20260313230115209800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "美股期货小幅反弹，标普500指数期货涨0.4%，纳指期货涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3069235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "摩根大通：美股散户风险偏好出现降温",
-          "url": "https://flash.jin10.com/detail/20260313213113167800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股开盘，三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。Adobe(ADBE.O)大跌7%， CEO掌舵18年后宣布辞职。",
-          "url": "https://flash.jin10.com/detail/20260313213027984800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
-          "url": "https://flash.jin10.com/detail/20260313005601624800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "time_info": "00时32分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
-          "title": "苹果公司宣布降低中国App Store佣金率",
-          "url": "https://www.cls.cn/detail/2311572",
-          "source": "财联社热门",
+          "title": "苹果公司宣布降低中国 AppStore 佣金率，由 30% 改为 25%，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015716459670626412",
+          "source": "知乎",
           "ranks": [
-            12,
-            7,
-            6,
-            3
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 18时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "苹果下调中国应用商店佣金率",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%BD%A3%E9%87%91%E7%8E%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            19,
-            24,
-            20,
-            15,
-            14,
-            23,
-            27
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 22时37分]"
-        },
-        {
-          "title": "苹果税下调",
-          "url": "https://www.toutiao.com/trending/7616211864494129206/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            15,
-            13,
-            14,
-            18,
-            17,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时14分 ~ 20时37分]"
-        },
-        {
-          "title": "苹果公司宣布降低中国 AppStore 佣金率，由 30% 改为 25%，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2015716459670626412",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时40分 ~ 23时35分]"
-        },
-        {
-          "title": "最低12%！苹果下调中国应用商店佣金率，标准佣金率降至25%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32759503",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时42分 ~ 16时32分]"
-        },
-        {
-          "title": "苹果税下调",
-          "url": "https://www.douyin.com/hot/2428842",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 13时43分]"
-        },
-        {
-          "title": "苹果公司宣布降低中国App Store佣金。",
-          "url": "https://flash.jin10.com/detail/20260313090203603800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "苹果公司宣布降低中国App Store佣金率",
-          "url": "https://wallstreetcn.com/livenews/3069254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
           "title": "新华时评｜“苹果税”调降：反垄断合规是企业长远发展“必修课”",
           "url": "https://wallstreetcn.com/livenews/3069901",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "专家解读苹果税调整：将为中国开发者每年减少超过60亿元支出",
-          "url": "https://wallstreetcn.com/livenews/3069345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
-          "title": "抖音回应苹果降低中国App Store佣金率",
-          "url": "https://wallstreetcn.com/livenews/3069654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时24分]"
-        },
-        {
-          "title": "百度回应苹果降低中国App Store佣金率",
-          "url": "https://wallstreetcn.com/livenews/3069653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时24分]"
+          "time_info": "00时32分"
         }
       ]
     },
     {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据韩国媒体报道：三星与英伟达加速研发下一代NAND闪存。",
-          "url": "https://wallstreetcn.com/livenews/3069199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "三星起诉CVS Caremark及田纳西州，控其泄露药品数据",
-          "url": "https://wallstreetcn.com/livenews/3069173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "三星电子股价下跌3.9%。",
-          "url": "https://flash.jin10.com/detail/20260313080510368800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Microsoft 微软",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "微软与Meta推动数据中心租赁规模飙升至7000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3069157",
-          "source": "华尔街见闻-快讯",
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            22
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时17分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "HEALTHEX宣布与微软达成合作，将消费者的个人健康档案接入Copilot Health。",
-          "url": "https://flash.jin10.com/detail/20260313000223122800",
-          "source": "金十数据",
+          "title": "美股三大指数集体高开 百度涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3069075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时40分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
