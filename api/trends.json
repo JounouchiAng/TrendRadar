@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-15T06:18:03.882927+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-03-15T07:20:03.198164+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
@@ -28,19 +16,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
           "url": "https://wallstreetcn.com/articles/3767512",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -50,8 +52,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
+        },
+        {
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -74,6 +87,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
+        },
+        {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
@@ -85,26 +109,16 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
-        },
-        {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
           "url": "https://wallstreetcn.com/articles/3767500",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 06时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时20分]"
         }
       ]
     },
@@ -121,8 +135,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[05时18分 ~ 07时20分]"
         }
       ]
     }
