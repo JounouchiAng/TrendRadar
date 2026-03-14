@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T05:19:05.042831+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-03-15T06:18:03.882927+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -81,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -92,8 +92,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -103,8 +103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         }
       ]
     },
@@ -117,11 +117,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E8%8B%B9%E6%9E%9C%E7%A8%8E%E4%B8%8B%E8%B0%83%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时18分 ~ 06时18分]"
         }
       ]
     }
