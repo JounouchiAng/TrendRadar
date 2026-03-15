@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T16:27:56.060403+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-03-15T17:26:07.929120+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 17时26分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -59,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 17时26分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -89,6 +89,17 @@
           "time_info": "[00时20分 ~ 03时21分]"
         },
         {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 17时26分]"
+        },
+        {
           "title": "AI时代家长如何教育孩子",
           "url": "https://www.toutiao.com/trending/7616957895850246154/",
           "source": "今日头条",
@@ -109,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 16时27分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -183,8 +183,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 17时26分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
