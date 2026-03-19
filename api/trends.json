@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T01:51:52.709230+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-03-20T02:44:00.348282+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时44分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -30,17 +30,6 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
-          "url": "https://flash.jin10.com/detail/20260320012631394800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -48,19 +37,53 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时44分]"
         },
         {
           "title": "AI万物皆可龙抬头",
           "url": "https://www.douyin.com/hot/2435867",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时44分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
+          "url": "https://flash.jin10.com/detail/20260320012631394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
+        },
+        {
+          "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
+          "url": "https://flash.jin10.com/detail/20260320020259710800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     },
@@ -76,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时44分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
@@ -86,7 +109,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -97,7 +120,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -115,8 +138,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 02时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2017698247188194999",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 02时44分]"
         }
       ]
     }
