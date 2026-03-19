@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T05:28:01.488559+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-03-20T06:20:00.522734+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时20分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时20分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -36,11 +36,12 @@
           "ranks": [
             19,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时20分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 01时51分]"
+        },
+        {
+          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3073578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时20分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -66,15 +79,26 @@
           "time_info": "[03时41分 ~ 04时28分]"
         },
         {
-          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3073578",
+          "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时20分"
+        },
+        {
+          "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
+          "url": "https://wallstreetcn.com/livenews/3073582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -98,6 +122,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 05时28分]"
+        },
+        {
+          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
+          "url": "https://flash.jin10.com/detail/20260320052711190800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
+          "url": "https://flash.jin10.com/detail/20260320052330041800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         },
         {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
@@ -135,8 +181,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时20分]"
+        },
+        {
+          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3073561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时20分]"
         },
         {
           "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
@@ -151,27 +210,16 @@
           "time_info": "[04时28分 ~ 05时28分]"
         },
         {
-          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3073561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时28分]"
-        },
-        {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
           "url": "https://wallstreetcn.com/livenews/3073567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时20分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
@@ -213,7 +261,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -224,7 +272,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
@@ -239,11 +287,12 @@
           "url": "https://wallstreetcn.com/livenews/3073571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时20分]"
         }
       ]
     },
@@ -259,8 +308,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 06时20分]"
         }
       ]
     },
@@ -275,11 +324,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[02时43分 ~ 06时20分]"
         }
       ]
     }
