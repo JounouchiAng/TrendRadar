@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T20:43:07.742796+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2026-03-19T22:04:32.164818+08:00",
+  "total_titles_processed": 2031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 20时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时04分 ~ 22时04分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 20时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时41分 ~ 22时04分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -107,11 +107,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 22时04分]"
         },
         {
           "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
@@ -169,6 +170,21 @@
           "time_info": "[01时53分 ~ 20时43分]"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19,
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时46分 ~ 22时04分]"
+        },
+        {
           "title": "日本AI造假,套壳DeepSeek",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
@@ -209,19 +225,18 @@
           "time_info": "[17时35分 ~ 20时43分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            19,
-            17,
             16,
-            18
+            15,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时46分 ~ 20时43分]"
+          "time_info": "[15时41分 ~ 22时04分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -236,20 +251,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时24分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 20时43分]"
         },
         {
           "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
@@ -271,11 +272,12 @@
           "ranks": [
             20,
             17,
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时04分]"
         },
         {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
@@ -301,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "AI时代哪些专业更容易被替代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E4%B8%93%E4%B8%9A%E6%9B%B4%E5%AE%B9%E6%98%93%E8%A2%AB%E6%9B%BF%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "AI观众 AI粉丝 AI打分",
@@ -441,6 +454,18 @@
           "time_info": "[12时14分 ~ 13时53分]"
         },
         {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时04分]"
+        },
+        {
           "title": "AI盛行 周杰伦坚持手搓",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9B%9B%E8%A1%8C%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -464,15 +489,16 @@
           "time_info": "[12时14分 ~ 14时46分]"
         },
         {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
           "ranks": [
-            12
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时04分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -506,17 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 04时28分]"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
@@ -616,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "雷军：未来三年在AI领域计划投入超600亿元",
+          "url": "https://wallstreetcn.com/livenews/3073352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
@@ -720,7 +746,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -815,6 +841,39 @@
           "time_info": "07时24分"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260319214305796800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股三大股指集体低开，贵金属概念股大跌",
+          "url": "https://wallstreetcn.com/livenews/3073382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
           "url": "https://wallstreetcn.com/livenews/3072684",
           "source": "华尔街见闻-快讯",
@@ -878,7 +937,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1017,8 +1076,19 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "三星电子或遭史上最大规模罢工，全球半导体产供链恐受冲击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793056",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
         {
           "title": "三星电子罢工风险恐将冲击半导体产供链",
           "url": "https://flash.jin10.com/detail/20260319043952041800",
