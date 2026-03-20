@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:32:16.149812+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-03-20T17:32:57.821831+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时32分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 17时32分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -77,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 16时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 17时32分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -89,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 17时32分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -236,6 +236,18 @@
           "time_info": "[09时15分 ~ 13时45分]"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时32分]"
+        },
+        {
           "title": "揭秘AI投毒运作原理",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
           "source": "bilibili 热搜",
@@ -259,17 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "曝AI短剧使用杨紫的脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
@@ -399,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -443,6 +444,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时15分 ~ 17时32分]"
+        },
+        {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2318602",
           "source": "财联社热门",
@@ -455,17 +468,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时47分 ~ 09时16分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时15分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -522,7 +524,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -567,7 +569,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -633,7 +635,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
@@ -671,11 +673,12 @@
           "url": "https://www.toutiao.com/trending/7618213401099534363/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时32分]"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。液化石油气（LPG）涨超7%，锰硅涨超3%，苹果、烧碱涨超2%，碳酸锂、纸浆、不锈钢（SS）涨超1%；跌幅方面，瓶片跌超8%，低硫燃料油（LU）跌超6%，燃料油、PX跌超5%，PTA、沥青、SC原油跌超4%。",
@@ -771,11 +774,12 @@
             10,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时32分]"
         }
       ]
     },
