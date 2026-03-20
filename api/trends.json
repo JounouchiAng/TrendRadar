@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:38:37.011023+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-03-20T23:35:30.487790+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时40分 ~ 22时38分]"
+          "appearance_count": 12,
+          "time_info": "[15时40分 ~ 23时35分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时15分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时15分 ~ 23时35分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -90,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时38分]"
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 23时35分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -107,8 +107,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时47分 ~ 22时38分]"
+          "appearance_count": 29,
+          "time_info": "[00时47分 ~ 23时35分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -219,6 +219,20 @@
           "time_info": "06时20分"
         },
         {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时35分]"
+        },
+        {
           "title": "白宫发布国家人工智能框架",
           "url": "https://wallstreetcn.com/livenews/3074149",
           "source": "华尔街见闻-快讯",
@@ -236,7 +250,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -293,7 +307,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -309,19 +323,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时31分 ~ 18时30分]"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            20,
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时38分]"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
@@ -435,7 +436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         },
@@ -449,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "京东云披露“龙虾天团”：基于JoyAI大模型驱动",
+          "url": "https://wallstreetcn.com/livenews/3074229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
@@ -561,6 +573,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "美国众议院议长约翰逊：众议院将推动实施国家AI框架。",
+          "url": "https://wallstreetcn.com/livenews/3074217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
           "url": "https://wallstreetcn.com/livenews/3073900",
           "source": "华尔街见闻-快讯",
@@ -616,6 +639,17 @@
           "time_info": "20时37分"
         },
         {
+          "title": "日本软银计划在美国俄亥俄州建设由燃气电厂供电的巨型AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3074214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
           "url": "https://wallstreetcn.com/livenews/3074165",
           "source": "华尔街见闻-快讯",
@@ -625,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "博主用AI手搓应用1个多月赚近九千",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
@@ -653,8 +698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时15分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时15分 ~ 23时35分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -688,22 +733,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时35分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时35分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -715,6 +762,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时35分]"
         },
         {
           "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
@@ -762,17 +821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        },
-        {
-          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -934,7 +982,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）涨超5%，纸浆、苹果、烧碱、双胶纸、丙烯涨超1%。跌幅方面，瓶片、SC原油、低硫燃料油（LU）跌超6%，沪金、PX跌超4%，PTA、燃料油跌超3%，沪铝、苯乙烯跌近3%。",
@@ -970,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 17时32分]"
+        },
+        {
+          "title": "任鸿斌会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/3074230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。液化石油气（LPG）涨超7%，锰硅涨超3%，苹果、烧碱涨超2%，碳酸锂、纸浆、不锈钢（SS）涨超1%；跌幅方面，瓶片跌超8%，低硫燃料油（LU）跌超6%，燃料油、PX跌超5%，PTA、沥青、SC原油跌超4%。",
@@ -1033,7 +1092,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时38分"
         }
@@ -1041,7 +1100,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
@@ -1056,6 +1115,19 @@
           "time_info": "[07时22分 ~ 09时16分]"
         },
         {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时35分]"
+        },
+        {
           "title": "国内金饰价格继续下探 老庙黄金领跌",
           "url": "https://flash.jin10.com/detail/20260320132124842800",
           "source": "金十数据",
@@ -1067,17 +1139,15 @@
           "time_info": "13时45分"
         },
         {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "投机性回调继续，黄金价格下跌",
+          "url": "https://flash.jin10.com/detail/20260320230120400800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            25,
-            22
+            19
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
