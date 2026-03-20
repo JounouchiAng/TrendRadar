@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:56:02.734494+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-03-20T22:38:37.011023+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时40分 ~ 21时56分]"
+          "appearance_count": 11,
+          "time_info": "[15时40分 ~ 22时38分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 21时56分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 22时38分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -81,6 +81,19 @@
           "time_info": "[00时47分 ~ 14时43分]"
         },
         {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时30分 ~ 22时38分]"
+        },
+        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -94,21 +107,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时47分 ~ 21时56分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 21时56分]"
+          "appearance_count": 28,
+          "time_info": "[00时47分 ~ 22时38分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -145,6 +145,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 01时51分]"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时38分]"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -218,16 +230,15 @@
           "time_info": "20时37分"
         },
         {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
+          "title": "日本软银集团计划在美国俄亥俄州修建由天然气工厂供电的AI数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3074214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
@@ -276,6 +287,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "美国总统特朗普政府宣布与软银和俄亥俄州电力公司建立合作伙伴关系，软银计划在俄亥俄州建设一座由燃气电站供电的大型人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260320221407795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "曝AI短剧使用杨紫的脸",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -287,6 +309,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时31分 ~ 18时30分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时38分]"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
@@ -325,16 +360,16 @@
           "time_info": "[13时45分 ~ 15时40分]"
         },
         {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
           "ranks": [
             20,
-            30
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时56分]"
+          "time_info": "[21时55分 ~ 22时38分]"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -347,6 +382,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "腾讯撤销AI Lab",
+          "url": "https://wallstreetcn.com/livenews/3074180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时38分]"
         },
         {
           "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
@@ -371,17 +418,6 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
-          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
           "title": "Claude Code核心工程师Thariq：刚刚发布了Claude Code渠道（Claude Code channels），可以通过指定的MCP控制Claude Code会话，首批支持Telegram和Discord。使用这个功能可以直接从手机给Claude Code发消息。",
           "url": "https://flash.jin10.com/detail/20260320063934981800",
           "source": "金十数据",
@@ -391,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "何小鹏：2026年小鹏汽车物理AI相关研发投入预计提升至70亿元",
+          "url": "https://wallstreetcn.com/livenews/3074206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
@@ -424,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "腾讯撤销AI Lab",
-          "url": "https://wallstreetcn.com/livenews/3074180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
@@ -498,7 +534,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -586,7 +622,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -605,7 +641,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -617,8 +653,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 21时56分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 22时38分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -655,8 +691,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时38分]"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时56分]"
+          "time_info": "[21时55分 ~ 22时38分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -668,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
@@ -728,6 +764,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
           "url": "https://wallstreetcn.com/livenews/3073567",
           "source": "华尔街见闻-快讯",
@@ -738,6 +785,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时20分]"
+        },
+        {
+          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3074189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时38分]"
         },
         {
           "title": "欧美股市集体下挫",
@@ -773,24 +832,13 @@
           "time_info": "16时32分"
         },
         {
-          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
-          "url": "https://wallstreetcn.com/livenews/3074189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260320214206938800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -856,7 +904,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -886,7 +934,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）涨超5%，纸浆、苹果、烧碱、双胶纸、丙烯涨超1%。跌幅方面，瓶片、SC原油、低硫燃料油（LU）跌超6%，沪金、PX跌超4%，PTA、燃料油跌超3%，沪铝、苯乙烯跌近3%。",
@@ -974,9 +1022,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "商务部部长王文涛会见苹果库克",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E9%83%A8%E9%95%BF%E7%8E%8B%E6%96%87%E6%B6%9B%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%BA%93%E5%85%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
@@ -1017,8 +1076,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时38分]"
         }
       ]
     },
