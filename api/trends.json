@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T19:24:57.602752+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-03-20T20:37:56.192703+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时37分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -28,11 +28,24 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 20时37分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时40分 ~ 20时37分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时47分 ~ 09时16分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时40分 ~ 19时24分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -87,11 +88,12 @@
             15,
             19,
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时47分 ~ 19时24分]"
+          "appearance_count": 25,
+          "time_info": "[00时47分 ~ 20时37分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -154,6 +156,29 @@
           "time_info": "[03时41分 ~ 04时28分]"
         },
         {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时37分]"
+        },
+        {
+          "title": "美国白宫发布国家人工智能立法框架",
+          "url": "https://flash.jin10.com/detail/20260320203640027800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
           "source": "澎湃新闻",
@@ -179,6 +204,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "白宫发布国家人工智能框架",
+          "url": "https://wallstreetcn.com/livenews/3074149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
           "url": "https://wallstreetcn.com/livenews/3073582",
           "source": "华尔街见闻-快讯",
@@ -188,18 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -213,6 +237,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时43分 ~ 07时22分]"
+        },
+        {
+          "title": "美联储理事鲍曼：将关注人工智能领域的杠杆水平。 预计今年经济将强劲增长。 强劲增长将受到政府供应端政策支持。 听证会称人工智能将增强而非取代员工。 仍然对就业市场感到担忧。 仍预计2026年将降息三次。 期待与沃什合作。 如果确认，沃什将在美联储产生强大影响。",
+          "url": "https://wallstreetcn.com/livenews/3074143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -331,6 +366,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
           "url": "https://flash.jin10.com/detail/20260320063627057800",
           "source": "金十数据",
@@ -384,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
@@ -474,6 +531,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "美国白宫发布国家人工智能立法框架。",
+          "url": "https://flash.jin10.com/detail/20260320202324702800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
           "url": "https://wallstreetcn.com/livenews/3073839",
           "source": "华尔街见闻-快讯",
@@ -488,7 +556,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -496,11 +564,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时37分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -585,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -712,7 +792,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）涨超5%，纸浆、苹果、烧碱、双胶纸、丙烯涨超1%。跌幅方面，瓶片、SC原油、低硫燃料油（LU）跌超6%，沪金、PX跌超4%，PTA、燃料油跌超3%，沪铝、苯乙烯跌近3%。",
@@ -781,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "苏新皓拿苹果花",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E6%8B%BF%E8%8B%B9%E6%9E%9C%E8%8A%B1&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -816,11 +907,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时37分]"
         }
       ]
     },
