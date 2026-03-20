@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-20T20:37:56.192703+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-03-20T21:56:02.734494+08:00",
+  "total_titles_processed": 1944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 21时56分]"
+        },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
@@ -15,11 +28,12 @@
             1,
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时15分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时15分 ~ 21时56分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -34,18 +48,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[07时22分 ~ 20时37分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时40分 ~ 20时37分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -92,8 +94,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时47分 ~ 20时37分]"
+          "appearance_count": 27,
+          "time_info": "[00时47分 ~ 21时56分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时30分 ~ 21时56分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -156,25 +171,13 @@
           "time_info": "[03时41分 ~ 04时28分]"
         },
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 20时37分]"
-        },
-        {
           "title": "美国白宫发布国家人工智能立法框架",
           "url": "https://flash.jin10.com/detail/20260320203640027800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -210,9 +213,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时56分]"
         },
         {
           "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
@@ -245,7 +260,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -310,6 +325,18 @@
           "time_info": "[13时45分 ~ 15时40分]"
         },
         {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时56分]"
+        },
+        {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
           "url": "https://www.cls.cn/detail/2318679",
           "source": "财联社热门",
@@ -344,6 +371,17 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "Claude Code核心工程师Thariq：刚刚发布了Claude Code渠道（Claude Code channels），可以通过指定的MCP控制Claude Code会话，首批支持Telegram和Discord。使用这个功能可以直接从手机给Claude Code发消息。",
           "url": "https://flash.jin10.com/detail/20260320063934981800",
           "source": "金十数据",
@@ -366,17 +404,6 @@
           "time_info": "07时22分"
         },
         {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
           "url": "https://flash.jin10.com/detail/20260320063627057800",
           "source": "金十数据",
@@ -397,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "腾讯撤销AI Lab",
+          "url": "https://wallstreetcn.com/livenews/3074180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
@@ -432,17 +470,6 @@
           "time_info": "18时31分"
         },
         {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
           "url": "https://flash.jin10.com/detail/20260320020259710800",
           "source": "金十数据",
@@ -463,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "xAI派工程师上门服务，争夺OpenAI企业客户",
+          "url": "https://wallstreetcn.com/livenews/3074174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "白宫拟于周五向国会提交AI监管框架",
@@ -537,9 +575,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "【何小鹏：IRON人形机器人将于2026年底量产，月产能目标上千台】小鹏董事长、CEO何小鹏表示，全新一代的IRON机器人将会在2026年底量产。小鹏IRON搭载三颗图灵AI芯片，端侧的有效算力远高于行业里的机器人。当前，小鹏VLA2.0技术栈已经在机器人上成功跑通，结合小鹏机器人的全新第4代运动控制系统。小鹏机器人主攻商业、工业和家庭三大场景。IRON将首先支持在小鹏中国和海外的门店和园区落地服务、导览和导购等商业场景。今年一季度，小鹏在广州启动了人形机器人量产基地的建设。IRON今年底的月产能目标是上千台。",
+          "url": "https://wallstreetcn.com/livenews/3074165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "沪指尾盘跌幅扩大至1%，深成指涨0.06%，创业板指涨1.61%，算力租赁、AI应用、油气、多元金融等方向跌幅居前，沪深京三市下跌个股近4700只。",
@@ -556,7 +605,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -568,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时15分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时15分 ~ 21时56分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -598,6 +647,18 @@
           "time_info": "[07时22分 ~ 15时40分]"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时56分]"
+        },
+        {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
@@ -607,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
@@ -656,17 +728,6 @@
           "time_info": "16时32分"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
           "url": "https://wallstreetcn.com/livenews/3073567",
           "source": "华尔街见闻-快讯",
@@ -710,6 +771,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3074189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260320214206938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
@@ -767,6 +850,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3074178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260320040620199800",
           "source": "金十数据",
@@ -792,7 +886,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）涨超5%，纸浆、苹果、烧碱、双胶纸、丙烯涨超1%。跌幅方面，瓶片、SC原油、低硫燃料油（LU）跌超6%，沪金、PX跌超4%，PTA、燃料油跌超3%，沪铝、苯乙烯跌近3%。",
@@ -869,9 +963,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "商务部部长王文涛会见苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/3073951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -908,11 +1013,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 21时56分]"
         }
       ]
     },
