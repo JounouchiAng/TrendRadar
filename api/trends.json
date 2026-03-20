@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T12:06:51.327306+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-03-20T13:45:31.449874+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -30,11 +30,12 @@
             12,
             9,
             6,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 13时45分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -43,11 +44,12 @@
           "ranks": [
             11,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 12时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 13时45分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -58,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时45分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -70,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时45分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -83,6 +85,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时45分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -129,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "人民日报：请给AI起个中文名字",
-          "url": "https://www.toutiao.com/trending/7618806460609200137/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "英伟达黄仁勋敦促AI领导者避免散布恐慌",
@@ -197,19 +200,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时45分]"
         },
         {
           "title": "AI龙抬头赐我新发型",
           "url": "https://www.douyin.com/hot/2436323",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时45分]"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -266,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
@@ -334,6 +349,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "豆包开启AI购物内测，电商平台加码“一句话购",
           "url": "https://wallstreetcn.com/livenews/3073635",
           "source": "华尔街见闻-快讯",
@@ -373,8 +399,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时45分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -384,8 +410,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时45分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -548,7 +574,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -556,7 +582,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
@@ -569,6 +595,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 09时16分]"
+        },
+        {
+          "title": "国内金饰价格继续下探 老庙黄金领跌",
+          "url": "https://flash.jin10.com/detail/20260320132124842800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
@@ -599,11 +636,12 @@
           "url": "https://www.zhihu.com/question/2011123880824182141",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时45分]"
         }
       ]
     },
