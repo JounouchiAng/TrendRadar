@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T18:19:05.869140+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-03-21T19:16:56.110009+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -33,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 18时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 19时16分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -86,8 +86,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 18时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 19时16分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -262,6 +262,17 @@
           "time_info": "[14时33分 ~ 16时22分]"
         },
         {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://flash.jin10.com/detail/20260321183027923800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
           "url": "https://flash.jin10.com/detail/20260321032020972800",
           "source": "金十数据",
@@ -301,6 +312,17 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 19时16分]"
+        },
+        {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
           "url": "https://www.cls.cn/detail/2320209",
           "source": "财联社热门",
@@ -312,8 +334,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时21分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 19时16分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -332,17 +354,6 @@
           "time_info": "[00时33分 ~ 18时19分]"
         },
         {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 18时19分]"
-        },
-        {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
@@ -354,6 +365,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 06时20分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 19时16分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -383,21 +409,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 11时57分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 18时19分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
