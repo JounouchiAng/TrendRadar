@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:33:29.644399+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-03-22T16:24:46.754715+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,26 @@
             8,
             3,
             2,
-            4
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 16时24分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时19分 ~ 15时33分]"
+          "time_info": "[12时11分 ~ 16时24分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -44,11 +59,12 @@
             16,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时24分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -71,24 +87,12 @@
             21,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时33分]"
-        },
-        {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时24分]"
         },
         {
           "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
@@ -132,35 +136,12 @@
           "url": "https://wallstreetcn.com/livenews/3074504",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
-          "url": "https://flash.jin10.com/detail/20260322145249948800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
-          "url": "https://wallstreetcn.com/livenews/3074495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时33分]"
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时24分]"
         },
         {
           "title": "AI演员签约官宣",
@@ -170,11 +151,26 @@
             13,
             11,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 16时24分]"
+        },
+        {
+          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
+          "url": "https://wallstreetcn.com/livenews/3074495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时24分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -216,6 +212,18 @@
           "time_info": "[12时12分 ~ 14时39分]"
         },
         {
+          "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
+          "url": "https://flash.jin10.com/detail/20260322145249948800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时24分]"
+        },
+        {
           "title": "AI演员为何会舆论翻车",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%BC%94%E5%91%98%E4%B8%BA%E4%BD%95%E4%BC%9A%E8%88%86%E8%AE%BA%E7%BF%BB%E8%BD%A6",
           "source": "bilibili 热搜",
@@ -253,8 +261,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 16时24分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -283,7 +291,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
@@ -307,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
+          "url": "https://flash.jin10.com/detail/20260322152315932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -322,11 +341,12 @@
             5,
             11,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 16时24分]"
         },
         {
           "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
