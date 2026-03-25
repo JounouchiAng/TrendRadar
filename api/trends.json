@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T16:40:03.866092+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-03-25T17:44:35.869152+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 17时44分]"
         },
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
@@ -57,8 +57,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 17时44分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时11分 ~ 16时40分]"
+          "time_info": "[09时18分 ~ 17时44分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -68,11 +80,12 @@
             12,
             9,
             10,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 16时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 17时44分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -91,18 +104,6 @@
           "time_info": "[00时56分 ~ 15时48分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 16时40分]"
-        },
-        {
           "title": "AI骗老美,虚拟女兵狂捞金",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
           "source": "贴吧",
@@ -112,11 +113,12 @@
             21,
             20,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 17时44分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -128,11 +130,12 @@
             25,
             24,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 17时44分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -151,6 +154,37 @@
           "time_info": "[00时56分 ~ 09时19分]"
         },
         {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            19,
+            22,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 17时44分]"
+        },
+        {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 17时44分]"
+        },
+        {
           "title": "报告称AI将全面取代这六大岗位",
           "url": "https://www.toutiao.com/trending/7620795844911959606/",
           "source": "今日头条",
@@ -161,35 +195,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            19,
-            22,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 16时40分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 16时40分]"
         },
         {
           "title": "AI时代最离谱的KPI",
@@ -243,7 +248,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -293,17 +298,6 @@
           "time_info": "[12时11分 ~ 13时56分]"
         },
         {
-          "title": "裁员潮席卷硅谷，一线工程师戳破另一面真相：AI效率被严重高估",
-          "url": "https://wallstreetcn.com/livenews/3076545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
@@ -337,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3076543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
@@ -443,6 +426,18 @@
           "time_info": "02时51分"
         },
         {
+          "title": "裁员潮席卷硅谷，一线工程师戳破另一面真相：AI效率被严重高估",
+          "url": "https://wallstreetcn.com/livenews/3076545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时44分]"
+        },
+        {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
           "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
@@ -453,6 +448,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时18分 ~ 12时12分]"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时44分]"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -700,6 +707,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元",
+          "url": "https://wallstreetcn.com/livenews/3076559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "如何看待 Ai 音乐创作这个趋势？",
           "url": "https://www.zhihu.com/question/1937236067859306429",
           "source": "知乎",
@@ -846,7 +864,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -857,8 +875,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 17时44分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -920,11 +938,12 @@
             23,
             21,
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 17时44分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -948,6 +967,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
@@ -1083,7 +1113,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
