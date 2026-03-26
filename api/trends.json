@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T20:53:48.736239+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-03-26T22:39:32.805485+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -36,8 +36,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 20时53分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 22时39分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -52,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 20时53分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 22时39分]"
         },
         {
           "title": "博鳌论坛上AI成为讨论焦点",
@@ -120,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -206,6 +206,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "AI 是抢走了我们的工作，还是给了我们新的可能？",
           "url": "https://www.zhihu.com/question/2016889470092272129",
           "source": "知乎",
@@ -270,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "从阿里离职后，林俊旸首度发文详谈对大模型发展路线的理解及对AI下一阶段的预判。 他的判断是智能体式思考：为了行动而思考，在与环境交互的过程中，并根据来自世界的反馈持续更新计划。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3077519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
@@ -363,7 +385,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -371,11 +393,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 22时39分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -388,8 +411,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 22时39分]"
         },
         {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
@@ -474,13 +497,24 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-03-26）",
           "url": "https://flash.jin10.com/detail/20260326203558390800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -524,7 +558,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -586,6 +620,28 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美股拉升，道指转涨，标普500指数跌幅收窄至0.4%，纳指跌幅收窄至0.75%。据新华社，伊朗塔斯尼姆通讯社援引知情人士的话报道说，伊朗已正式回应美国提出的停火协议15点内容。",
+          "url": "https://wallstreetcn.com/livenews/3077518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普跌，半导体ETF跌超2%，全球科技股指数ETF跌1.6%，科技行业ETF跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3077513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "软银股价上涨7%，隔夜Arm Holdings美股大涨逾16%。",
           "url": "https://wallstreetcn.com/livenews/3076982",
           "source": "华尔街见闻-快讯",
@@ -606,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.1%，存储芯片概念股、热门中概股普跌",
+          "url": "https://wallstreetcn.com/livenews/3077509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
