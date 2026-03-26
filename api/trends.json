@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T02:54:29.682296+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-27T03:51:56.179042+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -15,8 +15,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
+        },
+        {
+          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3077656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "白宫顾问戴维·萨克斯：美国国会可在数月内通过两党人工智能立法。",
+          "url": "https://flash.jin10.com/detail/20260327034051169800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "苹果据悉计划向竞争对手的人工智能助手开放Siri",
@@ -25,9 +47,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
+          "url": "https://flash.jin10.com/detail/20260327032315760800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
@@ -36,7 +69,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -47,11 +80,12 @@
           "ranks": [
             14,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -59,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
         },
         {
           "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
@@ -83,7 +118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -97,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "报道：苹果拟改变战略，向外部人工智能助手开放Siri",
+          "url": "https://wallstreetcn.com/livenews/3077634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     },
@@ -112,8 +158,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -123,19 +169,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时51分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -145,8 +192,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时51分]"
         },
         {
           "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
@@ -155,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
