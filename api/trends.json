@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T14:07:43.882426+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-03-26T15:56:44.565547+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -35,8 +35,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 15时56分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 15时56分]"
         },
         {
           "title": "华尔街惊呼：AI最大赢家已换人",
@@ -65,6 +65,17 @@
           "time_info": "[09时23分 ~ 09时24分]"
         },
         {
+          "title": "中国禁止AI公司Manus两名高管离境？外交部回应",
+          "url": "https://flash.jin10.com/detail/20260326153632416800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
           "url": "https://wallstreetcn.com/livenews/3076892",
           "source": "华尔街见闻-快讯",
@@ -76,6 +87,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时31分]"
+        },
+        {
+          "title": "外交部：中国已是全球AI专利最大拥有国",
+          "url": "https://wallstreetcn.com/livenews/3077240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         },
         {
           "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
@@ -137,6 +159,17 @@
           "time_info": "[00时02分 ~ 01时07分]"
         },
         {
+          "title": "中国禁止AI公司Manus两名高管离境？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3077236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-26）",
           "url": "https://flash.jin10.com/detail/20260326120140166800",
           "source": "金十数据",
@@ -154,7 +187,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -192,6 +225,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "AI龙虾爆火对我们有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%AF%B9%E6%88%91%E4%BB%AC%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
           "url": "https://wallstreetcn.com/livenews/3076984",
           "source": "华尔街见闻-快讯",
@@ -214,6 +258,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "当杀戮尖塔2的商人接入AI后",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942%E7%9A%84%E5%95%86%E4%BA%BA%E6%8E%A5%E5%85%A5AI%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "瑞士央行：瑞士境内的人工智能（AI）应用尚未“绞杀”那么多的就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3076768",
           "source": "华尔街见闻-快讯",
@@ -223,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "上海：加快建设上海科学仪器创新港、华为长三角AI+联合创新中心等创新载体",
+          "url": "https://wallstreetcn.com/livenews/3077209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
         }
       ]
     },
@@ -262,8 +328,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 14时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时56分]"
+        },
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时56分]"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时56分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -277,18 +367,6 @@
           "time_info": "[00时02分 ~ 04时31分]"
         },
         {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 14时07分]"
-        },
-        {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
@@ -299,18 +377,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时30分 ~ 06时31分]"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 14时07分]"
         },
         {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
@@ -465,11 +531,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时56分]"
         }
       ]
     },
