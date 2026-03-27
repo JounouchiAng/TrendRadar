@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:55:21.227397+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-27T16:42:11.370918+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时23分]"
+        },
+        {
+          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
+          "url": "https://www.cls.cn/detail/2326528",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时42分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -48,30 +61,6 @@
           "time_info": "[00时04分 ~ 09时24分]"
         },
         {
-          "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
-          "url": "https://www.cls.cn/detail/2326528",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时55分]"
-        },
-        {
-          "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3077736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "如何看待 Sora 宣布下架当日，即梦随即取消折扣，国内 AI 市场是否已进入「一家独大」的收割期？",
           "url": "https://www.zhihu.com/question/2020423157757028308",
           "source": "知乎",
@@ -80,8 +69,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时42分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时42分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -90,9 +92,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时42分]"
         },
         {
           "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
@@ -104,8 +106,44 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时42分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            18,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时42分]"
+        },
+        {
+          "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "苹果据悉计划向竞争对手的人工智能助手开放Siri",
@@ -128,18 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时55分]"
         },
         {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
@@ -176,19 +202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时20分]"
-        },
-        {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时55分]"
         },
         {
           "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
@@ -237,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时20分]"
+        },
+        {
+          "title": "AI对战争有什么影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%88%98%E4%BA%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
@@ -355,7 +379,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -387,6 +411,29 @@
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时42分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时42分]"
+        },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
           "url": "https://wallstreetcn.com/articles/3768319",
@@ -435,27 +482,17 @@
           "time_info": "[01时54分 ~ 09时24分]"
         },
         {
-          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
-          "url": "https://www.cls.cn/detail/2326291",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 15时55分]"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
           "source": "华尔街见闻",
           "ranks": [
-            1,
+            4,
+            3,
             2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时23分 ~ 15时55分]"
+          "time_info": "[12时27分 ~ 16时42分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -467,18 +504,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 05时24分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时55分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -502,6 +527,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美股大跳水",
+          "url": "https://www.douyin.com/hot/2445212",
+          "source": "抖音",
+          "ranks": [
+            14,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时42分]"
         },
         {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
@@ -539,16 +577,16 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
-          "title": "美股大跳水",
-          "url": "https://www.douyin.com/hot/2445212",
-          "source": "抖音",
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            28
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时55分]"
+          "time_info": "[15时55分 ~ 16时42分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -560,17 +598,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 09时24分]"
-        },
-        {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
         },
         {
           "title": "美股延续跌势，纳指跌超2.00%，道指现跌约1%，标普500指数跌约1.5%。",
@@ -598,8 +625,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时23分 ~ 15时55分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时42分]"
         },
         {
           "title": "苹果公司不再开发Mac Pro Desktop，没有安排新的款式计划。（彭博）",
