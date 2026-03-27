@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:45:00.712844+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-28T03:36:46.592398+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -39,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -50,8 +37,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -61,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -72,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -81,11 +82,38 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://www.douyin.com/hot/2446027",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -99,45 +127,22 @@
           "time_info": "01时43分"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
-        },
-        {
-          "title": "Naiyou终身禁赛",
-          "url": "https://www.douyin.com/hot/2446027",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
-        },
-        {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
           "url": "https://www.zhihu.com/question/2020941462666305824",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 03时36分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -147,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -158,8 +163,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -171,8 +176,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -193,8 +198,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 03时36分]"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -203,9 +208,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260328023834916800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股盘中）",
@@ -214,7 +230,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
@@ -233,8 +249,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 03时36分]"
         }
       ]
     },
@@ -250,8 +266,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 03时36分]"
         }
       ]
     }
