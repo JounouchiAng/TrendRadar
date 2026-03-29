@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-29T07:23:00.651090+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-03-29T09:27:39.276422+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
-        },
         {
           "title": "一个视频了解AI常识",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
@@ -28,11 +16,25 @@
             16,
             4,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
+        },
+        {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -43,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -55,8 +57,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -67,8 +69,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
         },
         {
           "title": "人工智能会取代哪些岗位？",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "巴林铝业公司（Aluminium Bahrain）表示，其设施在周六遭伊朗袭击，两人受轻伤，正在评估袭击对其设施造成的损失。",
+          "url": "https://flash.jin10.com/detail/20260329080955107800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -195,8 +208,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时27分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -208,36 +245,24 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时23分]"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "苹果停产Mac Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%81%9C%E4%BA%A7Mac%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
         {
           "title": "苹果停产Mac Pro",
           "url": "https://www.douyin.com/hot/2446757",
@@ -247,8 +272,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时27分]"
         }
       ]
     }
