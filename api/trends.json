@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T05:35:13.230972+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-03-31T06:26:57.089994+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 05时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时26分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 05时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时26分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 06时26分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
@@ -100,27 +100,17 @@
           "time_info": "[01时55分 ~ 03时50分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
-          "url": "https://wallstreetcn.com/livenews/3079578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3079573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时26分]"
         },
         {
           "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
@@ -128,11 +118,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
+          "url": "https://wallstreetcn.com/livenews/3079578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
+          "time_info": "[05时35分 ~ 06时26分]"
         },
         {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
@@ -144,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
+          "url": "https://wallstreetcn.com/livenews/3079581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
@@ -186,8 +211,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 05时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时26分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -198,8 +223,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 05时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 06时26分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -209,8 +234,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 03时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时26分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -231,7 +256,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -252,11 +277,24 @@
           "url": "https://wallstreetcn.com/livenews/3079576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时26分]"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
+          "url": "https://flash.jin10.com/detail/20260331044951046800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时26分]"
         },
         {
           "title": "人工智能时代，我们应该学习什么样的知识才能不被淘汰？",
@@ -281,24 +319,13 @@
           "time_info": "[03时49分 ~ 03时50分]"
         },
         {
-          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
-          "url": "https://flash.jin10.com/detail/20260331044951046800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
           "title": "美联储威廉姆斯：难以预测人工智能在未来几年将如何发展。",
           "url": "https://flash.jin10.com/detail/20260331043947071800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         }
