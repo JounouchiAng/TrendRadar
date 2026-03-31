@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-31T16:13:28.439498+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-31T17:56:35.911954+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
@@ -50,29 +62,18 @@
           "time_info": "[01时01分 ~ 07时28分]"
         },
         {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时13分]"
-        },
-        {
           "title": "凌晨3点上班,AI卷疯打工人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             2,
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -81,11 +82,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时25分 ~ 14时12分]"
+        },
+        {
+          "title": "B站AI创作产品“updream”已开启内测",
+          "url": "https://wallstreetcn.com/livenews/3080055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "两部门：推动人工智能、脑机接口等与医疗装备融合创新 培育新的增长点",
@@ -277,7 +290,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -288,7 +301,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -310,7 +323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -321,7 +334,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -340,7 +353,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -385,11 +398,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 16时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 17时56分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -423,11 +437,12 @@
           "ranks": [
             9,
             4,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
         },
         {
           "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
@@ -474,6 +489,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "美股三大指数高开 爱奇艺涨超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
           "source": "百度热搜",
@@ -492,7 +518,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -604,7 +630,7 @@
     },
     {
       "keyword_group": "VIVO",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "vivo X300 Ultra测评",
@@ -627,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "vivo冲高无度,定价掀翻市场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352600&amp;topic_name=vivo%E5%86%B2%E9%AB%98%E6%97%A0%E5%BA%A6%2C%E5%AE%9A%E4%BB%B7%E6%8E%80%E7%BF%BB%E5%B8%82%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
@@ -658,6 +695,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "一箭三星!力箭二号首飞告捷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352556&amp;topic_name=%E4%B8%80%E7%AE%AD%E4%B8%89%E6%98%9F%21%E5%8A%9B%E7%AE%AD%E4%BA%8C%E5%8F%B7%E9%A6%96%E9%A3%9E%E5%91%8A%E6%8D%B7",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 17时56分]"
+        },
+        {
           "title": "三星电子将于4月2日销毁7340万股普通股和1360万股优先股，总体价值5.35万亿韩元。 这是该公司提升股东价值的努力之一。",
           "url": "https://wallstreetcn.com/livenews/3079615",
           "source": "华尔街见闻-快讯",
@@ -667,19 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "一箭三星!力箭二号首飞告捷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352556&amp;topic_name=%E4%B8%80%E7%AE%AD%E4%B8%89%E6%98%9F%21%E5%8A%9B%E7%AE%AD%E4%BA%8C%E5%8F%B7%E9%A6%96%E9%A3%9E%E5%91%8A%E6%8D%B7",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 16时13分]"
         }
       ]
     },
