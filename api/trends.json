@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-02T06:29:12.357493+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-04-02T07:29:30.700287+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            14,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 07时29分]"
+        },
         {
           "title": "ClaudeCode源码泄露",
           "url": "https://www.douyin.com/hot/2451216",
@@ -19,8 +34,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -28,11 +43,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -47,8 +63,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -62,8 +78,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -77,8 +93,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -89,11 +105,12 @@
             17,
             14,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -103,34 +120,34 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            14,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
           "url": "https://www.zhihu.com/question/2020209448975607009",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "被AI短剧盗脸成丑角 女模特发声",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
@@ -144,19 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时53分 ~ 05时35分]"
-        },
-        {
-          "title": "被AI短剧盗脸成丑角 女模特发声",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 06时29分]"
         },
         {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
@@ -206,6 +210,39 @@
           "time_info": "01时43分"
         },
         {
+          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
+          "url": "https://wallstreetcn.com/livenews/3081142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
+          "url": "https://flash.jin10.com/detail/20260402064514420800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
+          "url": "https://flash.jin10.com/detail/20260402064015575800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "如果 AI 能提供完美情绪价值，人需要 / 不需要真实的关系？",
           "url": "https://www.zhihu.com/question/2021960266758317386",
           "source": "知乎",
@@ -215,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
+          "url": "https://www.zhihu.com/question/2011753780459300532",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -231,7 +279,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -269,6 +317,29 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
           "url": "https://wallstreetcn.com/livenews/3081023",
           "source": "华尔街见闻-快讯",
@@ -278,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
         },
         {
           "title": "美股三大指数高开 耐克跌超12%",
@@ -323,9 +383,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3081151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -399,6 +470,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "全球星(GSAT.O)美股盘后涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260402064156553800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
           "title": "美股太空股上涨，Intuitive Machines涨8.7%，Rocket Lab涨4.8%， Planet Labs涨8.4%，Howmet Aerospace涨3.1%。",
           "url": "https://flash.jin10.com/detail/20260401232819708800",
           "source": "金十数据",
@@ -434,8 +516,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时29分]"
         }
       ]
     },
