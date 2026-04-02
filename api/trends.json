@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T09:22:31.526037+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-04-02T12:22:41.754047+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -32,11 +32,12 @@
             11,
             13,
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -61,11 +62,12 @@
             21,
             17,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -76,11 +78,12 @@
             16,
             18,
             17,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -91,11 +94,12 @@
             18,
             17,
             16,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -108,11 +112,12 @@
             18,
             20,
             21,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时22分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -131,11 +136,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 09时22分]"
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 12时22分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -150,6 +156,40 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 07时29分]"
+        },
+        {
+          "title": "深挖Claude Code有何隐藏秘密",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时22分]"
+        },
+        {
+          "title": "工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面",
+          "url": "https://wallstreetcn.com/livenews/3081305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
+          "url": "https://flash.jin10.com/detail/20260402121026257800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "如何看待 3.31 Claude Code 源码泄露一事？",
@@ -171,9 +211,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
+          "url": "https://wallstreetcn.com/livenews/3081299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
@@ -187,17 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时35分]"
-        },
-        {
-          "title": "深挖Claude Code有何隐藏秘密",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E6%8C%96Claude%20Code%E6%9C%89%E4%BD%95%E9%9A%90%E8%97%8F%E7%A7%98%E5%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         },
         {
           "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
@@ -221,6 +261,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 05时35分]"
+        },
+        {
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
@@ -298,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
+          "url": "https://wallstreetcn.com/livenews/3081273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -330,6 +392,19 @@
           "time_info": "[00时02分 ~ 05时35分]"
         },
         {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 12时22分]"
+        },
+        {
           "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
@@ -341,19 +416,6 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 09时22分]"
-        },
-        {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
@@ -361,8 +423,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 12时22分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -430,7 +492,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
