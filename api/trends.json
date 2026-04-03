@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-03T07:27:03.947166+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-04-03T09:24:29.366071+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
+        },
         {
           "title": "用Claude Code源码自制客户端",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
@@ -15,30 +27,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -51,11 +53,12 @@
             11,
             19,
             22,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "Claude Opus是否会淘汰程序员",
@@ -70,8 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -87,8 +90,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -104,8 +107,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
@@ -191,6 +194,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "AI巨头Anthropic以约4亿美元的价格收购了初创公司Coefficient Bio。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
           "title": "市场消息：微软(MSFT.O)已调整其人工智能销售策略，转而专注于销售Copilot，而非将其作为软件捆绑包的一部分免费提供。",
           "url": "https://flash.jin10.com/detail/20260403033413623800",
           "source": "金十数据",
@@ -214,11 +228,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -274,6 +289,17 @@
           "time_info": "[00时46分 ~ 07时27分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 09时24分]"
+        },
+        {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
           "url": "https://wallstreetcn.com/articles/3769043",
           "source": "华尔街见闻",
@@ -283,17 +309,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -392,6 +407,62 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果第8号员工",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%AC%AC8%E5%8F%B7%E5%91%98%E5%B7%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "库克之后谁将掌舵苹果",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E5%85%8B%E4%B9%8B%E5%90%8E%E8%B0%81%E5%B0%86%E6%8E%8C%E8%88%B5%E8%8B%B9%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国首尔综指一度涨3.5%，三星电子涨4.9%，SK海力士涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3081864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "日经225指数高开1.1%，韩国首尔综指高开2.7%，三星电子涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3081856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
       "match_count": 2,
       "titles": [
@@ -414,26 +485,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "库克之后谁将掌舵苹果",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E5%85%8B%E4%B9%8B%E5%90%8E%E8%B0%81%E5%B0%86%E6%8E%8C%E8%88%B5%E8%8B%B9%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 07时27分]"
         }
       ]
     },
