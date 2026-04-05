@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T20:36:37.182154+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-05T21:48:12.650173+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -30,8 +30,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时48分]"
+        },
+        {
+          "title": "AI时代，如何打赢人脸保护战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时50分 ~ 21时48分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -57,11 +71,12 @@
             14,
             13,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 20时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 21时48分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -73,24 +88,25 @@
             14,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 20时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 21时48分]"
         },
         {
-          "title": "AI时代，如何打赢人脸保护战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
-          "source": "澎湃新闻",
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
           "ranks": [
-            16,
-            15,
-            12
+            12,
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时50分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时48分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -102,6 +118,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时23分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时48分]"
         },
         {
           "title": "鸿海：二季度主要产品进入新旧产品转换期，唯AI机柜仍将保持成长趋势",
@@ -117,30 +145,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时51分 ~ 19时22分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟AI儿子聊了1年",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
-          "url": "https://www.zhihu.com/question/2022702768251564692",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时36分]"
         },
         {
           "title": "夫妻AI写公众号年赚200万",
@@ -240,6 +244,17 @@
           "time_info": "[12时31分 ~ 14时11分]"
         },
         {
+          "title": "人类大脑会不会在 AI 时代萎缩了？",
+          "url": "https://www.zhihu.com/question/1917868201259294860",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 21时48分]"
+        },
+        {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
           "url": "https://www.zhihu.com/question/2023543499937576139",
           "source": "知乎",
@@ -321,11 +336,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时48分]"
         },
         {
           "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
@@ -335,11 +351,12 @@
             5,
             7,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 21时48分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -365,11 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3769257",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时48分]"
         }
       ]
     }
