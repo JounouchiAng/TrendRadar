@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-05T21:48:12.650173+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-04-05T22:28:54.780166+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "腾讯AI闯祸,拿唐山地震玩梗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时28分]"
+        },
         {
           "title": "UP主结合自身经历做清明AI短片",
           "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
@@ -22,18 +35,6 @@
           "time_info": "[00时25分 ~ 09时28分]"
         },
         {
-          "title": "腾讯AI闯祸,拿唐山地震玩梗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352804&amp;topic_name=%E8%85%BE%E8%AE%AFAI%E9%97%AF%E7%A5%B8%2C%E6%8B%BF%E5%94%90%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%8E%A9%E6%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时48分]"
-        },
-        {
           "title": "AI时代，如何打赢人脸保护战？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32907515",
           "source": "澎湃新闻",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时50分 ~ 21时48分]"
+          "appearance_count": 11,
+          "time_info": "[15时50分 ~ 22时28分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -72,11 +73,12 @@
             13,
             12,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时25分 ~ 21时48分]"
+          "appearance_count": 22,
+          "time_info": "[00时25分 ~ 22时28分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -89,11 +91,12 @@
             12,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 21时48分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 22时28分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -105,8 +108,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时48分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -125,11 +128,12 @@
           "source": "微博",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时28分]"
         },
         {
           "title": "鸿海：二季度主要产品进入新旧产品转换期，唯AI机柜仍将保持成长趋势",
@@ -232,6 +236,18 @@
           "time_info": "[15时51分 ~ 17时31分]"
         },
         {
+          "title": "人类大脑会不会在 AI 时代萎缩了？",
+          "url": "https://www.zhihu.com/question/1917868201259294860",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时47分 ~ 22时28分]"
+        },
+        {
           "title": "新型AI模型可通过血检识别多种神经退行性疾病",
           "url": "https://wallstreetcn.com/livenews/3082524",
           "source": "华尔街见闻-快讯",
@@ -244,17 +260,6 @@
           "time_info": "[12时31分 ~ 14时11分]"
         },
         {
-          "title": "人类大脑会不会在 AI 时代萎缩了？",
-          "url": "https://www.zhihu.com/question/1917868201259294860",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 21时48分]"
-        },
-        {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
           "url": "https://www.zhihu.com/question/2023543499937576139",
           "source": "知乎",
@@ -264,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "当下的 AI 是不是被过度神化了？",
@@ -340,8 +356,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时28分]"
         },
         {
           "title": "国产手机厂商已集体涨价，会持续多久？苹果会加入吗？",
@@ -355,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时34分 ~ 21时48分]"
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时28分]"
         },
         {
           "title": "苹果设备被曝存在高危漏洞",
@@ -374,6 +390,34 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
+          "url": "https://wallstreetcn.com/livenews/3082650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
+          "url": "https://wallstreetcn.com/livenews/3082644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
       "match_count": 1,
       "titles": [
@@ -386,8 +430,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时28分]"
         }
       ]
     }
