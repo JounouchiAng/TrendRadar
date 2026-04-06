@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T03:46:09.930735+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-04-07T04:31:16.246700+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
@@ -40,30 +40,47 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
-          "title": "美媒：Meta将发布其下一代AI模型的开源版本",
-          "url": "https://flash.jin10.com/detail/20260407030914594800",
-          "source": "金十数据",
+          "title": "如何看软著申请严查AI新规",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
+          "source": "bilibili 热搜",
           "ranks": [
+            28,
+            13,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 04时31分]"
         },
         {
-          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
-          "url": "https://wallstreetcn.com/livenews/3082940",
-          "source": "华尔街见闻-快讯",
+          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2024406743845794724",
+          "source": "知乎",
           "ranks": [
-            10
+            20,
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 04时31分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时38分 ~ 04时31分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -78,29 +95,16 @@
           "time_info": "[00时37分 ~ 01时38分]"
         },
         {
-          "title": "男子用 AI 写歌仅版权就赚了五位数，AI 还能怎样用来变现？各地「一人公司」扶持政策能带来哪些利好？",
-          "url": "https://www.zhihu.com/question/2024406743845794724",
-          "source": "知乎",
+          "title": "美媒：Meta将发布其下一代AI模型的开源版本",
+          "url": "https://flash.jin10.com/detail/20260407030914594800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            16
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 03时46分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 03时46分]"
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时31分]"
         },
         {
           "title": "Meta Platforms将发布其下一代AI模型的开源版本。（Axios）",
@@ -115,16 +119,16 @@
           "time_info": "[01时38分 ~ 02时44分]"
         },
         {
-          "title": "如何看软著申请严查AI新规",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E8%BD%AF%E8%91%97%E7%94%B3%E8%AF%B7%E4%B8%A5%E6%9F%A5AI%E6%96%B0%E8%A7%84",
-          "source": "bilibili 热搜",
+          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
+          "url": "https://wallstreetcn.com/livenews/3082940",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            13
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 03时46分]"
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时31分]"
         },
         {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
@@ -175,7 +179,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -185,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -209,6 +213,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040534288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260407040513015800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
+          "url": "https://flash.jin10.com/detail/20260407040042993800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -221,11 +258,12 @@
           "url": "https://www.cls.cn/detail/2335705",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "苹果上长的蘑菇到底什么味道呢",
@@ -233,11 +271,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "分析师：苹果股价或将激增20%，MacBook Neo可能成为关键催化剂",
@@ -254,7 +293,7 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "微软将打造 100% 原生 Win11 应用，这一动作意味着什么？",
@@ -262,11 +301,23 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时31分]"
+        },
+        {
+          "title": "微软365：正在调查北美地区部分管理员可能无法访问微软365管理中心的问题。",
+          "url": "https://flash.jin10.com/detail/20260407033116988800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "微软将购买62.6万吨碳移除额度（Carbon Removal Credits），为期十五年。",
