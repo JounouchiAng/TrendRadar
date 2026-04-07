@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:27:10.872103+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-07T14:23:39.202651+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -121,9 +121,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "Faker称已准备好迎战马斯克AI",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -220,6 +231,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "AI编程：全民狂欢还是屎山危机",
+          "url": "https://www.baidu.com/s?wd=AI%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E8%BF%98%E6%98%AF%E5%B1%8E%E5%B1%B1%E5%8D%B1%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "三星一季度销售远超预期，利润暴增八倍，AI芯片销售无惧战争阴云",
           "url": "https://wallstreetcn.com/livenews/3083001",
           "source": "华尔街见闻-快讯",
@@ -253,6 +275,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "AI翻唱淘金小镇",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
           "source": "bilibili 热搜",
@@ -267,7 +300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -278,8 +311,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 14时23分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -291,8 +324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -303,8 +336,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时26分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时26分 ~ 14时23分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -338,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "全球首款纯内存芯片ETF近日在美股上市",
+          "url": "https://wallstreetcn.com/livenews/3083181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -413,7 +457,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "三星家族将缴清12万亿韩元遗产税尾款",
@@ -441,6 +485,17 @@
           "time_info": "[07时27分 ~ 09时26分]"
         },
         {
+          "title": "报道：三星电子美国得州泰勒逻辑厂启动EUV光刻机调试",
+          "url": "https://wallstreetcn.com/livenews/3083192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "三星电子在盘前交易中上涨5%，此前发布一季度财报。",
           "url": "https://wallstreetcn.com/livenews/3083013",
           "source": "华尔街见闻-快讯",
@@ -452,6 +507,18 @@
           "time_info": "07时28分"
         },
         {
+          "title": "内存价格要上天！三星Q1营利暴增八倍 Q2将再提价30%",
+          "url": "https://www.cls.cn/detail/2336052",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时23分]"
+        },
+        {
           "title": "三星预计第一季度利润将增长八倍",
           "url": "https://flash.jin10.com/detail/20260407065315670800",
           "source": "金十数据",
@@ -461,17 +528,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "内存价格要上天！三星Q1营利暴增八倍 Q2将再提价30%",
-          "url": "https://www.cls.cn/detail/2336052",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "三星电子：第一季度营收预计为133万亿韩元（机构估计为119.2万亿韩元）。",
@@ -502,7 +558,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -580,7 +636,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -591,7 +647,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -624,7 +680,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -635,7 +691,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -646,7 +702,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
