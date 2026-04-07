@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T06:30:55.895254+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-04-08T07:31:18.708964+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -37,11 +37,23 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时30分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
+          "url": "https://www.cls.cn/detail/2337193",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "纳斯达克100 ETF期货美股盘后一度涨0.3%。",
@@ -110,7 +122,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -151,7 +163,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Claude防话痨插件爆火",
@@ -161,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -172,8 +184,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -183,8 +195,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -196,8 +208,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -221,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时52分]"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850501&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/RhrmLqp_gn12R_5R054U5.jpg/lite\" height=\"120\"/></a>",
