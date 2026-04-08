@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:01:07.539785+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-04-09T03:48:52.105840+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "Claude防话痨插件爆火",
@@ -47,11 +47,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -61,8 +62,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "刘耀文流口水 AI生成",
@@ -82,7 +83,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -93,7 +94,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -111,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -122,8 +123,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -131,11 +132,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -145,8 +147,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时00分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时00分 ~ 03时48分]"
         }
       ]
     },
@@ -160,11 +162,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时48分]"
         }
       ]
     },
