@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T02:54:06.027094+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-04-10T03:59:36.358555+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -50,8 +50,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -60,11 +60,12 @@
           "ranks": [
             30,
             23,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -74,8 +75,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -87,6 +88,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 03时59分]"
         },
         {
           "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
@@ -112,27 +136,28 @@
           "time_info": "[01时57分 ~ 02时54分]"
         },
         {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 02时54分]"
-        },
-        {
           "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
           "url": "https://wallstreetcn.com/livenews/3085278",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时59分]"
+        },
+        {
+          "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时59分]"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -144,23 +169,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3085275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -170,8 +184,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -181,19 +195,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 02时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 03时59分]"
+        },
+        {
+          "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3085300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         },
         {
           "title": "贝莱德：市场对美股的盈利预期过于乐观",
           "url": "https://wallstreetcn.com/livenews/3085283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 03时59分]"
         }
       ]
     },
