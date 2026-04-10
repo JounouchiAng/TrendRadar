@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:28:22.117658+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-11T07:27:52.526720+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
@@ -48,8 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -58,22 +60,12 @@
           "ranks": [
             16,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
-        },
-        {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -83,11 +75,23 @@
             17,
             18,
             6,
-            19
+            19,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 06时28分]"
+          "appearance_count": 7,
+          "time_info": "[02时40分 ~ 07时27分]"
+        },
+        {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时27分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -120,11 +124,12 @@
           "ranks": [
             16,
             28,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 07时27分]"
         },
         {
           "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
@@ -185,7 +190,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -196,8 +201,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -208,8 +213,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时27分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -222,6 +227,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时42分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
@@ -244,8 +260,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时27分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
@@ -257,6 +273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "「内存一年涨四倍」，国产手机集体涨价，苹果至今按兵不动，是苹果供应链太强，还是在等一个更狠的涨价时机？",
+          "url": "https://www.zhihu.com/question/2023701784896520237",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
