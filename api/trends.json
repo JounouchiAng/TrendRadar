@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:23:04.341667+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-04-12T05:25:06.770211+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -51,11 +51,12 @@
             17,
             19,
             28,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -65,11 +66,12 @@
             18,
             22,
             24,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -110,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -120,11 +122,12 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时25分]"
         }
       ]
     }
