@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-04-12T07:25:09.210139+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-04-12T09:45:02.167602+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
-        },
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
           "url": "https://wallstreetcn.com/articles/3769738",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -37,11 +39,30 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
+        },
+        {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            22,
+            24,
+            19,
+            29,
+            27,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -56,25 +77,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
         },
         {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
+          "url": "https://www.zhihu.com/question/2025885699283382999",
+          "source": "知乎",
           "ranks": [
-            18,
-            22,
-            24,
-            19,
-            29,
-            27,
-            21
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+          "url": "https://wallstreetcn.com/livenews/3086308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -101,6 +127,28 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
+          "title": "法律角度解析AI炼化真人",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E8%A7%92%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E7%82%BC%E5%8C%96%E7%9C%9F%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
+        {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
           "url": "https://www.zhihu.com/question/2002055091918697271",
           "source": "知乎",
@@ -123,11 +171,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -141,8 +190,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 09时45分]"
         }
       ]
     }
