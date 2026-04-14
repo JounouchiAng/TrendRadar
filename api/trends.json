@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:53:10.802863+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-04-14T21:20:50.850394+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             16,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 19时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 21时20分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -49,11 +50,12 @@
             17,
             19,
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 19时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 21时20分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -89,19 +91,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 21时20分]"
         },
         {
-          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://wallstreetcn.com/livenews/3087702",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
           "ranks": [
-            2
+            11,
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时20分]"
         },
         {
           "title": "日产：计划在未来90%的车型中应用日产AI驾驶技术。",
@@ -121,7 +125,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -135,18 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 19时53分]"
         },
         {
           "title": "美团宣布加入AI医疗大战：发布AI产品“小团健康管家”",
@@ -181,6 +173,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时20分]"
         },
         {
           "title": "美国清洁能源公司Bloom Energy：与甲骨文(ORCL.N)扩大战略合作伙伴关系，计划部署高达2.8GW的装机容量，以加速人工智能基础设施的建设。首批1.2GW项目已签约，部署正在进行，并将持续至明年。",
@@ -246,7 +250,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -397,7 +401,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -455,6 +459,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
+          "title": "美国通胀低于预期，美股期指上涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
@@ -554,6 +569,17 @@
           "time_info": "[04时44分 ~ 05时40分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-14）",
+          "url": "https://flash.jin10.com/detail/20260414204757643800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "WTI原油周二开盘持稳，美股股指期货微涨，现货黄金小幅高开。",
           "url": "https://flash.jin10.com/detail/20260414060118981800",
           "source": "金十数据",
@@ -585,6 +611,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "亚马逊美股盘前涨超1%，触及日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3087715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "花旗集团第一季度固定收益、货币与商品（FICC）销售及交易收入为51.7亿美元，预期为50.2亿美元。 第一季度股票销售及交易收入为20.8亿美元，预期为17.3亿美元。 第一季度净利息收入157.4亿美元，预期为154.5亿美元。 第一季度财富管理收入30.7亿美元，预期为22.3亿美元。 花旗美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         }
       ]
     },
