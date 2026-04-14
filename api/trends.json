@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T21:20:50.850394+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-04-14T23:07:19.564682+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -33,11 +33,12 @@
             18,
             19,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 23时07分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -51,11 +52,12 @@
             19,
             20,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 21时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 23时07分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -71,6 +73,20 @@
           "time_info": "[03时02分 ~ 07时36分]"
         },
         {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 23时07分]"
+        },
+        {
           "title": "OpenAI伦敦设立永久办公室",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
           "source": "bilibili 热搜",
@@ -82,30 +98,18 @@
           "time_info": "[12时39分 ~ 14时27分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 21时20分]"
-        },
-        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
           "ranks": [
             11,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 21时20分]"
+          "appearance_count": 5,
+          "time_info": "[18时08分 ~ 23时07分]"
         },
         {
           "title": "日产：计划在未来90%的车型中应用日产AI驾驶技术。",
@@ -141,6 +145,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "中国经济信息社联合九家AIC机构发起“耐心资本引活水 生态共建育新质”倡议",
+          "url": "https://wallstreetcn.com/livenews/3087833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美团宣布加入AI医疗大战：发布AI产品“小团健康管家”",
           "url": "https://wallstreetcn.com/livenews/3087549",
           "source": "华尔街见闻-快讯",
@@ -162,6 +177,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时08分 ~ 19时53分]"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
@@ -221,6 +247,17 @@
           "time_info": "12时39分"
         },
         {
+          "title": "甲骨文处于连续第二个交易日上涨之中，Bloom Energy涨20%，双方此前达成AI数据中心供电协议。",
+          "url": "https://wallstreetcn.com/livenews/3087828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "AI突袭短剧 “霸总爹”失业",
           "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
           "source": "百度热搜",
@@ -253,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "第二届AIC股权投资研讨会聚焦耐心资本",
+          "url": "https://wallstreetcn.com/livenews/3087824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
@@ -387,6 +435,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "英国央行货币政策委员会（MPC）成员Greene：AI可能会通过生产力提振潜在增速。",
+          "url": "https://wallstreetcn.com/livenews/3087808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "快看漫画将研发多款AI应用，涉及AI角色互动等",
           "url": "https://wallstreetcn.com/livenews/3087378",
           "source": "华尔街见闻-快讯",
@@ -401,7 +460,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -439,6 +498,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260414003108774800",
           "source": "金十数据",
@@ -467,7 +537,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -575,7 +645,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -602,6 +672,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "美股高开 中概股普涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E6%99%AE%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国航空公司（AAL）美股盘后涨10%。",
           "url": "https://wallstreetcn.com/livenews/3087205",
           "source": "华尔街见闻-快讯",
@@ -619,7 +700,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -630,7 +711,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
