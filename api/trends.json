@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-04-17T01:04:35.120416+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T03:00:54.776983+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
+        },
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
+        },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
           "url": "https://flash.jin10.com/detail/20260417005843333800",
@@ -30,44 +63,11 @@
           "time_info": "01时04分"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
           "url": "https://wallstreetcn.com/livenews/3089493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -81,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -92,8 +92,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -103,8 +103,41 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
+        },
+        {
+          "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
+          "url": "https://www.zhihu.com/question/2028243941196054744",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时00分]"
+        },
+        {
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时00分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：各国应密切关注经济转型中的“赢家”与“输家”。 AI革命不应重蹈全球化时期的覆辙，当时许多失去工作的人从未能重新融入经济体系。 她担心如果人们相信冲突会很快结束，那么节能的意愿将会降低。",
+          "url": "https://wallstreetcn.com/livenews/3089507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
         }
       ]
     },
@@ -117,22 +150,24 @@
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -159,6 +194,34 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英特尔聘请三星代工老将强化制造业务",
+          "url": "https://flash.jin10.com/detail/20260417024335360800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "英特尔(INTC.O)：已聘请三星半导体制造业资深人士Shawn Han协助代工业务发展。",
+          "url": "https://flash.jin10.com/detail/20260417023154546800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果",
       "match_count": 1,
       "titles": [
@@ -170,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时00分]"
         }
       ]
     },
