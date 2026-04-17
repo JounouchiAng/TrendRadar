@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:22:44.766927+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-04-17T18:06:34.457991+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "警惕人工智能让人类陷入“自恋”",
@@ -53,11 +53,24 @@
             6,
             15,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 16时22分]"
+          "appearance_count": 17,
+          "time_info": "[01时04分 ~ 18时06分]"
+        },
+        {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 18时06分]"
         },
         {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
@@ -112,17 +125,6 @@
           "time_info": "[01时04分 ~ 09时31分]"
         },
         {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时22分]"
-        },
-        {
           "title": "AI来了消博会 消费行业会怎么变",
           "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
           "source": "百度热搜",
@@ -140,11 +142,12 @@
           "ranks": [
             14,
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 18时06分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -171,6 +174,20 @@
           "time_info": "[05时35分 ~ 06时32分]"
         },
         {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时06分]"
+        },
+        {
           "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
           "url": "https://www.zhihu.com/question/2013899380286047376",
           "source": "知乎",
@@ -193,19 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时22分]"
         },
         {
           "title": "曝常春藤名校用打字机对抗AI",
@@ -301,6 +305,17 @@
           "time_info": "[12时42分 ~ 14时31分]"
         },
         {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时06分]"
+        },
+        {
           "title": "搭上AI数据中心热潮 美工业公司股价上市首日即涨两成",
           "url": "https://www.cls.cn/detail/2346819",
           "source": "财联社热门",
@@ -310,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时31分]"
         },
         {
           "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
@@ -355,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "英国央行副行长Sarah Breeden：战争增加了市场压力叠加的可能性。 与人工智能相关的美国科技股看起来尤其高估。 全球金融体系迄今表现出韧性。 反映了自全球金融危机以来深层次的结构性改善。 增长、通胀和利率的冲击会同时影响所有借款人。",
+          "url": "https://wallstreetcn.com/livenews/3089954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
@@ -418,7 +433,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
@@ -426,7 +441,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -456,6 +471,17 @@
           "time_info": "[06时31分 ~ 16时22分]"
         },
         {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 18时06分]"
+        },
+        {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -468,17 +494,6 @@
           "time_info": "[01时04分 ~ 05时36分]"
         },
         {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 16时22分]"
-        },
-        {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
           "url": "https://wallstreetcn.com/articles/3770147",
           "source": "华尔街见闻",
@@ -486,8 +501,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 18时06分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -501,13 +516,24 @@
           "time_info": "[06时31分 ~ 07时33分]"
         },
         {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "奈飞美股盘前跌近10%，Q1业绩超预期增长但指引逊色，公司董事长将离任。",
           "url": "https://wallstreetcn.com/livenews/3089899",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -656,8 +682,19 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "三星加速HBM4E开发 首批将于5月生产",
+          "url": "https://wallstreetcn.com/livenews/3089967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
         {
           "title": "英特尔聘请三星代工老将强化制造业务",
           "url": "https://flash.jin10.com/detail/20260417024335360800",
@@ -680,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "三星电子加速研发下一代高带宽内存 首批HBM4E将于5月生产",
+          "url": "https://flash.jin10.com/detail/20260417174035947800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
