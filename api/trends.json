@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T20:40:53.249646+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-04-18T21:57:13.216808+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 21时57分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -32,11 +33,25 @@
             14,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时44分 ~ 20时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时44分 ~ 21时57分]"
+        },
+        {
+          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
+          "url": "https://wallstreetcn.com/articles/3770313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 21时57分]"
         },
         {
           "title": "高盛：AI的未来，要有光！",
@@ -65,16 +80,16 @@
           "time_info": "[00时44分 ~ 12时25分]"
         },
         {
-          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
-          "url": "https://wallstreetcn.com/articles/3770313",
-          "source": "华尔街见闻",
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时57分]"
         },
         {
           "title": "市场消息：人工智能编程初创公司Cursor正就新一轮融资进行谈判，拟筹资20亿美元。",
@@ -115,17 +130,6 @@
           "time_info": "[04时36分 ~ 06时31分]"
         },
         {
-          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
-          "url": "https://www.zhihu.com/question/2028416884643472906",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "智元携手Hitch Open发起全球首个AI自主决策机器人乒乓球赛",
           "url": "https://wallstreetcn.com/livenews/3090407",
           "source": "华尔街见闻-快讯",
@@ -138,6 +142,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时08分 ~ 17时40分]"
+        },
+        {
+          "title": "粉红蓝莓是AI生成的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 21时57分]"
+        },
+        {
+          "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
+          "url": "https://wallstreetcn.com/livenews/3090487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "广东：大力推动人工智能高质量发展和全域全时全行业应用",
@@ -267,18 +295,6 @@
           "time_info": "[07时32分 ~ 09时24分]"
         },
         {
-          "title": "粉红蓝莓是AI生成的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 18时32分]"
-        },
-        {
           "title": "OpenAI高管Kevin Weil离职。（Wired）",
           "url": "https://wallstreetcn.com/livenews/3090320",
           "source": "华尔街见闻-快讯",
@@ -385,11 +401,12 @@
             5,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[07时32分 ~ 21时57分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
