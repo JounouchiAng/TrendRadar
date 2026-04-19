@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T02:36:13.457828+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-04-20T03:36:25.785255+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -40,8 +41,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -52,8 +53,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
+        },
+        {
+          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
+          "url": "https://www.zhihu.com/question/659215909",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 03时36分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -79,15 +92,15 @@
           "time_info": "[00时30分 ~ 02时36分]"
         },
         {
-          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
-          "url": "https://www.zhihu.com/question/659215909",
-          "source": "知乎",
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 02时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -114,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -126,8 +139,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 03时36分]"
         }
       ]
     }
