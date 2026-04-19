@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T07:27:19.376288+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-04-19T09:48:47.324268+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时48分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时48分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -38,11 +39,12 @@
             13,
             8,
             10,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时30分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时30分 ~ 09时48分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -52,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时48分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -67,8 +69,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时30分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时30分 ~ 09时48分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -78,8 +80,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时48分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -103,11 +105,12 @@
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时48分]"
         }
       ]
     }
