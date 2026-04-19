@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:32:31.804236+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-04-19T19:29:06.148480+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时29分 ~ 09时48分]"
         },
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时45分 ~ 19时29分]"
+        },
+        {
           "title": "粉红蓝莓是AI生成的吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%B2%89%E7%BA%A2%E8%93%9D%E8%8E%93%E6%98%AFAI%E7%94%9F%E6%88%90%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
@@ -30,11 +42,12 @@
             10,
             26,
             27,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时30分 ~ 14时25分]"
+          "appearance_count": 15,
+          "time_info": "[01时30分 ~ 19时29分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -48,20 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 18时32分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 19时29分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -75,8 +76,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 19时29分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -104,8 +105,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 19时29分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -204,8 +205,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 19时29分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -215,8 +216,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时29分]"
         }
       ]
     },
