@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T12:45:19.644965+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-04-19T14:25:55.357356+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时25分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -45,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时30分 ~ 12时45分]"
+          "appearance_count": 13,
+          "time_info": "[01时30分 ~ 14时25分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -54,11 +55,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时25分]"
         },
         {
           "title": "实测Claude Opus 4.7",
@@ -81,11 +83,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时25分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -94,9 +97,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 14时25分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -105,9 +108,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 14时25分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -116,9 +119,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 14时25分]"
         },
         {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
@@ -127,7 +130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -147,11 +150,41 @@
           "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 14时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时25分]"
+        },
+        {
+          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3770342",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时45分"
+          "time_info": "14时25分"
         }
       ]
     },
@@ -166,27 +199,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时45分]"
         }
       ]
     }
