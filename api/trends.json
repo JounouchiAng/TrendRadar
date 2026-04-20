@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:29:06.928359+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-04-20T09:50:23.847256+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -32,8 +32,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -44,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -56,8 +56,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -65,11 +65,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时36分 ~ 07时29分]"
+          "appearance_count": 7,
+          "time_info": "[03时36分 ~ 09时50分]"
+        },
+        {
+          "title": "科大讯飞投资星链人工智能科技公司",
+          "url": "https://flash.jin10.com/detail/20260420091917608800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -83,6 +95,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时35分 ~ 05时27分]"
+        },
+        {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -140,11 +163,12 @@
           "url": "https://wallstreetcn.com/articles/3770345",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -152,11 +176,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
