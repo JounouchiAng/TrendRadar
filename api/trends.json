@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T06:35:42.421299+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-21T07:35:58.779169+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -53,8 +53,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -69,20 +83,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 05时39分]"
-        },
-        {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -107,11 +107,35 @@
             23,
             17,
             13,
-            29
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "time_info": "[03时55分 ~ 07时35分]"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -128,26 +152,15 @@
           "time_info": "[02时53分 ~ 05时39分]"
         },
         {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
+          "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
+          "url": "https://flash.jin10.com/detail/20260421065051985800",
+          "source": "金十数据",
           "ranks": [
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 06时35分]"
-        },
-        {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
@@ -169,11 +182,12 @@
           "ranks": [
             16,
             21,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
@@ -186,6 +200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "观众为何对AI表演集体不买账",
@@ -209,17 +235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 03时56分]"
-        },
-        {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
@@ -266,22 +281,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时35分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
           "url": "https://wallstreetcn.com/articles/3770364",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时53分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时53分 ~ 07时35分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -290,9 +307,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时35分]"
         },
         {
           "title": "金十图示：2026年04月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -352,6 +369,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时35分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时35分]"
         },
         {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
@@ -414,17 +443,6 @@
           "time_info": "[04时38分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
           "url": "https://flash.jin10.com/detail/20260421043157265800",
           "source": "金十数据",
@@ -439,8 +457,41 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "库克不再担任苹果CEO",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "苹果宣布特纳斯将接替库克担任CEO",
+          "url": "https://www.toutiao.com/trending/7630977954876493321/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "库克将卸任苹果CEO",
+          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时35分]"
+        },
         {
           "title": "苹果：库克不再担任CEO",
           "url": "https://wallstreetcn.com/livenews/3091327",
@@ -453,17 +504,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时38分 ~ 06时35分]"
-        },
-        {
-          "title": "库克将卸任苹果CEO",
-          "url": "https://news.ifeng.com/c/8sUVwcKoXfH",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
@@ -500,6 +540,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "伊朗最高领袖重申三项基本立场 苹果任命John Ternus为首席执行官 | 环球市场",
+          "url": "https://www.cls.cn/detail/2350058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
