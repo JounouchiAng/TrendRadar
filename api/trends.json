@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T18:13:00.236165+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-04-21T19:55:07.057432+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -84,11 +84,27 @@
             9,
             17,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 18时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 19时55分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -183,20 +199,6 @@
           "time_info": "[12时42分 ~ 18时13分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 18时13分]"
-        },
-        {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
           "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
@@ -206,6 +208,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 07时35分]"
+        },
+        {
+          "title": "据CNBC：大众汽车将在今年为其中国市场车型增加语音人工智能功能。",
+          "url": "https://flash.jin10.com/detail/20260421193427236800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -228,9 +241,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正在与包括埃森哲、凯捷和普华永道在内的咨询公司合作，帮助将Codex销售给企业。",
+          "url": "https://flash.jin10.com/detail/20260421193335407800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI表示Codex每周活跃用户数达到了400万，较两周前的300万有所增加。上个月用户超过200万。",
+          "url": "https://flash.jin10.com/detail/20260421193249889800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "阿里巴巴支持的视频AI初创公司PIXVERSE据悉计划香港IPO。（彭博）",
@@ -266,6 +312,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "据华尔街日报：OpenAI正与咨询公司合作，推进其Codex的销售。",
+          "url": "https://flash.jin10.com/detail/20260421193119519800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "AI艺人库为何遭抵制",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
           "source": "bilibili 热搜",
@@ -299,6 +356,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "OpenAI正与顾问合作销售Codex。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3091798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
           "url": "https://wallstreetcn.com/livenews/3091262",
           "source": "华尔街见闻-快讯",
@@ -310,6 +378,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 02时53分]"
+        },
+        {
+          "title": "远东股份：拟定增募资不超过20亿元，用于AIDC用全合成光纤预制棒制造项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3091797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -348,6 +427,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -446,7 +536,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -501,7 +591,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         }
@@ -509,7 +599,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "特纳斯将接替库克担任苹果CEO",
@@ -520,8 +610,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 19时55分]"
         },
         {
           "title": "苹果换帅！库克9月卸任CEO，硬件主管John Ternus接任",
@@ -534,8 +624,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 19时55分]"
         },
         {
           "title": "库克宣布将于 9 月卸任苹果 CEO，由特努斯接任，哪些信息值得关注？苹果的未来会如何发展？",
@@ -547,8 +637,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 18时13分]"
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 19时55分]"
         },
         {
           "title": "苹果宣布特努斯将接替库克担任CEO，9月1日起生效",
@@ -558,11 +648,12 @@
             13,
             11,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "换帅!苹果高管迎来大洗牌",
@@ -572,11 +663,12 @@
             9,
             10,
             11,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时55分]"
         },
         {
           "title": "库克将卸任苹果CEO",
@@ -614,6 +706,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时31分 ~ 18时13分]"
+        },
+        {
+          "title": "苹果更换CEO原因首次曝光",
+          "url": "https://www.toutiao.com/trending/7630985564023488555/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "苹果新任CEO特努斯是谁",
@@ -663,6 +766,17 @@
           "time_info": "[18时12分 ~ 18时13分]"
         },
         {
+          "title": "苹果新CEO为何被说更懂硬件",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E4%B8%BA%E4%BD%95%E8%A2%AB%E8%AF%B4%E6%9B%B4%E6%87%82%E7%A1%AC%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "特努斯为何能接任苹果CEO",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E5%8A%AA%E6%96%AF%E4%B8%BA%E4%BD%95%E8%83%BD%E6%8E%A5%E4%BB%BB%E8%8B%B9%E6%9E%9CCEO",
           "source": "bilibili 热搜",
@@ -679,11 +793,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 19时55分]"
         },
         {
           "title": "库克不再担任苹果CEO",
@@ -746,6 +861,30 @@
           "time_info": "[04时38分 ~ 06时35分]"
         },
         {
+          "title": "库克淡出 苹果迎来更懂硬件的CEO 能否开启巨头新周期？",
+          "url": "https://www.cls.cn/detail/2350494",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 19时55分]"
+        },
+        {
+          "title": "印度加快推进苹果反垄断案",
+          "url": "https://www.douyin.com/hot/2473570",
+          "source": "抖音",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 19时55分]"
+        },
+        {
           "title": "苹果因对吸烟员工征收健康计划罚款被起诉",
           "url": "https://wallstreetcn.com/livenews/3091288",
           "source": "华尔街见闻-快讯",
@@ -782,28 +921,6 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
-          "title": "库克淡出 苹果迎来更懂硬件的CEO 能否开启巨头新周期？",
-          "url": "https://www.cls.cn/detail/2350494",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
-          "title": "印度加快推进苹果反垄断案",
-          "url": "https://www.douyin.com/hot/2473570",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
           "title": "印度拟对苹果罚款380亿美元",
           "url": "https://www.toutiao.com/trending/7630773760219611142/",
           "source": "今日头条",
@@ -813,6 +930,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "苹果新CEO将上任 中国供应链会改变吗",
+          "url": "https://www.toutiao.com/trending/7631128008002113070/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "苹果更换CEO原因首次曝光",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9B%B4%E6%8D%A2CEO%E5%8E%9F%E5%9B%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
@@ -928,7 +1067,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -939,8 +1078,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时35分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[06时35分 ~ 19时55分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -1010,9 +1149,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "金十图示：2026年04月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -1140,7 +1290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1171,6 +1321,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OPPO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OPPO哈苏双两亿影像给到夯",
+          "url": "https://s.weibo.com/weibo?q=%23OPPO%E5%93%88%E8%8B%8F%E5%8F%8C%E4%B8%A4%E4%BA%BF%E5%BD%B1%E5%83%8F%E7%BB%99%E5%88%B0%E5%A4%AF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         }
       ]
     },
