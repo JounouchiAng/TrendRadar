@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T21:03:19.352394+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-04-23T23:32:21.130401+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 09时49分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 23时32分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -66,23 +78,12 @@
             17,
             18,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 21时03分]"
-        },
-        {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 21时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 23时32分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -95,6 +96,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 09时49分]"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            16,
+            5,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 23时32分]"
         },
         {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
@@ -110,21 +126,6 @@
           "time_info": "[09时48分 ~ 16时32分]"
         },
         {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            16,
-            5,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 21时03分]"
-        },
-        {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
           "source": "澎湃新闻",
@@ -133,11 +134,12 @@
             20,
             13,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 23时32分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -145,11 +147,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 23时32分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -158,11 +161,12 @@
           "ranks": [
             14,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 23时32分]"
         },
         {
           "title": "美国国务院批准向立陶宛潜在出售AIM-9X“响尾蛇”Block II导弹，金额为2.14亿美元。",
@@ -275,11 +279,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 23时32分]"
         },
         {
           "title": "五角大楼申请540亿美元预算 大举推进AI无人作战体系",
@@ -369,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "抖音上线AI创作功能，设独立入口",
+          "url": "https://wallstreetcn.com/livenews/3093388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "ChatGPT Images 2.0发布",
@@ -536,6 +552,17 @@
           "time_info": "18时16分"
         },
         {
+          "title": "自由港麦克莫兰公司首席执行官：受全球电网压力影响，我们观察到全球铜需求正在上升。 受人工智能及相关基础设施建设的推动，美国铜需求持续增长。 在中国，电网投资正带动铜需求“显著回升”，中国铜库存也出现“大幅”消耗。",
+          "url": "https://wallstreetcn.com/livenews/3093377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "监管文件显示，SpaceX认为，相较航天业务，人工智能领域拥有更大的市场机会。SpaceX预计其所有业务的总可服务市场规模为28.5万亿美元，预计人工智能的总可服务市场规模为26.5万亿美元。",
           "url": "https://flash.jin10.com/detail/20260423180132455800",
           "source": "金十数据",
@@ -553,7 +580,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -597,7 +624,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -660,7 +687,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -754,9 +781,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -867,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "黑石一季度每股可分配收入1.36美元，预估1.34美元。 一季度整体收入34.3亿美元，预估33.7亿美元。 一季度资金流入685.4亿美元，预估554.8亿美元。 一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。 一季度资产管理规模1.30万亿美元，预估1.3万亿美元。 黑石美股盘前微跌。",
@@ -1004,7 +1053,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "库克称苹果地图发布是首个重大错误",
@@ -1017,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 14时58分]"
+        },
+        {
+          "title": "苹果或被印度罚款380亿美元有何影响",
+          "url": "https://www.toutiao.com/trending/7631444837368807475/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri。",
@@ -1039,6 +1099,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据CNBC：微软(MSFT.O)计划在公司51年历史中首次推出自愿员工买断方案。",
+          "url": "https://flash.jin10.com/detail/20260423232310736800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "据CNBC：微软(MSFT.O)旗下领英（LinkedIn）任命长期高管丹尼尔·夏佩罗为新任首席执行官。",
+          "url": "https://flash.jin10.com/detail/20260423002703863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "微软(MSFT.O)：正在调查一个影响Microsoft Teams的潜在问题。",
+          "url": "https://flash.jin10.com/detail/20260423022447595800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
@@ -1067,34 +1166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Microsoft 微软",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据CNBC：微软(MSFT.O)旗下领英（LinkedIn）任命长期高管丹尼尔·夏佩罗为新任首席执行官。",
-          "url": "https://flash.jin10.com/detail/20260423002703863800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "微软(MSFT.O)：正在调查一个影响Microsoft Teams的潜在问题。",
-          "url": "https://flash.jin10.com/detail/20260423022447595800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
         }
       ]
     },
