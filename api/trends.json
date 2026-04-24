@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T06:33:16.033623+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-04-25T07:34:27.342750+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -77,11 +77,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -95,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 06时33分]"
+        },
+        {
+          "title": "软银准备为AI数据中心制造电池",
+          "url": "https://wallstreetcn.com/livenews/3094321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
@@ -181,6 +193,18 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时34分]"
+        },
+        {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
           "url": "https://flash.jin10.com/detail/20260424235647956800",
           "source": "金十数据",
@@ -212,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
         },
         {
           "title": "英特尔CEO陈立武表示，英特尔的业绩“稳健”，超出预期。 他预计用于人工智能系统的处理器需求将持续增长，并称公司正“高度专注”于提升工厂产能，目前仍无法完全满足所有订单。 “需求非常强劲。我们正与团队密切努力，确保能够交付、满足需求，但由于客户需求持续增长，我们仍然供不应求。”（彭博）",
@@ -283,11 +296,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -298,8 +312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
@@ -310,8 +324,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -331,11 +345,12 @@
           "ranks": [
             4,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时34分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -351,6 +366,18 @@
           "time_info": "[04时37分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 07时34分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
           "url": "https://flash.jin10.com/detail/20260425040149158800",
           "source": "金十数据",
@@ -359,8 +386,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时37分 ~ 07时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
@@ -368,22 +395,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时33分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时34分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -408,11 +425,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "微软向 7% 的美国员工提供自愿退休方案，工龄与年龄之和需达 70，如何看待这个设计？是变相「裁员」吗？",
@@ -422,11 +440,12 @@
             3,
             2,
             4,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
@@ -456,8 +475,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时34分]"
         },
         {
           "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
@@ -465,11 +484,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时34分]"
         }
       ]
     }
