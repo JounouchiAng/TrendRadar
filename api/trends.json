@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:33:18.704286+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-04-25T20:42:05.743412+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 19时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 20时42分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 20时42分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 20时42分]"
         },
         {
           "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
@@ -117,6 +141,22 @@
           "time_info": "[01时47分 ~ 18时36分]"
         },
         {
+          "title": "Claude降智了吗",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            11,
+            13,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 20时42分]"
+        },
+        {
           "title": "第一次对AI感到恐惧",
           "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -130,43 +170,16 @@
           "time_info": "[14时16分 ~ 19时33分]"
         },
         {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 19时33分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 19时33分]"
-        },
-        {
-          "title": "Claude降智了吗",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E9%99%8D%E6%99%BA%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时30分 ~ 19时33分]"
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 20时42分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -181,8 +194,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 19时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 20时42分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -196,6 +209,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 07时34分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 20时42分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -222,18 +247,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时00分 ~ 06时33分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时59分 ~ 19时33分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -263,18 +276,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时30分 ~ 14时17分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 19时33分]"
         },
         {
           "title": "中国AI隐形王者股价一年翻10倍",
@@ -538,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时33分 ~ 19时33分]"
+          "appearance_count": 14,
+          "time_info": "[06时33分 ~ 20时42分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
