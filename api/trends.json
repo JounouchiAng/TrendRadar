@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T07:34:27.342750+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-04-25T09:27:58.594268+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -54,35 +55,12 @@
             12,
             9,
             10,
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
-        {
-          "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33040900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -96,7 +74,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 09时27分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
+        },
+        {
+          "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
@@ -128,11 +131,12 @@
           "url": "https://wallstreetcn.com/livenews/3094321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 09时27分]"
         },
         {
           "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
@@ -144,6 +148,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时27分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
@@ -193,18 +210,6 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时34分]"
-        },
-        {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
           "url": "https://flash.jin10.com/detail/20260424235647956800",
           "source": "金十数据",
@@ -238,6 +243,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
+          "url": "https://flash.jin10.com/detail/20260425080632289800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "英特尔CEO陈立武表示，英特尔的业绩“稳健”，超出预期。 他预计用于人工智能系统的处理器需求将持续增长，并称公司正“高度专注”于提升工厂产能，目前仍无法完全满足所有订单。 “需求非常强劲。我们正与团队密切努力，确保能够交付、满足需求，但由于客户需求持续增长，我们仍然供不应求。”（彭博）",
           "url": "https://wallstreetcn.com/livenews/3094171",
           "source": "华尔街见闻-快讯",
@@ -263,7 +279,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -300,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 09时27分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -309,11 +325,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时34分]"
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 09时27分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
@@ -321,11 +338,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时37分 ~ 07时34分]"
+          "appearance_count": 5,
+          "time_info": "[04时37分 ~ 09时27分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 09时27分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -366,18 +397,6 @@
           "time_info": "[04时37分 ~ 06时33分]"
         },
         {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时34分]"
-        },
-        {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
           "url": "https://flash.jin10.com/detail/20260425040149158800",
           "source": "金十数据",
@@ -412,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超4.3%，亚马逊涨约3.5%",
+          "url": "https://wallstreetcn.com/livenews/3094299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -475,8 +505,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 09时27分]"
         },
         {
           "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
