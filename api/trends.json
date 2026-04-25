@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T01:32:14.953779+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-04-26T02:37:47.975570+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "Claude降智了吗",
@@ -47,11 +47,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -61,8 +62,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -73,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -84,8 +85,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -112,19 +113,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
           "url": "https://www.zhihu.com/question/2031283079852110233",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时37分]"
         }
       ]
     }
