@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-05-01T19:52:39.257694+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-05-01T20:57:36.236119+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时49分 ~ 19时52分]"
-        },
         {
           "title": "假如AI能模拟去世亲人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
@@ -52,17 +37,34 @@
           "time_info": "[00时22分 ~ 16时14分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[05时49分 ~ 20时57分]"
+        },
+        {
           "title": "AI魔改黑袍,星光姐被玩坏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
           "source": "贴吧",
           "ranks": [
             20,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 19时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 20时57分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -72,11 +74,12 @@
             1,
             8,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 19时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 20时57分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -140,17 +143,6 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
           "url": "https://flash.jin10.com/detail/20260501014942443800",
           "source": "金十数据",
@@ -160,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
@@ -226,7 +207,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -243,15 +224,16 @@
           "time_info": "[02时05分 ~ 04时06分]"
         },
         {
-          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097879",
+          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3097888",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -263,6 +245,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时57分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -289,18 +296,6 @@
           "time_info": "[00时22分 ~ 02时05分]"
         },
         {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时52分]"
-        },
-        {
           "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
           "url": "https://flash.jin10.com/detail/20260501045130303800",
           "source": "金十数据",
@@ -323,6 +318,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 10时07分]"
+        },
+        {
+          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
         },
         {
           "title": "女子被AI误导闯入响尾蛇窝",
@@ -353,7 +360,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -444,12 +451,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美国防部与7家AI公司达成协议",
+          "url": "https://wallstreetcn.com/livenews/3097883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "苹果电脑废纸篓里的废纸谁扔的",
@@ -467,6 +485,18 @@
           "time_info": "[00时22分 ~ 06时42分]"
         },
         {
+          "title": "苹果上季在华收入继续两位数大增，iPhone收入创同期新高，本季营收指引意外强劲 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时57分]"
+        },
+        {
           "title": "苹果创始人站台追觅旗下手机",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -477,17 +507,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时06分 ~ 14时02分]"
-        },
-        {
-          "title": "苹果上季在华收入继续两位数大增，iPhone收入创同期新高，本季营收指引意外强劲 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时52分]"
         },
         {
           "title": "苹果(AAPL.O)在提交的文件中指控印度监管机构越权，并寻求暂停反垄断案件。",
@@ -536,6 +555,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "苹果电话会：营收指引超预期，存储自Q3起拖累利润率，追加千亿回购",
+          "url": "https://wallstreetcn.com/articles/3771437",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "苹果季度营收展望意外强劲，或预示其能克服供应短缺问题",
@@ -876,7 +906,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -885,11 +915,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时42分 ~ 19时52分]"
+          "appearance_count": 11,
+          "time_info": "[06时42分 ~ 20时57分]"
         },
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -939,6 +970,29 @@
           "time_info": "04时06分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3097909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
+        },
+        {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097744",
           "source": "华尔街见闻-快讯",
@@ -949,17 +1003,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
@@ -1017,7 +1060,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1033,13 +1076,24 @@
           "time_info": "10时07分"
         },
         {
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3097869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1061,7 +1115,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
