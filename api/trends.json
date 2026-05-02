@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T05:32:42.773980+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-03T06:31:48.532402+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -48,11 +48,12 @@
             1,
             2,
             6,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -62,11 +63,12 @@
             2,
             3,
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -76,11 +78,12 @@
             5,
             6,
             11,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -90,11 +93,12 @@
             7,
             8,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -104,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -113,11 +117,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时33分 ~ 06时31分]"
         },
         {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
@@ -126,11 +131,12 @@
           "ranks": [
             3,
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时48分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[03时48分 ~ 06时31分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -157,8 +163,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -290,8 +296,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         },
         {
           "title": "巴菲特称赞苹果CEO库克",
@@ -351,11 +357,12 @@
           "url": "https://wallstreetcn.com/livenews/3098167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时31分]"
         }
       ]
     },
@@ -371,8 +378,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 06时31分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
@@ -383,8 +390,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     },
@@ -398,11 +405,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 06时31分]"
         }
       ]
     }
