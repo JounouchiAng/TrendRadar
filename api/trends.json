@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T19:12:10.727727+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-05-05T21:15:17.705435+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -102,8 +102,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时23分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[01时23分 ~ 21时15分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -117,8 +117,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时23分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[01时23分 ~ 21时15分]"
         },
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -127,11 +127,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 21时15分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -142,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时15分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时15分 ~ 21时15分]"
         },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -158,26 +159,28 @@
           "time_info": "[01时23分 ~ 12时59分]"
         },
         {
-          "title": "用AI写出20亿播放量神曲？音乐人发声",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E5%87%BA20%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A5%9E%E6%9B%B2%EF%BC%9F%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时12分]"
-        },
-        {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
           "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 21时15分]"
+        },
+        {
+          "title": "用AI写出20亿播放量神曲？音乐人发声",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E5%87%BA20%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A5%9E%E6%9B%B2%EF%BC%9F%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 21时15分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -226,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 15时16分]"
+        },
+        {
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
@@ -286,6 +300,17 @@
           "time_info": "[04时59分 ~ 05时00分]"
         },
         {
+          "title": "谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3098780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
           "url": "https://flash.jin10.com/detail/20260505022512889800",
           "source": "金十数据",
@@ -339,12 +364,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "Coinbase宣布重组计划，以优化运营，迎接AI时代",
+          "url": "https://wallstreetcn.com/livenews/3098768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -365,11 +401,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 19时12分]"
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 21时15分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -383,6 +420,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 06时58分]"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
@@ -457,6 +505,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "Shopify第一季度GMV为1007.43亿美元。 第一季度收入为31.7亿美元。 第一季度自由现金流为4.76亿美元。 预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。 Shopify美股盘前跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3098774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美股收盘：道指跌超1% 英特尔跌近4%",
           "url": "https://flash.jin10.com/detail/20260505040130170800",
           "source": "金十数据",
@@ -504,7 +563,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "十年来第一次！苹果讨论“涨价”，iPhone 18或将涨价",
@@ -553,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "货郎突发脑梗 4吨苹果19小时卖空",
+          "url": "https://www.toutiao.com/trending/7636293239779393546/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -593,6 +663,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金出口激增和能源价格飙升 加拿大6个月来首次出现商品贸易顺差",
+          "url": "https://flash.jin10.com/detail/20260505203614727800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
