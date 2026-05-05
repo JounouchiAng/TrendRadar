@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T21:15:17.705435+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-05-05T23:32:13.814856+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -77,6 +77,32 @@
           "time_info": "[01时23分 ~ 15时16分]"
         },
         {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 23时32分]"
+        },
+        {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 23时32分]"
+        },
+        {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
           "source": "澎湃新闻",
@@ -99,11 +125,12 @@
             17,
             19,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时23分 ~ 21时15分]"
+          "appearance_count": 18,
+          "time_info": "[01时23分 ~ 23时32分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -114,37 +141,24 @@
             18,
             20,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时23分 ~ 21时15分]"
+          "appearance_count": 18,
+          "time_info": "[01时23分 ~ 23时32分]"
         },
         {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时15分 ~ 21时15分]"
-        },
-        {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 21时15分]"
+          "time_info": "[17时54分 ~ 23时32分]"
         },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -159,18 +173,6 @@
           "time_info": "[01时23分 ~ 12时59分]"
         },
         {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 21时15分]"
-        },
-        {
           "title": "用AI写出20亿播放量神曲？音乐人发声",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E5%87%BA20%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A5%9E%E6%9B%B2%EF%BC%9F%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -183,6 +185,28 @@
           "time_info": "[17时54分 ~ 21时15分]"
         },
         {
+          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
+          "url": "https://wallstreetcn.com/articles/3771572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时32分]"
+        },
+        {
+          "title": "Anthropic金融服务负责人Jonathan Pelosi表示，公司的最新举措旨在“弥合”人工智能的发展速度与金融公司实际应用该技术的能力之间的差距。 “这就是‘我们利用 AI 来辅助写出更好的邮件或进行基础研究’与‘投资银行的路演材料构建’之间的区别”。",
+          "url": "https://wallstreetcn.com/livenews/3098831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
           "url": "https://flash.jin10.com/detail/20260505030423682800",
           "source": "金十数据",
@@ -192,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "Anthropic面向金融服务行业发布新款AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3098828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -231,15 +266,15 @@
           "time_info": "[12时59分 ~ 15时16分]"
         },
         {
-          "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
-          "url": "https://wallstreetcn.com/articles/3771572",
-          "source": "华尔街见闻",
+          "title": "欧盟公报：将在人工智能等科技领域与日本加强合作",
+          "url": "https://wallstreetcn.com/livenews/3098823",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时15分"
+          "time_info": "23时32分"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
@@ -277,6 +312,17 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
+          "url": "https://www.zhihu.com/question/2034044394312037174",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
           "url": "https://wallstreetcn.com/livenews/3098735",
           "source": "华尔街见闻-快讯",
@@ -306,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -320,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国各州呼吁参与AI模型测试 强化网络安全协作",
+          "url": "https://flash.jin10.com/detail/20260505230747397800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "黄仁勋为何炮轰渲染AI末日论硅谷高管",
@@ -355,6 +412,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "消息人士：OpenAI合资公司正洽谈收购三家AI服务公司。",
+          "url": "https://flash.jin10.com/detail/20260505230237105800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
           "url": "https://wallstreetcn.com/livenews/3098730",
           "source": "华尔街见闻-快讯",
@@ -372,7 +440,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
@@ -380,7 +448,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -402,11 +470,35 @@
             10,
             9,
             8,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 21时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时58分 ~ 23时32分]"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时32分]"
+        },
+        {
+          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -420,17 +512,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 06时58分]"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
@@ -511,7 +592,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -547,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨8%",
+          "url": "https://wallstreetcn.com/livenews/3098804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
@@ -591,6 +683,18 @@
           "time_info": "[12时59分 ~ 15时16分]"
         },
         {
+          "title": "货郎突发脑梗 4吨苹果19小时卖空",
+          "url": "https://www.toutiao.com/trending/7636293239779393546/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时32分]"
+        },
+        {
           "title": "苹果或与英特尔三星合作",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E4%B8%8E%E8%8B%B1%E7%89%B9%E5%B0%94%E4%B8%89%E6%98%9F%E5%90%88%E4%BD%9C%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -612,17 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "货郎突发脑梗 4吨苹果19小时卖空",
-          "url": "https://www.toutiao.com/trending/7636293239779393546/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         }
       ]
     },
@@ -677,7 +770,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
