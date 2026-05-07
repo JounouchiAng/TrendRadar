@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:02:14.453029+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-05-07T13:35:06.665238+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -21,6 +21,20 @@
           "time_info": "[01时23分 ~ 10时02分]"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时03分 ~ 13时35分]"
+        },
+        {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
           "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
@@ -31,6 +45,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时23分 ~ 07时43分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 13时35分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -55,34 +84,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时23分 ~ 07时43分]"
-        },
-        {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时03分 ~ 10时02分]"
-        },
-        {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 10时02分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -158,6 +159,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "比亚迪正式加入IATF AISBL",
+          "url": "https://www.toutiao.com/trending/7636079480591106111/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
           "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
           "url": "https://flash.jin10.com/detail/20260507064154537800",
           "source": "金十数据",
@@ -191,6 +203,18 @@
           "time_info": "03时23分"
         },
         {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时35分]"
+        },
+        {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
@@ -216,6 +240,28 @@
           "time_info": "[01时23分 ~ 05时03分]"
         },
         {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
+        },
+        {
           "title": "黄仁勋：美国应保持AI领先地位",
           "url": "https://www.douyin.com/hot/2489930",
           "source": "抖音",
@@ -227,15 +273,15 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "EXO ai篡改记忆",
-          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=15&Refer=top",
+          "title": "xAI更名SpaceXAI",
+          "url": "https://s.weibo.com/weibo?q=%23xAI%E6%9B%B4%E5%90%8DSpaceXAI%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -289,7 +335,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -355,7 +401,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -373,8 +419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 10时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时41分 ~ 13时35分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
@@ -382,11 +428,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 10时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 13时35分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -521,19 +568,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 13时35分]"
         },
         {
           "title": "三星官宣家电退出中国大陆市场",
           "url": "https://www.douyin.com/hot/2490782",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时35分]"
         },
         {
           "title": "三星",
@@ -555,17 +603,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33103132",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时35分]"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果公司在印度推出新的清洁能源与环境倡议，包括投资10亿卢比建设可再生能源产能。",
@@ -574,9 +623,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "苹果花2.5亿美元和解Siri诉讼案",
+          "url": "https://www.douyin.com/hot/2490007",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "美国最高法院拒绝暂缓苹果藐视法庭令，苹果与Epic纠纷再升级",
