@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:24:02.982787+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-05-08T15:25:04.925985+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时43分 ~ 13时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时43分 ~ 15时25分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -26,22 +26,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时26分 ~ 13时24分]"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时59分]"
+          "appearance_count": 12,
+          "time_info": "[03时26分 ~ 15时25分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -53,11 +43,23 @@
             28,
             26,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时26分 ~ 13时24分]"
+          "appearance_count": 11,
+          "time_info": "[03时26分 ~ 15时25分]"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 04时59分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -76,11 +78,12 @@
           "url": "https://www.toutiao.com/trending/7637337803117825590/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时25分]"
         },
         {
           "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
@@ -92,6 +95,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时25分]"
         },
         {
           "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
@@ -114,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
@@ -230,6 +256,18 @@
           "time_info": "[01时43分 ~ 03时27分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时25分]"
+        },
+        {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
           "url": "https://www.zhihu.com/question/2035662942067225907",
           "source": "知乎",
@@ -242,26 +280,15 @@
           "time_info": "[10时07分 ~ 13时24分]"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
           "ranks": [
-            12
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
+          "time_info": "[15时24分 ~ 15时25分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
@@ -369,7 +396,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -415,6 +442,17 @@
           "time_info": "[01时43分 ~ 05时55分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 15时25分]"
+        },
+        {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2365305",
           "source": "财联社热门",
@@ -426,17 +464,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 10时07分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时24分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
