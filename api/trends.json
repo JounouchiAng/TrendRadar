@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T21:10:37.400342+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-05-08T23:18:50.962191+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[03时26分 ~ 19时03分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 23时18分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -62,19 +76,6 @@
           "time_info": "[01时43分 ~ 04时59分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 21时10分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
@@ -92,11 +93,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 21时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时18分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 23时18分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -178,19 +193,6 @@
           "time_info": "[21时09分 ~ 21时10分]"
         },
         {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时07分 ~ 21时10分]"
-        },
-        {
           "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100476",
           "source": "华尔街见闻-快讯",
@@ -223,6 +225,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 13时24分]"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
@@ -450,6 +463,17 @@
           "time_info": "17时07分"
         },
         {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -527,6 +551,17 @@
           "time_info": "19时03分"
         },
         {
+          "title": "顶级玩家已开始让AI用AI",
+          "url": "https://www.toutiao.com/trending/7637442790393122350/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
           "url": "https://flash.jin10.com/detail/20260508181508907800",
           "source": "金十数据",
@@ -563,8 +598,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 21时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 23时18分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -665,7 +700,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -773,7 +808,7 @@
     },
     {
       "keyword_group": "OPPO",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OPPO 母亲节海报文案因称「妈妈有两个老公」引发争议，数码品牌营销的创意边界该如何界定？",
@@ -792,11 +827,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时03分 ~ 21时10分]"
+          "appearance_count": 4,
+          "time_info": "[19时03分 ~ 23时18分]"
         },
         {
           "title": "OPPO就母亲节文案致歉",
@@ -819,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "OPPO营销翻车惹全网声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354108&amp;topic_name=OPPO%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6%E6%83%B9%E5%85%A8%E7%BD%91%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "OPPO回应母亲节文案争议",
@@ -871,8 +918,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时18分]"
         },
         {
           "title": "十余年蛰伏到人均奖金超300万：海力士如何击败巨头三星？丨Hi，今天怎么看？",
