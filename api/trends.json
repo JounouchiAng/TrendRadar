@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:39:24.702881+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-11T05:40:04.008902+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -37,11 +38,12 @@
             9,
             6,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -51,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -61,11 +63,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -75,11 +78,12 @@
             24,
             20,
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -90,8 +94,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -105,6 +109,19 @@
           "time_info": "[00时42分 ~ 00时43分]"
         },
         {
+          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
+          "url": "https://flash.jin10.com/detail/20260511030929783800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 05时40分]"
+        },
+        {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
           "url": "https://flash.jin10.com/detail/20260511014908913800",
           "source": "金十数据",
@@ -115,18 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时54分]"
-        },
-        {
-          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
-          "url": "https://flash.jin10.com/detail/20260511030929783800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时39分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -179,8 +184,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "如何看待武汉大学就 OPPO 母亲节文案发声明，称学校极不认同文案内容？",
@@ -191,8 +196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "武汉大学就OPPO母亲节文案发声",
@@ -204,8 +209,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时40分]"
         },
         {
           "title": "中国妇女报评OPPO母亲节文案",
@@ -214,7 +219,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         }
@@ -232,8 +237,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         }
       ]
     },
@@ -251,8 +256,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 05时40分]"
         }
       ]
     },
@@ -287,11 +292,12 @@
             2,
             7,
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 05时40分]"
         }
       ]
     }
