@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:57:01.099009+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-10T22:18:22.134431+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 22时18分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -84,6 +84,19 @@
           "time_info": "[01时42分 ~ 13时38分]"
         },
         {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时38分 ~ 22时18分]"
+        },
+        {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
           "url": "https://www.cls.cn/detail/2366653",
           "source": "财联社热门",
@@ -95,19 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 07时38分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时38分 ~ 20时57分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -161,8 +161,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 22时18分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时58分 ~ 20时57分]"
+          "time_info": "[17时25分 ~ 22时18分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -177,18 +190,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 10时00分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 20时57分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -218,6 +219,22 @@
           "time_info": "[00时42分 ~ 07时38分]"
         },
         {
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            17,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时58分 ~ 22时18分]"
+        },
+        {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -229,6 +246,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时38分 ~ 17时25分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 22时18分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -245,19 +275,15 @@
           "time_info": "[07时38分 ~ 15时58分]"
         },
         {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            8,
-            13,
-            17,
-            20
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时58分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时18分]"
         },
         {
           "title": "据消息人士透露，阿里巴巴将把千问大模型（Qwen AI）整合至淘宝，并推出“智能体购物”功能。（路透）",
@@ -300,19 +326,6 @@
           "time_info": "[13时38分 ~ 19时43分]"
         },
         {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 20时57分]"
-        },
-        {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
           "url": "https://wallstreetcn.com/livenews/3101101",
           "source": "华尔街见闻-快讯",
@@ -337,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 15时58分]"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "AI修复美国公布UFO照片",
@@ -424,18 +426,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时34分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -446,8 +436,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时38分 ~ 22时18分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时38分 ~ 20时57分]"
+          "time_info": "[00时42分 ~ 06时34分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -501,8 +503,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时55分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 22时18分]"
         },
         {
           "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
@@ -531,7 +533,7 @@
     },
     {
       "keyword_group": "OPPO",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "OPPO母亲节文案“两个老公”引争议，中国妇女报：品牌传播别把冒犯当创意",
@@ -544,12 +546,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时58分 ~ 17时25分]"
+        },
+        {
+          "title": "如何看待武汉大学就 OPPO 母亲节文案发声明，称学校极不认同文案内容？",
+          "url": "https://www.zhihu.com/question/2036878078077580026",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "武汉大学就OPPO母亲节文案发声",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%B0%B1OPPO%E6%AF%8D%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三星堆首次发现陨铁器",
@@ -562,12 +586,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时55分 ~ 20时57分]"
+        },
+        {
+          "title": "三星堆出土“来自上天的馈赠”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E5%87%BA%E5%9C%9F%E2%80%9C%E6%9D%A5%E8%87%AA%E4%B8%8A%E5%A4%A9%E7%9A%84%E9%A6%88%E8%B5%A0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "狂卖80亿美元微软持仓！知名科技对冲基金“十年持股一朝清仓”",
@@ -580,6 +615,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时38分 ~ 10时00分]"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)在东非的数据中心选址因与肯尼亚政府就公司要求的保证付款存在分歧而延迟。",
+          "url": "https://flash.jin10.com/detail/20260510213825805800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
