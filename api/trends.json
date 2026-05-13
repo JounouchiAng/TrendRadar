@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-05-13T07:52:40.728073+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-05-13T10:11:46.784392+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时11分]"
+        },
+        {
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时11分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -31,17 +45,35 @@
           "time_info": "[00时16分 ~ 07时52分]"
         },
         {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
-          "source": "华尔街见闻",
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7
+            26,
+            23,
+            16,
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时11分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            24,
+            21,
+            20,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 10时11分]"
         },
         {
           "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
@@ -55,33 +87,50 @@
           "time_info": "02时51分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
+          "url": "https://flash.jin10.com/detail/20260513100539572800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            23,
-            16,
-            27
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            24,
-            21,
-            20,
-            30
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
+        },
+        {
+          "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
+          "url": "https://wallstreetcn.com/livenews/3102632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -96,6 +145,17 @@
           "time_info": "[02时51分 ~ 07时52分]"
         },
         {
+          "title": "Create2026百度AI开发者大会",
+          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
           "url": "https://flash.jin10.com/detail/20260513022035588800",
           "source": "金十数据",
@@ -107,15 +167,26 @@
           "time_info": "02时51分"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
+          "title": "百度李彦宏：AI时代的度量衡是日活智能体数",
+          "url": "https://flash.jin10.com/detail/20260513100228613800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "AI会员有必要充吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "10时11分"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -128,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 04时26分]"
-        },
-        {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
@@ -175,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 06时05分]"
+        },
+        {
+          "title": "据韩联社：现代汽车集团将在光州测试人工智能驱动的自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20260513100202558800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "据The Information：微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
@@ -216,7 +287,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -227,7 +298,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -249,7 +320,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -260,7 +331,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -271,7 +342,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -293,7 +364,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -304,7 +375,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -334,7 +405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -376,22 +447,35 @@
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
         },
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
           "url": "https://www.cls.cn/detail/2369590",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股收盘）",
@@ -422,18 +506,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -455,7 +528,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -475,11 +548,34 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时11分]"
+        },
+        {
+          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
+          "url": "https://www.cls.cn/detail/2369664",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "英伟达股价美股夜盘涨超2%。此前白宫证实英伟达CEO黄仁勋将随同特朗普访华。",
+          "url": "https://wallstreetcn.com/livenews/3102620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
@@ -554,7 +650,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -585,6 +681,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三星电子抹去此前6.1%的跌幅，转为上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3102627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "三星电子抹去一度高达6.1%的跌幅，转为上涨0.9%。",
+          "url": "https://flash.jin10.com/detail/20260513094654856800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
