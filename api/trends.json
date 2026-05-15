@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T10:12:05.591364+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-05-15T14:25:36.352680+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -72,17 +72,6 @@
           "time_info": "[02时30分 ~ 04时24分]"
         },
         {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
           "url": "https://www.cls.cn/detail/2371337",
           "source": "财联社热门",
@@ -140,6 +129,18 @@
           "time_info": "02时31分"
         },
         {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 14时25分]"
+        },
+        {
           "title": "黄仁勋谈中国AI发展",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -188,6 +189,17 @@
           "time_info": "[04时24分 ~ 06时02分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "腾讯辟谣“AI一号位即将离职”",
           "url": "https://www.toutiao.com/trending/7639594791072628786/",
           "source": "今日头条",
@@ -195,8 +207,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 14时25分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -262,7 +274,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -284,7 +296,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -336,7 +348,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -359,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 14时25分]"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -488,6 +500,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美股股指期货持续下挫，纳指期货跌幅扩大至1%，标普500指数期货跌0.60%。",
+          "url": "https://wallstreetcn.com/livenews/3104138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "科技股之外美股散户还在炒作什么主线",
           "url": "https://www.toutiao.com/trending/7638781423885139987/",
           "source": "今日头条",
@@ -502,7 +525,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "三星堆考古发现“神秘器物”",
@@ -536,7 +559,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -547,9 +570,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "韩国政府表示，目前暂不考虑对三星电子罢工启动紧急仲裁。",
+          "url": "https://wallstreetcn.com/livenews/3104124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "三星电子股价跌幅扩大至3%。",
@@ -558,9 +592,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "韩国首尔综指重挫5%，受三星和SK海力士拖累。",
+          "url": "https://wallstreetcn.com/livenews/3104117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "三星电子韩国工会表示，在上午10点的截止期限前，尚未收到公司的任何消息。 三星电子工会负责人表示，不相信政府调解能行得通。",
@@ -569,15 +614,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "三星就劳工问题给公众带来的额外负担致歉。 三星电子高管敦促工会恢复薪资谈判。",
+          "url": "https://wallstreetcn.com/livenews/3104112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果深夜降价：iPhone17上市后首次降价",
@@ -587,8 +643,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 14时25分]"
         },
         {
           "title": "苹果回应iPhone17降价",
@@ -602,15 +670,15 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
+          "title": "曝苹果iPhone 18全系采用自研5G基带",
+          "url": "https://www.toutiao.com/trending/7639594976166772778/",
+          "source": "今日头条",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "特朗普数亿美元证券交易记录曝光 买入英伟达、苹果相关证券",
