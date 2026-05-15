@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T07:47:16.794678+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-05-15T10:12:05.591364+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -14,11 +14,24 @@
           "ranks": [
             18,
             2,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 10时12分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 10时12分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -59,23 +72,23 @@
           "time_info": "[02时30分 ~ 04时24分]"
         },
         {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
           "url": "https://www.cls.cn/detail/2371337",
           "source": "财联社热门",
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时47分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -91,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "Codex登陆ChatGPT手机App",
+          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "AI还原烂梗有多毒",
@@ -164,6 +188,17 @@
           "time_info": "[04时24分 ~ 06时02分]"
         },
         {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
           "url": "https://flash.jin10.com/detail/20260515040418915800",
           "source": "金十数据",
@@ -174,6 +209,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时02分]"
+        },
+        {
+          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
+          "url": "https://www.cls.cn/detail/2371792",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
+          "url": "https://www.zhihu.com/question/2038001830735655715",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -188,6 +245,28 @@
           "time_info": "[04时24分 ~ 06时02分]"
         },
         {
+          "title": "我被AI短剧盗脸了",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "中芯国际赵海军：一季度产能利用率环比下滑受AI“虹吸效应”及新厂走出开办期影响",
+          "url": "https://wallstreetcn.com/livenews/3104003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
           "url": "https://wallstreetcn.com/livenews/3103841",
           "source": "华尔街见闻-快讯",
@@ -197,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "氟化工概念开盘强势，滨化股份、中欣氟材一字涨停，中巨芯涨超15%，金石资源、多氟多、巨化股份、永和股份、三美股份纷纷高开，业内人士透露，韩国无水氢氟酸生产商包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3104002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "xAI发布Grok Build的一个早期测试版。",
@@ -216,7 +306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -227,7 +317,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -238,7 +328,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -246,7 +336,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -254,11 +344,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时05分 ~ 10时12分]"
         },
         {
           "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
@@ -267,9 +358,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 10时12分]"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -281,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
+          "url": "https://www.cls.cn/detail/2371779",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "应用材料第二财季净销售79.1亿美元，分析师预期76.7亿美元。 第二财季半导体系统净销售59.7亿美元，符合分析师预期。 预计第三财季净销售84.5亿-94.5亿美元，分析师预期81.5亿美元。 应用材料（AMAT）美股盘后涨4%。",
@@ -399,9 +501,117 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 6,
       "titles": [
+        {
+          "title": "三星堆考古发现“神秘器物”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E5%99%A8%E7%89%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时30分 ~ 10时12分]"
+        },
+        {
+          "title": "三星堆7号坑发现商代纯陨铁制品",
+          "url": "https://www.toutiao.com/trending/7639263704462868534/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 06时02分]"
+        },
+        {
+          "title": "三星电子提议与工会举行无条件谈判，但罢工计划维持不变",
+          "url": "https://flash.jin10.com/detail/20260515095726105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "三星电子韩国工会：三星公司已提议在无条件的情况下恢复与工会的谈判。 愿意在6月7日后进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3103993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "三星电子股价跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260515095023572800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "三星电子韩国工会表示，在上午10点的截止期限前，尚未收到公司的任何消息。 三星电子工会负责人表示，不相信政府调解能行得通。",
+          "url": "https://wallstreetcn.com/livenews/3103983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "苹果深夜降价：iPhone17上市后首次降价",
+          "url": "https://www.cls.cn/detail/2371883",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "苹果回应iPhone17降价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone17%E9%99%8D%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
         {
           "title": "特朗普数亿美元证券交易记录曝光 买入英伟达、苹果相关证券",
           "url": "https://flash.jin10.com/detail/20260515050557773800",
@@ -423,36 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "三星堆考古发现“神秘器物”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E5%99%A8%E7%89%A9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时30分 ~ 07时47分]"
-        },
-        {
-          "title": "三星堆7号坑发现商代纯陨铁制品",
-          "url": "https://www.toutiao.com/trending/7639263704462868534/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 06时02分]"
         }
       ]
     },
@@ -479,7 +659,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
