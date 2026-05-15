@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T19:48:35.639545+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-15T21:43:52.362920+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             5,
             12,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 21时43分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -60,6 +61,30 @@
           "time_info": "[00时05分 ~ 07时47分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 21时43分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 21时43分]"
+        },
+        {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
           "url": "https://www.zhihu.com/question/2037926535315677917",
           "source": "知乎",
@@ -74,6 +99,18 @@
           "time_info": "[00时05分 ~ 07时47分]"
         },
         {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 21时43分]"
+        },
+        {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
           "url": "https://wallstreetcn.com/articles/3772269",
           "source": "华尔街见闻",
@@ -84,29 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 04时24分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 19时48分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时48分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
@@ -141,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时48分]"
         },
         {
           "title": "AI还原烂梗有多毒",
@@ -236,6 +239,19 @@
           "time_info": "17时43分"
         },
         {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 21时43分]"
+        },
+        {
           "title": "腾讯辟谣“AI一号位即将离职”",
           "url": "https://www.toutiao.com/trending/7639594791072628786/",
           "source": "今日头条",
@@ -245,18 +261,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时11分 ~ 17时43分]"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时48分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -355,7 +359,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -407,7 +411,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -432,6 +436,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时47分 ~ 14时25分]"
+        },
+        {
+          "title": "美股三大股指集体低开，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。科技股多数下跌，英特尔、美光科技跌超5%，英伟达跌超2%。微软开盘涨1%，比尔·阿克曼表示，潘兴广场重仓微软。",
+          "url": "https://wallstreetcn.com/livenews/3104481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "全球长债收益率飙升，股市普遍下挫，美股盘前跌幅扩大，白银跌破80美元，黄金跌超1%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -559,6 +585,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-15）",
+          "url": "https://flash.jin10.com/detail/20260515211227878800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "美股股指期货持续下挫，纳指期货跌幅扩大至1%，标普500指数期货跌0.60%。",
           "url": "https://wallstreetcn.com/livenews/3104138",
           "source": "华尔街见闻-快讯",
@@ -568,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3104464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "科技股之外美股散户还在炒作什么主线",
@@ -584,7 +632,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "三星堆考古发现“神秘器物”",
@@ -616,11 +664,12 @@
           "url": "https://www.zhihu.com/question/2038317052054721795",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时43分]"
         },
         {
           "title": "三星电子提议与工会举行无条件谈判，但罢工计划维持不变",
@@ -632,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "三天大涨30%半导体热门股澄清：与三星无直接业务往来 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260515210911371800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "三星电子韩国工会：三星公司已提议在无条件的情况下恢复与工会的谈判。 愿意在6月7日后进行谈判。",
@@ -654,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "中巨芯：截至目前，公司电子级氢氟酸业务销售占比有限，同时公司与三星电子就电子级氢氟酸产品不存在直接业务往来，且截至目前公司并未与相关客户就上述产品签订实质性的涨价订单协议。",
+          "url": "https://wallstreetcn.com/livenews/3104454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "三星电子股价跌幅扩大至3%。",
@@ -714,8 +785,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 21时43分]"
         },
         {
           "title": "苹果深夜降价：iPhone17上市后首次降价",
@@ -751,6 +822,18 @@
           "time_info": "14时25分"
         },
         {
+          "title": "苹果手机为何宣布大降价",
+          "url": "https://www.toutiao.com/trending/7640011427918384646/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 21时43分]"
+        },
+        {
           "title": "苹果为什么要开始“去台积电”化",
           "url": "https://www.toutiao.com/trending/7639988378078809650/",
           "source": "今日头条",
@@ -771,18 +854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "苹果手机为何宣布大降价",
-          "url": "https://www.toutiao.com/trending/7640011427918384646/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时48分]"
         },
         {
           "title": "苹果深夜降价，17 Pro 系列首次进入 6000 元档位，17 到手 4499 元，怎样看待此次调价？",
