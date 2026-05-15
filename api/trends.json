@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T21:43:52.362920+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-05-15T23:57:52.850799+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -37,6 +37,31 @@
           "time_info": "[10时11分 ~ 21时43分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 23时57分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 23时57分]"
+        },
+        {
           "title": "高校硬查AI率,复旦教授怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
           "source": "贴吧",
@@ -59,30 +84,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 07时47分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 21时43分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 21时43分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -178,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
+          "url": "https://flash.jin10.com/detail/20260515233259808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -364,6 +376,39 @@
           "time_info": "19时48分"
         },
         {
+          "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
+          "url": "https://wallstreetcn.com/livenews/3104522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "报道：腾讯AI再出招，推出探索型vibe coding产品“吐司”",
+          "url": "https://wallstreetcn.com/livenews/3104518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "xAI发布Grok Build的一个早期测试版。",
           "url": "https://wallstreetcn.com/livenews/3103859",
           "source": "华尔街见闻-快讯",
@@ -397,6 +442,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "安徽力争“十五五”末实现人工智能应用落地超万个",
+          "url": "https://wallstreetcn.com/livenews/3104513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
           "url": "https://wallstreetcn.com/livenews/3103925",
           "source": "华尔街见闻-快讯",
@@ -406,12 +462,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "有消息人士称，委内瑞拉马拉开波湖（Lake Maracaibo）由委内瑞拉国家石油公司（PDVSA）运营的一处天然气设施发生火灾。 消息人士及相关视频显示，工人们正试图扑灭PDVSA天然气设施的火灾。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3104512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
@@ -444,9 +511,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        },
+        {
+          "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "全球长债收益率飙升，股市普遍下挫，美股盘前跌幅扩大，白银跌破80美元，黄金跌超1%",
@@ -455,7 +533,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -585,13 +663,24 @@
           "time_info": "04时24分"
         },
         {
+          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2372862",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-05-15）",
           "url": "https://flash.jin10.com/detail/20260515211227878800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -607,15 +696,37 @@
           "time_info": "14时25分"
         },
         {
+          "title": "美股软件股上涨，Workday(WDAY.O)涨3.9%，Salesforce(CRM.N)涨3.5%，Adobe(ADBE.O)涨3.2%，Zscaler涨3%。",
+          "url": "https://flash.jin10.com/detail/20260515230655008800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3104464",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
+        },
+        {
+          "title": "美股三大股指低开 芯片股集体下挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E4%BD%8E%E5%BC%80+%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8B%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "科技股之外美股散户还在炒作什么主线",
@@ -648,6 +759,19 @@
           "time_info": "[02时30分 ~ 10时12分]"
         },
         {
+          "title": "韩国股市破 8000 点新高后跳水，终结五周连涨，三星、海力士大跌，此前韩国人借钱炒股创纪录，为什么崩盘？",
+          "url": "https://www.zhihu.com/question/2038317052054721795",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 23时57分]"
+        },
+        {
           "title": "三星堆7号坑发现商代纯陨铁制品",
           "url": "https://www.toutiao.com/trending/7639263704462868534/",
           "source": "今日头条",
@@ -658,18 +782,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时02分]"
-        },
-        {
-          "title": "韩国股市破 8000 点新高后跳水，终结五周连涨，三星、海力士大跌，此前韩国人借钱炒股创纪录，为什么崩盘？",
-          "url": "https://www.zhihu.com/question/2038317052054721795",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时43分]"
         },
         {
           "title": "三星电子提议与工会举行无条件谈判，但罢工计划维持不变",
@@ -689,7 +801,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -722,7 +834,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -774,7 +886,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
@@ -785,8 +897,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 23时57分]"
         },
         {
           "title": "苹果深夜降价：iPhone17上市后首次降价",
@@ -811,6 +923,18 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "苹果手机为何宣布大降价",
+          "url": "https://www.toutiao.com/trending/7640011427918384646/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 23时57分]"
+        },
+        {
           "title": "曝苹果iPhone 18全系采用自研5G基带",
           "url": "https://www.toutiao.com/trending/7639594976166772778/",
           "source": "今日头条",
@@ -822,16 +946,15 @@
           "time_info": "14时25分"
         },
         {
-          "title": "苹果手机为何宣布大降价",
-          "url": "https://www.toutiao.com/trending/7640011427918384646/",
-          "source": "今日头条",
+          "title": "苹果公司股价涨幅扩大至1%。Workday涨3.9%，Salesforce涨3.5%，Adobe涨3.2%，Zscaler涨3%。 标普500指数目前跌1%，道指跌450点、跌幅0.9%，纳指跌362点、跌幅1.4%，纳斯达克100指数跌407点、跌幅1.4%，费城半导体指数跌460点、跌幅3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104532",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            21
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 21时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "苹果为什么要开始“去台积电”化",
@@ -877,13 +1000,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "部分降价千元！苹果华为开启促销，iPhone17Pro最低6999元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181501",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         }
       ]
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
+          "url": "https://flash.jin10.com/detail/20260515233342413800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
         {
           "title": "微软(MSFT.O)宣布卡梅尔·迪·西比奥（Carmine Di Sibio）被任命为董事会成员，董事会成员扩展至13人。",
           "url": "https://flash.jin10.com/detail/20260515040915797800",
