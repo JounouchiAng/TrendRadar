@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T13:47:06.082666+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-05-16T15:50:51.811411+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 15时50分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -266,11 +266,12 @@
           "ranks": [
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 13时47分]"
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 15时50分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -278,11 +279,24 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 15时50分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 15时50分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -305,17 +319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -465,9 +468,150 @@
       ]
     },
     {
-      "keyword_group": "Microsoft 微软",
-      "match_count": 4,
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "韩国股市破 8000 点新高后跳水，终结五周连涨，三星、海力士大跌，此前韩国人借钱炒股创纪录，为什么崩盘？",
+          "url": "https://www.zhihu.com/question/2038317052054721795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 07时46分]"
+        },
+        {
+          "title": "据韩联社：三星电子董事长李在镕对因内部问题引发的公众担忧深表歉意。",
+          "url": "https://flash.jin10.com/detail/20260516133352736800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "三星电子韩国工会与公司计划于周一重启薪酬谈判",
+          "url": "https://wallstreetcn.com/livenews/3104755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星电子工会：政府调解员将于下周一加入三星电子与其韩国工会举行的薪资谈判。",
+          "url": "https://flash.jin10.com/detail/20260516145353186800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星罢工风波祸及全球？欧美芯片股集体下跌",
+          "url": "https://www.cls.cn/detail/2372640",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "三星电子韩国工会表示，与三星电子计划于下周一恢复薪资谈判。",
+          "url": "https://flash.jin10.com/detail/20260516145156863800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星电子工会：三星电子更换公司代表进行薪资谈判。",
+          "url": "https://flash.jin10.com/detail/20260516144906461800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星电子工会：计划与公司管理层举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260516144646927800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星会长李在镕就劳工问题向公众道歉。韩国劳动部长敦促三星参与对话。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3104747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "三星董事长李在镕呼吁劳资团结",
+          "url": "https://flash.jin10.com/detail/20260516140324884800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "据韩联社：韩国劳动部长与三星电子管理层举行会谈，敦促公司与工会展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260516135532226800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
+          "url": "https://flash.jin10.com/detail/20260516150549630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
         {
           "title": "比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。",
           "url": "https://wallstreetcn.com/livenews/3104625",
@@ -555,48 +699,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时23分 ~ 10时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国股市破 8000 点新高后跳水，终结五周连涨，三星、海力士大跌，此前韩国人借钱炒股创纪录，为什么崩盘？",
-          "url": "https://www.zhihu.com/question/2038317052054721795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 07时46分]"
-        },
-        {
-          "title": "据韩联社：三星电子董事长李在镕对因内部问题引发的公众担忧深表歉意。",
-          "url": "https://flash.jin10.com/detail/20260516133352736800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "三星罢工风波祸及全球？欧美芯片股集体下跌",
-          "url": "https://www.cls.cn/detail/2372640",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
         }
       ]
     },
