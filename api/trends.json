@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T01:50:47.396256+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-05-18T02:55:23.679163+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -79,11 +79,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -93,8 +94,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -122,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         }
       ]
     },
@@ -136,11 +137,12 @@
           "url": "https://wallstreetcn.com/articles/3772439",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 02时55分]"
         }
       ]
     }
