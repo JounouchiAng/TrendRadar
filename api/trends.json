@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:50:47.250202+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T10:29:18.613047+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时29分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
           "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时29分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时29分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -37,17 +49,6 @@
           "ranks": [
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时50分]"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -72,11 +73,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时29分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -112,7 +114,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -123,7 +125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -134,7 +136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -185,11 +187,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时50分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时29分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -198,15 +201,66 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三星罢工倒计时！韩政府发出“最后通牒”：明日劳资复谈是“最后的机会”",
+          "url": "https://wallstreetcn.com/articles/3772439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时29分]"
+        },
+        {
+          "title": "三星电子与工会重启薪资谈判",
+          "url": "https://flash.jin10.com/detail/20260518101317030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "韩国法院称，三星电子工会行动不得导致生产材料降级。",
+          "url": "https://flash.jin10.com/detail/20260518100410183800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "韩国法院部分批准三星电子提出的针对工会拟举行罢工的禁令请求。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3105020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果华为小米集体降价",
@@ -222,24 +276,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时01分 ~ 07时50分]"
+        },
+        {
+          "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
+          "url": "https://www.zhihu.com/question/2038622939864461547",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
     {
-      "keyword_group": "SAMSUNG 三星",
+      "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "三星罢工倒计时！韩政府发出“最后通牒”：明日劳资复谈是“最后的机会”",
-          "url": "https://wallstreetcn.com/articles/3772439",
-          "source": "华尔街见闻",
+          "title": "强势美元会否压垮黄金有色价格",
+          "url": "https://www.toutiao.com/trending/7641006149717724723/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            29
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
