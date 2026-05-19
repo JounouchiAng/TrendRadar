@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:34:28.467422+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-05-19T21:50:45.426402+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -38,11 +38,12 @@
             2,
             4,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 21时50分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -55,6 +56,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 06时51分]"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
         },
         {
           "title": "中专生花10天手搓AI短片火遍全网",
@@ -96,44 +133,35 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时50分]"
         },
         {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "外交部：中美同意开展人工智能政府间对话",
-          "url": "https://www.cls.cn/detail/2375378",
-          "source": "财联社热门",
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "21时50分"
         },
         {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
         },
         {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
@@ -147,6 +175,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "微软(MSFT.O)推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。",
+          "url": "https://flash.jin10.com/detail/20260519212220088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "戴尔：人工智能解决方案将持续提供至2026年。",
           "url": "https://flash.jin10.com/detail/20260519010958023800",
           "source": "金十数据",
@@ -158,15 +197,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "微软推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3106087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "21时50分"
         },
         {
           "title": "戴尔：Reflection的开源前沿人工智能模型将于戴尔AI工厂上线。",
@@ -196,11 +235,36 @@
           "source": "贴吧",
           "ranks": [
             7,
-            12
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时50分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 21时50分]"
+        },
+        {
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
         },
         {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
@@ -240,6 +304,17 @@
           "time_info": "[03时26分 ~ 07时57分]"
         },
         {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时50分]"
+        },
+        {
           "title": "用AI记录早餐奶奶的一生",
           "url": "https://www.douyin.com/hot/2503064",
           "source": "抖音",
@@ -258,9 +333,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
+          "url": "https://www.cls.cn/detail/2375797",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "戴尔：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
@@ -274,17 +360,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
-          "url": "https://www.cls.cn/detail/2375531",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "戴尔：Palantir的Foundry和AIP平台将进驻戴尔AI工厂。",
           "url": "https://flash.jin10.com/detail/20260519010837822800",
           "source": "金十数据",
@@ -296,13 +371,24 @@
           "time_info": "01时26分"
         },
         {
+          "title": "影石发布首款旗舰无线麦克风Mic Pro，以墨水屏与AI降噪切入专业音频市场",
+          "url": "https://wallstreetcn.com/livenews/3106084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
           "url": "https://www.cls.cn/detail/2374998",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -349,28 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
@@ -434,7 +498,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -494,6 +558,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "巴克莱称AI热潮将提振资源丰富型新兴市场的货币",
+          "url": "https://wallstreetcn.com/livenews/3106061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "马斯克败诉：美AI权力格局更加清晰",
           "url": "https://www.toutiao.com/trending/7641379878092148287/",
           "source": "今日头条",
@@ -508,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -516,11 +591,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时51分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[06时51分 ~ 21时50分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -574,6 +650,28 @@
           "time_info": "[06时51分 ~ 14时41分]"
         },
         {
+          "title": "美股存储概念股由跌转涨，美光科技涨超2%，闪迪涨超1%，西部数据涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3106096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普跌，全球航空业ETF跌超2%，可选消费ETF跌1.5%，生物科技指数ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3106095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
           "url": "https://wallstreetcn.com/livenews/3105599",
           "source": "华尔街见闻-快讯",
@@ -607,6 +705,28 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美股盘初：纳指跌0.5%，哔哩哔哩跌约5%，费城半导体指数下跌2.2%",
+          "url": "https://wallstreetcn.com/livenews/3106092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "通胀忧虑升温，美股期指下挫，美债收益率高企，现货黄金跌破4500",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
           "url": "https://wallstreetcn.com/livenews/3105595",
           "source": "华尔街见闻-快讯",
@@ -638,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
@@ -679,9 +810,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3106075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美股创近百年最大分化！指数在狂欢，多数成份股却在逆行",
@@ -693,12 +835,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-19）",
+          "url": "https://flash.jin10.com/detail/20260519210459781800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "三星半导体前总裁：预测存储价格明年下半年开跌，中国企业正在大幅扩产",
@@ -707,11 +860,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 21时50分]"
         },
         {
           "title": "产能将激增，前三星芯片负责人预测明年下半年内存将显著降价！",
@@ -732,9 +886,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
+          "url": "https://www.cls.cn/detail/2375716",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "韩国央行：预计三星电子罢工将造成GDP增速被削弱0.5个百分点。",
@@ -757,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "三星劳资双方第二轮调解，韩法院要求工会维持人力和产能违规将赔偿，意味着什么？这场博弈会以什么方式收场？",
+          "url": "https://www.zhihu.com/question/2039722810918921503",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "三星电子股价下跌4.3%。",
@@ -833,6 +1009,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "受通胀担忧影响，美国国债收益率上升，黄金和白银价格下跌",
+          "url": "https://wallstreetcn.com/livenews/3106093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "VIVO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价韩国网友把「vivo 增距镜」加进中国旅行购物清单？增距镜为何成为韩国人眼中的中国特产？",
+          "url": "https://www.zhihu.com/question/2036416374130434442",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     }
