@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-21T10:29:10.592437+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-21T14:44:04.077293+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 14时44分]"
+        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
@@ -20,6 +33,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 07时05分]"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -66,19 +90,6 @@
           "time_info": "07时05分"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 10时29分]"
-        },
-        {
           "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
           "url": "https://flash.jin10.com/detail/20260521063630853800",
           "source": "金十数据",
@@ -88,6 +99,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时44分]"
         },
         {
           "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
@@ -101,15 +124,15 @@
           "time_info": "07时05分"
         },
         {
-          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
-          "url": "https://www.zhihu.com/question/2040425345606578251",
-          "source": "知乎",
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -123,13 +146,24 @@
           "time_info": "00时50分"
         },
         {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
           "title": "受OpenAI及SB Energy IPO计划双重提振，软银股价大涨近20%",
           "url": "https://flash.jin10.com/detail/20260521095917152800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -158,6 +192,19 @@
           "time_info": "[05时43分 ~ 07时05分]"
         },
         {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时44分]"
+        },
+        {
           "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
           "url": "https://www.cls.cn/detail/2377170",
           "source": "财联社热门",
@@ -169,16 +216,15 @@
           "time_info": "[10时28分 ~ 10时29分]"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
+          "title": "最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮",
+          "url": "https://www.cls.cn/detail/2377274",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "SpaceX：计划在月球和火星建立制造基础设施。预计最早将在2028年开始部署轨道人工智能计算卫星。",
@@ -190,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "罢工威胁解除+英伟达助攻：韩国股市暴拉逾8%！亚洲AI叙事卷土重来",
+          "url": "https://flash.jin10.com/detail/20260521140203154800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -418,6 +475,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时05分 ~ 14时44分]"
+        },
+        {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
@@ -430,17 +498,6 @@
           "time_info": "[00时50分 ~ 10时29分]"
         },
         {
-          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
-          "url": "https://www.cls.cn/detail/2377305",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 10时29分]"
-        },
-        {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -448,8 +505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时44分]"
         },
         {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
@@ -459,8 +516,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时44分]"
         },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
@@ -604,7 +661,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "三星电子劳资谈判结束，工会决定暂缓罢工",
@@ -632,15 +689,37 @@
           "time_info": "[03时14分 ~ 10时29分]"
         },
         {
+          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
+          "url": "https://www.cls.cn/detail/2377510",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
           "title": "三星罢工威胁暂时解除，韩国股市大涨逾6%",
           "url": "https://flash.jin10.com/detail/20260521100302264800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "三星罢工危机暂解，加薪6.2%，芯片部门按业绩10.5%计提奖金，以税后股票发放",
+          "url": "https://wallstreetcn.com/articles/3772758",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
         },
         {
           "title": "三星电子工会已推迟罢工",
@@ -660,7 +739,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -671,7 +750,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
