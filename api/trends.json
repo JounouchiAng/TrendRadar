@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T18:17:23.527697+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-22T21:24:37.193796+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -92,11 +92,12 @@
             14,
             13,
             22,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 21时24分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -122,18 +123,6 @@
           "time_info": "[14时40分 ~ 18时17分]"
         },
         {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时17分]"
-        },
-        {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
@@ -142,8 +131,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时24分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时24分]"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
@@ -156,17 +158,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时30分 ~ 14时41分]"
-        },
-        {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -237,13 +228,24 @@
           "time_info": "[07时52分 ~ 14时41分]"
         },
         {
+          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "朱自清《荷塘月色》AI率超60%",
           "url": "https://www.toutiao.com/trending/7642580693547057188/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -257,6 +259,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 21时24分]"
+        },
+        {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 21时24分]"
         },
         {
           "title": "AI给了大话西游可能最好的结局",
@@ -325,17 +373,6 @@
           "time_info": "02时53分"
         },
         {
-          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
-          "url": "https://www.zhihu.com/question/2040949624073152492",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
           "url": "https://www.zhihu.com/question/2037993874522629479",
           "source": "知乎",
@@ -364,7 +401,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -479,6 +516,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "观想科技：子公司拟投资建设巴里坤AI科技成果转化总部基地项目，计划总投资约10亿元",
+          "url": "https://wallstreetcn.com/livenews/3108021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
           "url": "https://flash.jin10.com/detail/20260522061919828800",
           "source": "金十数据",
@@ -493,7 +541,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -529,6 +577,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 06时12分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522205630527800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3108061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
@@ -611,7 +681,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -625,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "布伦特原油5分钟内下跌1.13美元/桶，报103.19美元/桶；WTI原油5分钟内下跌1.13美元/桶，报96.33美元/桶。 美股期货拉升，标普500指数期货涨0.4%。 美国国债扩大涨幅，10年期国债收益率触及盘中低点4.54%。 欧洲债券扩大涨幅，德国10年期国债收益率下跌7个基点至3.03%。",
+          "url": "https://wallstreetcn.com/livenews/3108046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
@@ -644,7 +725,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -655,7 +736,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -666,7 +747,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -674,7 +755,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "三星内存工人奖金或达280万元",
@@ -688,6 +769,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时46分 ~ 10时31分]"
+        },
+        {
+          "title": "三星，让韩国人心乱了！",
+          "url": "https://news.ifeng.com/c/8tKxnCyZk6b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "三星内存工人或将获得280万人民币奖金！工会即将就新协议投票",
@@ -713,6 +805,17 @@
           "time_info": "[14时40分 ~ 14时41分]"
         },
         {
+          "title": "三星电子工会就临时薪资协议启动投票",
+          "url": "https://wallstreetcn.com/livenews/3108030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "三星4.8万人罢工叫停 发生了什么",
           "url": "https://www.toutiao.com/trending/7642345178245631551/",
           "source": "今日头条",
@@ -722,6 +825,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果1.8亿美元玻璃亭有哪些黑科技",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C1.8%E4%BA%BF%E7%BE%8E%E5%85%83%E7%8E%BB%E7%92%83%E4%BA%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
@@ -764,26 +895,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果1.8亿美元玻璃亭有哪些黑科技",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C1.8%E4%BA%BF%E7%BE%8E%E5%85%83%E7%8E%BB%E7%92%83%E4%BA%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%BB%91%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
