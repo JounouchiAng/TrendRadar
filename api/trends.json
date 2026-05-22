@@ -1,29 +1,56 @@
 {
-  "generated_at": "2026-05-22T07:52:52.067009+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-05-22T10:31:06.516702+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时52分]"
-        },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -43,38 +70,12 @@
           "time_info": "[00时35分 ~ 07时52分]"
         },
         {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时52分]"
-        },
-        {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
           "url": "https://www.cls.cn/detail/2378186",
           "source": "财联社热门",
           "ranks": [
             6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时52分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -99,11 +100,23 @@
             15,
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时31分]"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -161,6 +174,29 @@
           "time_info": "02时53分"
         },
         {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时31分]"
+        },
+        {
+          "title": "AI给了大话西游可能最好的结局",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%BB%99%E4%BA%86%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E5%8F%AF%E8%83%BD%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BB%93%E5%B1%80&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
           "title": "为什么搞AI的赚不过卖存储的",
           "url": "https://www.toutiao.com/trending/7642241770243231286/",
           "source": "今日头条",
@@ -200,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -238,17 +274,6 @@
           "time_info": "02时53分"
         },
         {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
           "url": "https://flash.jin10.com/detail/20260521233812388800",
           "source": "金十数据",
@@ -269,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：我们将在AI PC领域看到显著的两位数增长。",
+          "url": "https://flash.jin10.com/detail/20260522095503813800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "加密货币交易平台Blockchain.com秘密提交IPO申请",
@@ -302,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "AMD首席执行官苏姿丰：下一波重大趋势将是物理人工智能，包括机器人技术。",
+          "url": "https://flash.jin10.com/detail/20260522095440020800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目",
@@ -343,7 +390,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -380,11 +427,12 @@
           "url": "https://www.cls.cn/detail/2378488",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时31分]"
         },
         {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
@@ -477,6 +525,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "三星内存工人奖金或达280万元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%86%85%E5%AD%98%E5%B7%A5%E4%BA%BA%E5%A5%96%E9%87%91%E6%88%96%E8%BE%BE280%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 10时31分]"
+        },
+        {
           "title": "三星内存工人或将获得280万人民币奖金！工会即将就新协议投票",
           "url": "https://www.cls.cn/detail/2377973",
           "source": "财联社热门",
@@ -489,26 +550,13 @@
           "time_info": "[02时53分 ~ 07时52分]"
         },
         {
-          "title": "三星内存工人奖金或达280万元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%86%85%E5%AD%98%E5%B7%A5%E4%BA%BA%E5%A5%96%E9%87%91%E6%88%96%E8%BE%BE280%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 07时52分]"
-        },
-        {
           "title": "三星4.8万人罢工叫停 发生了什么",
           "url": "https://www.toutiao.com/trending/7642345178245631551/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
