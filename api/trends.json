@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:02:40.007731+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-24T05:45:24.456226+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -39,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
@@ -89,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -113,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 05时45分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
@@ -134,7 +135,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
