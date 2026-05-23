@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T00:52:03.111913+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T01:55:48.077137+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -37,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
@@ -80,17 +81,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
           "url": "https://www.cls.cn/detail/2379735",
           "source": "财联社热门",
@@ -98,19 +88,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
+        },
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
           "url": "https://www.cls.cn/detail/2379649",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时55分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
