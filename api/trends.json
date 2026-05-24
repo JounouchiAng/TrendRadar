@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:15:34.009654+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-24T19:08:32.018167+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -42,11 +42,25 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[07时49分 ~ 19时08分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 19时08分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -60,18 +74,6 @@
           "time_info": "[00时51分 ~ 06时43分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 17时15分]"
-        },
-        {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
           "url": "https://flash.jin10.com/detail/20260524095245715800",
           "source": "金十数据",
@@ -81,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-          "url": "https://flash.jin10.com/detail/20260524165346994800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -110,11 +101,24 @@
           "url": "https://wallstreetcn.com/articles/3772986",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时08分]"
+        },
+        {
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时08分]"
         },
         {
           "title": "AI时代最不可替代的东西",
@@ -185,6 +189,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "为什么大众对 AI 生成代码的道德容忍度要明显高于 AI 生成的图片视频和音乐？",
+          "url": "https://www.zhihu.com/question/2009963807217304580",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "AI正在学会撒谎求生",
           "url": "https://www.toutiao.com/trending/7643267343396638234/",
           "source": "今日头条",
@@ -211,8 +226,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 17时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -224,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 17时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 19时08分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -274,6 +289,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时15分 ~ 14时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星与SK海力士员工正疯狂抢购豪车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E4%B8%8ESK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%91%98%E5%B7%A5%E6%AD%A3%E7%96%AF%E7%8B%82%E6%8A%A2%E8%B4%AD%E8%B1%AA%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     }
