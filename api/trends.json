@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:52:45.602555+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-05-25T10:34:29.623711+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 10时34分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -27,11 +28,12 @@
             28,
             24,
             27,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 10时34分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -46,6 +48,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时03分 ~ 07时52分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -106,6 +119,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 03时03分]"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
+          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -139,6 +174,23 @@
       ]
     },
     {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储热潮愈演愈烈！奖金拿到手软 三星、SK海力士员工涌入豪车展厅",
+          "url": "https://www.cls.cn/detail/2380008",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Microsoft 微软",
       "match_count": 1,
       "titles": [
@@ -151,11 +203,12 @@
             16,
             12,
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 10时34分]"
         }
       ]
     }
