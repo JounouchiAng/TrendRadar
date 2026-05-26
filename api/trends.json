@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T10:35:43.837090+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-05-26T14:39:34.122358+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 10时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 14时39分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -69,6 +70,18 @@
           "time_info": "[01时00分 ~ 07时57分]"
         },
         {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 14时39分]"
+        },
+        {
           "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
           "url": "https://wallstreetcn.com/livenews/3108971",
           "source": "华尔街见闻-快讯",
@@ -80,15 +93,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "14时39分"
         },
         {
           "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
@@ -136,13 +149,24 @@
           "time_info": "[01时00分 ~ 01时01分]"
         },
         {
+          "title": "京东AI静音口罩工位k歌神器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "高盛CEO驳斥AI“就业末日论”，称AI将提高生产率、创造新岗位",
           "url": "https://flash.jin10.com/detail/20260526095105373800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -150,7 +174,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
@@ -162,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "一个危险信号正在闪烁：买美股和买美债的预期回报已几乎没差别",
+          "url": "https://flash.jin10.com/detail/20260526142116078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
@@ -178,7 +213,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "单日涨跌可达±60%！韩国将上市三星电子及SK海力士杠杆ETF",
@@ -190,6 +225,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        },
+        {
+          "title": "据韩联社：韩国法院驳回了暂停三星主要工会谈判的禁令请求。",
+          "url": "https://flash.jin10.com/detail/20260526142652994800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法拉利电动车被吐槽“苹果味”十足",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A2%AB%E5%90%90%E6%A7%BD%E2%80%9C%E8%8B%B9%E6%9E%9C%E5%91%B3%E2%80%9D%E5%8D%81%E8%B6%B3",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     }
