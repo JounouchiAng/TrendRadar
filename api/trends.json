@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T04:01:54.004179+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-05-28T05:59:39.258170+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
@@ -52,6 +52,19 @@
           "time_info": "01时52分"
         },
         {
+          "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
+          "url": "https://www.zhihu.com/question/2042293920017691036",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
+        },
+        {
           "title": "野生vs养殖,AI大战鲤鱼图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
           "source": "贴吧",
@@ -59,20 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
-        },
-        {
-          "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
-          "url": "https://www.zhihu.com/question/2042293920017691036",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -82,8 +83,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
@@ -92,9 +93,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
+          "url": "https://wallstreetcn.com/livenews/3110262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
+          "url": "https://flash.jin10.com/detail/20260528043829957800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -103,15 +126,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
+          "url": "https://wallstreetcn.com/livenews/3110250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧",
+          "url": "https://wallstreetcn.com/livenews/3110247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -121,8 +166,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
+        },
+        {
+          "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
+          "url": "https://wallstreetcn.com/livenews/3110274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -136,6 +192,28 @@
           "time_info": "[01时52分 ~ 04时01分]"
         },
         {
+          "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
+          "url": "https://wallstreetcn.com/livenews/3110264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3110260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
           "url": "https://flash.jin10.com/detail/20260528011006984800",
           "source": "金十数据",
@@ -145,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3110256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "“泡沫预言家”：美股或面临十年低迷",
@@ -171,8 +260,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
@@ -185,6 +274,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国官员：美国国防部向微软(MSFT.O)授予了97亿美元的企业软件合同，旨在降低成本。",
+          "url": "https://flash.jin10.com/detail/20260528051532668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
