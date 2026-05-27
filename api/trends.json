@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T14:56:17.023425+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-05-27T18:50:15.272606+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 07时02分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 18时50分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -44,16 +57,18 @@
           "time_info": "[01时21分 ~ 05时39分]"
         },
         {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
           "ranks": [
-            3,
-            1
+            14,
+            15,
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 18时50分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -68,17 +83,16 @@
           "time_info": "[05时39分 ~ 10时33分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15,
-            22
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 14时56分]"
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 18时50分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -86,11 +100,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 18时50分]"
         },
         {
           "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
@@ -104,15 +119,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
-          "url": "https://www.cls.cn/detail/2382543",
-          "source": "财联社热门",
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
-            5
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "18时50分"
         },
         {
           "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
@@ -132,7 +147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -167,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -189,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -200,7 +215,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -219,7 +234,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -290,6 +305,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
           "url": "https://wallstreetcn.com/livenews/3109648",
           "source": "华尔街见闻-快讯",
@@ -326,8 +363,32 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "就在明天！韩股迎来三星、SK海力士两倍杠杆ETF，单日涨跌幅可达60%",
+          "url": "https://wallstreetcn.com/articles/3773160",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 18时50分]"
+        },
+        {
+          "title": "芯片业又迎利好！三星薪资协议获批 存储员工坐等270万元巨奖",
+          "url": "https://www.cls.cn/detail/2382578",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 18时50分]"
+        },
         {
           "title": "文件显示，三星正计划在越南建造一座价值15亿美元的存储芯片测试工厂。 三星正向越南申请环境许可证，以建造这座新工厂。 三星新建的存储芯片测试工厂预计将于2027年11月开始投入运营。（路透）",
           "url": "https://wallstreetcn.com/livenews/3109775",
@@ -340,15 +401,15 @@
           "time_info": "10时33分"
         },
         {
-          "title": "就在明天！韩股迎来三星、SK海力士两倍杠杆ETF，单日涨跌幅可达60%",
-          "url": "https://wallstreetcn.com/articles/3773160",
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 14时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "三星计划在越南投资15亿美元建设芯片测试厂",
@@ -360,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "芯片业又迎利好！三星薪资协议获批 存储员工坐等270万元巨奖",
-          "url": "https://www.cls.cn/detail/2382578",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
         },
         {
           "title": "市场消息：三星考虑在越南芯片项目中追加25亿美元投资。",
@@ -393,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "【Q1全球DRAM市占排名：三星继续领跑 长鑫存储份额升至7.7%】据CFM闪存市场数据显示，三星一季度DRAM销售收入达382.14亿美元，环比增长98.4%，市场份额为40.5%，进一步拉大和其他供应商的份额差距，排名第一；SK海力士一季度DRAM销售收入达279.25亿美元，因其HBM供应占比较多，总收入环比增长62.1%低于其他供应商，市场份额为29.6%，排名第二；美光一季度（2025年12月-2026年2月）DRAM销售收入达187.68亿美元，环比增长73.6%，市场份额19.9%，排名第三；长鑫存储一季度DRAM销售收入达73.09亿美元，环比增长115.1%，市场份额进一步提升至7.7%，排名第四。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3110001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "三星电子工会表示其成员已批准薪资协议，73.7%的投票支持薪资协议。",
