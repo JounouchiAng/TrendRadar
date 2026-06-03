@@ -1,40 +1,42 @@
 {
-  "generated_at": "2026-06-03T07:28:34.729884+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-06-03T10:50:26.668057+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 07时28分]"
-        },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 10时50分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 10时50分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -52,6 +54,29 @@
           "time_info": "[02时32分 ~ 07时28分]"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时50分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "微软发布可充当行政助理的AI软件",
           "url": "https://wallstreetcn.com/livenews/3113231",
           "source": "华尔街见闻-快讯",
@@ -63,15 +88,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
+          "title": "翘楚配角 我不是AI",
+          "url": "https://s.weibo.com/weibo?q=%E7%BF%98%E6%A5%9A%E9%85%8D%E8%A7%92%20%E6%88%91%E4%B8%8D%E6%98%AFAI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "10时50分"
         },
         {
           "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
@@ -80,7 +105,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -91,7 +116,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -102,7 +127,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -135,7 +160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -157,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -173,15 +198,39 @@
           "time_info": "02时32分"
         },
         {
+          "title": "腾讯：目前无法确定微信AI智能体何时推出",
+          "url": "https://wallstreetcn.com/livenews/3113439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 10时50分]"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时50分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -196,6 +245,17 @@
           "time_info": "[02时32分 ~ 05时42分]"
         },
         {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
           "url": "https://www.cls.cn/detail/2388372",
           "source": "财联社热门",
@@ -207,17 +267,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
-          "url": "https://www.cls.cn/detail/2388943",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。",
           "url": "https://wallstreetcn.com/livenews/3113218",
           "source": "华尔街见闻-快讯",
@@ -227,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -284,13 +344,35 @@
           "time_info": "02时32分"
         },
         {
+          "title": "腾讯人士：目前无法确定微信AI智能体何时推出",
+          "url": "https://flash.jin10.com/detail/20260603101139183800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "腾讯AI产业应用大会将在北京开幕，汤道生、姚顺雨将对话解读腾讯AI下半场",
+          "url": "https://flash.jin10.com/detail/20260603101014825800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3113311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -426,7 +508,7 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "微软(MSFT.O)首席执行官：AGENT 365 SDK现已全面上线。",
@@ -440,6 +522,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
+          "url": "https://www.cls.cn/detail/2388956",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "微软(MSFT.O)推出新款GitHub Copilot编程应用程序。",
           "url": "https://flash.jin10.com/detail/20260603015410461800",
           "source": "金十数据",
@@ -449,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "微软(MSFT.O)首席执行官推出一项技术，助力OpenClaw在Windows系统上顺畅运行。",
@@ -471,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "微软发布全新量子芯片",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E9%87%8F%E5%AD%90%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "微软(MSFT.O)官方透露，便携式“Project Solara”项目设备将具备医疗患者登记签到功能。",
@@ -497,8 +612,47 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "男子称淘宝百亿补贴苹果新机疑似后封机",
+          "url": "https://www.toutiao.com/trending/7645907048660025398/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "女儿吐槽父亲网购车厘子树却结苹果",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%84%BF%E5%90%90%E6%A7%BD%E7%88%B6%E4%BA%B2%E7%BD%91%E8%B4%AD%E8%BD%A6%E5%8E%98%E5%AD%90%E6%A0%91%E5%8D%B4%E7%BB%93%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "苹果预热WWDC26",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E9%A2%84%E7%83%ADWWDC26",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "三星堆考古发现11件红玉髓珠",
@@ -509,8 +663,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 10时50分]"
         },
         {
           "title": "三星堆考古发现11件红玉髓珠",
@@ -524,6 +678,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 07时28分]"
+        },
+        {
+          "title": "黄仁勋谈三星劳资争议：我觉得应该给员工尽可能高的工资，在能力范围内，我有多少就发多少",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294535",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
