@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-03T10:50:26.668057+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-06-03T16:08:15.384381+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 16时08分]"
+        },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
@@ -20,16 +33,16 @@
           "time_info": "[02时32分 ~ 10时50分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
           "ranks": [
             3,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时32分 ~ 10时50分]"
+          "time_info": "[07时28分 ~ 16时08分]"
         },
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -43,6 +56,17 @@
           "time_info": "[02时32分 ~ 07时28分]"
         },
         {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 16时08分]"
+        },
+        {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
           "url": "https://wallstreetcn.com/articles/3773537",
           "source": "华尔街见闻",
@@ -54,27 +78,15 @@
           "time_info": "[02时32分 ~ 07时28分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 10时50分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -94,9 +106,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
@@ -204,7 +227,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -221,6 +244,18 @@
           "time_info": "[02时32分 ~ 10时50分]"
         },
         {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
@@ -231,6 +266,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 10时50分]"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
+        {
+          "title": "杭州13岁小孩哥AI识毒果断报警",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E13%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%93%A5AI%E8%AF%86%E6%AF%92%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -251,7 +319,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -276,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -350,7 +407,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -361,7 +418,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -508,8 +565,43 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
+          "url": "https://www.cls.cn/detail/2388956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 16时08分]"
+        },
+        {
+          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
+          "url": "https://wallstreetcn.com/articles/3773707",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 16时08分]"
+        },
+        {
+          "title": "从12毫秒到20秒！微软亮出全新量子芯片：可靠性实现千倍飞跃",
+          "url": "https://www.cls.cn/detail/2389226",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
         {
           "title": "微软(MSFT.O)首席执行官：AGENT 365 SDK现已全面上线。",
           "url": "https://flash.jin10.com/detail/20260603020027480800",
@@ -522,17 +614,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
-          "url": "https://www.cls.cn/detail/2388956",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "微软(MSFT.O)推出新款GitHub Copilot编程应用程序。",
           "url": "https://flash.jin10.com/detail/20260603015410461800",
           "source": "金十数据",
@@ -542,17 +623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "微软Build火力全开：Web IQ要做智能体搜索的Bing，量子芯片升级瞄准2029年实用，“龙虾”搬上Windows PC",
-          "url": "https://wallstreetcn.com/articles/3773707",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "微软(MSFT.O)首席执行官推出一项技术，助力OpenClaw在Windows系统上顺畅运行。",
@@ -583,7 +653,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -613,8 +683,19 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "李连杰展示削苹果",
+          "url": "https://www.toutiao.com/trending/7646426983148159017/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 16时08分]"
+        },
         {
           "title": "男子称淘宝百亿补贴苹果新机疑似后封机",
           "url": "https://www.toutiao.com/trending/7645907048660025398/",
@@ -622,7 +703,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -633,7 +714,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -644,7 +725,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -667,6 +748,18 @@
           "time_info": "[02时32分 ~ 10时50分]"
         },
         {
+          "title": "黄仁勋谈三星劳资争议：我觉得应该给员工尽可能高的工资，在能力范围内，我有多少就发多少",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33294535",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时50分 ~ 16时08分]"
+        },
+        {
           "title": "三星堆考古发现11件红玉髓珠",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B011%E4%BB%B6%E7%BA%A2%E7%8E%89%E9%AB%93%E7%8F%A0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -678,17 +771,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 07时28分]"
-        },
-        {
-          "title": "黄仁勋谈三星劳资争议：我觉得应该给员工尽可能高的工资，在能力范围内，我有多少就发多少",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33294535",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         }
       ]
     },
