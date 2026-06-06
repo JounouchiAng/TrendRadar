@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T06:10:03.018684+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-06-06T08:00:16.977604+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -16,8 +16,46 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
+        },
+        {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -32,39 +70,17 @@
           "time_info": "[00时26分 ~ 06时10分]"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
-        },
-        {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -72,18 +88,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
-        },
-        {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             10
           ],
           "is_new": false,
@@ -102,6 +106,17 @@
           "time_info": "[02时55分 ~ 04时46分]"
         },
         {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
@@ -112,6 +127,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 06时10分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
+          "url": "https://www.zhihu.com/question/2046178335382843425",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -147,17 +184,6 @@
           "time_info": "04时46分"
         },
         {
-          "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
-          "url": "https://wallstreetcn.com/livenews/3115354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
           "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
           "url": "https://flash.jin10.com/detail/20260606041131799800",
           "source": "金十数据",
@@ -170,6 +196,29 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3115354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 08时00分]"
+        },
+        {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3115292",
           "source": "华尔街见闻-快讯",
@@ -179,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于国家安全领域人工智能建设的指令。",
@@ -250,7 +310,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -258,11 +318,23 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 08时00分]"
+        },
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
@@ -285,6 +357,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
+          "url": "https://wallstreetcn.com/livenews/3115381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -311,15 +405,37 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "美股三大指数齐跌 纳指跌逾千点",
+          "url": "https://www.toutiao.com/trending/7647681791742214171/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
           "url": "https://wallstreetcn.com/livenews/3115352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3115384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
@@ -339,7 +455,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -350,7 +466,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
