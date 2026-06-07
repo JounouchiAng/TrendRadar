@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T21:23:02.089209+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-06-07T23:19:25.129530+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -88,6 +88,19 @@
           "time_info": "[01时01分 ~ 08时03分]"
         },
         {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 23时19分]"
+        },
+        {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
           "url": "https://wallstreetcn.com/livenews/3115486",
           "source": "华尔街见闻-快讯",
@@ -103,17 +116,16 @@
           "time_info": "[01时02分 ~ 13时17分]"
         },
         {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时17分 ~ 21时23分]"
+          "time_info": "[16时45分 ~ 23时19分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -128,18 +140,6 @@
           "time_info": "[01时01分 ~ 04时05分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 21时23分]"
-        },
-        {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
@@ -152,6 +152,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时58分 ~ 19时02分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时03分 ~ 23时19分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 23时19分]"
         },
         {
           "title": "北大UP主手搓AI猫娘",
@@ -178,17 +206,18 @@
           "time_info": "[13时17分 ~ 19时02分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12,
-            11
+            6,
+            30,
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 21时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 23时19分]"
         },
         {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
@@ -204,19 +233,6 @@
           "time_info": "[16时45分 ~ 21时23分]"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 21时23分]"
-        },
-        {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
@@ -228,20 +244,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时17分 ~ 21时23分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[13时17分 ~ 21时23分]"
         },
         {
@@ -299,11 +301,12 @@
           "source": "微博",
           "ranks": [
             25,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 23时19分]"
         },
         {
           "title": "AI写的高考作文你打几分",
@@ -373,6 +376,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "AI炒完芯片后，下一轮被抢的会是谁？",
+          "url": "https://flash.jin10.com/detail/20260607214620913800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
           "url": "https://flash.jin10.com/detail/20260606230103106800",
           "source": "金十数据",
@@ -382,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850545&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Lk5lb_SlH5TkzfY-AB4dV.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260607214619409800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "北京高考作文考教老人用AI",
@@ -420,7 +445,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -433,8 +458,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 21时23分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 23时19分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -483,6 +508,39 @@
           "time_info": "[02时06分 ~ 05时58分]"
         },
         {
+          "title": "国泰海通：美股或迎来至少一两个月的波动期",
+          "url": "https://flash.jin10.com/detail/20260607222627146800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "业内：不要“无视”周五美股的大跌",
           "url": "https://www.toutiao.com/trending/7648521565105032746/",
           "source": "今日头条",
@@ -506,11 +564,12 @@
           "ranks": [
             10,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 23时19分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国贸易帐、CPI和PPI陆续公布；美国CPI；苹果WWDC开发者大会、华为开发者大会轮番上演、SpaceX上市",
@@ -519,9 +578,38 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
+          "url": "https://flash.jin10.com/detail/20260607222604947800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
+          "url": "https://wallstreetcn.com/livenews/3115545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 23时19分]"
         }
       ]
     },
@@ -556,23 +644,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时06分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
-          "url": "https://wallstreetcn.com/livenews/3115545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         }
       ]
     }
