@@ -1,187 +1,215 @@
 {
-  "generated_at": "2026-06-08T21:59:39.993274+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-06-09T01:24:16.959172+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 35,
+      "keyword_group": "苹果",
+      "match_count": 13,
       "titles": [
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
+          "title": "苹果(AAPL.O)：通过“浏览前询问”功能，将家长的控制范围从应用程序扩展至整个网络。",
+          "url": "https://flash.jin10.com/detail/20260609012339332800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
-          "url": "https://www.zhihu.com/question/1969653840065332479",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时55分 ~ 17时18分]"
-        },
-        {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 21时59分]"
-        },
-        {
-          "title": "软通动力与腾讯云签署AI战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3116031",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果(AAPL.O)：从今年起，家长可以让孩子仅访问自己放心的内容。",
+          "url": "https://flash.jin10.com/detail/20260609012208064800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "01时24分"
         },
         {
-          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
-          "url": "https://www.cls.cn/detail/2392807",
-          "source": "财联社热门",
+          "title": "苹果(AAPL.O)：正与美国医生团体合作制定设备使用指南。",
+          "url": "https://flash.jin10.com/detail/20260609012125134800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果开发者大会",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
+          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)：苹果设备将支持设备内内容的搜索索引。",
+          "url": "https://flash.jin10.com/detail/20260609011434195800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)：iOS 27将支持iPhone 11系列机型。",
+          "url": "https://flash.jin10.com/detail/20260609011349319800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)：将多层Liquid Glass（液态玻璃）效果直接融入应用图标设计中。",
+          "url": "https://flash.jin10.com/detail/20260609011059250800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)：下一个版本的macOS名为Golden Gate。",
+          "url": "https://flash.jin10.com/detail/20260609010533403800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果软件主管克雷格·费德里吉：苹果计划更新儿童安全功能。",
+          "url": "https://flash.jin10.com/detail/20260609010459294800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "UP主在WWDC遇苹果新CEO",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8WWDC%E9%81%87%E8%8B%B9%E6%9E%9C%E6%96%B0CEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO蒂姆·库克表示，WWDC的发布内容将聚焦于苹果智能和Siri。",
+          "url": "https://flash.jin10.com/detail/20260609010452349800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十提示：苹果(AAPL.O) WWDC 2026开发者大会已开始。",
+          "url": "https://flash.jin10.com/detail/20260609010233896800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
+          "url": "https://www.cls.cn/detail/2393919",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
           "url": "https://www.zhihu.com/question/2047267736485631665",
           "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "北京高考英语作文：帮李华写信谈AI",
-          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%EF%BC%9A%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E8%B0%88AI",
-          "source": "百度热搜",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "01时24分"
         },
         {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "SpaceX“世纪IPO”估值再引质疑！专家：实际低得多 AI业务离盈利还很远",
-          "url": "https://www.cls.cn/detail/2393282",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 21时59分]"
-        },
-        {
-          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
-          "url": "https://www.cls.cn/detail/2393263",
-          "source": "财联社热门",
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
-          "url": "https://www.cls.cn/detail/2393919",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "01时24分"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
           "url": "https://www.cls.cn/detail/2393646",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "当我把今年高考语文作文题喂给AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
@@ -190,280 +218,49 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "01时24分"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "01时24分"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "私募股权科技交易额暴跌70%，AI担忧令投资者对估值越发谨慎",
+          "url": "https://wallstreetcn.com/livenews/3116264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时01分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时18分]"
-        },
-        {
-          "title": "ChatGPT转型",
-          "url": "https://s.weibo.com/weibo?q=%23ChatGPT%E8%BD%AC%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "库克最后一舞 苹果将更新AI重大进展",
-          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E+%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%9B%B4%E6%96%B0AI%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "天娱数科：公司关注到近期有部分媒体对公司业务相关讨论涉及“物理AI”概念，截至目前，公司没有物理AI业务，未形成相关业务收入。",
-          "url": "https://wallstreetcn.com/livenews/3116190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
-          "url": "https://wallstreetcn.com/livenews/3115671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "金安国纪：公司覆铜板主要客户为PCB厂商，未发现在AI服务器及算力领域的应用",
-          "url": "https://wallstreetcn.com/livenews/3116187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
-          "url": "https://wallstreetcn.com/livenews/3115669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "同程旅行将接入微信AI智能体",
-          "url": "https://flash.jin10.com/detail/20260608210727503800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
-          "url": "https://wallstreetcn.com/livenews/3115668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "AMD：未来五年将在英国投资20亿英镑，以支持AI创新。",
-          "url": "https://wallstreetcn.com/livenews/3116007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "当我把今年高考语文作文题喂给AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
-          "url": "https://wallstreetcn.com/livenews/3115665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "微信宣布面向开发者提供接入微信AI生态的能力",
-          "url": "https://wallstreetcn.com/livenews/3115998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "Anthropic警告AI失控",
-          "url": "https://s.weibo.com/weibo?q=Anthropic%E8%AD%A6%E5%91%8AAI%E5%A4%B1%E6%8E%A7&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "博通(AVGO.O)扩大对Spring和Java生态系统安全的投资，以帮助客户应对人工智能带来的安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260608210110882800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 17时18分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时07分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时07分]"
-        },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -471,298 +268,70 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股开盘，道指涨0.26%，标普500指数涨0.79%，纳指涨1.39%。英特尔(INTC.O)涨11.5%，谷歌向其下单逾300万颗TPU。美国电池技术公司(ABAT.O)涨25.5%，此前公司赢得上诉、美国能源部为其项目恢复拨款。迈威尔科技(MRVL.O)涨9.6%。纳斯达克中国金龙指数涨0.53%。",
-          "url": "https://flash.jin10.com/detail/20260608213033883800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股三大股指集体高开，英特尔大涨超11%",
-          "url": "https://wallstreetcn.com/livenews/3116209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股盘前特朗普快速摁灭战火，伊朗借黎巴嫩议题撬动美以矛盾",
-          "url": "https://flash.jin10.com/detail/20260608212906749800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股盘前科技股多数反弹，韩股收跌跌超8%，油价飙升5%、黄金跌破4300",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "现货黄金、美股股指期货小幅拉升，WTI原油小幅下挫。",
-          "url": "https://flash.jin10.com/detail/20260608061554196800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3116200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "01时24分"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "国际油价亚市盘初上涨3%，此前伊朗对以色列发动打击。 美股期货走低，标普500指数期货、道指期货跌0.4%，纳斯达克100指数期货跌0.3%。 美元指数上涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3115648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "英特尔美股盘前涨超9%，报道称，谷歌和英伟达考虑将英特尔列为备用芯片制造合作伙伴，谷歌向英特尔下单采购超过300万枚TPU芯片。",
-          "url": "https://wallstreetcn.com/livenews/3116197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股股指期货周一低开，纳指期货跌0.6%，标普500指数期货跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20260608060031186800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "康宁美股盘前涨近10%，亚马逊宣布与康宁达成协议，以提升美国光纤制造能力，将创造1000个就业岗位。",
-          "url": "https://wallstreetcn.com/livenews/3116181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "国泰海通：美股或迎来至少一两个月的波动期",
-          "url": "https://flash.jin10.com/detail/20260607222627146800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美股IPO后续怎么看",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "大摩：美股抛售是健康的调整",
-          "url": "https://www.toutiao.com/trending/7648059901176463410/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "美股暴跌有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "下周重磅日程：SpaceX上市、苹果WWDC大会、中美通胀数据",
-          "url": "https://wallstreetcn.com/articles/3773936",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
-        },
-        {
-          "title": "本周重要事件与数据预告：中美CPI；苹果和华为开发者大会、SpaceX上市",
-          "url": "https://flash.jin10.com/detail/20260608065206228800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "苹果新CEO现身WWDC晚宴",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E7%8E%B0%E8%BA%ABWWDC%E6%99%9A%E5%AE%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "苹果系穿搭深得我心",
-          "url": "https://www.douyin.com/hot/2525560",
-          "source": "抖音",
+          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116263",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 17时18分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260609003906930800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "SK海力士和三星股价在NEXTRADE盘前交易中暴跌逾9%。",
-          "url": "https://wallstreetcn.com/livenews/3115666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
-          "url": "https://flash.jin10.com/detail/20260607222604947800",
+          "title": "据日经新闻：日本电信电话集团（NTT）将向美国和韩国投资者募集资金，设立规模为5亿美元的光网络基金。预计约有20家企业将参与NTT的该项基金，其中包括三星电子。",
+          "url": "https://flash.jin10.com/detail/20260609004519849800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "VIVO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "朱珠法网曝光vivo新折叠",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E6%B3%95%E7%BD%91%E6%9B%9D%E5%85%89vivo%E6%96%B0%E6%8A%98%E5%8F%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3115609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "01时24分"
         }
       ]
     }
