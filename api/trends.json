@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T01:53:03.814525+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T04:13:18.994818+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -26,19 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
         },
         {
           "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
@@ -47,31 +60,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
@@ -80,31 +71,56 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 04时13分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
           "url": "https://www.toutiao.com/trending/7649760127175904777/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
         },
         {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
@@ -118,26 +134,26 @@
           "time_info": "[01时52分 ~ 01时53分]"
         },
         {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
-        },
-        {
           "title": "微软限制员工使用Claude Fable。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3117635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
+          "url": "https://wallstreetcn.com/livenews/3117664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "阿波罗：过多AI支出被用于“低智商”任务",
@@ -146,7 +162,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         }
@@ -154,18 +170,63 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时13分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260611040637443800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260611040522177800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260611040511459800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美股收盘：纳指跌近2% 超微电脑大跌28%",
+          "url": "https://flash.jin10.com/detail/20260611040154334800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -174,7 +235,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -185,9 +246,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
+          "url": "https://wallstreetcn.com/livenews/3117660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     }
