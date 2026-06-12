@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:38:25.305829+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-06-12T15:14:39.506280+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 10时38分]"
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 15时14分]"
         },
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -101,11 +101,34 @@
             9,
             20,
             18,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 10时38分]"
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 15时14分]"
+        },
+        {
+          "title": "AI辅助一次能筛查70多种疾病",
+          "url": "https://wallstreetcn.com/livenews/3118656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
@@ -114,9 +137,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
@@ -143,6 +188,18 @@
           "time_info": "[02时06分 ~ 07时15分]"
         },
         {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "url": "https://www.cls.cn/detail/2397705",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 15时14分]"
+        },
+        {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
@@ -155,15 +212,15 @@
           "time_info": "[05时12分 ~ 07时15分]"
         },
         {
-          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
-          "url": "https://www.cls.cn/detail/2397705",
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "15时14分"
         },
         {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
@@ -177,15 +234,37 @@
           "time_info": "05时13分"
         },
         {
+          "title": "AI辅助一次能筛查70多种疾病",
+          "url": "https://flash.jin10.com/detail/20260612145529031800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "广州：全力推进智能网联与新能源汽车、人工智能、半导体及集成电路、低空经济等重大项目的落地",
           "url": "https://flash.jin10.com/detail/20260612095700182800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://wallstreetcn.com/livenews/3118623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "AI奇谈 绿茵恩仇录笑傲球湖",
@@ -194,7 +273,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
@@ -228,6 +307,19 @@
           "time_info": "[02时06分 ~ 10时38分]"
         },
         {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -240,27 +332,15 @@
           "time_info": "[02时06分 ~ 05时13分]"
         },
         {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 10时38分]"
-        },
-        {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 15时14分]"
         },
         {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
@@ -349,6 +429,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "午盘收盘，国内期货主力合约涨多跌少，钯涨近6%，焦炭、铂、沪银涨超3%，碳酸锂、沪锡、苹果、生猪涨超2%。跌幅方面，SC原油、液化石油气（LPG）跌超5%，低硫燃料油（LU）、燃料油跌超4%，丙烯跌近2%，聚丙烯月均、聚丙烯、集运欧线跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260612150054555800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SK海力士、三星、台积电同时被限！华尔街大行限制对冲基金对亚洲芯片股的杠杠押注",
+          "url": "https://wallstreetcn.com/articles/3774508",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     },
