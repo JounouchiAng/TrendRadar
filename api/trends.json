@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T21:27:06.086217+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-13T23:26:46.602016+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 23时26分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时50分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 23时26分]"
         },
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -56,6 +56,18 @@
           "time_info": "[01时32分 ~ 10时32分]"
         },
         {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 23时26分]"
+        },
+        {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
           "url": "https://wallstreetcn.com/articles/3774502",
           "source": "华尔街见闻",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "世界杯AI视频绿茵恩仇录火了",
@@ -231,6 +232,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
           "url": "https://flash.jin10.com/detail/20260613025928526800",
           "source": "金十数据",
@@ -240,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "这才是AI发展真正的意义",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
@@ -312,8 +335,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 23时26分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -326,8 +349,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 23时26分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -337,11 +360,12 @@
             10,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时08分 ~ 23时26分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
