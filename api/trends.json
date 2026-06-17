@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T19:28:36.528340+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-06-17T22:52:26.587301+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -95,6 +95,17 @@
           "time_info": "[01时55分 ~ 06时48分]"
         },
         {
+          "title": "美国总统特朗普：就人工智能（AI）问题进行了一次不错的会议。 与Anthropic的对话不错。",
+          "url": "https://wallstreetcn.com/livenews/3121083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3120568",
           "source": "华尔街见闻-快讯",
@@ -128,6 +139,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "高盛企业并购主管Stephan Feldgoise：2026年企业并购活动超过预期。 对私募（PE）和企业并购而言，2026年都是一个大年。 AI是2026年并购活动的一个驱动力。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3121080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
           "source": "今日头条",
@@ -142,15 +164,39 @@
           "time_info": "[01时55分 ~ 08时10分]"
         },
         {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
-          "source": "百度热搜",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美国总统特朗普：就人工智能问题举行了极好的会议。",
+          "url": "https://flash.jin10.com/detail/20260617222339035800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 22时52分]"
         },
         {
           "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
@@ -176,16 +222,27 @@
           "time_info": "08时10分"
         },
         {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            15
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时02分 ~ 19时28分]"
+          "time_info": "[19时28分 ~ 22时52分]"
         },
         {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
@@ -201,6 +258,18 @@
           "time_info": "[01时55分 ~ 08时10分]"
         },
         {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 22时52分]"
+        },
+        {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
@@ -211,6 +280,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时02分 ~ 19时28分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时28分 ~ 22时52分]"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
@@ -224,24 +316,13 @@
           "time_info": "14时02分"
         },
         {
-          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2402436",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
           "title": "德国总理默茨：认为七国集团峰会取得了“积极成果”。 七国集团关于地缘政治议题的联合声明取得成功。 七国集团成员国将通过制裁加大对俄罗斯的压力。 油价下跌是“好兆头”。 G7积极成果包括关键原材料、人工智能。",
           "url": "https://wallstreetcn.com/livenews/3120955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -255,17 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
         },
         {
           "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
@@ -312,6 +382,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "普通人选什么专业最不容易被 AI 替代？",
+          "url": "https://www.zhihu.com/question/2042985698823861883",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "依视路陆逊梯卡董事长兼首席执行官Francesco Milleri：我们相信，先进光学、AI与可穿戴技术的融合将为消费者开启全新一代的体验。 数十年来，依视路陆逊梯卡不断推动镜片和视觉性能的突破性创新，帮助重新定义人们感知周围世界的方式。 与应用材料公司携手，我们期待共同探索智能光学技术，助力塑造智能眼镜和下一代视觉计算的未来，为显示可穿戴设备品类的扩张打造新的全球驱动力。",
           "url": "https://wallstreetcn.com/livenews/3120432",
           "source": "华尔街见闻-快讯",
@@ -329,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -425,7 +506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -436,8 +517,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 19时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时48分 ~ 22时52分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -619,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF、科技行业ETF涨超1%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3121054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
@@ -631,11 +723,12 @@
           "url": "https://wallstreetcn.com/articles/3774826",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 19时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 22时52分]"
         },
         {
           "title": "SpaceX初步收涨4.9%。 标普500指数初步收跌0.5%，科技板块跌2.1%，能源板块跌0.4%，金融板块涨1.4%。 纳斯达克100指数初步收跌1.8%，成分股中，Lumentum初步收跌8.4%，MPWR跌8.2%，迈威尔科技跌8.1%，英特尔跌7.8%，科磊跌超7%，Strategy跌6.1%，闪迪跌5.8%，美光科技跌5.4%，核电股CEG涨2.1%，西部数据涨5.2%，游戏公司Take-Two Interactive Software Inc.涨6%。 道指初步收涨大约380点，成分股摩根大通涨3.6%，Visa、3MN、家得宝、美国运通、卡特彼勒、高盛至少涨1.4%，微软、Salesforce、英伟达则至多跌1.9%表现最差。 半导体指数跌5.3%。",
@@ -753,6 +846,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
