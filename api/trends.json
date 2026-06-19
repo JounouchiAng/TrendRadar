@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-19T07:41:59.308946+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-19T10:59:09.830240+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 10时59分]"
+        },
         {
           "title": "让AI走进千家万户",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
@@ -17,6 +30,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 07时41分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时05分 ~ 10时59分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时05分 ~ 10时59分]"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -32,29 +71,16 @@
           "time_info": "[01时02分 ~ 07时41分]"
         },
         {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 07时41分]"
-        },
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            4
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 07时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时59分]"
         },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
@@ -66,18 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时05分 ~ 07时41分]"
         },
         {
           "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
@@ -102,6 +116,30 @@
           "time_info": "03时17分"
         },
         {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 10时59分]"
+        },
+        {
           "title": "能源情报集团记者Amena Bakr：三艘载有约600万桶原油的沙特超大型油轮（VLCC）已通过霍尔木兹海峡，在消失两个多月后重新出现在AIS（船舶自动识别系统）上。",
           "url": "https://flash.jin10.com/detail/20260619024509451800",
           "source": "金十数据",
@@ -113,15 +151,15 @@
           "time_info": "03时17分"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
+          "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
+          "url": "https://wallstreetcn.com/livenews/3121959",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时41分"
+          "time_info": "10时59分"
         },
         {
           "title": "美国采取行动，加快AI数据中心接入电网",
@@ -134,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时41分]"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 07时41分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -171,13 +197,24 @@
           "time_info": "03时17分"
         },
         {
+          "title": "马斯克：Cursor和xAI都没有裁员。",
+          "url": "https://wallstreetcn.com/livenews/3121953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
           "url": "https://wallstreetcn.com/livenews/3121914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -191,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "摩根大通预计：受人工智能和改革推动，日经指数年底将达到7.5万点",
+          "url": "https://wallstreetcn.com/livenews/3121949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -224,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：近期价格上涨也受到需求驱动因素的影响，强劲的企业利润、稳定的工资增长以及活跃的人工智能相关需求支撑了日本经济。",
+          "url": "https://flash.jin10.com/detail/20260619095604845800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
@@ -282,11 +341,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 10时59分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -298,6 +358,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 06时05分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时59分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -318,18 +390,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -387,7 +448,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
