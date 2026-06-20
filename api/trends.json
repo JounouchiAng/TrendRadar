@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T05:05:08.169806+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-21T06:58:43.161053+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -24,33 +24,36 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时58分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -59,11 +62,12 @@
           "ranks": [
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -71,33 +75,47 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 06时58分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "06时58分"
         },
         {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 06时58分]"
         }
       ]
     },
@@ -114,8 +132,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -126,8 +144,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -137,8 +155,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时58分]"
         }
       ]
     }
