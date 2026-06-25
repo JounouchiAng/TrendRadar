@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T00:17:01.448644+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-26T03:03:11.836091+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "你对AI脸产生生理性厌恶了吗",
@@ -37,30 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
-          "url": "https://wallstreetcn.com/livenews/3124779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
@@ -70,19 +60,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
           "url": "https://wallstreetcn.com/articles/3775448",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
@@ -92,8 +83,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
+          "url": "https://wallstreetcn.com/livenews/3124779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "蒙罗能源：应急人员已扑灭位于宾夕法尼亚州特雷纳（Trainer）炼油厂的火灾，目前已宣布火势“已得到控制”。",
+          "url": "https://flash.jin10.com/detail/20260626023513316800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -103,30 +128,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "time_info": "[03时02分 ~ 03时03分]"
         },
         {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
@@ -135,37 +161,109 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
+          "url": "https://wallstreetcn.com/livenews/3124788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "苹果回应涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
+          "url": "https://www.zhihu.com/question/2053590927633900087",
+          "source": "知乎",
           "ranks": [
-            2
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
           "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "苹果回应涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
+          "url": "https://www.cls.cn/detail/2409516",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "苹果涨价iPhone未涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "苹果官宣涨价！",
+          "url": "https://news.ifeng.com/c/8uFfRkA5q1Y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "苹果多款产品涨价",
@@ -179,61 +277,6 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
-          "url": "https://www.zhihu.com/question/2053590927633900087",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "苹果官宣涨价！",
-          "url": "https://news.ifeng.com/c/8uFfRkA5q1Y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "苹果涨价iPhone未涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
-          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
-          "url": "https://www.cls.cn/detail/2409516",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
-        },
-        {
           "title": "苹果官宣涨价：iPad和Mac率先调价",
           "url": "https://www.douyin.com/hot/2547734",
           "source": "抖音",
@@ -241,8 +284,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "苹果官宣涨价",
@@ -252,36 +295,88 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         },
         {
           "title": "苹果涨价",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
+          "url": "https://wallstreetcn.com/livenews/3124789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "苹果重挫6%，创去年4月以来最大跌幅，该公司产品涨价、预留继续上调的空间",
+          "url": "https://wallstreetcn.com/livenews/3124783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
+        },
+        {
+          "title": "数字货币市场在美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3124793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软：在全球范围内更新Xbox价格，8月1日生效。 512 GB的Xbox游戏手柄将涨价100美元，1 TB游戏手柄将涨价150美元。",
+          "url": "https://wallstreetcn.com/livenews/3124792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         }
       ]
     },
@@ -294,11 +389,12 @@
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时03分]"
         }
       ]
     }
