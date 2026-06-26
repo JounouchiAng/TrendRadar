@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T14:45:04.413969+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-06-26T18:15:24.103961+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 40,
+      "match_count": 51,
       "titles": [
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
@@ -29,11 +29,12 @@
             7,
             9,
             11,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 14时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -144,6 +145,18 @@
           "time_info": "[00时16分 ~ 07时08分]"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 18时15分]"
+        },
+        {
           "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
           "url": "https://www.cls.cn/detail/2409443",
           "source": "财联社热门",
@@ -174,7 +187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -201,17 +214,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
           "title": "5秒AI视频用电量等于给10部手机充电",
           "url": "https://www.toutiao.com/trending/7655531313151623222/",
           "source": "今日头条",
@@ -221,6 +223,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "分析师：AI热潮有推高通胀前景的风险",
+          "url": "https://flash.jin10.com/detail/20260626174545955800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
@@ -268,6 +292,28 @@
           "time_info": "[05时23分 ~ 07时08分]"
         },
         {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "我国科研团队发布海洋关键材料AI科研助手",
+          "url": "https://wallstreetcn.com/livenews/3125194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -278,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 07时08分]"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 18时15分]"
         },
         {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
@@ -326,17 +384,6 @@
           "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "短剧男主自曝因AI失业已返乡卖菜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
-        },
-        {
           "title": "如何看待九成高报师用 AI 辅助填志愿？学生跳过高报师直接用 AI 报志愿可行吗？",
           "url": "https://www.zhihu.com/question/2053444677655688859",
           "source": "知乎",
@@ -359,6 +406,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "我国首条AI+个性化靶点肿瘤疫苗产线在北京经开区开建",
           "url": "https://wallstreetcn.com/livenews/3124945",
           "source": "华尔街见闻-快讯",
@@ -368,6 +426,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "中泰证券王芳：大模型的快速发展和供应链短缺 有利于AI行业高资本开支的持续",
+          "url": "https://wallstreetcn.com/livenews/3125184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
@@ -387,9 +467,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "《人工智能 智能体互联》系列7项国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3125180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -425,6 +516,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "分析师：需求弹性可能会成为制约AI相关盈利增长的下一个因素",
+          "url": "https://flash.jin10.com/detail/20260626173840891800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "据The Information：根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。",
           "url": "https://flash.jin10.com/detail/20260626040241840800",
           "source": "金十数据",
@@ -458,13 +560,35 @@
           "time_info": "03时03分"
         },
         {
+          "title": "芯原股份董事长：端侧AI的开发应用有望成为下一风口",
+          "url": "https://wallstreetcn.com/livenews/3125167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "于正这部AI剧夯爆了",
+          "url": "https://www.douyin.com/hot/2547720",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国银行将2026年中国出口增长预测上调至15%，受AI领域推动。",
           "url": "https://wallstreetcn.com/livenews/3125048",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -472,7 +596,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
@@ -484,8 +608,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 14时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -512,6 +636,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 07时08分]"
+        },
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 18时15分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -566,15 +701,17 @@
           "time_info": "[00时16分 ~ 07时08分]"
         },
         {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时08分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 18时15分]"
         },
         {
           "title": "苹果官宣涨价：iPad和Mac率先调价",
@@ -595,11 +732,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 14时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 18时15分]"
         },
         {
           "title": "苹果多款产品涨价",
@@ -615,19 +753,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 10时31分]"
-        },
-        {
-          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
-          "url": "https://wallstreetcn.com/articles/3775531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时08分 ~ 14时45分]"
         },
         {
           "title": "微软和苹果双双提价 霍尔木兹海峡通航量恢复至战事前57% | 环球市场",
@@ -677,6 +802,18 @@
           "time_info": "[14时44分 ~ 14时45分]"
         },
         {
+          "title": "苹果一声“涨价”，亚洲“果链”几乎全线遭殃",
+          "url": "https://www.cls.cn/detail/2410034",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 18时15分]"
+        },
+        {
           "title": "苹果调价暂未涉及手机品类",
           "url": "https://www.douyin.com/hot/2547840",
           "source": "抖音",
@@ -688,15 +825,26 @@
           "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "苹果一声“涨价”，亚洲“果链”几乎全线遭殃",
-          "url": "https://www.cls.cn/detail/2410034",
+          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
+          "url": "https://www.cls.cn/detail/2410279",
           "source": "财联社热门",
           "ranks": [
-            13
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "苹果涨价引山姆代购潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E5%BC%95%E5%B1%B1%E5%A7%86%E4%BB%A3%E8%B4%AD%E6%BD%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "48 位开发者联名举报苹果税双重标准，背弃最惠国承诺，巴西整体成本更低，若查实苹果会面临什么处罚？",
@@ -760,9 +908,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "苹果有产品一夜涨了3500元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%89%E4%BA%A7%E5%93%81%E4%B8%80%E5%A4%9C%E6%B6%A8%E4%BA%863500%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
@@ -790,7 +949,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -827,6 +986,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 07时08分]"
+        },
+        {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。 目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。",
@@ -993,7 +1163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
