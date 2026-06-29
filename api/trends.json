@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:24:00.177393+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-29T18:23:23.582295+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -84,11 +84,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 18时23分]"
+        },
+        {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时24分]"
+          "time_info": "[13时23分 ~ 18时23分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -123,20 +136,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "韩国总统李在明：需要比其他国家更快地确保人工智能要素发展。",
@@ -145,9 +147,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "日本防卫省正考虑引进美企人工智能系统",
+          "url": "https://wallstreetcn.com/livenews/3126063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -161,6 +174,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时07分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "华泰证券：大宗化工景气修复可期 电子化学品受益AI与国产替代",
@@ -180,7 +204,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -197,6 +221,17 @@
           "time_info": "[06时55分 ~ 08时02分]"
         },
         {
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
           "url": "https://flash.jin10.com/detail/20260629000635210800",
           "source": "金十数据",
@@ -207,6 +242,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "英国消费者健康公司Haleon：协议支持在业务中更广泛地采用人工智能驱动的工具。",
+          "url": "https://flash.jin10.com/detail/20260629173454903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -226,7 +294,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -234,8 +302,19 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
         {
           "title": "韩媒：三星和SK集团预计将宣布高达2000万亿韩元的投资计划",
           "url": "https://flash.jin10.com/detail/20260629074745960800",
@@ -259,6 +338,17 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
+          "title": "三星电子和 SK 海力士将发布大规模投资计划，规模预超 2000 万亿韩元，这一行动释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2054848792436762180",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "据韩国《每日经济》报道，三星与SK集团未来10年的投资计划总额或将达到2000万亿韩元（约合1.3万亿美元）。",
           "url": "https://flash.jin10.com/detail/20260629063120992800",
           "source": "金十数据",
@@ -268,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "报道：联想锁定美光、三星、SK海力士长协，内部人称“谁有供应谁有优势”",
+          "url": "https://wallstreetcn.com/livenews/3126049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "韩国总统办公室称，三星、SK海力士今天将公布投资计划。",
@@ -307,7 +408,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -322,6 +423,17 @@
           "time_info": "[00时59分 ~ 13时24分]"
         },
         {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
           "url": "https://flash.jin10.com/detail/20260629060352549800",
           "source": "金十数据",
@@ -331,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "电池技术公司Solidion Technology美股盘前上涨26.5%，此前公司宣布将购买SpaceX(SPCX.O)股份作为战略储备资产。",
+          "url": "https://flash.jin10.com/detail/20260629174744708800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
@@ -347,8 +470,30 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "苹果指责印度在反垄断调查中“照搬”竞争对手的指控",
+          "url": "https://flash.jin10.com/detail/20260629180313568800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
         {
           "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
           "url": "https://www.zhihu.com/question/2053876477876347476",
@@ -360,6 +505,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "据路透社：文件显示，苹果(AAPL.O)要求印度反垄断监管机构撤销针对公司的全部调查结论。苹果指责印度反垄断监管机构在未进行独立分析的情况下，“照搬照抄”竞争对手提出的指控。",
+          "url": "https://flash.jin10.com/detail/20260629175026583800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国消费者健康公司Haleon：与微软(MSFT.O)达成为期五年的合作协议。",
+          "url": "https://flash.jin10.com/detail/20260629173446276800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币ETF创推出以来最严重单月资金流出，净流出达40亿美元",
+          "url": "https://wallstreetcn.com/livenews/3126015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     }
