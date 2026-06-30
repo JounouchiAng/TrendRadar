@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-07-01T00:17:24.080609+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-01T02:29:43.203062+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
+          "title": "Anthropic：推出Claude Sonnet 5。",
+          "url": "https://flash.jin10.com/detail/20260701020323978800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时29分"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
+        },
+        {
+          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
+          "url": "https://wallstreetcn.com/livenews/3126913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +49,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
+        },
+        {
+          "title": "Anthropic推出Claude Sonnet 5。",
+          "url": "https://wallstreetcn.com/livenews/3126941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时29分"
         },
         {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
@@ -56,11 +79,45 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
+        },
+        {
+          "title": "Anthropic推出Claude Science，助力科研自动化",
+          "url": "https://wallstreetcn.com/livenews/3126932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时29分"
+        },
+        {
+          "title": "Anthropic推出Claude Science助力科研自动化",
+          "url": "https://flash.jin10.com/detail/20260701011624752800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
+          "url": "https://flash.jin10.com/detail/20260701010526378800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
@@ -76,6 +133,89 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
+          "url": "https://flash.jin10.com/detail/20260701000119871800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "苹果公司：很高兴最高法院将审理我们的案件。",
+          "url": "https://wallstreetcn.com/livenews/3126935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "苹果(AAPL.O)：Apple Creator Studio现已作为通用购买项目在App Store上架，可供下载。",
+          "url": "https://flash.jin10.com/detail/20260701010331075800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "苹果(AAPL.O)：Apple Creator Studio更新即日起向现有订阅用户免费提供；新订阅用户价格为每月12.99美元或每年129美元。",
+          "url": "https://flash.jin10.com/detail/20260701010304970800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "苹果(AAPL.O)：用户可以打开并自定义置于Keynote、Pages或Numbers中的任何图像，甚至可以将Final Cut Pro中的关键帧直接发送至Pixelmator Pro。",
+          "url": "https://flash.jin10.com/detail/20260701010243177800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "苹果(AAPL.O)：推出了Apple Creator Studio的更新。",
+          "url": "https://flash.jin10.com/detail/20260701010219316800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美最高法院将审理苹果公司上诉，涉其与Epic Games应用商店收费纠纷",
+          "url": "https://wallstreetcn.com/livenews/3126917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -87,8 +227,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
         },
         {
           "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
@@ -120,25 +260,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
         }
       ]
     },
     {
-      "keyword_group": "苹果",
+      "keyword_group": "SAMSUNG 三星",
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
-          "url": "https://flash.jin10.com/detail/20260701000119871800",
-          "source": "金十数据",
+          "title": "芯片设备类股走强，受三星和SK海力士宣布投资计划提振",
+          "url": "https://wallstreetcn.com/livenews/3126920",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加密货币市场二季度普跌，比特币已累跌超14%，以太币累跌超25%",
+          "url": "https://wallstreetcn.com/livenews/3126930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     }
