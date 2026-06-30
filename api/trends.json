@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T14:48:15.884985+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-06-30T18:26:12.023744+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 07时55分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 18时26分]"
         },
         {
           "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时54分 ~ 14时48分]"
-        },
-        {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 14时48分]"
         },
         {
           "title": "英伟达(NVDA.O)：Anthropic的Claude系列模型已上线微软Azure的NVIDIA GB300 Blackwell Ultra平台。",
@@ -127,6 +128,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 06时47分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "吴启华自曝卖肖像权拍AI电影",
@@ -184,7 +196,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -195,7 +207,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -247,7 +259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -257,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时26分]"
         },
         {
           "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
@@ -305,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美股出现罕见信号，“入熊”概率高达67%！",
+          "url": "https://www.cls.cn/detail/2412465",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "美股",
@@ -439,7 +462,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "涉嫌操纵DRAM价格及供应 三星、SK海力士和美光在美遭集体诉讼",
@@ -489,13 +512,24 @@
           "time_info": "[07时54分 ~ 10时29分]"
         },
         {
+          "title": "曝京东方无缘三星S27 OLED屏幕供应",
+          "url": "https://www.toutiao.com/trending/7657085971498844210/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "三星电子高管：未来芯片需求将大幅增长。 呼吁扩大核电产能。",
           "url": "https://wallstreetcn.com/livenews/3126526",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -514,7 +548,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
@@ -539,6 +573,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 05时17分]"
+        },
+        {
+          "title": "苹果噩耗！iPhone 18 Pro供应商清单、照片等全遭黑客泄露",
+          "url": "https://www.cls.cn/detail/2412382",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "苹果遭遇严重泄密事件",
+          "url": "https://www.toutiao.com/trending/7656752592895885362/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "苹果遭遇严重泄密事件",
