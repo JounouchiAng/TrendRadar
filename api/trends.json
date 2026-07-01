@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:59:50.578477+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-07-01T11:41:22.450597+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -38,9 +38,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时41分]"
         },
         {
           "title": "Anthropic：推出Claude Sonnet 5。",
@@ -76,6 +76,28 @@
           "time_info": "02时29分"
         },
         {
+          "title": "Anthropic宣布Fable 5 将于明天在Claude平台全球上线",
+          "url": "https://flash.jin10.com/detail/20260701112635319800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
+          "url": "https://flash.jin10.com/detail/20260701112605647800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
           "url": "https://wallstreetcn.com/livenews/3126902",
           "source": "华尔街见闻-快讯",
@@ -105,9 +127,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
@@ -116,9 +149,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
+          "url": "https://flash.jin10.com/detail/20260701111917615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "Anthropic推出Claude Science，助力科研自动化",
@@ -160,9 +204,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
+          "url": "https://flash.jin10.com/detail/20260701111702765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "Anthropic：Fable 5 将于明天在Claude平台全球上线。",
+          "url": "https://flash.jin10.com/detail/20260701111339492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
@@ -182,7 +259,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -193,7 +270,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -204,9 +281,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "为什么有人愿意花百万买一个AI恋人",
+          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
@@ -215,7 +303,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -234,7 +322,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -253,22 +341,36 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 11时41分]"
         },
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2413612",
           "source": "财联社热门",
           "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时41分]"
         },
         {
           "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
@@ -277,18 +379,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -313,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -485,7 +587,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -559,7 +661,7 @@
     },
     {
       "keyword_group": "Microsoft 微软",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软计划进行新一轮裁员，将影响到数千个岗位",
@@ -568,7 +670,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -579,7 +681,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -590,7 +692,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -601,9 +703,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
+          "url": "https://flash.jin10.com/detail/20260701111504167800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         }
       ]
     },
@@ -620,8 +733,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 07时59分]"
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 11时41分]"
         },
         {
           "title": "芯片设备类股走强，受三星和SK海力士宣布投资计划提振",
