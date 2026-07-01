@@ -1,1101 +1,199 @@
 {
-  "generated_at": "2026-07-01T22:09:31.026761+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-07-02T01:07:42.814243+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 22时09分]"
-        },
-        {
-          "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
-          "url": "https://www.zhihu.com/question/2055348161544295141",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 22时09分]"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "AI进入下半场：模型不再稀缺",
-          "url": "https://www.toutiao.com/trending/7657493112633167403/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 22时09分]"
-        },
-        {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时52分]"
-        },
-        {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 22时09分]"
-        },
-        {
-          "title": "Anthropic：推出Claude Sonnet 5。",
-          "url": "https://flash.jin10.com/detail/20260701020323978800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "01时07分"
         },
         {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://wallstreetcn.com/livenews/3127257",
+          "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
+          "url": "https://wallstreetcn.com/livenews/3127537",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "01时07分"
         },
         {
-          "title": "AI漫剧 降维打击",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&t=31&band_rank=6&Refer=top",
+          "title": "人工智能冲击婚纱影楼",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://flash.jin10.com/detail/20260701154708866800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "01时07分"
         },
         {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时52分]"
-        },
-        {
-          "title": "Anthropic推出Claude Sonnet 5。",
-          "url": "https://wallstreetcn.com/livenews/3126941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "Claude偷偷给中国用户打水印",
-          "url": "https://s.weibo.com/weibo?q=Claude%E5%81%B7%E5%81%B7%E7%BB%99%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E6%89%93%E6%B0%B4%E5%8D%B0&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "英国国家电网向美国AI电力公司投资17.5亿美元",
-          "url": "https://flash.jin10.com/detail/20260701191627658800",
-          "source": "金十数据",
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "Anthropic宣布Fable 5 将于明天在Claude平台全球上线",
-          "url": "https://flash.jin10.com/detail/20260701112635319800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
-          "url": "https://flash.jin10.com/detail/20260701112605647800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
-          "url": "https://wallstreetcn.com/livenews/3126902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
-          "url": "https://www.cls.cn/detail/2413771",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 16时04分]"
-        },
-        {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
-        {
-          "title": "终于明白AI免费和订阅的区别了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 02时29分]"
-        },
-        {
-          "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
-          "url": "https://flash.jin10.com/detail/20260701070002377800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
-          "url": "https://flash.jin10.com/detail/20260701070002368800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "AWS：Anthropic的Claude Fable 5模型将于明天在Bedrock上再次向客户提供。",
-          "url": "https://flash.jin10.com/detail/20260701111917615800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "Anthropic推出Claude Science，助力科研自动化",
-          "url": "https://wallstreetcn.com/livenews/3126932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "Anthropic推出Claude Science助力科研自动化",
-          "url": "https://flash.jin10.com/detail/20260701011624752800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
-          "url": "https://flash.jin10.com/detail/20260701050629588800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
-          "url": "https://flash.jin10.com/detail/20260701111702765800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "01时07分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时07分"
         },
         {
-          "title": "美联储主席沃什：美国不惧怕生产力驱动的经济增长。 AI模型改进的变化率是指数级的。 关于AI对就业影响的时间节点，存在严重疑问。 必须在就业和物价稳定方面都取得成效。",
-          "url": "https://wallstreetcn.com/livenews/3127452",
+          "title": "联合国秘书长呼吁各国加强人工智能治理",
+          "url": "https://wallstreetcn.com/livenews/3127526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "Anthropic：Fable 5 将于明天在Claude平台全球上线。",
-          "url": "https://flash.jin10.com/detail/20260701111339492800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "曾因AI裁员，如今雇主们却开始后悔",
-          "url": "https://wallstreetcn.com/livenews/3127456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "AI漫剧 好看",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Sonnet5？",
-          "url": "https://www.zhihu.com/question/2055567821904547893",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
-          "url": "https://flash.jin10.com/detail/20260701010526378800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美联储主席沃什：AI是否具有通胀效应，应由央行来决定。 货币政策会在我们的经济体之间产生溢出效应。 AI的蓬勃发展在美国表现得最为突出。 供给扩张将对政策产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3127450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "AI裁员 硅谷叶文洁出现了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
-          "url": "https://flash.jin10.com/detail/20260701063003352800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
-          "url": "https://wallstreetcn.com/livenews/3127224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "网友未备案AI动画被优酷备案后收费",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9C%AA%E5%A4%87%E6%A1%88AI%E5%8A%A8%E7%94%BB%E8%A2%AB%E4%BC%98%E9%85%B7%E5%A4%87%E6%A1%88%E5%90%8E%E6%94%B6%E8%B4%B9%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "为什么有人愿意花百万买一个AI恋人",
-          "url": "https://www.toutiao.com/trending/7657146718630461482/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "01时07分"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
           "url": "https://www.toutiao.com/trending/7657394487626416137/",
           "source": "今日头条",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "儿童正快速接受人工智能",
-          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E7%AB%A5%E6%AD%A3%E5%BF%AB%E9%80%9F%E6%8E%A5%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
-          "url": "https://wallstreetcn.com/livenews/3127006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "01时07分"
         },
         {
-          "title": "算力租赁商Nebius和CoreWeave盘前跌超9%，此前报道称，Meta筹划进军云计算市场，以出售富余的AI算力资源。",
-          "url": "https://wallstreetcn.com/livenews/3127442",
+          "title": "Guggenheim称AI并非该行业的“丧钟”",
+          "url": "https://wallstreetcn.com/livenews/3127515",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
-          "url": "https://wallstreetcn.com/livenews/3126879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "01时07分"
+        },
+        {
+          "title": "Uber震动AI数据标注业务，解雇两位高层主管",
+          "url": "https://wallstreetcn.com/livenews/3127510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 11时41分]"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 22时09分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 16时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时41分]"
-        },
-        {
-          "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
-          "url": "https://flash.jin10.com/detail/20260701072937445800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "城堡证券称散户以创纪录速度抄底美股，6月有望成为交易最活跃月份",
-          "url": "https://wallstreetcn.com/livenews/3126910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 19时52分]"
-        },
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
           "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
+          "url": "https://wallstreetcn.com/livenews/3127538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时07分"
         },
         {
-          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
-          "url": "https://wallstreetcn.com/livenews/3126991",
-          "source": "华尔街见闻-快讯",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
-          "url": "https://wallstreetcn.com/livenews/3126980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时10分]"
-        },
-        {
-          "title": "大摩警告：美股半导体或迎顶点",
-          "url": "https://www.douyin.com/hot/2553354",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "耐克第四财季营收109.7亿美元，同比下滑1.1%。 第四财季总体耐克品牌营收107.2亿美元，同比下滑0.4%。 第四财季大中华区EBIT为2.43亿美元，同比下降20%。 第四财季毛利润率49.2%，上年同期40.3%。 第四财季每股收益（EPS）为0.72美元，上年同期0.14美元。 耐克美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3126979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时10分]"
-        },
-        {
-          "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3126976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时10分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3126975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 06时10分]"
-        },
-        {
-          "title": "美股盘前三大股指期货下跌",
-          "url": "https://www.douyin.com/hot/2554626",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美股狂飙黄金暴跌为何会这样",
-          "url": "https://www.toutiao.com/trending/7657495000493592070/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
-          "url": "https://flash.jin10.com/detail/20260701041044172800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "美股三大股指集体低开，道指跌0.2%，标普500指数跌0.3%，纳指跌0.6%。Meta股票开盘上涨7.9%，创4月8日以来最大涨幅；闪迪股价下跌8.6%；美光科技开盘下跌7%。",
-          "url": "https://wallstreetcn.com/livenews/3127454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260701040909066800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "金十图示：2026年06月30日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260701040908086800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "01时07分"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "美股上半年收官：纳指累涨近13% 七巨头走势分化",
-          "url": "https://flash.jin10.com/detail/20260701040547590800",
-          "source": "金十数据",
-          "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 闪迪涨超10%",
-          "url": "https://flash.jin10.com/detail/20260701040044702800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
-          "url": "https://flash.jin10.com/detail/20260701044747249800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3127439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：美国最高法院将审理苹果(AAPL.O)针对Epic应用商店费用的上诉。",
-          "url": "https://flash.jin10.com/detail/20260701000119871800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "苹果公司：很高兴最高法院将审理我们的案件。",
-          "url": "https://wallstreetcn.com/livenews/3126935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
-          "url": "https://flash.jin10.com/detail/20260701065240508800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "苹果(AAPL.O)：Apple Creator Studio现已作为通用购买项目在App Store上架，可供下载。",
-          "url": "https://flash.jin10.com/detail/20260701010331075800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "苹果(AAPL.O)：Apple Creator Studio更新即日起向现有订阅用户免费提供；新订阅用户价格为每月12.99美元或每年129美元。",
-          "url": "https://flash.jin10.com/detail/20260701010304970800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "苹果(AAPL.O)：用户可以打开并自定义置于Keynote、Pages或Numbers中的任何图像，甚至可以将Final Cut Pro中的关键帧直接发送至Pixelmator Pro。",
-          "url": "https://flash.jin10.com/detail/20260701010243177800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "苹果(AAPL.O)：推出了Apple Creator Studio的更新。",
-          "url": "https://flash.jin10.com/detail/20260701010219316800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "美最高法院将审理苹果公司上诉，涉其与Epic Games应用商店收费纠纷",
-          "url": "https://wallstreetcn.com/livenews/3126917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Microsoft 微软",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "微软计划进行新一轮裁员，将影响到数千个岗位",
-          "url": "https://flash.jin10.com/detail/20260701071932051800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据Business Insider：微软(MSFT.O)的裁员将少于其员工总数的2.5%。",
-          "url": "https://flash.jin10.com/detail/20260701071259579800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据Business Insider：微软(MSFT.O)计划下周宣布裁员消息。",
-          "url": "https://flash.jin10.com/detail/20260701071253028800",
-          "source": "金十数据",
+          "title": "苹果全力追查泄露信息人员",
+          "url": "https://www.douyin.com/hot/2554426",
+          "source": "抖音",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "01时07分"
         },
         {
-          "title": "市场消息：微软(MSFT.O)计划进行新一轮裁员，影响数千个岗位。",
-          "url": "https://flash.jin10.com/detail/20260701071026723800",
+          "title": "市场消息：俄罗斯反垄断监管机构已对苹果(AAPL.O)发出警告。",
+          "url": "https://flash.jin10.com/detail/20260702003404251800",
           "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "Anthropic：将尽快在AWS、谷歌云和微软Foundry上重新启用Fable 5访问。",
-          "url": "https://flash.jin10.com/detail/20260701111504167800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "高盛警告：三星+SK海力士权重再升1%，外资将撤出20亿美元",
-          "url": "https://wallstreetcn.com/articles/3775840",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时51分 ~ 11时41分]"
-        },
-        {
-          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
-          "url": "https://wallstreetcn.com/articles/3775950",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时51分 ~ 22时09分]"
-        },
-        {
-          "title": "芯片设备类股走强，受三星和SK海力士宣布投资计划提振",
-          "url": "https://wallstreetcn.com/livenews/3126920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "01时07分"
         }
       ]
     },
@@ -1108,28 +206,28 @@
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            15
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "01时07分"
         }
       ]
     },
     {
-      "keyword_group": "虚拟货币 比特币 以太坊 ETH BTC bitcoin",
+      "keyword_group": "SAMSUNG 三星",
       "match_count": 1,
       "titles": [
         {
-          "title": "加密货币市场二季度普跌，比特币已累跌超14%，以太币累跌超25%",
-          "url": "https://wallstreetcn.com/livenews/3126930",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
+          "url": "https://wallstreetcn.com/articles/3775950",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "01时07分"
         }
       ]
     }
