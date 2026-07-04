@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-07-05T06:48:51.141039+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-07-05T07:54:22.199796+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时48分]"
-        },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时54分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -38,8 +39,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时54分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -68,7 +80,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "加码玻璃基板！三星电机、住友化工合资公司落地 预计2027年下半年投产",
@@ -79,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时54分]"
         },
         {
           "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
@@ -90,8 +102,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时54分]"
+        },
+        {
+          "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
@@ -104,11 +127,12 @@
           "url": "https://wallstreetcn.com/articles/3776188",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时54分]"
         }
       ]
     },
@@ -122,11 +146,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时54分]"
         }
       ]
     }
