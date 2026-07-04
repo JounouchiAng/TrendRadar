@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T17:14:52.255605+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-04T19:19:03.138587+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时14分 ~ 07时58分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 19时19分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 06时57分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 17时14分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -312,6 +313,17 @@
           "time_info": "[10时33分 ~ 10时34分]"
         },
         {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
           "url": "https://flash.jin10.com/detail/20260704084017236800",
           "source": "金十数据",
@@ -362,7 +374,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -396,6 +408,18 @@
           "time_info": "[01时14分 ~ 14时11分]"
         },
         {
+          "title": "加码玻璃基板！三星电机、住友化工合资公司落地 预计2027年下半年投产",
+          "url": "https://www.cls.cn/detail/2417094",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时19分]"
+        },
+        {
           "title": "报道：三星电子第三季度DRAM价格将上调至多20%",
           "url": "https://wallstreetcn.com/articles/3776132",
           "source": "华尔街见闻",
@@ -406,6 +430,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时58分 ~ 10时34分]"
+        },
+        {
+          "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+          "url": "https://www.cls.cn/detail/2417050",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时19分]"
         },
         {
           "title": "三星电子开启Q3价格谈判 力求通用DRAM环比涨价20%",
@@ -430,17 +466,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "加码玻璃基板！三星电机、住友化工合资公司落地 预计2027年下半年投产",
-          "url": "https://www.cls.cn/detail/2417094",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
           "title": "三星谈合作、SK海力士扩产、铠侠NAND送样，日韩股市用V型反弹回应算力过剩恐慌",
           "url": "https://wallstreetcn.com/articles/3776145",
           "source": "华尔街见闻",
@@ -450,18 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
-        },
-        {
-          "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
-          "url": "https://www.cls.cn/detail/2417050",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 17时14分]"
         },
         {
           "title": "三星第三季DRAM拟提价20%，厂家称已接口头通知",
@@ -510,11 +523,12 @@
           "url": "https://wallstreetcn.com/articles/3776174",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 19时19分]"
         },
         {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
@@ -523,7 +537,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         }
@@ -538,11 +552,12 @@
           "url": "https://www.zhihu.com/question/2055966649900183829",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时19分]"
         },
         {
           "title": "印度政府：正调查苹果手机信息泄露事件",
