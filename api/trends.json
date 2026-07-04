@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T03:02:01.607916+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-05T04:10:55.528705+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时10分]"
         },
         {
           "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
@@ -77,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时10分]"
         }
       ]
     },
@@ -94,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时10分]"
         }
       ]
     }
