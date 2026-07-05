@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:57:24.095772+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-07-06T03:05:44.065839+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -51,30 +51,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2417353",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -84,8 +86,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         }
       ]
     },
@@ -101,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -112,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         }
       ]
     },
@@ -127,11 +129,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         },
         {
           "title": "印度再坑苹果,机密惨遭开源",
@@ -142,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         }
       ]
     },
@@ -159,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时05分]"
         }
       ]
     }
