@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:54:22.199796+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-07-05T10:07:01.559200+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时07分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -36,22 +36,24 @@
           "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时07分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
           "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时07分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时57分]"
+        },
+        {
+          "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+          "url": "https://flash.jin10.com/detail/20260705082204108800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -91,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时07分]"
         },
         {
           "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
@@ -102,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时07分]"
         },
         {
           "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
@@ -112,7 +125,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
@@ -120,7 +133,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -133,12 +146,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 07时54分]"
+        },
+        {
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
@@ -147,11 +171,23 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时07分]"
+        },
+        {
+          "title": "iPhone18Pro配苹果史上最大电池",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E9%85%8D%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     }
