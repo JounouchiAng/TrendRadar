@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T06:02:13.315833+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-07-09T07:12:13.295234+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -62,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -73,8 +74,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
+          "url": "https://flash.jin10.com/detail/20260709070516668800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
@@ -193,7 +205,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -215,7 +227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -223,7 +235,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -231,11 +243,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -248,6 +261,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 06时02分]"
+        },
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
@@ -296,6 +320,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "报道：SK海力士美股上市获超7倍超额认购，预计募资约245亿美元",
+          "url": "https://wallstreetcn.com/livenews/3130914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "金十图示：2026年07月08日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260709040711965800",
           "source": "金十数据",
@@ -340,11 +375,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
@@ -353,11 +389,12 @@
           "ranks": [
             19,
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "印度开源,华强北抢发苹果18",
@@ -367,8 +404,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
@@ -393,11 +430,12 @@
           "url": "https://wallstreetcn.com/articles/3776355",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         },
         {
           "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
@@ -408,8 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时12分]"
         }
       ]
     }
