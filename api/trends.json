@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T03:09:06.621549+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-07-09T04:58:00.016251+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -37,8 +37,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -74,16 +87,15 @@
           "time_info": "01时20分"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
+          "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
+          "url": "https://flash.jin10.com/detail/20260709041822379800",
+          "source": "金十数据",
           "ranks": [
-            13,
             10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -93,8 +105,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -104,19 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
-        },
-        {
-          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
-          "url": "https://wallstreetcn.com/livenews/3130843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
@@ -126,8 +127,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
+          "url": "https://wallstreetcn.com/livenews/3130843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时09分"
         },
         {
           "title": "xAI：Grok 4.5目前尚未在欧盟上线，未接入SpaceX旗下任何xAI产品，也未开放至API控制台；预计7月中旬在欧盟推出可用服务。",
@@ -136,7 +148,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -158,7 +170,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -187,81 +199,65 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
-          "url": "https://www.cls.cn/detail/2420933",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
-        },
-        {
-          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
-          "url": "https://www.zhihu.com/question/2055448788882437948",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
-        },
-        {
-          "title": "印度开源,华强北抢发苹果18",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
-        },
-        {
-          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
-          "url": "https://www.cls.cn/detail/2420824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2420785",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
+          "url": "https://wallstreetcn.com/livenews/3130885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。 科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3130880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
+          "url": "https://wallstreetcn.com/livenews/3130877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -273,6 +269,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260709040711965800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260709040709587800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
+          "url": "https://flash.jin10.com/detail/20260709040053032800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "独家|苹果折叠机预计不会出现量产延期 液态金属铰链或将“爽约”第一代产品",
+          "url": "https://www.cls.cn/detail/2420933",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "苹果追查 iPhone18Pro 泄密人员并下架爆料内容，此次事件暴露出苹果对产品信息管控的哪些问题？",
+          "url": "https://www.zhihu.com/question/2055448788882437948",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "印度开源,华强北抢发苹果18",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355989&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%BC%80%E6%BA%90%2C%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8A%A2%E5%8F%91%E8%8B%B9%E6%9E%9C18",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时08分 ~ 04时57分]"
         }
       ]
     },
@@ -288,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         },
         {
           "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
@@ -300,8 +383,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时57分]"
         }
       ]
     }
