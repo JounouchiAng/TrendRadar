@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:41:08.334505+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-07-12T06:39:06.468315+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -63,30 +63,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时39分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时39分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -114,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -126,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -138,19 +140,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 05时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时39分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时39分]"
         }
       ]
     }
