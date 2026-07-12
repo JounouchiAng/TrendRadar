@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T20:57:49.750859+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-07-12T22:24:50.750127+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 20时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时24分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 20时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时24分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -83,37 +83,26 @@
           "time_info": "[09时49分 ~ 17时53分]"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 07时44分]"
-        },
-        {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时24分]"
         },
         {
-          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
-          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            5,
-            12
+            1,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -128,8 +117,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 22时24分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时44分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
@@ -282,8 +294,20 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
+          "url": "https://wallstreetcn.com/articles/3776716",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时24分]"
+        },
         {
           "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
           "url": "https://wallstreetcn.com/articles/3776715",
@@ -310,15 +334,32 @@
           "time_info": "[13时18分 ~ 19时05分]"
         },
         {
-          "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
-          "url": "https://wallstreetcn.com/articles/3776716",
-          "source": "华尔街见闻",
+          "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
+          "url": "https://www.cls.cn/detail/2423747",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "VIVO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "vivo印度制造板块被迫交出控股权",
+          "url": "https://www.toutiao.com/trending/7661572037453811226/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
