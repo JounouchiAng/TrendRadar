@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:24:50.750127+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-07-12T23:51:39.862044+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 23时51分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 23时51分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -70,6 +70,20 @@
           "time_info": "[00时43分 ~ 07时44分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 23时51分]"
+        },
+        {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
@@ -81,20 +95,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时49分 ~ 17时53分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时24分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -117,8 +117,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时51分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时51分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -131,17 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时44分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
@@ -305,8 +305,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时51分]"
         },
         {
           "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
@@ -338,11 +338,12 @@
           "url": "https://www.cls.cn/detail/2423747",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时51分]"
         }
       ]
     },
@@ -357,7 +358,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
