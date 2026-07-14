@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:48:33.238010+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-07-15T07:43:33.120205+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
@@ -39,8 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -49,11 +50,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -64,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -75,11 +77,12 @@
             8,
             10,
             13,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -87,11 +90,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "UP主解读AI浪潮下的资本周期",
@@ -101,11 +105,12 @@
             22,
             8,
             10,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时43分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -176,6 +181,17 @@
           "time_info": "[04时51分 ~ 05时48分]"
         },
         {
+          "title": "白宫启动网络安全“金鹰”AI倡议，优先应对网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3133922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
           "url": "https://wallstreetcn.com/livenews/3133872",
           "source": "华尔街见闻-快讯",
@@ -186,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时48分]"
+        },
+        {
+          "title": "白宫启动网络安全“金鹰”AI倡议",
+          "url": "https://flash.jin10.com/detail/20260715065824346800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
@@ -279,6 +306,39 @@
           "time_info": "05时48分"
         },
         {
+          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3133917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://flash.jin10.com/detail/20260715064114258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "为什么目前 AI 得设备是用 mac 为主，而不是熟知的 Windows？",
+          "url": "https://www.zhihu.com/question/2059660303915397288",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
           "url": "https://wallstreetcn.com/livenews/3133848",
           "source": "华尔街见闻-快讯",
@@ -326,7 +386,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -368,11 +428,23 @@
           "url": "https://www.cls.cn/detail/2426541",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时43分]"
+        },
+        {
+          "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "07时43分"
         },
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -444,6 +516,17 @@
           "time_info": "[05时48分 ~ 06时48分]"
         },
         {
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 海力士涨超27%",
           "url": "https://flash.jin10.com/detail/20260715040252856800",
           "source": "金十数据",
@@ -453,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "SK海力士美股暴涨超27%",
+          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8527%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "华尔街大行拉开美股财报季序幕之际，高盛初步收涨9%，大摩涨3.1%，美银涨3.1%，富国银行跌2.4%，花旗跌4.8%。 标普500指数初步收涨0.4%，科技板块涨1.3%，电信板块涨1%，金融板块涨0.2%，保健板块跌1.8%。 纳斯达克100指数初步收涨1.1%，成分股中，CrowdStrike初步收涨11.8%，派拓网络涨6.8%，Lumentum涨6.3%，Strategy涨5.9%，美光涨5%，闪迪涨4.7%，英伟达涨4%，高通跌3.3%，CoreWeave跌4.2%，ISRG跌7%，Nebius集团跌7.5%。 费城半导体指数涨2.6%，存储芯片指数涨3.7%。",
