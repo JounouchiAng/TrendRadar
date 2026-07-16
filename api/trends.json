@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:45:56.134797+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-07-16T12:52:58.509490+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 32,
+      "match_count": 43,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 12时52分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -53,11 +53,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 12时52分]"
         },
         {
           "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
@@ -69,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 09时45分]"
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 12时52分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -101,6 +102,18 @@
           "time_info": "[01时06分 ~ 06时50分]"
         },
         {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时52分]"
+        },
+        {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3134533",
           "source": "华尔街见闻-快讯",
@@ -112,15 +125,50 @@
           "time_info": "01时06分"
         },
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
           "ranks": [
+            12,
+            6,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 12时52分]"
+        },
+        {
+          "title": "全球人工智能 进入“上海时间”",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "12时52分"
+        },
+        {
+          "title": "苹果、三星通过人工智能服务备案，知情人士：百度均系AI合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3134805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时52分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -145,15 +193,17 @@
           "time_info": "02时56分"
         },
         {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
-          "source": "凤凰网",
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            18,
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 12时52分]"
         },
         {
           "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
@@ -191,28 +241,26 @@
           "time_info": "05时49分"
         },
         {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
+          "title": "英伟达(NVDA.O)CEO黄仁勋：凭借人工智能，日本将定义其下一个时代。",
+          "url": "https://flash.jin10.com/detail/20260716122405222800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            6
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 09时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
           "ranks": [
-            18,
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 09时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
@@ -273,6 +321,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：物理AI是下一场工业革命，而且可将在日本制造。",
+          "url": "https://flash.jin10.com/detail/20260716122337410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "SpaceXAI宣布开源Grok Build",
           "url": "https://flash.jin10.com/detail/20260716071515031800",
           "source": "金十数据",
@@ -282,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
+          "url": "https://flash.jin10.com/detail/20260716121739470800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -317,6 +387,39 @@
           "time_info": "01时06分"
         },
         {
+          "title": "第一批用AI的受害者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "富士通：已开始与发那科、安川电机及川崎重工探索物理AI领域的机遇。",
+          "url": "https://flash.jin10.com/detail/20260716121422556800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
           "url": "https://flash.jin10.com/detail/20260716070324992800",
           "source": "金十数据",
@@ -326,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "黄仁勋出席东京芯片供应商晚宴 强化AI供应链合作",
+          "url": "https://flash.jin10.com/detail/20260716121319416800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
@@ -345,7 +459,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -378,9 +492,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3134769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -408,11 +533,12 @@
             9,
             7,
             4,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 12时52分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -433,11 +559,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 09时45分]"
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 12时52分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -493,9 +620,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 12时52分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -681,7 +808,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
@@ -721,6 +848,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "库克发文欢迎泡泡玛特创始人王宁到访苹果总部",
+          "url": "https://flash.jin10.com/detail/20260716121958572800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "SAMSUNG 三星",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     }
