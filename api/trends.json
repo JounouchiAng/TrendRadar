@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:02:30.783028+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-19T17:53:29.873379+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 17时53分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -154,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时59分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[03时59分 ~ 17时53分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -179,8 +179,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 17时53分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -304,6 +304,17 @@
           "time_info": "[13时12分 ~ 13时13分]"
         },
         {
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时53分]"
+        },
+        {
           "title": "AI赋能先进核能凝练八大共识",
           "url": "https://www.toutiao.com/trending/7663872937329430062/",
           "source": "今日头条",
@@ -348,17 +359,6 @@
           "time_info": "09时47分"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "知乎Tech Club新知科技大会落地WAIC 2026",
           "url": "https://wallstreetcn.com/livenews/3136111",
           "source": "华尔街见闻-快讯",
@@ -387,7 +387,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -415,6 +415,18 @@
           "time_info": "09时47分"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 17时53分]"
+        },
+        {
           "title": "“真干活机器人”在WAIC走红",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%9F%E5%B9%B2%E6%B4%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E5%9C%A8WAIC%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
@@ -439,6 +451,17 @@
           "time_info": "[01时48分 ~ 05时42分]"
         },
         {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "WAIC AI会客厅回顾",
           "url": "https://search.bilibili.com/all?keyword=WAIC%20AI%E4%BC%9A%E5%AE%A2%E5%8E%85%E5%9B%9E%E9%A1%BE",
           "source": "bilibili 热搜",
@@ -448,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "世界两大AI组织都是狠角色",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
@@ -489,21 +501,33 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时53分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时53分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -563,6 +587,17 @@
           "time_info": "[00时44分 ~ 00时45分]"
         },
         {
+          "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
+          "url": "https://www.zhihu.com/question/2060398351212700649",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时53分]"
+        },
+        {
           "title": "美国Inkling模型借鉴中国AI技术",
           "url": "https://www.toutiao.com/trending/7664054078292364819/",
           "source": "今日头条",
@@ -580,18 +615,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -602,7 +626,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -613,18 +637,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "参加 2026 世界人工智能大会 (WAIC) 是一种怎样的体验？",
-          "url": "https://www.zhihu.com/question/2060398351212700649",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -635,7 +648,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -651,13 +664,24 @@
           "time_info": "13时13分"
         },
         {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://flash.jin10.com/detail/20260719163808991800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "长三角人工智能协同投资平台共建签约",
           "url": "https://wallstreetcn.com/livenews/3136157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -690,9 +714,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://wallstreetcn.com/livenews/3136195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "长三角人工智能协同投资平台共建签约",
@@ -701,7 +736,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -712,7 +747,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -748,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "摩尔线程WAIC 2026披露三大“AI工厂”进展",
@@ -808,19 +854,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 17时53分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 17时53分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -829,7 +876,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
