@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:48:58.287610+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-21T09:47:18.695564+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时47分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时47分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -63,11 +63,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时47分]"
         },
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -98,11 +99,23 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时47分]"
+        },
+        {
+          "title": "WAIC预计达成超200亿元意向采购金额",
+          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时47分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -118,15 +131,26 @@
           "time_info": "[01时23分 ~ 07时48分]"
         },
         {
-          "title": "WAIC预计达成超200亿元意向采购金额",
-          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "09时47分"
+        },
+        {
+          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
+          "url": "https://www.cls.cn/detail/2432010",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -165,6 +189,17 @@
           "time_info": "[05时02分 ~ 06时47分]"
         },
         {
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时47分]"
+        },
+        {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
           "url": "https://www.zhihu.com/question/2061405940272960418",
           "source": "知乎",
@@ -174,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 01时24分]"
-        },
-        {
-          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
-          "url": "https://www.cls.cn/detail/2431826",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -223,8 +247,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时47分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -239,6 +263,29 @@
           "time_info": "[01时23分 ~ 05时02分]"
         },
         {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时47分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 09时47分]"
+        },
+        {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
@@ -250,26 +297,17 @@
           "time_info": "06时47分"
         },
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
           "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 09时47分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -281,18 +319,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 06时47分]"
-        },
-        {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时48分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -366,7 +392,7 @@
     },
     {
       "keyword_group": "SAMSUNG 三星",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "三星电子进军信用卡市场。 该公司推出“三星信用卡”（Samsung Galaxy Card）。 合作方为巴克莱美国消费者银行（Barclays US LLC.）。",
@@ -378,6 +404,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "韩国KOSPI指数日内涨3%，现报6712.53点。SK海力士涨4%，三星电子涨近6%。",
+          "url": "https://flash.jin10.com/detail/20260721093313092800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "韩国首尔综指涨超1%，此前一度跌超1%。三星电子上涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3137152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
