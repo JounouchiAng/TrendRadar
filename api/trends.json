@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T02:03:15.699769+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-23T04:07:45.200112+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -27,20 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -50,8 +38,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -62,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -74,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -85,8 +86,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
+        },
+        {
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -98,6 +111,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "OpenAI：将为参与研究的人员提供高达1000万美元的API使用额度，花费其250万美元经费。",
@@ -122,42 +160,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
-          "url": "https://www.cls.cn/detail/2434311",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
-        },
-        {
           "title": "前所未有的人工智能失控事故！中方救场",
           "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
           "source": "凤凰网",
@@ -165,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -176,14 +178,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -193,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -204,8 +217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
@@ -217,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
@@ -230,11 +254,12 @@
           "source": "微博",
           "ranks": [
             10,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时07分]"
         },
         {
           "title": "美国向韩国施压提议分享三星、 SK 海力士「超额利润」，这释放了哪些信号？",
@@ -260,7 +285,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
