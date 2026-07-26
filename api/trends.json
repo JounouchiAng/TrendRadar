@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T16:10:17.629081+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-07-26T18:31:33.910542+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -53,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 18时31分]"
         },
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -103,6 +104,20 @@
           "time_info": "[00时51分 ~ 07时53分]"
         },
         {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 18时31分]"
+        },
+        {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
@@ -113,19 +128,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 04时07分]"
-        },
-        {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 16时10分]"
         },
         {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
@@ -139,6 +141,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时44分 ~ 09时53分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时31分]"
         },
         {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
@@ -235,6 +249,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "如何看美国审查中国AI模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%9F%A5%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
@@ -270,17 +295,6 @@
           "time_info": "[04时07分 ~ 07时53分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
           "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
@@ -290,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 18时31分]"
         },
         {
           "title": "SK崔泰源：韩国需转型为“AI原生”国家",
@@ -303,15 +328,16 @@
           "time_info": "09时53分"
         },
         {
-          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
-          "url": "https://flash.jin10.com/detail/20260726154611236800",
-          "source": "金十数据",
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            25,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时31分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -326,22 +352,23 @@
           "time_info": "[07时52分 ~ 16时10分]"
         },
         {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时31分]"
+        },
+        {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
           "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时10分]"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -372,6 +399,17 @@
           "time_info": "[09时53分 ~ 13时23分]"
         },
         {
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -383,15 +421,15 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "严浩翔对AI写rap词的反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
           "ranks": [
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "AI坑惨手机圈",
@@ -463,7 +501,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -474,8 +512,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 18时31分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -502,15 +540,15 @@
           "time_info": "[00时51分 ~ 09时53分]"
         },
         {
-          "title": "受胡塞武装袭击石油设施影响，沙特阿美股价走低",
-          "url": "https://flash.jin10.com/detail/20260726160157941800",
-          "source": "金十数据",
+          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
+          "url": "https://wallstreetcn.com/articles/3777937",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -528,13 +566,25 @@
           "time_info": "[01时52分 ~ 05时45分]"
         },
         {
+          "title": "受胡塞武装袭击石油设施影响，沙特阿美股价走低",
+          "url": "https://flash.jin10.com/detail/20260726160157941800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时31分]"
+        },
+        {
           "title": "沙特阿美股价早盘下跌1%。",
           "url": "https://flash.jin10.com/detail/20260726150121535800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
@@ -554,8 +604,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 18时31分]"
         },
         {
           "title": "三星折叠屏国行售价公布，你认为这一价格值得入手吗？",
@@ -605,11 +655,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%95%E6%A0%BD%E5%9C%A8%E4%BA%86%E5%8D%B0%E5%BA%A6%E6%89%8B%E9%87%8C",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时31分]"
         }
       ]
     }
