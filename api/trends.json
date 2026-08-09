@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T17:31:28.221624+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-08-09T18:24:06.815709+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 18时24分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -70,22 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时31分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时24分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -98,11 +98,40 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时24分]"
+        },
+        {
+          "title": "首个全国产10万卡AI超集群投用",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 18时24分]"
+        },
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            6,
+            7,
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 18时24分]"
         },
         {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
@@ -163,33 +192,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时21分 ~ 07时19分]"
-        },
-        {
-          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3147043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            6,
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 17时31分]"
-        },
-        {
-          "title": "首个全国产10万卡AI超集群投用",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时31分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -386,8 +388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 17时31分]"
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 18时24分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -411,11 +413,12 @@
             1,
             2,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 18时24分]"
         },
         {
           "title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
@@ -423,11 +426,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -449,11 +453,12 @@
           "url": "https://flash.jin10.com/detail/20260809172135789800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时24分]"
         },
         {
           "title": "苹果回应“官网删除千问使用手册”",
@@ -484,30 +489,30 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 18时24分]"
+        },
+        {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时31分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时24分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -522,17 +527,19 @@
           "time_info": "[00时21分 ~ 07时19分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            2,
-            1
+            6,
+            7,
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 17时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 18时24分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -544,8 +551,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 18时24分]"
         }
       ]
     }
