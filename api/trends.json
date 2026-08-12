@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:09:35.431232+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-08-12T17:02:58.021612+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -135,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[06时50分 ~ 17时02分]"
         },
         {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
@@ -180,8 +180,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时02分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -189,11 +189,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 17时02分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 15时09分]"
+          "time_info": "[15时09分 ~ 17时02分]"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -231,15 +244,15 @@
           "time_info": "04时43分"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148530",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "17时02分"
         },
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
@@ -251,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
@@ -303,7 +327,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -344,6 +368,17 @@
           "time_info": "[09时07分 ~ 11时56分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 17时02分]"
+        },
+        {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
           "url": "https://wallstreetcn.com/livenews/3148181",
           "source": "华尔街见闻-快讯",
@@ -354,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时49分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 17时02分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -380,15 +426,15 @@
           "time_info": "[11时56分 ~ 15时09分]"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
+          "title": "事关AI支出激增影响！高盛：多头和空头都判断错了",
+          "url": "https://www.cls.cn/detail/2451842",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "17时02分"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
@@ -419,20 +465,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "17时02分"
         },
         {
           "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
@@ -457,6 +503,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "腾讯控股(00700.HK)：最近数周启动了微信内AI智能体小微的小范围灰度测试；小微由专注于用户隐私、微信场景和推理效率的定制化模型WeLM驱动。",
+          "url": "https://flash.jin10.com/detail/20260812163528219800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
           "url": "https://flash.jin10.com/detail/20260812005839889800",
           "source": "金十数据",
@@ -466,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "AI板块过热叠加能源通胀风险，押注能源股或是完美对冲选择 | 每日市场观察08.12",
+          "url": "https://flash.jin10.com/detail/20260812163445071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "SpaceXAI：推出Grok Bot聊天机器人。",
@@ -551,7 +619,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -589,6 +657,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "AI能否推动数学进入黄金年代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E6%95%B0%E5%AD%A6%E8%BF%9B%E5%85%A5%E9%BB%84%E9%87%91%E5%B9%B4%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "安徽一男子手搓AI行车记录仪走红",
           "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E4%B8%80%E7%94%B7%E5%AD%90%E6%89%8B%E6%90%93AI%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
@@ -603,7 +682,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -787,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
+          "url": "https://wallstreetcn.com/livenews/3148503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -805,8 +895,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 15时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 17时02分]"
         },
         {
           "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
@@ -867,7 +957,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果的买方霸权 第一次在中国失效",
@@ -905,6 +995,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "苹果商店现山寨版政务APP，官方回应：相关部门正协调处理",
+          "url": "https://wallstreetcn.com/livenews/3148493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Microsoft 微软",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：ZoomInfo数据现已集成至微软Copilot Studio，并可在Microsoft 365 Copilot、Dynamics 365、Excel和Word中使用。",
+          "url": "https://flash.jin10.com/detail/20260812002619183800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "消费电子业又被通知涨价：微软据称已提高Windows 11授权费用",
+          "url": "https://flash.jin10.com/detail/20260812165632627800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
@@ -922,23 +1051,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Microsoft 微软",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：ZoomInfo数据现已集成至微软Copilot Studio，并可在Microsoft 365 Copilot、Dynamics 365、Excel和Word中使用。",
-          "url": "https://flash.jin10.com/detail/20260812002619183800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
         }
       ]
     },
