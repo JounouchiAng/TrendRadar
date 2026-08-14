@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T15:10:33.204107+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-08-14T17:00:33.393385+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT OpenAI Claude",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 17时00分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 17时00分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -45,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 17时00分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -87,11 +88,24 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 17时00分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 17时00分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -106,18 +120,6 @@
           "time_info": "[00时45分 ~ 07时32分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 15时10分]"
-        },
-        {
           "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
           "url": "https://www.zhihu.com/question/2068993919958742400",
           "source": "知乎",
@@ -126,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 17时00分]"
         },
         {
           "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
@@ -161,6 +163,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -251,6 +275,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "受助AI相关电子产品需求旺盛 中国香港上修今年GDP增长预测",
+          "url": "https://flash.jin10.com/detail/20260814164729988800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时00分"
+        },
+        {
           "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
           "url": "https://wallstreetcn.com/articles/3779359",
           "source": "华尔街见闻",
@@ -284,6 +319,17 @@
           "time_info": "[11时56分 ~ 11时57分]"
         },
         {
+          "title": "券商晨会精华：AI产业链整体表现可能从基础层向模型层和应用层进行均衡",
+          "url": "https://www.cls.cn/detail/2454030",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
+        },
+        {
           "title": "OpenAI在不到一年内任命新首席营收官",
           "url": "https://wallstreetcn.com/livenews/3149247",
           "source": "华尔街见闻-快讯",
@@ -301,7 +347,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -323,7 +369,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -345,7 +391,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -356,7 +402,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -444,7 +490,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -466,7 +512,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -496,7 +542,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -589,6 +635,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时36分]"
+        },
+        {
+          "title": "美股恐慌指数骤降 华尔街开始警惕",
+          "url": "https://www.toutiao.com/trending/7673504531824512521/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
         },
         {
           "title": "美股存储股大涨 闪迪飙升近14%",
